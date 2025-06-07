@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "A3-220",
+  "name": "Gastly",
+  "localId": "220",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiani Astrali"
+  },
+  "rarity": "Un Chromatique",
+  "cardImage": "/assets/cardImage/it_IT/A3/A3-220_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-220_artwork.png",
+  "illustrator": "kurumitsu",
+  "hp": 50,
+  "types": [
+    "Psico"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore"
+      ],
+      "name": "Sgomento",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Lancia una moneta. Se esce testa, il tuo avversario mostra una carta a caso dalla sua mano e la rimischia nel suo mazzo."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Oscurità",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Avvolge le prede nel corpo gassoso\ne le indebolisce lentamente facendo\npenetrare il veleno nella loro pelle."
+}

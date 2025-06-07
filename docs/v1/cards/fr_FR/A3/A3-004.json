@@ -1,0 +1,46 @@
+{
+  "language": "fr_FR",
+  "id": "A3-004",
+  "name": "Maskadra",
+  "localId": "004",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Gardiens Astraux"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A3/A3-004_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-004_artwork.png",
+  "illustrator": "Kanako Eo",
+  "hp": 90,
+  "types": [
+    "Plante"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Plante"
+      ],
+      "name": "Bourdon",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feu",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [],
+  "description": "Il plane à l'aide de ses quatre ailes,\nqui lui permettent également de voler\nà sa guise dans toutes les directions."
+}

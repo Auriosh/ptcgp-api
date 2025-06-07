@@ -1,0 +1,52 @@
+{
+  "language": "pt_BR",
+  "id": "P-A-029",
+  "name": "Blastoise",
+  "localId": "029",
+  "category": "Pokemon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "None",
+  "cardImage": "/assets/cardImage/pt_BR/P-A/P-A-029_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-029_artwork.png",
+  "illustrator": "danciao",
+  "hp": 150,
+  "types": [
+    "Water"
+  ],
+  "stage": "Stage2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Water",
+        "Water",
+        "Colorless"
+      ],
+      "name": "Jato d'Água",
+      "damage": {
+        "value": 80,
+        "modifier": "+"
+      },
+      "effect": "Se este Pokémon tiver pelo menos 2 Energia {W} extra ligada a ele, este ataque causará 60 pontos de dano a mais."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Esmaga seus inimigos com seu corpo pesado\naté que desmaiem. Quando está em apuros,\nse esconde dentro do seu casco."
+}

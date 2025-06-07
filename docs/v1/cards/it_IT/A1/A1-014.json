@@ -1,0 +1,49 @@
+{
+  "language": "it_IT",
+  "id": "A1-014",
+  "name": "Paras",
+  "localId": "014",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Geni Supremi"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A1/A1-014_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-014_artwork.png",
+  "illustrator": "Naoyo Kimura",
+  "hp": 70,
+  "types": [
+    "Erba"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Erba",
+        "Incolore"
+      ],
+      "name": "Graffio",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fuoco",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "I funghi che crescono sul dorso di questo\nPokémon, chiamati tochukaso, controllano\nle sue azioni contro la sua volontà."
+}

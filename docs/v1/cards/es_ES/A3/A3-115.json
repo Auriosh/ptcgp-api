@@ -1,0 +1,49 @@
+{
+  "language": "es_ES",
+  "id": "A3-115",
+  "name": "Mareanie",
+  "localId": "115",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-115_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-115_artwork.png",
+  "illustrator": "Saya Tsuruta",
+  "hp": 70,
+  "types": [
+    "Oscura"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Oscura"
+      ],
+      "name": "Perforar",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lucha",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Vaga por las orillas en busca de sustento.\nSuele llevarse calambrazos al intentar comerse\nlas púas rotas de Pincurchin que encuentra."
+}

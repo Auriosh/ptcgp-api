@@ -1,0 +1,51 @@
+{
+  "language": "en_US",
+  "id": "A3-022",
+  "name": "Golisopod",
+  "localId": "022",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Celestial Guardians"
+  },
+  "rarity": "Three Diamond",
+  "cardImage": "/assets/cardImage/en_US/A3/A3-022_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-022_artwork.png",
+  "illustrator": "Kouki Saitou",
+  "hp": 120,
+  "types": [
+    "Grass"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Wimpod",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Grass",
+        "Grass",
+        "Grass"
+      ],
+      "name": "First Impression",
+      "damage": {
+        "value": 60,
+        "modifier": "+"
+      },
+      "effect": "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 60 more damage."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "It will do anything to win, taking advantage of every opening and finishing opponents off with the small claws on its front legs."
+}

@@ -1,0 +1,54 @@
+{
+  "language": "pt_BR",
+  "id": "A2-118",
+  "name": "Probopass",
+  "localId": "118",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Embate do Tempo e Espaço"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A2/A2-118_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-118_artwork.png",
+  "illustrator": "MAHOU",
+  "hp": 130,
+  "types": [
+    "Metal"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Metal",
+        "Metal",
+        "Metal",
+        "Colorless"
+      ],
+      "name": "Nariz Triplo",
+      "damage": {
+        "value": 30,
+        "modifier": "+"
+      },
+      "effect": "Jogue 3 moedas. Este ataque causa 50 pontos de dano a mais para cada cara."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Apesar de poder controlar suas unidades conhecidas\ncomo Mininarizes, elas às vezes se perdem\ne não retornam."
+}

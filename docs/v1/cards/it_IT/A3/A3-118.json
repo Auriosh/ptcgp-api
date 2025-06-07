@@ -1,0 +1,49 @@
+{
+  "language": "it_IT",
+  "id": "A3-118",
+  "name": "Dugtriodi Alola",
+  "localId": "118",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiani Astrali"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A3/A3-118_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-118_artwork.png",
+  "illustrator": "Yuka Morii",
+  "hp": 90,
+  "types": [
+    "Metallo"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Metallo",
+        "Metallo"
+      ],
+      "name": "Metaltestata",
+      "damage": {
+        "value": 70,
+        "modifier": "x"
+      },
+      "effect": "Lancia una moneta finché non esce croce. Questo attacco infligge 70 danni ogni volta che esce testa."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fuoco",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Oltre a proteggerlo come un casco, le sue meravigliose\nchiome metalliche fungono da sensori estremamente precisi."
+}

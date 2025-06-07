@@ -1,0 +1,51 @@
+{
+  "language": "fr_FR",
+  "id": "A2a-060",
+  "name": "DialgaForme Originelle",
+  "localId": "060",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Lumière Triomphale"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2a/A2a-060_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-060_artwork.png",
+  "illustrator": "akagi",
+  "hp": 120,
+  "types": [
+    "Métal"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Métal",
+        "Métal",
+        "Incolore"
+      ],
+      "name": "Compression Temporelle",
+      "damage": {
+        "value": 100,
+        "modifier": null
+      },
+      "effect": "Lancez une pièce. Si c'est pile, ce Pokémon ne peut pas attaquer pendant votre prochain tour."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feu",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "La lumière lui a donné cette forme semblable à celle du créateur\nde toutes choses. La force qu'il déploie est telle que je ne peux\nm'empêcher de penser qu'il est sous sa forme véritable."
+}

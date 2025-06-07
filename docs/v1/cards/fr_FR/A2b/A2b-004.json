@@ -1,0 +1,51 @@
+{
+  "language": "fr_FR",
+  "id": "A2b-004",
+  "name": "Scarabrute",
+  "localId": "004",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Réjouissances Rayonnantes"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2b/A2b-004_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-004_artwork.png",
+  "illustrator": "Satoshi Shirai",
+  "hp": 90,
+  "types": [
+    "Plante"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Plante",
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Charge Guillotine",
+      "damage": {
+        "value": 50,
+        "modifier": "+"
+      },
+      "effect": "Lancez une pièce jusqu'à ce que vous obteniez pile. Cette attaque inflige 40 dégâts supplémentaires pour chaque côté face."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feu",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Ses cornes déterminent son rang au sein\ndu groupe. Plus elles sont imposantes, plus\nles membres du sexe opposé l'apprécient."
+}

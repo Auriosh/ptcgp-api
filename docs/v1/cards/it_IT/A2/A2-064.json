@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "A2-064",
+  "name": "Togetic",
+  "localId": "064",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Scontro Spaziotemporale"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2/A2-064_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-064_artwork.png",
+  "illustrator": "Kanako Eo",
+  "hp": 80,
+  "types": [
+    "Psico"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psico"
+      ],
+      "name": "Vento di Fata",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metallo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Si dice che appaia alle persone buone\ne premurose, inondandole di felicità."
+}

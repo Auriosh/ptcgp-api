@@ -1,0 +1,48 @@
+{
+  "language": "de_DE",
+  "id": "A2-163",
+  "name": "Sheinux",
+  "localId": "163",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Kollision von Raum und Zeit"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/de_DE/A2/A2-163_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-163_artwork.png",
+  "illustrator": "Yuu Nishida",
+  "hp": 60,
+  "types": [
+    "Elektro"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Elektro"
+      ],
+      "name": "Verstecken",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Wirf 1 Münze. Verhindere bei Kopf während des nächsten Zuges deines Gegners allen Schaden durch und alle Effekte von Attacken, die diesem Pokémon zugefügt werden."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Kampf",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Mit jeder Bewegung erzeugt es durch das Strecken\nund Zusammenziehen seiner Muskeln Elektrizität.\nSteckt es in der Klemme, leuchtet es."
+}

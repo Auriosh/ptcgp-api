@@ -1,0 +1,49 @@
+{
+  "language": "es_ES",
+  "id": "A2a-024",
+  "name": "Phione",
+  "localId": "024",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Luz Triunfal"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2a/A2a-024_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-024_artwork.png",
+  "illustrator": "AKIRA EGAWA",
+  "hp": 60,
+  "types": [
+    "Agua"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Agua",
+        "Agua"
+      ],
+      "name": "Hidropulso",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": "El Pokémon Activo de tu rival pasa a estar Dormido."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Rayo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Si sube la temperatura del mar, infla el flotador\nde su cabeza y flota en grupo en la superficie."
+}

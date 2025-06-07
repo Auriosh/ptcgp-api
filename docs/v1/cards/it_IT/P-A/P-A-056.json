@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "P-A-056",
+  "name": "Ekans",
+  "localId": "056",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "Nessuna",
+  "cardImage": "/assets/cardImage/it_IT/P-A/P-A-056_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-056_artwork.png",
+  "illustrator": "Krgc",
+  "hp": 60,
+  "types": [
+    "Oscurità"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Oscurità"
+      ],
+      "name": "Velenospina",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Il Pokémon attivo del tuo avversario viene avvelenato."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lotta",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Può sganciare la mandibola per ingoiare\nintere prede più grosse di lui. Dopo il pasto,\nsi arrotola su se stesso per riposarsi."
+}

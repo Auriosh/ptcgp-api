@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "A3-221",
+  "name": "Haunter",
+  "localId": "221",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "One Shiny",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-221_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-221_artwork.png",
+  "illustrator": "kurumitsu",
+  "hp": 80,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psychic"
+      ],
+      "name": "Fogo Fátuo",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Darkness",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Gosta de se esconder no escuro e bater nos\nombros dos outros com sua mão gasosa.\nSeu toque causa arrepios que não acabam mais."
+}

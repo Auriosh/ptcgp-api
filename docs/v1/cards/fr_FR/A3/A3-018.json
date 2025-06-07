@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A3-018",
+  "name": "Croquine",
+  "localId": "018",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Gardiens Astraux"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A3/A3-018_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-018_artwork.png",
+  "illustrator": "Akira Komayama",
+  "hp": 50,
+  "types": [
+    "Plante"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Plante"
+      ],
+      "name": "Ruée",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feu",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Sa sueur est aussi sucrée qu'un jus de fruits.\nElle était donc très appréciée autrefois,\nquand les édulcorants étaient rares."
+}

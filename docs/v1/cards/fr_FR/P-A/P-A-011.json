@@ -1,0 +1,52 @@
+{
+  "language": "fr_FR",
+  "id": "P-A-011",
+  "name": "Leveinard",
+  "localId": "011",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "Sans Rareté",
+  "cardImage": "/assets/cardImage/fr_FR/P-A/P-A-011_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-011_artwork.png",
+  "illustrator": "sowsow",
+  "hp": 120,
+  "types": [
+    "Incolore"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore",
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Gifle Douce",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Combat",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Ce Pokémon très serviable distribue ses œufs hautement\nnutritifs aux êtres humains et aux Pokémon blessés."
+}

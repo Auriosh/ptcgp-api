@@ -1,0 +1,49 @@
+{
+  "language": "pt_BR",
+  "id": "A3-175",
+  "name": "Magearna",
+  "localId": "175",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "One Star",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-175_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-175_artwork.png",
+  "illustrator": "Kuroimori",
+  "hp": 90,
+  "types": [
+    "Metal"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Metal",
+        "Metal"
+      ],
+      "name": "Canhão Prateado",
+      "damage": {
+        "value": 40,
+        "modifier": "+"
+      },
+      "effect": "Se o Pokémon Ativo do seu oponente tiver uma Habilidade, este ataque causará 40 pontos de dano a mais."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Sincroniza sua consciência com os outros para entender\nseus sentimentos. Essa capacidade faz com que seja útil\npara cuidar de pessoas."
+}

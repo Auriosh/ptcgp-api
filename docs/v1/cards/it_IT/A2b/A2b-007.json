@@ -1,0 +1,49 @@
+{
+  "language": "it_IT",
+  "id": "A2b-007",
+  "name": "Meowscarada",
+  "localId": "007",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Tripudio Splendente"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2b/A2b-007_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-007_artwork.png",
+  "illustrator": "mashu",
+  "hp": 140,
+  "types": [
+    "Erba"
+  ],
+  "stage": "Livello 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Erba",
+        "Erba"
+      ],
+      "name": "Lottartigli",
+      "damage": {
+        "value": 60,
+        "modifier": "+"
+      },
+      "effect": "Se il Pokémon attivo del tuo avversario è un Pokémon-{ex}, questo attacco infligge 70 danni in più."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fuoco",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "I riflessi del pelo all'interno del mantello\ncamuffano lo stelo del suo fiore, che\ncosì sembra fluttuare nell'aria."
+}

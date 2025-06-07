@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A1-205",
+  "name": "Ditto",
+  "localId": "205",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Genes Formidables"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A1/A1-205_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-205_artwork.png",
+  "illustrator": "Miki Tanaka",
+  "hp": 70,
+  "types": [
+    "Incolora"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolora"
+      ],
+      "name": "Copietear",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Elige 1 de los ataques de los Pokémon de tu rival y úsalo para este ataque. Si este Pokémon no tiene la Energía necesaria para usar ese ataque, este ataque no hace nada."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lucha",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Su habilidad para transformarse es perfecta,\npero, si se le hace reír, perderá la fuerza\ny no podrá mantenerse transformado."
+}

@@ -1,0 +1,54 @@
+{
+  "language": "es_ES",
+  "id": "A2b-021",
+  "name": "Tatsugiri",
+  "localId": "021",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Festival Brillante"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2b/A2b-021_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-021_artwork.png",
+  "illustrator": "Tomowaka",
+  "hp": 70,
+  "types": [
+    "Agua"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Habilidad",
+      "name": "Orden de Retirada",
+      "effect": "Tu Dondozo Activo no tiene ningún Coste de Retirada."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Agua"
+      ],
+      "name": "Golpe de Lluvia",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Rayo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Pokémon dragón de pequeño tamaño. Vive en la boca de un\nDondozo para protegerse de los ataques de los depredadores."
+}

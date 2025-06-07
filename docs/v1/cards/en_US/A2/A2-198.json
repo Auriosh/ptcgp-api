@@ -1,0 +1,51 @@
+{
+  "language": "en_US",
+  "id": "A2-198",
+  "name": "Pachirisu ex",
+  "localId": "198",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Space-Time Smackdown"
+  },
+  "rarity": "Two Star",
+  "cardImage": "/assets/cardImage/en_US/A2/A2-198_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-198_artwork.png",
+  "illustrator": "Nurikabe",
+  "hp": 120,
+  "types": [
+    "Lightning"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lightning",
+        "Lightning"
+      ],
+      "name": "Sparking Gadget",
+      "damage": {
+        "value": 40,
+        "modifier": "+"
+      },
+      "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 40 more damage."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": ""
+}

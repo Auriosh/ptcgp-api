@@ -1,0 +1,48 @@
+{
+  "language": "de_DE",
+  "id": "A1a-057",
+  "name": "Taubsi",
+  "localId": "057",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "Mysteriöse Insel"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A1a/A1a-057_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-057_artwork.png",
+  "illustrator": "Shigenori Negishi",
+  "hp": 50,
+  "types": [
+    "Farblos"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Farblos"
+      ],
+      "name": "Flattern",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Elektro",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Ein vorwiegend in Wäldern lebendes Pokémon,\ndas zur Verteidigung mit den Flügeln Sand aufwirbelt."
+}

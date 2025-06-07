@@ -1,0 +1,43 @@
+{
+  "language": "es_ES",
+  "id": "A3-125",
+  "name": "Jangmo-o",
+  "localId": "125",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-125_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-125_artwork.png",
+  "illustrator": "Naoki Saito",
+  "hp": 60,
+  "types": [
+    "Dragón"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolora"
+      ],
+      "name": "Golpe Cabeza",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Aprende a luchar haciendo chocar la escama de\nsu cabeza con la de sus congéneres. Así fortalece\ntanto la mente como sus movimientos."
+}

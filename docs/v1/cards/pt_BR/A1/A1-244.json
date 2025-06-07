@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "A1-244",
+  "name": "Dragonite",
+  "localId": "244",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1",
+    "name": "Dominação Genética"
+  },
+  "rarity": "One Star",
+  "cardImage": "/assets/cardImage/pt_BR/A1/A1-244_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-244_artwork.png",
+  "illustrator": "Gemi",
+  "hp": 160,
+  "types": [
+    "Dragon"
+  ],
+  "stage": "Stage2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Water",
+        "Lightning",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Meteoro do Dragão",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "4 vezes, um Pokémon do oponente é escolhido aleatoriamente. Para cada vez que um Pokémon for escolhido, cause 50 pontos de dano a ele."
+    }
+  ],
+  "weaknesses": [],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Acredita-se que em algum lugar no oceano\né possível encontrar uma ilha onde estes\nPokémon se reúnem. Só eles moram lá."
+}

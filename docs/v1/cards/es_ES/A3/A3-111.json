@@ -1,0 +1,54 @@
+{
+  "language": "es_ES",
+  "id": "A3-111",
+  "name": "Mukde Alola ex",
+  "localId": "111",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "Quatre Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-111_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-111_artwork.png",
+  "illustrator": "PLANETA CG Works",
+  "hp": 160,
+  "types": [
+    "Oscura"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Oscura",
+        "Oscura",
+        "Incolora"
+      ],
+      "name": "Pánico Químico",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": "Se elige 1 Condición Especial aleatoria de entre Dormido, Quemado, Confundido, Paralizado y Envenenado. El Pokémon Activo de tu rival pasa a estar afectado por esa Condición Especial. No se elegirá ninguna Condición Especial que ya esté afectando a ese Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lucha",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": ""
+}

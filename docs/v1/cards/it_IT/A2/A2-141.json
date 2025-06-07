@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "A2-141",
+  "name": "Chatot",
+  "localId": "141",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Scontro Spaziotemporale"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2/A2-141_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-141_artwork.png",
+  "illustrator": "HYOGONOSUKE",
+  "hp": 70,
+  "types": [
+    "Incolore"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore"
+      ],
+      "name": "Furia",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": "Lancia 3 volte una moneta. Questo attacco infligge 20 danni ogni volta che esce testa."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lampo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Imita la voce dei nemici per far credere che\nè dei loro, evitando così di essere assalito."
+}

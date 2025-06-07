@@ -1,0 +1,49 @@
+{
+  "language": "pt_BR",
+  "id": "A2a-029",
+  "name": "Clefairy",
+  "localId": "029",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2a",
+    "name": "Luz Triunfante"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A2a/A2a-029_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-029_artwork.png",
+  "illustrator": "rika",
+  "hp": 60,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psychic",
+        "Colorless"
+      ],
+      "name": "Estalo",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metal",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Acredita-se que a felicidade virá para aqueles\nque virem um grupo de Clefairy dançando sob\na lua cheia."
+}

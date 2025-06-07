@@ -1,0 +1,49 @@
+{
+  "language": "fr_FR",
+  "id": "A2-101",
+  "name": "Grahyèna",
+  "localId": "101",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Choc Spatio-Temporel"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2/A2-101_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-101_artwork.png",
+  "illustrator": "Kouki Saitou",
+  "hp": 90,
+  "types": [
+    "Obscurité"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Obscurité",
+        "Incolore"
+      ],
+      "name": "Croc Obscur",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Plante",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il obéit toujours aux ordres de son Dresseur\nsi celui-ci est très doué. Son comportement\nvient de l'époque reculée où il vivait en meute."
+}

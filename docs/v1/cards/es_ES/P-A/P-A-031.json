@@ -1,0 +1,50 @@
+{
+  "language": "es_ES",
+  "id": "P-A-031",
+  "name": "Cinccino",
+  "localId": "031",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "Ninguno",
+  "cardImage": "/assets/cardImage/es_ES/P-A/P-A-031_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-031_artwork.png",
+  "illustrator": "MAHOU",
+  "hp": 90,
+  "types": [
+    "Incolora"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolora",
+        "Incolora",
+        "Incolora"
+      ],
+      "name": "Hacer la Ola",
+      "damage": {
+        "value": 30,
+        "modifier": "x"
+      },
+      "effect": "Este ataque hace 30 puntos de daño por cada uno de tus Pokémon en Banca."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lucha",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Es tan sumamente pulcro que no puede ver\nni una mota de polvo. La grasa que exuda\npor el cuerpo le sirve de película protectora."
+}

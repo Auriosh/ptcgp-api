@@ -1,0 +1,57 @@
+{
+  "language": "it_IT",
+  "id": "A2-072",
+  "name": "Dusknoir",
+  "localId": "072",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Scontro Spaziotemporale"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2/A2-072_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-072_artwork.png",
+  "illustrator": "Suwama Chiaki",
+  "hp": 130,
+  "types": [
+    "Psico"
+  ],
+  "stage": "Livello 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Vuotoscuro",
+      "effect": "Durante il tuo turno, puoi scegliere uno dei tuoi Pokémon danneggiati e spostare tutti i suoi danni su questo Pokémon tutte le volte che vuoi."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Psico",
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Divoranima",
+      "damage": {
+        "value": 70,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Oscurità",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Non si sa se abbia una volontà propria.\nSegue le onde che provengono dal mondo\ndegli spiriti e vi conduce persone e Pokémon."
+}

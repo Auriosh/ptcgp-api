@@ -1,0 +1,50 @@
+{
+  "language": "pt_BR",
+  "id": "A2b-100",
+  "name": "Charmeleon",
+  "localId": "100",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2b",
+    "name": "Festival Brilhante"
+  },
+  "rarity": "One Shiny",
+  "cardImage": "/assets/cardImage/pt_BR/A2b/A2b-100_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-100_artwork.png",
+  "illustrator": "Souichirou Gunjima",
+  "hp": 90,
+  "types": [
+    "Fire"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fire",
+        "Fire"
+      ],
+      "name": "Combustão",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Water",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Possui uma natureza bárbara. Em batalha, chicoteia\ncom sua cauda de fogo e corta com suas garras afiadas."
+}

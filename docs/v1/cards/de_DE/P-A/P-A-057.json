@@ -1,0 +1,50 @@
+{
+  "language": "de_DE",
+  "id": "P-A-057",
+  "name": "Bidiza",
+  "localId": "057",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "PROMO-A"
+  },
+  "rarity": "Keine",
+  "cardImage": "/assets/cardImage/de_DE/P-A/P-A-057_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-057_artwork.png",
+  "illustrator": "Kouki Saitou",
+  "hp": 70,
+  "types": [
+    "Farblos"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Farblos",
+        "Farblos"
+      ],
+      "name": "Kopfnuss",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Kampf",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Es hat Nerven wie Drahtseile, nichts kann es erschüttern.\nEs ist agiler und aktiver, als es scheint."
+}

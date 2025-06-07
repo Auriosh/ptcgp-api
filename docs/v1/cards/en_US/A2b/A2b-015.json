@@ -1,0 +1,48 @@
+{
+  "language": "en_US",
+  "id": "A2b-015",
+  "name": "Tentacruel",
+  "localId": "015",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2b",
+    "name": "Shining Revelry"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2b/A2b-015_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-015_artwork.png",
+  "illustrator": "match",
+  "hp": 100,
+  "types": [
+    "Water"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Tentacool",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Water"
+      ],
+      "name": "Wave Splash",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "When the red orbs on Tentacruel's head glow brightly, watch out. The Pokémon is about to fire off a burst of ultrasonic waves."
+}

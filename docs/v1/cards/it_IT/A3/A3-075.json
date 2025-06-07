@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "A3-075",
+  "name": "Banette",
+  "localId": "075",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiani Astrali"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A3/A3-075_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-075_artwork.png",
+  "illustrator": "Aya Kusube",
+  "hp": 90,
+  "types": [
+    "Psico"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psico"
+      ],
+      "name": "Leganotte",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": "Durante il suo prossimo turno, il tuo avversario non può prendere nessuna Energia dalla sua Zona Energia per assegnarla al suo Pokémon attivo."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Oscurità",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Un peluche gettato via, tramutato in Pokémon da\nun profondo rancore. Lo si vede spesso in vicoli bui."
+}

@@ -1,0 +1,48 @@
+{
+  "language": "en_US",
+  "id": "A1a-035",
+  "name": "Beheeyem",
+  "localId": "035",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1a",
+    "name": "Mythical Island"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A1a/A1a-035_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-035_artwork.png",
+  "illustrator": "sowsow",
+  "hp": 90,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Elgyem",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psychic"
+      ],
+      "name": "Mind Jack",
+      "damage": {
+        "value": 10,
+        "modifier": "+"
+      },
+      "effect": "This attack does 20 more damage for each of your opponent's Benched Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Darkness",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Whenever a Beheeyem visits a farm, a Dubwool mysteriously disappears."
+}

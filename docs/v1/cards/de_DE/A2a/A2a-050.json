@@ -1,0 +1,52 @@
+{
+  "language": "de_DE",
+  "id": "A2a-050",
+  "name": "Iksbat",
+  "localId": "050",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Licht des Triumphs"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2a/A2a-050_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-050_artwork.png",
+  "illustrator": "AKIRA EGAWA",
+  "hp": 110,
+  "types": [
+    "Unlicht"
+  ],
+  "stage": "Rang 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Fähigkeit",
+      "name": "Trickkopplung",
+      "effect": "Wenn du Arceus oder Arceus-ex im Spiel hast, kannst du einmal während deines Zuges dem Aktiven Pokémon deines Gegners 30 Schadenspunkte zufügen."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Unlicht"
+      ],
+      "name": "Fänge der Dunkelheit",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Kampf",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [],
+  "description": "Seine zwei Beine wurden zu Flügeln. Es fliegt\nschnell und lautlos zu seiner Beute, um ihr dann\ndie Zähne in den Nacken zu bohren."
+}

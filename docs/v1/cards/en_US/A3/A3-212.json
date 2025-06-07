@@ -1,0 +1,53 @@
+{
+  "language": "en_US",
+  "id": "A3-212",
+  "name": "Venusaur",
+  "localId": "212",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Celestial Guardians"
+  },
+  "rarity": "One Shiny",
+  "cardImage": "/assets/cardImage/en_US/A3/A3-212_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-212_artwork.png",
+  "illustrator": "Ryuta Fuse",
+  "hp": 160,
+  "types": [
+    "Grass"
+  ],
+  "stage": "Stage2",
+  "evolveFrom": "Ivysaur",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Grass",
+        "Grass",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Mega Drain",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": "Heal 30 damage from this Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Its plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight."
+}

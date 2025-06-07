@@ -1,0 +1,50 @@
+{
+  "language": "es_ES",
+  "id": "A3-169",
+  "name": "Sandygast",
+  "localId": "169",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-169_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-169_artwork.png",
+  "illustrator": "Yukihiro Tada",
+  "hp": 80,
+  "types": [
+    "Psíquico"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psíquico",
+        "Incolora"
+      ],
+      "name": "Vibración",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Oscura",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Si pierde su pala, busca otra cosa para clavarse en la cabeza,\ncomo una rama, y así salir del paso hasta que encuentre otra pala."
+}

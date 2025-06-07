@@ -1,0 +1,59 @@
+{
+  "language": "en_US",
+  "id": "A2a-096",
+  "name": "Arceus ex",
+  "localId": "096",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2a",
+    "name": "Triumphant Light"
+  },
+  "rarity": "Crown",
+  "cardImage": "/assets/cardImage/en_US/A2a/A2a-096_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-096_artwork.png",
+  "illustrator": "PLANETA CG Works",
+  "hp": 140,
+  "types": [
+    "Colorless"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Fabled Luster",
+      "effect": "This Pokémon can't be affected by any Special Conditions."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Ultimate Force",
+      "damage": {
+        "value": 70,
+        "modifier": "+"
+      },
+      "effect": "This attack does 20 more damage for each of your Benched Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": ""
+}

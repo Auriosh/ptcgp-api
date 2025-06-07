@@ -1,0 +1,52 @@
+{
+  "language": "de_DE",
+  "id": "A3-217",
+  "name": "Turtok",
+  "localId": "217",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "Un Chromatique",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-217_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-217_artwork.png",
+  "illustrator": "Nisota Niso",
+  "hp": 150,
+  "types": [
+    "Wasser"
+  ],
+  "stage": "Rang 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Wasser",
+        "Wasser",
+        "Farblos"
+      ],
+      "name": "Hydropumpe",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": "Wenn an dieses Pokémon mindestens 2 extra {W}-Energien angelegt sind, fügt diese Attacke 60 Schadenspunkte mehr zu."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Elektro",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Es begräbt seine Gegner mit seinem enormen\nKörpergewicht. Wenn es in einer aussichtslosen\nLage steckt, zieht es sich in seinen Panzer zurück."
+}

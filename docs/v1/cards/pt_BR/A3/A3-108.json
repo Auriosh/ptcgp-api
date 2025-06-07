@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "A3-108",
+  "name": "Meowthde Alola",
+  "localId": "108",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-108_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-108_artwork.png",
+  "illustrator": "sui",
+  "hp": 60,
+  "types": [
+    "Darkness"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Darkness"
+      ],
+      "name": "Arranhão",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Grass",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Tem um estilo de vida luxuoso porque vivia com a realeza\nde Alola. Por isso, é muito exigente com comida."
+}

@@ -1,0 +1,51 @@
+{
+  "language": "en_US",
+  "id": "A2-053",
+  "name": "Magnezone",
+  "localId": "053",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Space-Time Smackdown"
+  },
+  "rarity": "Three Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2/A2-053_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-053_artwork.png",
+  "illustrator": "Yoshinobu Saito",
+  "hp": 140,
+  "types": [
+    "Lightning"
+  ],
+  "stage": "Stage2",
+  "evolveFrom": "Magneton",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lightning",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Thunder Blast",
+      "damage": {
+        "value": 110,
+        "modifier": null
+      },
+      "effect": "Discard a {L} Energy from this Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "As it zooms through the sky, this Pokémon seems to be receiving signals of unknown origin while transmitting signals of unknown purpose."
+}

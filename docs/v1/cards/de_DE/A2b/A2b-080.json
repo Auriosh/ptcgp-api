@@ -1,0 +1,67 @@
+{
+  "language": "de_DE",
+  "id": "A2b-080",
+  "name": "Glurak-ex",
+  "localId": "080",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Glänzendes Festival"
+  },
+  "rarity": "deux Étoiles",
+  "cardImage": "/assets/cardImage/de_DE/A2b/A2b-080_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-080_artwork.png",
+  "illustrator": "PLANETA Igarashi",
+  "hp": 180,
+  "types": [
+    "Feuer"
+  ],
+  "stage": "Rang 2",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Feuer"
+      ],
+      "name": "Anheizen",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Lege 3 {R}-Energien aus deinem Energiebereich an dieses Pokémon an."
+    },
+    {
+      "cost": [
+        "Feuer",
+        "Feuer",
+        "Feuer",
+        "Farblos",
+        "Farblos"
+      ],
+      "name": "Dampfgeschütz",
+      "damage": {
+        "value": 150,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Wasser",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": ""
+}

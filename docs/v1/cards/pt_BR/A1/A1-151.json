@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "A1-151",
+  "name": "Cubone",
+  "localId": "151",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1",
+    "name": "Dominação Genética"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A1/A1-151_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-151_artwork.png",
+  "illustrator": "sowsow",
+  "hp": 60,
+  "types": [
+    "Fighting"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Rosnadura",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Durante o próximo turno do seu oponente, os ataques usados pelo Pokémon Defensor causarão −20 pontos de dano."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Grass",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Quando a memória de sua falecida mãe traz\nlágrimas aos seus olhos, seu choro ecoa com\ntristeza pelo crânio que usa em sua cabeça."
+}

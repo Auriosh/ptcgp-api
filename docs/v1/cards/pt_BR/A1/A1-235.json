@@ -1,0 +1,47 @@
+{
+  "language": "pt_BR",
+  "id": "A1-235",
+  "name": "Electrode",
+  "localId": "235",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1",
+    "name": "Dominação Genética"
+  },
+  "rarity": "One Star",
+  "cardImage": "/assets/cardImage/pt_BR/A1/A1-235_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-235_artwork.png",
+  "illustrator": "DOM",
+  "hp": 80,
+  "types": [
+    "Lightning"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lightning",
+        "Lightning"
+      ],
+      "name": "Bola Elétrica",
+      "damage": {
+        "value": 70,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [],
+  "description": "Quanto mais energia carrega, mais\nvelocidade ganha. Mas também aumenta\na sua probabilidade de explodir."
+}

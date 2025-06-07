@@ -1,0 +1,52 @@
+{
+  "language": "de_DE",
+  "id": "A2b-012",
+  "name": "Magbrant",
+  "localId": "012",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Glänzendes Festival"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2b/A2b-012_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-012_artwork.png",
+  "illustrator": "Miki Tanaka",
+  "hp": 120,
+  "types": [
+    "Feuer"
+  ],
+  "stage": "Rang 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Feuer",
+        "Feuer",
+        "Farblos"
+      ],
+      "name": "Rauchbombe",
+      "damage": {
+        "value": 70,
+        "modifier": null
+      },
+      "effect": "Wenn das Verteidigende Pokémon während des nächsten Zuges deines Gegners versucht, eine Attacke einzusetzen, wirft dein Gegner 1 Münze. Bei Zahl wird jene Attacke nicht ausgeführt."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Wasser",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Holt es tief Luft, werden die Flammen in seinem Bauch\nstärker und erreichen eine Temperatur von 2000 ºC."
+}

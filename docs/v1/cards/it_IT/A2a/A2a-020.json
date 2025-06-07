@@ -1,0 +1,50 @@
+{
+  "language": "it_IT",
+  "id": "A2a-020",
+  "name": "Snover",
+  "localId": "020",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Luce Trionfale"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2a/A2a-020_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-020_artwork.png",
+  "illustrator": "otumami",
+  "hp": 70,
+  "types": [
+    "Acqua"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Acqua",
+        "Incolore"
+      ],
+      "name": "Pugno Rotante",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metallo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "In inverno scende fino ai piedi delle\nmontagne, ma in primavera se ne torna\nsulle cime montuose dove c'è ancora neve."
+}

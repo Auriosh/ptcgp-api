@@ -1,0 +1,52 @@
+{
+  "language": "en_US",
+  "id": "A2-093",
+  "name": "Hippopotas",
+  "localId": "093",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Space-Time Smackdown"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2/A2-093_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-093_artwork.png",
+  "illustrator": "Akira Komayama",
+  "hp": 80,
+  "types": [
+    "Fighting"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fighting",
+        "Fighting",
+        "Colorless"
+      ],
+      "name": "Rolling Tackle",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Grass",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "It shuts its nostrils tight, then travels through sand as if walking. They form colonies of around 10."
+}

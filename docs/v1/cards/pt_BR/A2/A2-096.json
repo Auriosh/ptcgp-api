@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "A2-096",
+  "name": "Murkrow",
+  "localId": "096",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Embate do Tempo e Espaço"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A2/A2-096_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-096_artwork.png",
+  "illustrator": "Yukiko Baba",
+  "hp": 60,
+  "types": [
+    "Darkness"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Darkness"
+      ],
+      "name": "Bicada",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Temido e detestado por muitos, acredita-se que traz\nmá sorte para todos que o veem à noite."
+}

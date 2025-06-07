@@ -1,0 +1,53 @@
+{
+  "language": "it_IT",
+  "id": "A3-181",
+  "name": "Dhelmise-ex",
+  "localId": "181",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiani Astrali"
+  },
+  "rarity": "deux Étoiles",
+  "cardImage": "/assets/cardImage/it_IT/A3/A3-181_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-181_artwork.png",
+  "illustrator": "PLANETA Tsuji",
+  "hp": 140,
+  "types": [
+    "Erba"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Erba",
+        "Erba",
+        "Incolore"
+      ],
+      "name": "Colpo d'Ancora",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": "Durante il prossimo turno del tuo avversario, il Pokémon difensore non può ritirarsi."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fuoco",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": ""
+}

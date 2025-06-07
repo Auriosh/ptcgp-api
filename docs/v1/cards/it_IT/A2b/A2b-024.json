@@ -1,0 +1,49 @@
+{
+  "language": "it_IT",
+  "id": "A2b-024",
+  "name": "Electrode",
+  "localId": "024",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Tripudio Splendente"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2b/A2b-024_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-024_artwork.png",
+  "illustrator": "Shigenori Negishi",
+  "hp": 90,
+  "types": [
+    "Lampo"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lampo",
+        "Lampo"
+      ],
+      "name": "Attacco Capriola",
+      "damage": {
+        "value": 50,
+        "modifier": "+"
+      },
+      "effect": "Lancia una moneta. Se esce testa, questo attacco infligge 30 danni in più."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lotta",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "L'energia Elettro che immagazzina\nlo fa andare sempre più veloce, ma\nlo fa anche esplodere più facilmente."
+}

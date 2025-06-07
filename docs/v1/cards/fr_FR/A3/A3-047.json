@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A3-047",
+  "name": "Otarlette",
+  "localId": "047",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Gardiens Astraux"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A3/A3-047_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-047_artwork.png",
+  "illustrator": "Saya Tsuruta",
+  "hp": 80,
+  "types": [
+    "Eau"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Eau"
+      ],
+      "name": "Grosse Vague",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Électrique",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il est tout excité quand il est témoin d'une danse\nqu'il ne connaît pas. Il s'entraîne alors comme\nun forcené jusqu'à la maîtriser à la perfection."
+}

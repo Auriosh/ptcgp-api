@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A2-060",
+  "name": "Luxray",
+  "localId": "060",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Pugna Espaciotemporal"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2/A2-060_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-060_artwork.png",
+  "illustrator": "Hitoshi Ariga",
+  "hp": 130,
+  "types": [
+    "Rayo"
+  ],
+  "stage": "Fase 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Rayo",
+        "Rayo",
+        "Rayo"
+      ],
+      "name": "Flecha Eléctrica",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Descarta todas las Energías {L} de este Pokémon. Este ataque hace 120 puntos de daño a 1 de los Pokémon de tu rival."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lucha",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [],
+  "description": "Puede ver claramente a través de las paredes para\nbuscar a las presas huidas o a sus crías si se pierden."
+}

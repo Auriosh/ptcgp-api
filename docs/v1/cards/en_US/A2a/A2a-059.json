@@ -1,0 +1,52 @@
+{
+  "language": "en_US",
+  "id": "A2a-059",
+  "name": "Bronzong",
+  "localId": "059",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2a",
+    "name": "Triumphant Light"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2a/A2a-059_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-059_artwork.png",
+  "illustrator": "Naoki Saito",
+  "hp": 120,
+  "types": [
+    "Metal"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Bronzor",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Psychic",
+      "damage": {
+        "value": 50,
+        "modifier": "+"
+      },
+      "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "In ages past, this Pokémon was revered as a bringer of rain. It was found buried in the ground."
+}

@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "P-A-051",
+  "name": "Cyclizar",
+  "localId": "051",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "Ninguno",
+  "cardImage": "/assets/cardImage/es_ES/P-A/P-A-051_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-051_artwork.png",
+  "illustrator": "Shigenori Negishi",
+  "hp": 80,
+  "types": [
+    "Incolora"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolora"
+      ],
+      "name": "Alta Aceleración",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": "Durante tu próximo turno, el ataque Alta Aceleración de este Pokémon hace Overacceleration+20 puntos[/Ctrl:NoBreak] de daño."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lucha",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Según parece, ha permitido que los humanos\nmonten en él desde tiempos remotos. Aparece\nen pinturas rupestres de hace diez mil años."
+}

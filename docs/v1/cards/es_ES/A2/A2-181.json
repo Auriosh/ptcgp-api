@@ -1,0 +1,49 @@
+{
+  "language": "es_ES",
+  "id": "A2-181",
+  "name": "Infernape ex",
+  "localId": "181",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Pugna Espaciotemporal"
+  },
+  "rarity": "deux Étoiles",
+  "cardImage": "/assets/cardImage/es_ES/A2/A2-181_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-181_artwork.png",
+  "illustrator": "PLANETA CG Works",
+  "hp": 170,
+  "types": [
+    "Guego"
+  ],
+  "stage": "Fase 2",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Guego",
+        "Guego"
+      ],
+      "name": "Envite Ígneo",
+      "damage": {
+        "value": 140,
+        "modifier": null
+      },
+      "effect": "Descarta todas las Energías {R} de este Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Agua",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [],
+  "description": ""
+}

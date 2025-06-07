@@ -1,0 +1,51 @@
+{
+  "language": "es_ES",
+  "id": "A2-112",
+  "name": "Registeel",
+  "localId": "112",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Pugna Espaciotemporal"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2/A2-112_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-112_artwork.png",
+  "illustrator": "Tomokazu Komiya",
+  "hp": 110,
+  "types": [
+    "Metálica"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Metálica",
+        "Metálica",
+        "Metálica"
+      ],
+      "name": "Garra Metal",
+      "damage": {
+        "value": 90,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Guego",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Está hecho de una misteriosa sustancia\nque, pese a ser más dura que cualquier\nmetal, se contrae y dilata con facilidad."
+}

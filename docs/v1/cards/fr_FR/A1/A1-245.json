@@ -1,0 +1,55 @@
+{
+  "language": "fr_FR",
+  "id": "A1-245",
+  "name": "Roucarnage",
+  "localId": "245",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Puissance Génétique"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/fr_FR/A1/A1-245_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-245_artwork.png",
+  "illustrator": "Anesaki Dynamic",
+  "hp": 130,
+  "types": [
+    "Incolore"
+  ],
+  "stage": "Niveau 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Talent",
+      "name": "Déroute",
+      "effect": "Une fois pendant votre tour, vous pouvez échanger le Pokémon Actif de votre adversaire contre l'un de ses Pokémon de Banc. (Votre adversaire choisit le nouveau Pokémon Actif.)"
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Cru-Ailes",
+      "damage": {
+        "value": 70,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Électrique",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il survole la surface de l'eau pour repérer\nune proie et plonge en piqué pour l'attraper."
+}

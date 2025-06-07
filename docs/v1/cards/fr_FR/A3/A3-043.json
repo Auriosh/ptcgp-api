@@ -1,0 +1,51 @@
+{
+  "language": "fr_FR",
+  "id": "A3-043",
+  "name": "Crustabri",
+  "localId": "043",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Gardiens Astraux"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A3/A3-043_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-043_artwork.png",
+  "illustrator": "Masakazu Fukuda",
+  "hp": 110,
+  "types": [
+    "Eau"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Eau",
+        "Eau"
+      ],
+      "name": "Pression de Garde",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": "Pendant le prochain tour de votre adversaire, ce Pokémon subit − 20 dégâts provenant des attaques."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Électrique",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Les Crustabri vivant dans des mers aux courants\nforts développent des dards particulièrement\nimposants et aiguisés sur leur coquille."
+}

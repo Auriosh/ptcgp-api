@@ -1,0 +1,50 @@
+{
+  "language": "de_DE",
+  "id": "A3-164",
+  "name": "Kapu-Kime",
+  "localId": "164",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-164_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-164_artwork.png",
+  "illustrator": "OKACHEKE",
+  "hp": 100,
+  "types": [
+    "Wasser"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Wasser",
+        "Wasser",
+        "Farblos"
+      ],
+      "name": "Spiralsauger",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": "Heile 20 Schadenspunkte bei diesem Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Elektro",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Als Schutzpatron von Poni kontrolliert es das Wasser\nund lauert im dichten Nebel. Es wird gleichermaßen\ngefürchtet wie respektiert."
+}

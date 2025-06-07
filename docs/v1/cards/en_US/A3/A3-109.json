@@ -1,0 +1,55 @@
+{
+  "language": "en_US",
+  "id": "A3-109",
+  "name": "Alolan Persian",
+  "localId": "109",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Celestial Guardians"
+  },
+  "rarity": "Three Diamond",
+  "cardImage": "/assets/cardImage/en_US/A3/A3-109_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-109_artwork.png",
+  "illustrator": "kirisAki",
+  "hp": 100,
+  "types": [
+    "Darkness"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Alolan Meowth",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Fur Coat",
+      "effect": "This Pokémon takes −20 damage from attacks."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Darkness",
+        "Colorless"
+      ],
+      "name": "Claw Slash",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Grass",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "The round face of Alolan Persian is considered to be a symbol of prosperity in the Alola region, so these Pokémon are very well cared for."
+}

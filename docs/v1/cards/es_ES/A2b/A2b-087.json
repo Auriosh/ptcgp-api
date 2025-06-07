@@ -1,0 +1,55 @@
+{
+  "language": "es_ES",
+  "id": "A2b-087",
+  "name": "Bibarel ex",
+  "localId": "087",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Festival Brillante"
+  },
+  "rarity": "deux Étoiles",
+  "cardImage": "/assets/cardImage/es_ES/A2b/A2b-087_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-087_artwork.png",
+  "illustrator": "PLANETA CG Works",
+  "hp": 160,
+  "types": [
+    "Incolora"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolora",
+        "Incolora",
+        "Incolora",
+        "Incolora"
+      ],
+      "name": "Presión Despreocupada",
+      "damage": {
+        "value": 100,
+        "modifier": null
+      },
+      "effect": "Cura 30 puntos de daño a este Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lucha",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": ""
+}

@@ -1,0 +1,48 @@
+{
+  "language": "en_US",
+  "id": "A2-028",
+  "name": "Monferno",
+  "localId": "028",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Space-Time Smackdown"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2/A2-028_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-028_artwork.png",
+  "illustrator": "Masakazu Fukuda",
+  "hp": 80,
+  "types": [
+    "Fire"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Chimchar",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fire"
+      ],
+      "name": "Fiery Punch",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Water",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "It skillfully controls the intensity of the fire on its tail to keep its foes at an ideal distance."
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "A1",
+    "name": "Unschlagbare Gene",
+    "logo": "/assets/logoImage/de_DE/logo_A1_de_DE.png"
+  },
+  {
+    "id": "A1a",
+    "name": "Mysteriöse Insel",
+    "logo": "/assets/logoImage/de_DE/logo_A1a_de_DE.png"
+  },
+  {
+    "id": "A2",
+    "name": "Kollision von Raum und Zeit",
+    "logo": "/assets/logoImage/de_DE/logo_A2_de_DE.png"
+  },
+  {
+    "id": "A2a",
+    "name": "Licht des Triumphs",
+    "logo": "/assets/logoImage/de_DE/logo_A2a_de_DE.png"
+  },
+  {
+    "id": "A2b",
+    "name": "Glänzendes Festival",
+    "logo": "/assets/logoImage/de_DE/logo_A2b_de_DE.png"
+  },
+  {
+    "id": "A3",
+    "name": "Hüter des Firmaments",
+    "logo": "/assets/logoImage/de_DE/logo_A3_de_DE.png"
+  },
+  {
+    "id": "P-A",
+    "name": "PROMO-A",
+    "logo": "/assets/logoImage/de_DE/logo_P-A_de_DE.png"
+  }
+]

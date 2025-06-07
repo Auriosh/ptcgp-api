@@ -1,0 +1,68 @@
+{
+  "language": "es_ES",
+  "id": "A3-230",
+  "name": "Venusaur ex",
+  "localId": "230",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "Deux Chromatique",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-230_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-230_artwork.png",
+  "illustrator": "PLANETA CG Works",
+  "hp": 190,
+  "types": [
+    "Planta"
+  ],
+  "stage": "Fase 2",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Planta",
+        "Incolora",
+        "Incolora"
+      ],
+      "name": "Hoja Afilada",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": ""
+    },
+    {
+      "cost": [
+        "Planta",
+        "Planta",
+        "Incolora",
+        "Incolora"
+      ],
+      "name": "Floración Gigante",
+      "damage": {
+        "value": 100,
+        "modifier": null
+      },
+      "effect": "Cura 30 puntos de daño a este Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Guego",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": ""
+}

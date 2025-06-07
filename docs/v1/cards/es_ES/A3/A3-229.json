@@ -1,0 +1,56 @@
+{
+  "language": "es_ES",
+  "id": "A3-229",
+  "name": "Wigglytuff",
+  "localId": "229",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "Un Chromatique",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-229_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-229_artwork.png",
+  "illustrator": "Tomowaka",
+  "hp": 100,
+  "types": [
+    "Incolora"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Habilidad",
+      "name": "Canción Reconfortante",
+      "effect": "Una vez durante tu turno, puedes curar 20 puntos de daño a tu Pokémon Activo."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Incolora",
+        "Incolora"
+      ],
+      "name": "Bofetada Gentil",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lucha",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Tiene un pelaje muy fino. Se recomienda no enfadarlo,\no se inflará y golpeará con todo su cuerpo."
+}

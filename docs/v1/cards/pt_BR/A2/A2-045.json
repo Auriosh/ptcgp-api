@@ -1,0 +1,54 @@
+{
+  "language": "pt_BR",
+  "id": "A2-045",
+  "name": "Abomasnow",
+  "localId": "045",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Embate do Tempo e Espaço"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A2/A2-045_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-045_artwork.png",
+  "illustrator": "Shin Nagasawa",
+  "hp": 140,
+  "types": [
+    "Water"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Water",
+        "Water",
+        "Water",
+        "Colorless"
+      ],
+      "name": "Respiração de Gelo",
+      "damage": {
+        "value": 120,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metal",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Leva uma vida tranquila em montanhas que estão\npermanentemente cobertas de neve. Ele se esconde\nprovocando nevascas."
+}

@@ -1,0 +1,27 @@
+{
+  "language": "fr_FR",
+  "id": "A1-219",
+  "name": "Erika",
+  "localId": "219",
+  "category": "Dresseur",
+  "set": {
+    "id": "A1",
+    "name": "Puissance Génétique"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A1/A1-219_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-219_artwork.png",
+  "illustrator": "kirisAki",
+  "hp": null,
+  "types": [],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [],
+  "weaknesses": [],
+  "rules": [],
+  "retreat": [],
+  "description": ""
+}

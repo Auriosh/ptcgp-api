@@ -1,0 +1,51 @@
+{
+  "language": "en_US",
+  "id": "A3-128",
+  "name": "Tauros",
+  "localId": "128",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Celestial Guardians"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A3/A3-128_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-128_artwork.png",
+  "illustrator": "Kazumasa Yasukuni",
+  "hp": 100,
+  "types": [
+    "Colorless"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Rising Lunge",
+      "damage": {
+        "value": 50,
+        "modifier": "+"
+      },
+      "effect": "Flip a coin. If heads, this attack does 50 more damage."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "When Tauros begins whipping itself with its tails, it's a warning that the Pokémon is about to charge with astounding speed."
+}

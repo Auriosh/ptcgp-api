@@ -1,0 +1,51 @@
+{
+  "language": "es_ES",
+  "id": "A1-045",
+  "name": "Flareon",
+  "localId": "045",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Genes Formidables"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A1/A1-045_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-045_artwork.png",
+  "illustrator": "sui",
+  "hp": 120,
+  "types": [
+    "Guego"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Guego",
+        "Incolora",
+        "Incolora"
+      ],
+      "name": "Lanzallamas",
+      "damage": {
+        "value": 110,
+        "modifier": null
+      },
+      "effect": "Descarta 1 Energía {R} de este Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Agua",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Calienta el aire que inhala en su saca\nde fuego y lo expulsa a 1700 °C."
+}

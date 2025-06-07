@@ -1,0 +1,42 @@
+[
+  {
+    "id": "A1",
+    "name": "Genetic Apex",
+    "logo": "/assets/logoImage/en_US/logo_A1_en_US.png"
+  },
+  {
+    "id": "A1a",
+    "name": "Mythical Island",
+    "logo": "/assets/logoImage/en_US/logo_A1a_en_US.png"
+  },
+  {
+    "id": "A2",
+    "name": "Space-Time Smackdown",
+    "logo": "/assets/logoImage/en_US/logo_A2_en_US.png"
+  },
+  {
+    "id": "A2a",
+    "name": "Triumphant Light",
+    "logo": "/assets/logoImage/en_US/logo_A2a_en_US.png"
+  },
+  {
+    "id": "A2b",
+    "name": "Shining Revelry",
+    "logo": "/assets/logoImage/en_US/logo_A2b_en_US.png"
+  },
+  {
+    "id": "A3",
+    "name": "Celestial Guardians",
+    "logo": "/assets/logoImage/en_US/logo_A3_en_US.png"
+  },
+  {
+    "id": "A3a",
+    "name": "Extradimensional Crisis",
+    "logo": "/assets/logoImage/en_US/logo_A3a_en_US.png"
+  },
+  {
+    "id": "P-A",
+    "name": "Promos-A",
+    "logo": "/assets/logoImage/en_US/logo_P-A_en_US.png"
+  }
+]

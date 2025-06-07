@@ -1,0 +1,49 @@
+{
+  "language": "de_DE",
+  "id": "A2a-019",
+  "name": "Frosdedje",
+  "localId": "019",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Licht des Triumphs"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2a/A2a-019_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-019_artwork.png",
+  "illustrator": "Mizue",
+  "hp": 90,
+  "types": [
+    "Wasser"
+  ],
+  "stage": "Rang 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Wasser",
+        "Farblos"
+      ],
+      "name": "Blizzard",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": "Diese Attacke fügt auch jedem Pokémon auf der Bank deines Gegners 10 Schadenspunkte zu."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metall",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Menschen und Pokémon, die ihm gefallen,\nfriert es mit eisiger Luft ein. Dann nimmt es\nsie mit in seinen Bau und stellt sie dort aus."
+}

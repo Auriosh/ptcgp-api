@@ -1,0 +1,50 @@
+{
+  "language": "it_IT",
+  "id": "A1a-012",
+  "name": "Magmar",
+  "localId": "012",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "L'Isola Misteriosa"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A1a/A1a-012_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-012_artwork.png",
+  "illustrator": "sui",
+  "hp": 80,
+  "types": [
+    "Fuoco"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fuoco",
+        "Fuoco"
+      ],
+      "name": "Fuocobomba",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": "Rimuovi 2 Energie {R} da questo Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Acqua",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Abbatte le sue prede con le fiamme, ma\nfinisce per carbonizzarle accidentalmente,\ncon suo grande rammarico."
+}

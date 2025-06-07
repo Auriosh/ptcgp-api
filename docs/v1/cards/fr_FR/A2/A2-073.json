@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A2-073",
+  "name": "Baudrive",
+  "localId": "073",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Choc Spatio-Temporel"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2/A2-073_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-073_artwork.png",
+  "illustrator": "Atsuko Nishida",
+  "hp": 50,
+  "types": [
+    "Psy"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psy"
+      ],
+      "name": "Développement",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": "Pendant le prochain tour de votre adversaire, ce Pokémon subit − 20 dégâts provenant des attaques."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Électrique",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "On dit que les jeunes enfants qui agrippent Baudrive après\nl'avoir pris pour un ballon disparaissent sans laisser de traces."
+}

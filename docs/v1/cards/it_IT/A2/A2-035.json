@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "A2-035",
+  "name": "Piplup",
+  "localId": "035",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Scontro Spaziotemporale"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2/A2-035_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-035_artwork.png",
+  "illustrator": "Hajime Kusajima",
+  "hp": 60,
+  "types": [
+    "Acqua"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore"
+      ],
+      "name": "Pausa",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Cura questo Pokémon da 20 danni."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lampo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Molto orgoglioso. Difficile farci amicizia\nperché non ascolta mai i consigli dell'Allenatore."
+}

@@ -1,0 +1,47 @@
+{
+  "language": "fr_FR",
+  "id": "A1-235",
+  "name": "Électrode",
+  "localId": "235",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Puissance Génétique"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/fr_FR/A1/A1-235_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-235_artwork.png",
+  "illustrator": "DOM",
+  "hp": 80,
+  "types": [
+    "Électrique"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Électrique",
+        "Électrique"
+      ],
+      "name": "Boule Élek",
+      "damage": {
+        "value": 70,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Combat",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [],
+  "description": "Plus il accumule de l'énergie de type Électrik, plus il est rapide.\nMais il a aussi davantage de chances d'exploser."
+}

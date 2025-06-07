@@ -1,0 +1,51 @@
+{
+  "language": "en_US",
+  "id": "A3a-090",
+  "name": "Arcanine",
+  "localId": "090",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3a",
+    "name": "Extradimensional Crisis"
+  },
+  "rarity": "One Shiny",
+  "cardImage": "/assets/cardImage/en_US/A3a/A3a-090_card.png",
+  "artworkImage": "/assets/artworkImage/A3a/A3a-090_artwork.png",
+  "illustrator": "Saya Tsuruta",
+  "hp": 130,
+  "types": [
+    "Fire"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Growlithe",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fire",
+        "Fire",
+        "Colorless"
+      ],
+      "name": "Heat Tackle",
+      "damage": {
+        "value": 100,
+        "modifier": null
+      },
+      "effect": "This Pokémon also does 20 damage to itself."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Water",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "An ancient picture scroll shows that people\nwere captivated by its movement as it ran\nthrough prairies."
+}

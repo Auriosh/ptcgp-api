@@ -1,0 +1,49 @@
+{
+  "language": "es_ES",
+  "id": "A1a-049",
+  "name": "Koffing",
+  "localId": "049",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "La Isla Singular"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A1a/A1a-049_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-049_artwork.png",
+  "illustrator": "Naoyo Kimura",
+  "hp": 70,
+  "types": [
+    "Oscura"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Oscura"
+      ],
+      "name": "División",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Pon 1 Koffing aleatorio de tu baraja en tu Banca."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lucha",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Su cuerpo está lleno a rebosar de gas venenoso.\nAcude a los vertederos atraído por el putrefacto\nolor que emana de los desperdicios."
+}

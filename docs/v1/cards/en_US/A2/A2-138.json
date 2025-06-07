@@ -1,0 +1,48 @@
+{
+  "language": "en_US",
+  "id": "A2-138",
+  "name": "Lopunny",
+  "localId": "138",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Space-Time Smackdown"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2/A2-138_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-138_artwork.png",
+  "illustrator": "Sanosuke Sakuma",
+  "hp": 90,
+  "types": [
+    "Colorless"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Buneary",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Jump Kick",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Lopunny is constantly monitoring its surroundings. If danger approaches, this Pokémon responds with superdestructive kicks."
+}

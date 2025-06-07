@@ -1,0 +1,54 @@
+{
+  "language": "it_IT",
+  "id": "A2a-035",
+  "name": "Rotom",
+  "localId": "035",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Luce Trionfale"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2a/A2a-035_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-035_artwork.png",
+  "illustrator": "Anesaki Dynamic",
+  "hp": 70,
+  "types": [
+    "Psico"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Agilità Simbiotica",
+      "effect": "Se hai in gioco Arceus o Arceus-ex, questo Pokémon non ha costo di ritirata."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore"
+      ],
+      "name": "Scattattacco",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Questo attacco infligge 20 danni a uno dei Pokémon nella panchina del tuo avversario."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Oscurità",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il suo corpo simile all'elettricità può introdursi in alcuni\napparecchi, di cui prende il controllo per combinare guai."
+}

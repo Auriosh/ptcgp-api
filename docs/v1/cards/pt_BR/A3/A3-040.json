@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "A3-040",
+  "name": "Vulpixde Alola",
+  "localId": "040",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-040_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-040_artwork.png",
+  "illustrator": "You Iribi",
+  "hp": 60,
+  "types": [
+    "Water"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Water"
+      ],
+      "name": "Invocar Frio",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Pegue 1 Energia {W} da sua Zona de Energia e ligue-a a este Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metal",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Após muitos anos nas montanhas sempre nevadas\nde Alola, este Vulpix ganhou domínio sobre o gelo."
+}

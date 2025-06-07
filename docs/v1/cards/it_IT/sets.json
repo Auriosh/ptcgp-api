@@ -1,0 +1,37 @@
+[
+  {
+    "id": "A1",
+    "name": "Geni Supremi",
+    "logo": "/assets/logoImage/it_IT/logo_A1_it_IT.png"
+  },
+  {
+    "id": "A1a",
+    "name": "L'Isola Misteriosa",
+    "logo": "/assets/logoImage/it_IT/logo_A1a_it_IT.png"
+  },
+  {
+    "id": "A2",
+    "name": "Scontro Spaziotemporale",
+    "logo": "/assets/logoImage/it_IT/logo_A2_it_IT.png"
+  },
+  {
+    "id": "A2a",
+    "name": "Luce Trionfale",
+    "logo": "/assets/logoImage/it_IT/logo_A2a_it_IT.png"
+  },
+  {
+    "id": "A2b",
+    "name": "Tripudio Splendente",
+    "logo": "/assets/logoImage/it_IT/logo_A2b_it_IT.png"
+  },
+  {
+    "id": "A3",
+    "name": "Guardiani Astrali",
+    "logo": "/assets/logoImage/it_IT/logo_A3_it_IT.png"
+  },
+  {
+    "id": "P-A",
+    "name": "Promo-A",
+    "logo": "/assets/logoImage/it_IT/logo_P-A_it_IT.png"
+  }
+]

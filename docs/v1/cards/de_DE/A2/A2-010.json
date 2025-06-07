@@ -1,0 +1,50 @@
+{
+  "language": "de_DE",
+  "id": "A2-010",
+  "name": "Chelast",
+  "localId": "010",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Kollision von Raum und Zeit"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2/A2-010_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-010_artwork.png",
+  "illustrator": "OOYAMA",
+  "hp": 80,
+  "types": [
+    "Pflanze"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Pflanze",
+        "Farblos"
+      ],
+      "name": "Biss",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feuer",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Es badet im Sonnenlicht und betreibt dabei mit\ndem ganzen Körper Fotosynthese. Sein Panzer\nbesteht aus hartem Lehm."
+}

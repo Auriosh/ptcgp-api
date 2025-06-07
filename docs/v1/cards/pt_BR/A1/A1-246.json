@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "A1-246",
+  "name": "Meowth",
+  "localId": "246",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1",
+    "name": "Dominação Genética"
+  },
+  "rarity": "One Star",
+  "cardImage": "/assets/cardImage/pt_BR/A1/A1-246_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-246_artwork.png",
+  "illustrator": "Mina Nakai",
+  "hp": 60,
+  "types": [
+    "Colorless"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Dia de Pagamento",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": "Compre 1 carta."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Tudo o que este Pokémon faz é dormir\ndurante o dia. À noite, patrulha seu\nterritório com seus olhos brilhantes."
+}

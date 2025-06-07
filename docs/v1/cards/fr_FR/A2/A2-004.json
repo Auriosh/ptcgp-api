@@ -1,0 +1,49 @@
+{
+  "language": "fr_FR",
+  "id": "A2-004",
+  "name": "Saquedeneu",
+  "localId": "004",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Choc Spatio-Temporel"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2/A2-004_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-004_artwork.png",
+  "illustrator": "Narumi Sato",
+  "hp": 70,
+  "types": [
+    "Plante"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Plante",
+        "Incolore"
+      ],
+      "name": "Fouet Lianes",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feu",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "On ne sait toujours pas ce qui se cache sous ses lianes.\nMême si on les coupe, elles repoussent à l'infini."
+}

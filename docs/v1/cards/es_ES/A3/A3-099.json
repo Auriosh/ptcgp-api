@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A3-099",
+  "name": "Rockruff",
+  "localId": "099",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-099_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-099_artwork.png",
+  "illustrator": "Oswaldo KATO",
+  "hp": 60,
+  "types": [
+    "Lucha"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lucha"
+      ],
+      "name": "Placaje",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Planta",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Cuando es pequeño es muy cariñoso. A medida\nque crece se vuelve más agresivo, pero la lealtad\nhacia su Entrenador perdura para siempre."
+}

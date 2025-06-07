@@ -1,0 +1,50 @@
+{
+  "language": "it_IT",
+  "id": "A2a-040",
+  "name": "Pupitar",
+  "localId": "040",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Luce Trionfale"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2a/A2a-040_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-040_artwork.png",
+  "illustrator": "match",
+  "hp": 80,
+  "types": [
+    "Lotta"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lotta",
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Attacco Veloce",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Erba",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il suo corpo è ricoperto da un guscio duro come\nla roccia ed è molto forte. Quando si infuria, è\ncapace di abbattere persino una montagna."
+}

@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A1-090",
+  "name": "Concombaffe",
+  "localId": "090",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Puissance Génétique"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A1/A1-090_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-090_artwork.png",
+  "illustrator": "OOYAMA",
+  "hp": 70,
+  "types": [
+    "Eau"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Eau"
+      ],
+      "name": "Pluie Éclaboussante",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Électrique",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il vit dans les eaux chaudes des hauts-fonds.\nS'il croise un ennemi, il l'attaque en lui crachant\nses organes internes au visage."
+}

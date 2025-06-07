@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "A3-039",
+  "name": "Sandslashde Alola",
+  "localId": "039",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-039_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-039_artwork.png",
+  "illustrator": "Hasuno",
+  "hp": 100,
+  "types": [
+    "Water"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Water"
+      ],
+      "name": "Armadura de Espinhos",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": "Durante o próximo turno do seu oponente, se este Pokémon for danificado por um ataque, cause 40 pontos de dano ao Pokémon Atacante."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metal",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Quando corre pela neve, abre o caminho com suas garras\ngrandes e afiadas em forma de gancho. Em montanhas\nnevadas, este Sandslash é o mais rápido dos Pokémon."
+}

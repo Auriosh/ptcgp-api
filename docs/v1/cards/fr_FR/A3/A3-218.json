@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A3-218",
+  "name": "Stari",
+  "localId": "218",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Gardiens Astraux"
+  },
+  "rarity": "Un Chromatique",
+  "cardImage": "/assets/cardImage/fr_FR/A3/A3-218_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-218_artwork.png",
+  "illustrator": "MAHOU",
+  "hp": 50,
+  "types": [
+    "Eau"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Eau"
+      ],
+      "name": "Claque",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Électrique",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Lorsqu'on se rend en bord de mer à la fin\nde l'été, on peut voir des groupes de Stari\nclignoter à un rythme régulier."
+}

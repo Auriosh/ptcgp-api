@@ -1,0 +1,48 @@
+{
+  "language": "de_DE",
+  "id": "P-A-046",
+  "name": "Kaumalat",
+  "localId": "046",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "PROMO-A"
+  },
+  "rarity": "Keine",
+  "cardImage": "/assets/cardImage/de_DE/P-A/P-A-046_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-046_artwork.png",
+  "illustrator": "Uninori",
+  "hp": 60,
+  "types": [
+    "Kampf"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Kampf"
+      ],
+      "name": "Tackle",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Pflanze",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Es verbirgt sich in kleinen Höhlen, aus denen es\nherausspringt und vorbeilaufende Gegner oder\nBeute beißt. Manchmal bricht dabei ein Zahn ab."
+}

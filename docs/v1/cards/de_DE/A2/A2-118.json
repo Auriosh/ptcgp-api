@@ -1,0 +1,54 @@
+{
+  "language": "de_DE",
+  "id": "A2-118",
+  "name": "Voluminas",
+  "localId": "118",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Kollision von Raum und Zeit"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2/A2-118_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-118_artwork.png",
+  "illustrator": "MAHOU",
+  "hp": 130,
+  "types": [
+    "Metall"
+  ],
+  "stage": "Rang 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Metall",
+        "Metall",
+        "Metall",
+        "Farblos"
+      ],
+      "name": "Dreifachnase",
+      "damage": {
+        "value": 30,
+        "modifier": "+"
+      },
+      "effect": "Wirf 3 Münzen. Diese Attacke fügt 50 Schadenspunkte mehr pro Kopf zu."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feuer",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Es steuert kleine Einheiten, die man Mininasen nennt.\nLeider verirren sie sich manchmal, und es heißt,\ndass einige von ihnen nie wiederkehren."
+}

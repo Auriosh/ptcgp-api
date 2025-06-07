@@ -1,0 +1,49 @@
+{
+  "language": "es_ES",
+  "id": "A2-003",
+  "name": "Bellossom",
+  "localId": "003",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Pugna Espaciotemporal"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2/A2-003_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-003_artwork.png",
+  "illustrator": "Naoyo Kimura",
+  "hp": 130,
+  "types": [
+    "Planta"
+  ],
+  "stage": "Fase 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Planta",
+        "Planta"
+      ],
+      "name": "Paso Hoja",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Guego",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Abunda en los trópicos. Al bailar, sus pétalos\nse rozan y emiten un agradable sonido."
+}

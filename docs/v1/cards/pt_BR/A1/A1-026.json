@@ -1,0 +1,50 @@
+{
+  "language": "pt_BR",
+  "id": "A1-026",
+  "name": "Pinsir",
+  "localId": "026",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1",
+    "name": "Dominação Genética"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A1/A1-026_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-026_artwork.png",
+  "illustrator": "Eri Yamaki",
+  "hp": 90,
+  "types": [
+    "Grass"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Grass",
+        "Grass"
+      ],
+      "name": "Chifre Duplo",
+      "damage": {
+        "value": 50,
+        "modifier": "x"
+      },
+      "effect": "Jogue 2 moedas. Este ataque causa 50 pontos de dano para cada cara."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Estes Pokémon se julgam de acordo com\nsuas pinças. As pinças mais grossas e notáveis\nsão mais populares com o gênero oposto."
+}

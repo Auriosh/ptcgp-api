@@ -1,0 +1,49 @@
+{
+  "language": "es_ES",
+  "id": "A2b-104",
+  "name": "Riolu",
+  "localId": "104",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Festival Brillante"
+  },
+  "rarity": "Un Chromatique",
+  "cardImage": "/assets/cardImage/es_ES/A2b/A2b-104_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-104_artwork.png",
+  "illustrator": "GOSSAN",
+  "hp": 70,
+  "types": [
+    "Lucha"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lucha",
+        "Lucha"
+      ],
+      "name": "Puño",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psíquico",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Se comunica con los suyos emitiendo ondas.\nPuede pasarse toda una noche corriendo."
+}

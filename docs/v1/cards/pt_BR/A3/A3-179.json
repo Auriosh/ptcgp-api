@@ -1,0 +1,56 @@
+{
+  "language": "pt_BR",
+  "id": "A3-179",
+  "name": "Komala",
+  "localId": "179",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "One Star",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-179_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-179_artwork.png",
+  "illustrator": "GOTO minori",
+  "hp": 90,
+  "types": [
+    "Colorless"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Comatoso",
+      "effect": "Enquanto este Pokémon estiver no Campo Ativo, sempre que você ligar uma Energia da sua Zona de Energia a ele, ele agora estará Adormecido."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Golpe de Colisão Rolante",
+      "damage": {
+        "value": 70,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Komala passa a vida toda dormindo. Alimenta-se de folhas\nque contêm um veneno potente que só Komala\nconsegue digerir."
+}

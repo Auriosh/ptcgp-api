@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "A2b-047",
+  "name": "Wooperde Paldea",
+  "localId": "047",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2b",
+    "name": "Festival Brilhante"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A2b/A2b-047_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-047_artwork.png",
+  "illustrator": "Mori Yuu",
+  "hp": 50,
+  "types": [
+    "Darkness"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Darkness"
+      ],
+      "name": "Golpe Envenenado",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": "O Pokémon Ativo do seu oponente agora está Envenenado."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Após perder uma disputa por território, Wooper passou a\nviver em terra firme. Seu corpo mudou ao longo do tempo,\ndesenvolvendo uma camada venenosa para protegê-lo."
+}

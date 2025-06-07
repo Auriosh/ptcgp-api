@@ -1,0 +1,49 @@
+{
+  "language": "de_DE",
+  "id": "A3-090",
+  "name": "Makuhita",
+  "localId": "090",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-090_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-090_artwork.png",
+  "illustrator": "Mina Nakai",
+  "hp": 70,
+  "types": [
+    "Kampf"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Kampf"
+      ],
+      "name": "Stoß",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psycho",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Sein hartes Training macht es stärker. Es ist ein\nwillensstarkes Pokémon, das jedem Angriff\ntrotzen kann."
+}

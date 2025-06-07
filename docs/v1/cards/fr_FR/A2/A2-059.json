@@ -1,0 +1,49 @@
+{
+  "language": "fr_FR",
+  "id": "A2-059",
+  "name": "Luxio",
+  "localId": "059",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Choc Spatio-Temporel"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2/A2-059_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-059_artwork.png",
+  "illustrator": "Naoki Saito",
+  "hp": 90,
+  "types": [
+    "Électrique"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Électrique",
+        "Incolore"
+      ],
+      "name": "Griffes Électriques",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Combat",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Le courant qui circule à la pointe de ses griffes\naiguisées est tellement puissant que ses ennemis\nperdent connaissance au moindre effleurement."
+}

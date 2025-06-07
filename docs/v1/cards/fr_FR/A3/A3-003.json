@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A3-003",
+  "name": "Arakdo",
+  "localId": "003",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Gardiens Astraux"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A3/A3-003_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-003_artwork.png",
+  "illustrator": "Miki Tanaka",
+  "hp": 50,
+  "types": [
+    "Plante"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore"
+      ],
+      "name": "Vive-Attaque",
+      "damage": {
+        "value": 10,
+        "modifier": "+"
+      },
+      "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 20 dégâts de plus."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feu",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Ils vivent généralement dans les étangs,\nmais on peut en trouver dans les flaques\nd'eau en ville, après les averses."
+}

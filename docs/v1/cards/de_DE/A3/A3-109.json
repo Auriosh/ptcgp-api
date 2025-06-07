@@ -1,0 +1,55 @@
+{
+  "language": "de_DE",
+  "id": "A3-109",
+  "name": "Alola-Snobilikat",
+  "localId": "109",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-109_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-109_artwork.png",
+  "illustrator": "kirisAki",
+  "hp": 100,
+  "types": [
+    "Unlicht"
+  ],
+  "stage": "Rang 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Fähigkeit",
+      "name": "Fellkleid",
+      "effect": "Diesem Pokémon werden durch Attacken − 20 Schadenspunkte zugefügt."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Unlicht",
+        "Farblos"
+      ],
+      "name": "Klauenschlitzer",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Pflanze",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Da runde Gesichter in der Alola-Region als Symbol\nfür Wohlstand gelten, zollt man diesem Pokémon\ndort großen Respekt."
+}

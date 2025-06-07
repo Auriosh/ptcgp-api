@@ -1,0 +1,48 @@
+{
+  "language": "en_US",
+  "id": "A3-071",
+  "name": "Spoink",
+  "localId": "071",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Celestial Guardians"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/en_US/A3/A3-071_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-071_artwork.png",
+  "illustrator": "Sekio",
+  "hp": 60,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psychic"
+      ],
+      "name": "Psycharge",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Take a {P} Energy from your Energy Zone and attach it to this Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Darkness",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Spoink will die if it stops bouncing. The pearl on its head amplifies its psychic powers."
+}

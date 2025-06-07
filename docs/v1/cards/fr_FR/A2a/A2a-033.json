@@ -1,0 +1,49 @@
+{
+  "language": "fr_FR",
+  "id": "A2a-033",
+  "name": "Ectoplasma",
+  "localId": "033",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Lumière Triomphale"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2a/A2a-033_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-033_artwork.png",
+  "illustrator": "Midori Harada",
+  "hp": 140,
+  "types": [
+    "Psy"
+  ],
+  "stage": "Niveau 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psy",
+        "Psy"
+      ],
+      "name": "Hypnoblast",
+      "damage": {
+        "value": 70,
+        "modifier": null
+      },
+      "effect": "Le Pokémon Actif de votre adversaire est maintenant Endormi."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Obscurité",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il se cache dans l'ombre de sa victime et attend\npatiemment le bon moment pour lui voler sa vie."
+}

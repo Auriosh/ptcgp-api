@@ -1,0 +1,55 @@
+{
+  "language": "fr_FR",
+  "id": "A3-066",
+  "name": "Plumeline",
+  "localId": "066",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Gardiens Astraux"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A3/A3-066_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-066_artwork.png",
+  "illustrator": "Jerky",
+  "hp": 70,
+  "types": [
+    "Électrique"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Talent",
+      "name": "Rune Protect",
+      "effect": "Évitez tous les dégâts infligés à ce Pokémon par les attaques des Pokémon-{ex} de votre adversaire."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Électrique",
+        "Incolore"
+      ],
+      "name": "Zzzap",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Combat",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Ce Plumeline a bu du Nectar Jaune. Il s'approche\nprestement de ses adversaires en dansant et les\nmet K.O. en leur assénant des coups électriques."
+}

@@ -1,0 +1,43 @@
+{
+  "language": "de_DE",
+  "id": "A2-121",
+  "name": "Kaumalat",
+  "localId": "121",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Kollision von Raum und Zeit"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2/A2-121_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-121_artwork.png",
+  "illustrator": "Naoyo Kimura",
+  "hp": 60,
+  "types": [
+    "Drache"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Farblos"
+      ],
+      "name": "Nagen",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Es verbirgt sich in kleinen Höhlen, aus denen es\nherausspringt und vorbeilaufende Gegner oder\nBeute beißt. Manchmal bricht dabei ein Zahn ab."
+}

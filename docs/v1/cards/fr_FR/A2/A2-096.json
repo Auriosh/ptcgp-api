@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A2-096",
+  "name": "Cornèbre",
+  "localId": "096",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Choc Spatio-Temporel"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2/A2-096_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-096_artwork.png",
+  "illustrator": "Yukiko Baba",
+  "hp": 60,
+  "types": [
+    "Obscurité"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Obscurité"
+      ],
+      "name": "Picpic",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Électrique",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Ce Pokémon redouté et peu aimé porterait\nmalheur à quiconque l'aperçoit la nuit."
+}

@@ -1,0 +1,53 @@
+{
+  "language": "en_US",
+  "id": "A1-150",
+  "name": "Onix",
+  "localId": "150",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1",
+    "name": "Genetic Apex"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A1/A1-150_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-150_artwork.png",
+  "illustrator": "otumami",
+  "hp": 110,
+  "types": [
+    "Fighting"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fighting",
+        "Fighting",
+        "Fighting"
+      ],
+      "name": "Land Crush",
+      "damage": {
+        "value": 70,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Grass",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "As it digs through the ground, it absorbs many hard objects. This is what makes its body so solid."
+}

@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A3-013",
+  "name": "Larvibule",
+  "localId": "013",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Gardiens Astraux"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A3/A3-013_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-013_artwork.png",
+  "illustrator": "Yuka Morii",
+  "hp": 60,
+  "types": [
+    "Plante"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore"
+      ],
+      "name": "Ronge",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feu",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Ses mandibules peuvent briser de très grosses\nbranches. Même Minisange, son ennemi\nnaturel, s'enfuit à tire-d'aile devant lui."
+}

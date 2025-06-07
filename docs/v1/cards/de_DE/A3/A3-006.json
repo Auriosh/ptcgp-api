@@ -1,0 +1,48 @@
+{
+  "language": "de_DE",
+  "id": "A3-006",
+  "name": "Laukaps",
+  "localId": "006",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-006_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-006_artwork.png",
+  "illustrator": "OOYAMA",
+  "hp": 60,
+  "types": [
+    "Pflanze"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Farblos"
+      ],
+      "name": "Kopfnuss",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feuer",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Sein Körper reagiert unerklärlicherweise auf\nElektrizität. Die Anwesenheit von Schnuthelm\nlöst bei ihm die Entwicklung aus."
+}

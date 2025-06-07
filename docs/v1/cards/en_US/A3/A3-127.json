@@ -1,0 +1,45 @@
+{
+  "language": "en_US",
+  "id": "A3-127",
+  "name": "Kommo-o",
+  "localId": "127",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Celestial Guardians"
+  },
+  "rarity": "Three Diamond",
+  "cardImage": "/assets/cardImage/en_US/A3/A3-127_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-127_artwork.png",
+  "illustrator": "hatachu",
+  "hp": 150,
+  "types": [
+    "Dragon"
+  ],
+  "stage": "Stage2",
+  "evolveFrom": "Hakamo-o",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lightning",
+        "Fighting"
+      ],
+      "name": "Clanging Scales",
+      "damage": {
+        "value": 130,
+        "modifier": null
+      },
+      "effect": "During your opponent's next turn, this Pokémon takes +30 damage from attacks."
+    }
+  ],
+  "weaknesses": [],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "It clatters its tail scales to unnerve opponents. This Pokémon will battle only those who stand steadfast in the face of this display."
+}

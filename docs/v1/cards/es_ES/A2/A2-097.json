@@ -1,0 +1,50 @@
+{
+  "language": "es_ES",
+  "id": "A2-097",
+  "name": "Honchkrow",
+  "localId": "097",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Pugna Espaciotemporal"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2/A2-097_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-097_artwork.png",
+  "illustrator": "Hideki Ishikawa",
+  "hp": 100,
+  "types": [
+    "Oscura"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Oscura",
+        "Oscura"
+      ],
+      "name": "Técnica de Buceo",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Este ataque hace 50 puntos de daño a 1 de los Pokémon de tu rival."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Rayo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "No perdona ni se apiada nunca. No consiente\nfallos ni a los propios Murkrow que lo siguen."
+}

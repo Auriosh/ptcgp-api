@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "A2a-006",
+  "name": "Cherubi",
+  "localId": "006",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2a",
+    "name": "Luz Triunfante"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A2a/A2a-006_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-006_artwork.png",
+  "illustrator": "Atsuko Nishida",
+  "hp": 50,
+  "types": [
+    "Grass"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Grass"
+      ],
+      "name": "Folhagem",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Corre agilmente para evitar ser bicado por Pokémon\npássaro que adorariam fugir com sua bolinha\nde armazenamento rica em nutrientes."
+}

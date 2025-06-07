@@ -1,0 +1,48 @@
+{
+  "language": "de_DE",
+  "id": "A1-133",
+  "name": "Fleknoil",
+  "localId": "133",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Unschlagbare Gene"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A1/A1-133_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-133_artwork.png",
+  "illustrator": "MAHOU",
+  "hp": 60,
+  "types": [
+    "Psycho"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Farblos"
+      ],
+      "name": "Nagen",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Unlicht",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Herzförmige Flecken an der Decke einer Höhle\nsind ein sicheres Zeichen dafür, dass sie von\nFleknoil behaust wird."
+}

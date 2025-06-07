@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "P-A-015",
+  "name": "Pikachu",
+  "localId": "015",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "Sans Rareté",
+  "cardImage": "/assets/cardImage/fr_FR/P-A/P-A-015_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-015_artwork.png",
+  "illustrator": "Kouki Saitou",
+  "hp": 60,
+  "types": [
+    "Électrique"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Électrique"
+      ],
+      "name": "Ronge",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Combat",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Quand il s'énerve, il libère instantanément\nl'énergie emmagasinée dans les poches de\nses joues."
+}

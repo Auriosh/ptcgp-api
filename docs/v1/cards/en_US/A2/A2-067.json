@@ -1,0 +1,51 @@
+{
+  "language": "en_US",
+  "id": "A2-067",
+  "name": "Mismagius ex",
+  "localId": "067",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Space-Time Smackdown"
+  },
+  "rarity": "Four Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2/A2-067_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-067_artwork.png",
+  "illustrator": "PLANETA Igarashi",
+  "hp": 140,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Misdreavus",
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psychic",
+        "Psychic"
+      ],
+      "name": "Magical Delusion",
+      "damage": {
+        "value": 70,
+        "modifier": null
+      },
+      "effect": "Your opponent's Active Pokémon is now Confused."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Darkness",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": ""
+}

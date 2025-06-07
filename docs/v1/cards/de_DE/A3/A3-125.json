@@ -1,0 +1,43 @@
+{
+  "language": "de_DE",
+  "id": "A3-125",
+  "name": "Miniras",
+  "localId": "125",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-125_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-125_artwork.png",
+  "illustrator": "Naoki Saito",
+  "hp": 60,
+  "types": [
+    "Drache"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Farblos"
+      ],
+      "name": "Kopfnuss",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Durch Aneinanderschlagen ihrer Kopfschuppen\nbringen sie einander das Kämpfen bei. Dadurch\nverbessern sich ihre Attacken und ihre Stimmung."
+}

@@ -1,0 +1,58 @@
+{
+  "language": "fr_FR",
+  "id": "A2a-022",
+  "name": "Givrali-ex",
+  "localId": "022",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Lumière Triomphale"
+  },
+  "rarity": "Quatre Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2a/A2a-022_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-022_artwork.png",
+  "illustrator": "PLANETA CG Works",
+  "hp": 140,
+  "types": [
+    "Eau"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Talent",
+      "name": "Terrain Enneigé",
+      "effect": "Pendant le Contrôle Pokémon, si ce Pokémon est sur le Poste Actif, infligez 10 dégâts au Pokémon Actif de votre adversaire."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Eau",
+        "Eau",
+        "Incolore"
+      ],
+      "name": "Vent Glaçant",
+      "damage": {
+        "value": 90,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Métal",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": ""
+}

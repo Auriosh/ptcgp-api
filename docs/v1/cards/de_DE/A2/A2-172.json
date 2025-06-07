@@ -1,0 +1,48 @@
+{
+  "language": "de_DE",
+  "id": "A2-172",
+  "name": "Kryppuk",
+  "localId": "172",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Kollision von Raum und Zeit"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/de_DE/A2/A2-172_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-172_artwork.png",
+  "illustrator": "Shinji Kanda",
+  "hp": 80,
+  "types": [
+    "Unlicht"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Farblos"
+      ],
+      "name": "Wirbelndes Desaster",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Diese Attacke fügt jedem Pokémon deines Gegners 10 Schadenspunkte zu."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Pflanze",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Aufgrund seiner ständigen Untaten wurde es mit\nmysteriösen Künsten an einen Spiritkern gebunden."
+}

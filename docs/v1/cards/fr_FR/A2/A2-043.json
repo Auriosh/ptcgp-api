@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A2-043",
+  "name": "Luminéon",
+  "localId": "043",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Choc Spatio-Temporel"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2/A2-043_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-043_artwork.png",
+  "illustrator": "rika",
+  "hp": 90,
+  "types": [
+    "Eau"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Eau"
+      ],
+      "name": "Cascade",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Électrique",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "La lumière qu'il émet pour attirer ses\nproies attire également ses prédateurs,\ndes Pokémon poissons féroces."
+}

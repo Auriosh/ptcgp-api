@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A1-246",
+  "name": "Miaouss",
+  "localId": "246",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Puissance Génétique"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/fr_FR/A1/A1-246_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-246_artwork.png",
+  "illustrator": "Mina Nakai",
+  "hp": 60,
+  "types": [
+    "Incolore"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore"
+      ],
+      "name": "Jackpot",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": "Piochez une carte."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Combat",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il passe ses journées à dormir. La nuit venue,\nil patrouille sur son territoire, les yeux brillants."
+}

@@ -1,0 +1,51 @@
+{
+  "language": "it_IT",
+  "id": "A2b-046",
+  "name": "Arbok",
+  "localId": "046",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Tripudio Splendente"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2b/A2b-046_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-046_artwork.png",
+  "illustrator": "Midori Harada",
+  "hp": 110,
+  "types": [
+    "Oscurità"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Oscurità",
+        "Oscurità",
+        "Incolore"
+      ],
+      "name": "Dentevelenoso",
+      "damage": {
+        "value": 70,
+        "modifier": null
+      },
+      "effect": "Il Pokémon attivo del tuo avversario viene avvelenato."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lotta",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Spiazza l'avversario con il disegno sul ventre,\npoi gli si avvinghia rapidamente e aspetta\nche il suo battito cardiaco si fermi."
+}

@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A2a-006",
+  "name": "Ceribou",
+  "localId": "006",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Lumière Triomphale"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2a/A2a-006_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-006_artwork.png",
+  "illustrator": "Atsuko Nishida",
+  "hp": 50,
+  "types": [
+    "Plante"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Plante"
+      ],
+      "name": "Feuillage",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feu",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il s'enfuit à la vue des Pokémon oiseaux, dont le mets\nfavori est sa petite boule remplie de nutriments."
+}

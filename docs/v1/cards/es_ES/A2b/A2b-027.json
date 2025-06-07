@@ -1,0 +1,49 @@
+{
+  "language": "es_ES",
+  "id": "A2b-027",
+  "name": "Pawmo",
+  "localId": "027",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Festival Brillante"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2b/A2b-027_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-027_artwork.png",
+  "illustrator": "Saboteri",
+  "hp": 90,
+  "types": [
+    "Rayo"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Rayo",
+        "Rayo"
+      ],
+      "name": "Puño",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lucha",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Cuando su manada se ve amenazada, atacan a la\nvanguardia usando un arte marcial caracterizado\npor el empleo de descargas eléctricas."
+}

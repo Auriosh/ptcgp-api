@@ -1,0 +1,50 @@
+{
+  "language": "fr_FR",
+  "id": "A2a-012",
+  "name": "Démolosse",
+  "localId": "012",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Lumière Triomphale"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2a/A2a-012_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-012_artwork.png",
+  "illustrator": "Hajime Kusajima",
+  "hp": 100,
+  "types": [
+    "Feu"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Feu",
+        "Incolore"
+      ],
+      "name": "Coinçage",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": "Pendant le prochain tour de votre adversaire, le Pokémon Défenseur ne peut pas battre en retraite."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Eau",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Les blessures provoquées par son souffle enflammé\nsont permanentes, et la douleur ne disparaît jamais."
+}

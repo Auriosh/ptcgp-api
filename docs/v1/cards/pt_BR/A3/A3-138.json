@@ -1,0 +1,51 @@
+{
+  "language": "pt_BR",
+  "id": "A3-138",
+  "name": "Stufful",
+  "localId": "138",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-138_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-138_artwork.png",
+  "illustrator": "Sanosuke Sakuma",
+  "hp": 70,
+  "types": [
+    "Colorless"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Martelada",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "O seu pelo fofinho é uma delícia de acariciar,\nmas tocá-lo sem muito cuidado pode resultar\nem uma retaliação dolorosa."
+}

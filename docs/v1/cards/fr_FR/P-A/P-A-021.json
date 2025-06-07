@@ -1,0 +1,53 @@
+{
+  "language": "fr_FR",
+  "id": "P-A-021",
+  "name": "Onix",
+  "localId": "021",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "Sans Rareté",
+  "cardImage": "/assets/cardImage/fr_FR/P-A/P-A-021_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-021_artwork.png",
+  "illustrator": "Tomokazu Komiya",
+  "hp": 110,
+  "types": [
+    "Combat"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Combat",
+        "Combat",
+        "Combat"
+      ],
+      "name": "Écras'Terre",
+      "damage": {
+        "value": 70,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Plante",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Il absorbe des éléments solides en creusant le sol,\nce qui le rend plus robuste."
+}

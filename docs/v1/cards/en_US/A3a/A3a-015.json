@@ -1,0 +1,56 @@
+{
+  "language": "en_US",
+  "id": "A3a-015",
+  "name": "Luxray",
+  "localId": "015",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3a",
+    "name": "Extradimensional Crisis"
+  },
+  "rarity": "Three Diamond",
+  "cardImage": "/assets/cardImage/en_US/A3a/A3a-015_card.png",
+  "artworkImage": "/assets/artworkImage/A3a/A3a-015_artwork.png",
+  "illustrator": "Masakazu Fukuda",
+  "hp": 130,
+  "types": [
+    "Lightning"
+  ],
+  "stage": "Stage2",
+  "evolveFrom": "Luxio",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Intimidating Fang",
+      "effect": "As long as this Pokémon is in the Active Spot, attacks used by your opponent's Active Pokémon do −20 damage."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Lightning",
+        "Lightning",
+        "Colorless"
+      ],
+      "name": "Electric Ball",
+      "damage": {
+        "value": 90,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "It can see clearly through walls to track down its\nprey and seek its lost young."
+}

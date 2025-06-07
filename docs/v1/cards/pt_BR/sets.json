@@ -1,0 +1,37 @@
+[
+  {
+    "id": "A1",
+    "name": "Dominação Genética",
+    "logo": "/assets/logoImage/pt_BR/logo_A1_pt_BR.png"
+  },
+  {
+    "id": "A1a",
+    "name": "Ilha Mítica",
+    "logo": "/assets/logoImage/pt_BR/logo_A1a_pt_BR.png"
+  },
+  {
+    "id": "A2",
+    "name": "Embate do Tempo e Espaço",
+    "logo": "/assets/logoImage/pt_BR/logo_A2_pt_BR.png"
+  },
+  {
+    "id": "A2a",
+    "name": "Luz Triunfante",
+    "logo": "/assets/logoImage/pt_BR/logo_A2a_pt_BR.png"
+  },
+  {
+    "id": "A2b",
+    "name": "Festival Brilhante",
+    "logo": "/assets/logoImage/pt_BR/logo_A2b_pt_BR.png"
+  },
+  {
+    "id": "A3",
+    "name": "Guardiões Celestiais",
+    "logo": "/assets/logoImage/pt_BR/logo_A3_pt_BR.png"
+  },
+  {
+    "id": "P-A",
+    "name": "Promo-A",
+    "logo": "/assets/logoImage/pt_BR/logo_P-A_pt_BR.png"
+  }
+]

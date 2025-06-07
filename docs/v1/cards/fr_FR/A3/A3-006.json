@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A3-006",
+  "name": "Carabing",
+  "localId": "006",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Gardiens Astraux"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A3/A3-006_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-006_artwork.png",
+  "illustrator": "OOYAMA",
+  "hp": 60,
+  "types": [
+    "Plante"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore"
+      ],
+      "name": "Coup d'Boule",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feu",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Son corps étrangement structuré\na la faculté de réagir à l'électricité.\nIl évolue lorsqu'il croise un Escargaume."
+}

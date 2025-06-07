@@ -1,0 +1,48 @@
+{
+  "language": "en_US",
+  "id": "A2a-045",
+  "name": "Gible",
+  "localId": "045",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2a",
+    "name": "Triumphant Light"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2a/A2a-045_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-045_artwork.png",
+  "illustrator": "Kyoko Umemoto",
+  "hp": 60,
+  "types": [
+    "Fighting"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fighting"
+      ],
+      "name": "Tackle",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Grass",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "It skulks in caves, and when prey or an enemy passes by, it leaps out and chomps them. The force of its attack sometimes chips its teeth."
+}

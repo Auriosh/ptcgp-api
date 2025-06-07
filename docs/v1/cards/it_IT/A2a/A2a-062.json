@@ -1,0 +1,49 @@
+{
+  "language": "it_IT",
+  "id": "A2a-062",
+  "name": "Eevee",
+  "localId": "062",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Luce Trionfale"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2a/A2a-062_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-062_artwork.png",
+  "illustrator": "Naoyo Kimura",
+  "hp": 60,
+  "types": [
+    "Incolore"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Codabotta",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lotta",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "La capacità di evolversi in diverse specie gli permette\ndi adattarsi perfettamente a qualsiasi tipo di ambiente."
+}

@@ -1,0 +1,60 @@
+{
+  "language": "pt_BR",
+  "id": "A2a-041",
+  "name": "Tyranitar",
+  "localId": "041",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2a",
+    "name": "Luz Triunfante"
+  },
+  "rarity": "Three Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A2a/A2a-041_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-041_artwork.png",
+  "illustrator": "kawayoo",
+  "hp": 160,
+  "types": [
+    "Fighting"
+  ],
+  "stage": "Stage2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Elo de Poder",
+      "effect": "Se você tiver Arceus ou Arceus ex em jogo, os ataques usados por este Pokémon causarão +30 pontos de dano ao Pokémon Ativo do seu oponente."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Fighting",
+        "Fighting",
+        "Fighting",
+        "Colorless"
+      ],
+      "name": "Aperto de Terra",
+      "damage": {
+        "value": 130,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Grass",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Extremamente forte, pode modificar a paisagem.\nÉ tão insolente que não se preocupa com os outros."
+}

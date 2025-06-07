@@ -1,0 +1,49 @@
+{
+  "language": "fr_FR",
+  "id": "P-A-059",
+  "name": "Riolu",
+  "localId": "059",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "Sans Rareté",
+  "cardImage": "/assets/cardImage/fr_FR/P-A/P-A-059_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-059_artwork.png",
+  "illustrator": "Akira Komayama",
+  "hp": 70,
+  "types": [
+    "Combat"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Combat",
+        "Combat"
+      ],
+      "name": "Koud'Poing",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psy",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Les Riolu communiquent entre eux à l'aide de\nleur aura. Ils sont capables de courir toute la nuit."
+}

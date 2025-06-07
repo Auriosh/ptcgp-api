@@ -1,0 +1,64 @@
+{
+  "language": "fr_FR",
+  "id": "A1-104",
+  "name": "Électhor-ex",
+  "localId": "104",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Puissance Génétique"
+  },
+  "rarity": "Quatre Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A1/A1-104_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-104_artwork.png",
+  "illustrator": "PLANETA CG Works",
+  "hp": 130,
+  "types": [
+    "Électrique"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Électrique"
+      ],
+      "name": "Picpic",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    },
+    {
+      "cost": [
+        "Électrique",
+        "Électrique",
+        "Électrique"
+      ],
+      "name": "Rafale d'Éclairs",
+      "damage": {
+        "value": 50,
+        "modifier": "x"
+      },
+      "effect": "Lancez 4 pièces. Cette attaque inflige 50 dégâts pour chaque côté face."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Électrique",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": ""
+}

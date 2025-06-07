@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "P-A-056",
+  "name": "Abo",
+  "localId": "056",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "Sans Rareté",
+  "cardImage": "/assets/cardImage/fr_FR/P-A/P-A-056_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-056_artwork.png",
+  "illustrator": "Krgc",
+  "hp": 60,
+  "types": [
+    "Obscurité"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Obscurité"
+      ],
+      "name": "Dard-Venin",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Le Pokémon Actif de votre adversaire est maintenant Empoisonné."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Combat",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il peut se déboîter la mâchoire pour avaler tout rond des proies\nplus grosses que lui. Il se replie ensuite sur lui-même pour digérer."
+}

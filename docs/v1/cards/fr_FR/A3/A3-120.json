@@ -1,0 +1,50 @@
+{
+  "language": "fr_FR",
+  "id": "A3-120",
+  "name": "Lançargot",
+  "localId": "120",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Gardiens Astraux"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A3/A3-120_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-120_artwork.png",
+  "illustrator": "Satoshi Shirai",
+  "hp": 110,
+  "types": [
+    "Métal"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Métal"
+      ],
+      "name": "Javelot",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": "Cette attaque inflige aussi 20 dégâts à un des Pokémon de Banc de votre adversaire."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feu",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Ce Pokémon se protège avec la carapace\ndérobée à un Escargaume et attaque\navec ses deux redoutables lances."
+}

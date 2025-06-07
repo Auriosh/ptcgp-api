@@ -1,0 +1,51 @@
+{
+  "language": "en_US",
+  "id": "A1a-085",
+  "name": "Celebi ex",
+  "localId": "085",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1a",
+    "name": "Mythical Island"
+  },
+  "rarity": "Three Star",
+  "cardImage": "/assets/cardImage/en_US/A1a/A1a-085_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-085_artwork.png",
+  "illustrator": "kantaro",
+  "hp": 130,
+  "types": [
+    "Grass"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Grass",
+        "Colorless"
+      ],
+      "name": "Powerful Bloom",
+      "damage": {
+        "value": 50,
+        "modifier": "x"
+      },
+      "effect": "Flip a coin for each Energy attached to this Pokémon. This attack does 50 damage for each heads."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": ""
+}

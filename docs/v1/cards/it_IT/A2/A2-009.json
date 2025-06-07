@@ -1,0 +1,50 @@
+{
+  "language": "it_IT",
+  "id": "A2-009",
+  "name": "Roserade",
+  "localId": "009",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Scontro Spaziotemporale"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2/A2-009_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-009_artwork.png",
+  "illustrator": "Masakazu Fukuda",
+  "hp": 100,
+  "types": [
+    "Erba"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Erba",
+        "Incolore"
+      ],
+      "name": "Frustata Velenosa",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": "Il Pokémon attivo del tuo avversario viene avvelenato."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fuoco",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Stordisce l'avversario con il profumo intenso dei suoi\nfiori e lo colpisce con le sue fruste piene di spine."
+}

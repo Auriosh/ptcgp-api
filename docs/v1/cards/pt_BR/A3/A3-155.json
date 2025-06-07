@@ -1,0 +1,27 @@
+{
+  "language": "pt_BR",
+  "id": "A3-155",
+  "name": "Lílian",
+  "localId": "155",
+  "category": "Trainer",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-155_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-155_artwork.png",
+  "illustrator": "hechima",
+  "hp": null,
+  "types": [],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [],
+  "weaknesses": [],
+  "rules": [],
+  "retreat": [],
+  "description": ""
+}

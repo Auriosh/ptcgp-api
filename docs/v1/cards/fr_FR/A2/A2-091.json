@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A2-091",
+  "name": "Riolu",
+  "localId": "091",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Choc Spatio-Temporel"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2/A2-091_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-091_artwork.png",
+  "illustrator": "AKIRA EGAWA",
+  "hp": 60,
+  "types": [
+    "Combat"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Combat"
+      ],
+      "name": "Taquet",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psy",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Les Riolu communiquent entre eux à l'aide de\nleur aura. Ils sont capables de courir toute la nuit."
+}

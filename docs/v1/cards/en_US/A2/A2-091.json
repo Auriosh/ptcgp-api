@@ -1,0 +1,48 @@
+{
+  "language": "en_US",
+  "id": "A2-091",
+  "name": "Riolu",
+  "localId": "091",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Space-Time Smackdown"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2/A2-091_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-091_artwork.png",
+  "illustrator": "AKIRA EGAWA",
+  "hp": 60,
+  "types": [
+    "Fighting"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fighting"
+      ],
+      "name": "Jab",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psychic",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "They communicate with one another using their auras. They are able to run all through the night."
+}

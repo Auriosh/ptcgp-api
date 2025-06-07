@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "A3-131",
+  "name": "Fletchling",
+  "localId": "131",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-131_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-131_artwork.png",
+  "illustrator": "5ban Graphics",
+  "hp": 50,
+  "types": [
+    "Colorless"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Asa",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Este Pokémon é geralmente calmo, mas quando entra\nem batalha, seu equilíbrio hormonal muda, fazendo\ncom que se torne agressivo."
+}

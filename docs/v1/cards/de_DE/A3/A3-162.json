@@ -1,0 +1,48 @@
+{
+  "language": "de_DE",
+  "id": "A3-162",
+  "name": "Alola-Vulpix",
+  "localId": "162",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-162_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-162_artwork.png",
+  "illustrator": "tono",
+  "hp": 60,
+  "types": [
+    "Wasser"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Wasser"
+      ],
+      "name": "Kälteruf",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Lege 1 {W}-Energie aus deinem Energiebereich an dieses Pokémon an."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metall",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Es hat lange in den allzeit schneebedeckten Bergen\nAlolas gelebt und sich dort über die Jahre die Kraft\ndes Eises angeeignet."
+}

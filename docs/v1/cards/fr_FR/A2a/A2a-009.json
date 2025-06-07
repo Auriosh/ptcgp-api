@@ -1,0 +1,54 @@
+{
+  "language": "fr_FR",
+  "id": "A2a-009",
+  "name": "Vortente",
+  "localId": "009",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Lumière Triomphale"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2a/A2a-009_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-009_artwork.png",
+  "illustrator": "Shiburingaru",
+  "hp": 80,
+  "types": [
+    "Plante"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Talent",
+      "name": "Lien Puissance",
+      "effect": "Si vous avez Arceus ou Arceus-ex en jeu, les attaques utilisées par ce Pokémon infligent + 30 dégâts au Pokémon Actif de votre adversaire."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Plante"
+      ],
+      "name": "Fouet Lianes",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feu",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il attire sa proie avec sa salive odorante avant\nde la croquer. Il lui faut une journée pour l'avaler."
+}

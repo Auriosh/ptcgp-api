@@ -1,0 +1,48 @@
+{
+  "language": "de_DE",
+  "id": "A3-074",
+  "name": "Shuppet",
+  "localId": "074",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-074_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-074_artwork.png",
+  "illustrator": "Kyoko Umemoto",
+  "hp": 60,
+  "types": [
+    "Psycho"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psycho"
+      ],
+      "name": "Irrlicht",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Unlicht",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Es verspeist am liebsten Gefühle wie Neid und Bosheit.\nSein aufrechtes Horn fängt die Emotionen der Menschen ein."
+}

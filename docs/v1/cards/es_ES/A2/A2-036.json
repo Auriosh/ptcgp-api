@@ -1,0 +1,49 @@
+{
+  "language": "es_ES",
+  "id": "A2-036",
+  "name": "Prinplup",
+  "localId": "036",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Pugna Espaciotemporal"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2/A2-036_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-036_artwork.png",
+  "illustrator": "Mizue",
+  "hp": 90,
+  "types": [
+    "Agua"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Agua",
+        "Incolora"
+      ],
+      "name": "Surf",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Rayo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Vive solo, alejado de los demás. Cada\nuno piensa que es el más importante."
+}

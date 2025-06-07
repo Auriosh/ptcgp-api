@@ -1,0 +1,48 @@
+{
+  "language": "en_US",
+  "id": "A1a-051",
+  "name": "Purrloin",
+  "localId": "051",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1a",
+    "name": "Mythical Island"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/en_US/A1a/A1a-051_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-051_artwork.png",
+  "illustrator": "Kagemaru Himeno",
+  "hp": 60,
+  "types": [
+    "Darkness"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Darkness"
+      ],
+      "name": "Scratch",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Grass",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "It steals things from people just to amuse itself with their frustration. A rivalry exists between this Pokémon and Nickit."
+}

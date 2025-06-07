@@ -1,0 +1,43 @@
+{
+  "language": "fr_FR",
+  "id": "A2-121",
+  "name": "Griknot",
+  "localId": "121",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Choc Spatio-Temporel"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2/A2-121_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-121_artwork.png",
+  "illustrator": "Naoyo Kimura",
+  "hp": 60,
+  "types": [
+    "Dragon"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore"
+      ],
+      "name": "Ronge",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il attend qu'une proie passe pour bondir hors de son trou\net la croquer. Dans son élan, il se casse parfois les dents."
+}

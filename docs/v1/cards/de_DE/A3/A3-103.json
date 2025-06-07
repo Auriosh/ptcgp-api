@@ -1,0 +1,54 @@
+{
+  "language": "de_DE",
+  "id": "A3-103",
+  "name": "Pampross",
+  "localId": "103",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-103_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-103_artwork.png",
+  "illustrator": "Takeshi Nakamura",
+  "hp": 140,
+  "types": [
+    "Kampf"
+  ],
+  "stage": "Rang 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Kampf",
+        "Kampf",
+        "Kampf",
+        "Farblos"
+      ],
+      "name": "Pferdestärke",
+      "damage": {
+        "value": 140,
+        "modifier": null
+      },
+      "effect": "Dieses Pokémon fügt auch sich selbst 40 Schadenspunkte zu."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Pflanze",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Es wird sehr für seine Schwerstarbeit und für das\nHerstellen von hochwertigem Schlamm geschätzt,\nder ein ideales Material für die Keramik darstellt."
+}

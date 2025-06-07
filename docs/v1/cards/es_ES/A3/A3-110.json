@@ -1,0 +1,50 @@
+{
+  "language": "es_ES",
+  "id": "A3-110",
+  "name": "Grimerde Alola",
+  "localId": "110",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-110_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-110_artwork.png",
+  "illustrator": "Akira Komayama",
+  "hp": 70,
+  "types": [
+    "Oscura"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Oscura",
+        "Incolora"
+      ],
+      "name": "Lanzamiento de Residuos",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lucha",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "En los vertederos de Alola habitan unos 100\nejemplares que devoran la basura con diligencia."
+}

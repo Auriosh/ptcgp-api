@@ -1,0 +1,27 @@
+{
+  "language": "fr_FR",
+  "id": "A1a-064",
+  "name": "Flûte Pokémon",
+  "localId": "064",
+  "category": "Dresseur",
+  "set": {
+    "id": "A1a",
+    "name": "L’Île Fabuleuse"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A1a/A1a-064_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-064_artwork.png",
+  "illustrator": "Toyste Beach",
+  "hp": null,
+  "types": [],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [],
+  "weaknesses": [],
+  "rules": [],
+  "retreat": [],
+  "description": ""
+}

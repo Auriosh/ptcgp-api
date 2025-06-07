@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A1-049",
+  "name": "Tritox",
+  "localId": "049",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Puissance Génétique"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A1/A1-049_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-049_artwork.png",
+  "illustrator": "Kyoko Umemoto",
+  "hp": 60,
+  "types": [
+    "Feu"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Feu"
+      ],
+      "name": "Griffe",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Eau",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il provoque ses proies afin de les attirer dans\nd'étroites zones rocheuses, puis il les étourdit\navec son gaz toxique avant de les achever."
+}

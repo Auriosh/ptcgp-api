@@ -1,0 +1,51 @@
+{
+  "language": "pt_BR",
+  "id": "A2a-023",
+  "name": "PalkiaForma Origem",
+  "localId": "023",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2a",
+    "name": "Luz Triunfante"
+  },
+  "rarity": "Three Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A2a/A2a-023_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-023_artwork.png",
+  "illustrator": "toriyufu",
+  "hp": 120,
+  "types": [
+    "Water"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Water",
+        "Water",
+        "Water"
+      ],
+      "name": "Zona de Colisão",
+      "damage": {
+        "value": 60,
+        "modifier": "+"
+      },
+      "effect": "Jogue uma moeda. Se sair cara, este ataque causará 60 pontos de dano a mais."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Dispara pelos céus com uma forma que se assemelha\nmuito ao criador de todas as coisas. Pode ser que essa\nimitação de aparência de Palkia seja uma estratégia\npara conquistar os poderes de Arceus."
+}

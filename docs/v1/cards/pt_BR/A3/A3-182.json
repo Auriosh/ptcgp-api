@@ -1,0 +1,64 @@
+{
+  "language": "pt_BR",
+  "id": "A3-182",
+  "name": "Incineroar ex",
+  "localId": "182",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "Two Star",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-182_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-182_artwork.png",
+  "illustrator": "PLANETA Tsuji",
+  "hp": 180,
+  "types": [
+    "Fire"
+  ],
+  "stage": "Stage2",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fire"
+      ],
+      "name": "Presas de Fogo",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": "O Pokémon Ativo do seu oponente agora está Queimado."
+    },
+    {
+      "cost": [
+        "Fire",
+        "Fire",
+        "Colorless"
+      ],
+      "name": "Destruir a Cicatriz",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": "Se este Pokémon estiver danificado, este ataque causará 60 pontos de dano a mais."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Water",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": ""
+}

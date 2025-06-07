@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A3-218",
+  "name": "Staryu",
+  "localId": "218",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "Un Chromatique",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-218_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-218_artwork.png",
+  "illustrator": "MAHOU",
+  "hp": 50,
+  "types": [
+    "Agua"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Agua"
+      ],
+      "name": "Palmetazo",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Rayo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "A finales de verano, se pueden ver grupos\nde Staryu en la orilla de la playa sincronizando\nel brillo de sus núcleos a ritmo regular."
+}

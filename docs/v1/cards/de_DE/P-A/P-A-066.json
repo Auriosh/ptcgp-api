@@ -1,0 +1,49 @@
+{
+  "language": "de_DE",
+  "id": "P-A-066",
+  "name": "Mimigma",
+  "localId": "066",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "PROMO-A"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/de_DE/P-A/P-A-066_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-066_artwork.png",
+  "illustrator": "Amelicart",
+  "hp": 70,
+  "types": [
+    "Psycho"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psycho",
+        "Farblos"
+      ],
+      "name": "Schattenschlag",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": "Diese Attacke fügt auch 1 deiner Pokémon 20 Schadenspunkte zu."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Unlicht",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Es lebt an dunklen Orten ohne Sonnenlicht.\nMenschen zeigt es sich nur, wenn es mit einem\nLumpen bedeckt ist, der aussieht wie ein Pikachu."
+}

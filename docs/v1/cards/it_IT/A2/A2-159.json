@@ -1,0 +1,55 @@
+{
+  "language": "it_IT",
+  "id": "A2-159",
+  "name": "Shaymin",
+  "localId": "159",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Scontro Spaziotemporale"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/it_IT/A2/A2-159_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-159_artwork.png",
+  "illustrator": "REND",
+  "hp": 60,
+  "types": [
+    "Erba"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Giardino di Fiori Profumati",
+      "effect": "Una sola volta durante il tuo turno, puoi curare ciascuno dei tuoi Pokémon da 10 danni."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Erba",
+        "Incolore"
+      ],
+      "name": "Tonfo",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fuoco",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Può dissolvere le tossine nell'aria per mutare\nall'istante una terra arida in un rigoglioso campo fiorito."
+}

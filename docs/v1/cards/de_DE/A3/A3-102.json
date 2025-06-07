@@ -1,0 +1,50 @@
+{
+  "language": "de_DE",
+  "id": "A3-102",
+  "name": "Pampuli",
+  "localId": "102",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-102_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-102_artwork.png",
+  "illustrator": "Saya Tsuruta",
+  "hp": 80,
+  "types": [
+    "Kampf"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Kampf",
+        "Farblos"
+      ],
+      "name": "Rückwärtskick",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Pflanze",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Der Schlamm, der es bedeckt, besteht aus\nwiedergekäuter Erde. Dieser trocknet selbst dann\nnicht aus, wenn er lange der Sonne ausgesetzt ist."
+}

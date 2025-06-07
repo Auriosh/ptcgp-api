@@ -1,0 +1,55 @@
+{
+  "language": "fr_FR",
+  "id": "A2b-087",
+  "name": "Castorno-ex",
+  "localId": "087",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Réjouissances Rayonnantes"
+  },
+  "rarity": "deux Étoiles",
+  "cardImage": "/assets/cardImage/fr_FR/A2b/A2b-087_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-087_artwork.png",
+  "illustrator": "PLANETA CG Works",
+  "hp": 160,
+  "types": [
+    "Incolore"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore",
+        "Incolore",
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Pression Insouciante",
+      "damage": {
+        "value": 100,
+        "modifier": null
+      },
+      "effect": "Soignez 30 dégâts de ce Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Combat",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": ""
+}

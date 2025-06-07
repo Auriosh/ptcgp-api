@@ -1,0 +1,49 @@
+{
+  "language": "es_ES",
+  "id": "A1-014",
+  "name": "Paras",
+  "localId": "014",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Genes Formidables"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A1/A1-014_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-014_artwork.png",
+  "illustrator": "Naoyo Kimura",
+  "hp": 70,
+  "types": [
+    "Planta"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Planta",
+        "Incolora"
+      ],
+      "name": "Arañazo",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Guego",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Las setas que tiene en el dorso,\nllamadas tochukaso, controlan\nal insecto contra su voluntad."
+}

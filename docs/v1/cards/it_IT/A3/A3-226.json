@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "A3-226",
+  "name": "Cubone",
+  "localId": "226",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiani Astrali"
+  },
+  "rarity": "Un Chromatique",
+  "cardImage": "/assets/cardImage/it_IT/A3/A3-226_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-226_artwork.png",
+  "illustrator": "Sanosuke Sakuma",
+  "hp": 60,
+  "types": [
+    "Lotta"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore"
+      ],
+      "name": "Ruggito",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Durante il prossimo turno del tuo avversario, gli attacchi usati dal Pokémon difensore infliggono -20 danni."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Erba",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Quando piange pensando alla madre defunta,\ni suoi lamenti riecheggiano tristemente\nall'interno del teschio che ha in testa."
+}

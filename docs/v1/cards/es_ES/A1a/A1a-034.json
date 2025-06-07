@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A1a-034",
+  "name": "Elgyem",
+  "localId": "034",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "La Isla Singular"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A1a/A1a-034_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-034_artwork.png",
+  "illustrator": "Kouki Saitou",
+  "hp": 60,
+  "types": [
+    "Psíquico"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psíquico"
+      ],
+      "name": "Golpe Cabeza",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Oscura",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Cuando se halla junto a un televisor, la pantalla\nmuestra imágenes de extraños paisajes. Se cree\nque corresponden a su lugar de origen."
+}

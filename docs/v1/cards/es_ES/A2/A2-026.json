@@ -1,0 +1,51 @@
+{
+  "language": "es_ES",
+  "id": "A2-026",
+  "name": "Magcargo",
+  "localId": "026",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Pugna Espaciotemporal"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2/A2-026_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-026_artwork.png",
+  "illustrator": "Oswaldo KATO",
+  "hp": 120,
+  "types": [
+    "Guego"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Guego",
+        "Incolora"
+      ],
+      "name": "Llama Abrasadora",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": "El Pokémon Activo de tu rival pasa a estar Quemado."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Agua",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "En ocasiones, su resbaladiza concha lanza\nintensas llamaradas que recorren todo su cuerpo."
+}

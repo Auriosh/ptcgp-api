@@ -1,0 +1,46 @@
+{
+  "language": "pt_BR",
+  "id": "A2b-034",
+  "name": "Drifblim",
+  "localId": "034",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2b",
+    "name": "Festival Brilhante"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A2b/A2b-034_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-034_artwork.png",
+  "illustrator": "Hajime Kusajima",
+  "hp": 90,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psychic"
+      ],
+      "name": "Lufada de Vento",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Darkness",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [],
+  "description": "Ele pode gerar e soltar gases dentro do seu corpo.\nÉ assim que ele pode controlar a altitude da sua flutuação."
+}

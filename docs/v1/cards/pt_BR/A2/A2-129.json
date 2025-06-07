@@ -1,0 +1,51 @@
+{
+  "language": "pt_BR",
+  "id": "A2-129",
+  "name": "Porygon-Z",
+  "localId": "129",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Embate do Tempo e Espaço"
+  },
+  "rarity": "Three Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A2/A2-129_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-129_artwork.png",
+  "illustrator": "Shin Nagasawa",
+  "hp": 140,
+  "types": [
+    "Colorless"
+  ],
+  "stage": "Stage2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Raio Bugado",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": "Mude o tipo da próxima Energia que será gerada para seu oponente para 1 das seguintes Energias aleatoriamente: , , , , , , ou ."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Porygon-Z tem um programa instalado permitindo\nque se desloque entre dimensões. Porém, este programa\ncausou uma certa instabilidade em seu comportamento."
+}

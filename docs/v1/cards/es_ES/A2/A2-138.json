@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A2-138",
+  "name": "Lopunny",
+  "localId": "138",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Pugna Espaciotemporal"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2/A2-138_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-138_artwork.png",
+  "illustrator": "Sanosuke Sakuma",
+  "hp": 90,
+  "types": [
+    "Incolora"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolora"
+      ],
+      "name": "Patada Salto",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": "Este ataque también hace 20 puntos de daño a 1 de los Pokémon en Banca de tu rival."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lucha",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Está siempre atento a lo que ocurre a su\nalrededor. Si advierte peligro, se defenderá\ncon patadas de potencia devastadora."
+}

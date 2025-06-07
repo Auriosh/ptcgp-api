@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "A2-063",
+  "name": "Togepi",
+  "localId": "063",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Embate do Tempo e Espaço"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A2/A2-063_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-063_artwork.png",
+  "illustrator": "Narumi Sato",
+  "hp": 50,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psychic"
+      ],
+      "name": "Pancada",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metal",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Sua casca parece ser cheia de alegria e dizem que\ncompartilha a boa sorte quando é tratado com carinho."
+}

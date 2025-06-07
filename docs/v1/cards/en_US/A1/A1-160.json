@@ -1,0 +1,48 @@
+{
+  "language": "en_US",
+  "id": "A1-160",
+  "name": "Mienfoo",
+  "localId": "160",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1",
+    "name": "Genetic Apex"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/en_US/A1/A1-160_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-160_artwork.png",
+  "illustrator": "match",
+  "hp": 60,
+  "types": [
+    "Fighting"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Pound",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psychic",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "In one minute, a well-trained Mienfoo can chop with its arms more than 100 times."
+}

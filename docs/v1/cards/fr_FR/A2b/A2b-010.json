@@ -1,0 +1,67 @@
+{
+  "language": "fr_FR",
+  "id": "A2b-010",
+  "name": "Dracaufeu-ex",
+  "localId": "010",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Réjouissances Rayonnantes"
+  },
+  "rarity": "Quatre Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2b/A2b-010_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-010_artwork.png",
+  "illustrator": "PLANETA Igarashi",
+  "hp": 180,
+  "types": [
+    "Feu"
+  ],
+  "stage": "Niveau 2",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Feu"
+      ],
+      "name": "Attisement",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Prenez 3 Énergies {R} de votre zone Énergie et attachez-les à ce Pokémon."
+    },
+    {
+      "cost": [
+        "Feu",
+        "Feu",
+        "Feu",
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Artillerie Vapeur",
+      "damage": {
+        "value": 150,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Eau",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": ""
+}

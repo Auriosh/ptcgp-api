@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A2b-055",
+  "name": "Vrombi",
+  "localId": "055",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Réjouissances Rayonnantes"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2b/A2b-055_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-055_artwork.png",
+  "illustrator": "Souichirou Gunjima",
+  "hp": 70,
+  "types": [
+    "Métal"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Métal"
+      ],
+      "name": "Coup d'Boule",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feu",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "On raconte qu'il est né lorsqu'un mystérieux Pokémon Poison\na pris possession d'un moteur laissé à l'abandon dans une casse."
+}

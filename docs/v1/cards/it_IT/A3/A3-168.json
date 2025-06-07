@@ -1,0 +1,55 @@
+{
+  "language": "it_IT",
+  "id": "A3-168",
+  "name": "Comfey",
+  "localId": "168",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiani Astrali"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/it_IT/A3/A3-168_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-168_artwork.png",
+  "illustrator": "mashu",
+  "hp": 70,
+  "types": [
+    "Psico"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Fiordifesa",
+      "effect": "Ciascuno dei tuoi Pokémon che ha delle Energie {P} assegnate guarisce da tutte le condizioni speciali e non può essere influenzato da condizioni speciali."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Psico",
+        "Incolore"
+      ],
+      "name": "Attacco Rotante",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metallo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Coglie fiori con la sua liana e li usa per decorare il proprio corpo.\nNon si sa come mai, ma i fiori che ha addosso non appassiscono."
+}

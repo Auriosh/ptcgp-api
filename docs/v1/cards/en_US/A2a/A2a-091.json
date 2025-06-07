@@ -1,0 +1,58 @@
+{
+  "language": "en_US",
+  "id": "A2a-091",
+  "name": "Leafeon ex",
+  "localId": "091",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2a",
+    "name": "Triumphant Light"
+  },
+  "rarity": "Two Star",
+  "cardImage": "/assets/cardImage/en_US/A2a/A2a-091_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-091_artwork.png",
+  "illustrator": "saino misaki",
+  "hp": 140,
+  "types": [
+    "Grass"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Eevee",
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Forest Breath",
+      "effect": "Once during your turn, if this Pokémon is in the Active Spot, you may take a {G} Energy from your Energy Zone and attach it to 1 of your {G} Pokémon."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Grass",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Solar Beam",
+      "damage": {
+        "value": 70,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": ""
+}

@@ -1,0 +1,51 @@
+{
+  "language": "pt_BR",
+  "id": "A2b-107",
+  "name": "Beedrill ex",
+  "localId": "107",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2b",
+    "name": "Festival Brilhante"
+  },
+  "rarity": "Two Shiny",
+  "cardImage": "/assets/cardImage/pt_BR/A2b/A2b-107_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-107_artwork.png",
+  "illustrator": "PLANETA Igarashi",
+  "hp": 170,
+  "types": [
+    "Grass"
+  ],
+  "stage": "Stage2",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Grass",
+        "Grass"
+      ],
+      "name": "Lança Aniquiladora",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": "Descarte 1 Energia aleatória do Pokémon Ativo do seu oponente."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": ""
+}

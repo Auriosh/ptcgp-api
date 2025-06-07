@@ -1,0 +1,51 @@
+{
+  "language": "fr_FR",
+  "id": "A2a-030",
+  "name": "Mélodelfe",
+  "localId": "030",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Lumière Triomphale"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2a/A2a-030_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-030_artwork.png",
+  "illustrator": "sui",
+  "hp": 100,
+  "types": [
+    "Psy"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psy",
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Pouvoir Lunaire",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": "Pendant le prochain tour de votre adversaire, les attaques utilisées par le Pokémon Défenseur infligent − 30 dégâts."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Métal",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Ce Pokémon s'apparente à une petite fée\nqui n'apparaît que rarement devant les humains.\nIl court se cacher dès qu'il ressent une présence."
+}

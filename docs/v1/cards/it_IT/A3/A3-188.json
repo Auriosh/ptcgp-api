@@ -1,0 +1,54 @@
+{
+  "language": "it_IT",
+  "id": "A3-188",
+  "name": "Mukdi Alola-ex",
+  "localId": "188",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiani Astrali"
+  },
+  "rarity": "deux Étoiles",
+  "cardImage": "/assets/cardImage/it_IT/A3/A3-188_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-188_artwork.png",
+  "illustrator": "PLANETA CG Works",
+  "hp": 160,
+  "types": [
+    "Oscurità"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Oscurità",
+        "Oscurità",
+        "Incolore"
+      ],
+      "name": "Miscuglio Chimico",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": "Il Pokémon attivo dell'avversario viene influenzato da una condizione speciale scelta a caso tra addormentato, bruciato, confuso, paralizzato e avvelenato. Eventuali condizioni speciali da cui è già influenzato il Pokémon non verranno scelte."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lotta",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": ""
+}

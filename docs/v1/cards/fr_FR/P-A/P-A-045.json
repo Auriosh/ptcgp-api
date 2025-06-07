@@ -1,0 +1,49 @@
+{
+  "language": "fr_FR",
+  "id": "P-A-045",
+  "name": "Tarinor",
+  "localId": "045",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "Sans Rareté",
+  "cardImage": "/assets/cardImage/fr_FR/P-A/P-A-045_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-045_artwork.png",
+  "illustrator": "Tomokazu Komiya",
+  "hp": 60,
+  "types": [
+    "Combat"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Mur de Fer",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Lancez une pièce. Si c'est face, pendant le prochain tour de votre adversaire, évitez tous les dégâts infligés à ce Pokémon par des attaques."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Plante",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il ne se déplace que d'un centimètre\npar an, mais s'il se sent menacé, il virevolte\net s'enfonce dans le sol en un instant."
+}

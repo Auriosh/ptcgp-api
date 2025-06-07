@@ -1,0 +1,51 @@
+{
+  "language": "pt_BR",
+  "id": "A1a-003",
+  "name": "Celebi ex",
+  "localId": "003",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1a",
+    "name": "Ilha Mítica"
+  },
+  "rarity": "Four Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A1a/A1a-003_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-003_artwork.png",
+  "illustrator": "PLANETA CG Works",
+  "hp": 130,
+  "types": [
+    "Grass"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Grass",
+        "Colorless"
+      ],
+      "name": "Florescer Poderoso",
+      "damage": {
+        "value": 50,
+        "modifier": "x"
+      },
+      "effect": "Jogue uma moeda para cada Energia ligada a este Pokémon. Este ataque causa 50 pontos de dano para cada cara."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": ""
+}

@@ -1,0 +1,49 @@
+{
+  "language": "en_US",
+  "id": "A1-126",
+  "name": "Mr. Mime",
+  "localId": "126",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1",
+    "name": "Genetic Apex"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A1/A1-126_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-126_artwork.png",
+  "illustrator": "Kagemaru Himeno",
+  "hp": 80,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psychic",
+        "Colorless"
+      ],
+      "name": "Barrier Attack",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": "During your opponent's next turn, this Pokémon takes -20 damage from attacks."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Darkness",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "The broadness of its hands may be no coincidence—many scientists believe its palms became enlarged specifically for pantomiming."
+}

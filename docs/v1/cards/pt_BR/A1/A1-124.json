@@ -1,0 +1,50 @@
+{
+  "language": "pt_BR",
+  "id": "A1-124",
+  "name": "Drowzee",
+  "localId": "124",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1",
+    "name": "Dominação Genética"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A1/A1-124_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-124_artwork.png",
+  "illustrator": "Yukiko Baba",
+  "hp": 70,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psychic",
+        "Colorless"
+      ],
+      "name": "Resmungo",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Darkness",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Ele lembra cada sonho que come. Raramente\ncome sonhos de adultos, pois os das crianças\nsão mais saborosos."
+}

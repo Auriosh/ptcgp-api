@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A1-283",
+  "name": "Mew",
+  "localId": "283",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Genes Formidables"
+  },
+  "rarity": "Trois Étoiles",
+  "cardImage": "/assets/cardImage/es_ES/A1/A1-283_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-283_artwork.png",
+  "illustrator": "Amelicart",
+  "hp": 60,
+  "types": [
+    "Psíquico"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psíquico"
+      ],
+      "name": "Psicoinforme",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": "Tu rival enseña las cartas de su mano."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Oscura",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Varios científicos lo consideran el antecesor de los\nPokémon porque usa todo tipo de movimientos."
+}

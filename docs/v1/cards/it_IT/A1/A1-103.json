@@ -1,0 +1,50 @@
+{
+  "language": "it_IT",
+  "id": "A1-103",
+  "name": "Zapdos",
+  "localId": "103",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Geni Supremi"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A1/A1-103_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-103_artwork.png",
+  "illustrator": "Hitoshi Ariga",
+  "hp": 130,
+  "types": [
+    "Lampo"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lampo",
+        "Lampo",
+        "Incolore"
+      ],
+      "name": "Rombotuono",
+      "damage": {
+        "value": 100,
+        "modifier": null
+      },
+      "effect": "Questo attacco infligge anche 30 danni a uno dei tuoi Pokémon in panchina."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lampo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "È in grado di controllare l'elettricità a\nsuo piacimento. Secondo le leggende,\nfa il nido fra nere nubi temporalesche."
+}

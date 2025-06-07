@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "A3-046",
+  "name": "Popplio",
+  "localId": "046",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiani Astrali"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A3/A3-046_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-046_artwork.png",
+  "illustrator": "Kouki Saitou",
+  "hp": 60,
+  "types": [
+    "Acqua"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Acqua"
+      ],
+      "name": "Pistolacqua",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lampo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Grazie all'allenamento quotidiano, i palloncini che gonfia\ncon il naso diventano a poco a poco sempre più grandi."
+}

@@ -1,0 +1,50 @@
+{
+  "language": "en_US",
+  "id": "P-A-068",
+  "name": "Lycanroc",
+  "localId": "068",
+  "category": "Pokemon",
+  "set": {
+    "id": "P-A",
+    "name": "Promos-A"
+  },
+  "rarity": "Three Diamond",
+  "cardImage": "/assets/cardImage/en_US/P-A/P-A-068_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-068_artwork.png",
+  "illustrator": "Ryuta Fuse",
+  "hp": 100,
+  "types": [
+    "Fighting"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Rockruff",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fighting",
+        "Fighting",
+        "Colorless"
+      ],
+      "name": "Crunch",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Grass",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Lycanroc attacks its prey with its sharp claws and fangs. It loyally obeys the instructions of a Trainer it trusts."
+}

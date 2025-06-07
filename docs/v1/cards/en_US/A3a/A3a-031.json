@@ -1,0 +1,57 @@
+{
+  "language": "en_US",
+  "id": "A3a-031",
+  "name": "Claydol",
+  "localId": "031",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3a",
+    "name": "Extradimensional Crisis"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A3a/A3a-031_card.png",
+  "artworkImage": "/assets/artworkImage/A3a/A3a-031_artwork.png",
+  "illustrator": "Satoshi Shirai",
+  "hp": 100,
+  "types": [
+    "Fighting"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Baltoy",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Heal Block",
+      "effect": "Pokémon (both yours and your opponent's) can't be healed."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Power Beam",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Grass",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "This mysterious Pokémon started life as an ancient\nclay figurine made over 20,000 years ago."
+}

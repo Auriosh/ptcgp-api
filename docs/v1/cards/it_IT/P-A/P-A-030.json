@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "P-A-030",
+  "name": "Eevee",
+  "localId": "030",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "Nessuna",
+  "cardImage": "/assets/cardImage/it_IT/P-A/P-A-030_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-030_artwork.png",
+  "illustrator": "En Morikura",
+  "hp": 60,
+  "types": [
+    "Incolore"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore"
+      ],
+      "name": "Ruggito",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Durante il prossimo turno del tuo avversario, gli attacchi usati dal Pokémon difensore infliggono -20 danni."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lotta",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "La capacità di evolversi in diverse specie gli permette\ndi adattarsi perfettamente a qualsiasi tipo di ambiente."
+}

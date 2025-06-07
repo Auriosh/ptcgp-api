@@ -1,0 +1,49 @@
+{
+  "language": "fr_FR",
+  "id": "P-A-072",
+  "name": "Tadmorvd'Alola",
+  "localId": "072",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/P-A/P-A-072_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-072_artwork.png",
+  "illustrator": "Naoki Saito",
+  "hp": 70,
+  "types": [
+    "Obscurité"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Obscurité"
+      ],
+      "name": "Gaz Toxik",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Le Pokémon Actif de votre adversaire est maintenant Empoisonné."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Combat",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Dans les décharges d'Alola, une centaine d'entre\neux dévorent les immondices avec diligence."
+}

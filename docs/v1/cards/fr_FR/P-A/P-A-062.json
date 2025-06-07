@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "P-A-062",
+  "name": "Canarticho",
+  "localId": "062",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/P-A/P-A-062_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-062_artwork.png",
+  "illustrator": "Eri Yamaki",
+  "hp": 60,
+  "types": [
+    "Incolore"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore"
+      ],
+      "name": "Coup d'Oignon",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Électrique",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il tranche ses adversaires avec sa tige, qu'il manie comme\nune épée. Quand la situation l'exige, il s'en nourrit."
+}

@@ -1,0 +1,52 @@
+{
+  "language": "es_ES",
+  "id": "A1a-048",
+  "name": "Stonjourner",
+  "localId": "048",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "La Isla Singular"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A1a/A1a-048_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-048_artwork.png",
+  "illustrator": "Teeziro",
+  "hp": 120,
+  "types": [
+    "Lucha"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lucha",
+        "Lucha",
+        "Lucha"
+      ],
+      "name": "Megapatada",
+      "damage": {
+        "value": 90,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Planta",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Los elementos que componen las rocas de\nsu cuerpo se han encontrado en lechos de\nroca muy alejados de su hábitat."
+}

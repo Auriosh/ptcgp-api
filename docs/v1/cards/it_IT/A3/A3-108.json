@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "A3-108",
+  "name": "Meowthdi Alola",
+  "localId": "108",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiani Astrali"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A3/A3-108_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-108_artwork.png",
+  "illustrator": "sui",
+  "hp": 60,
+  "types": [
+    "Oscurità"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Oscurità"
+      ],
+      "name": "Graffio",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Erba",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "In passato viveva nel lusso assieme alla famiglia reale della\nregione di Alola. Per questo è molto schizzinoso riguardo al cibo."
+}

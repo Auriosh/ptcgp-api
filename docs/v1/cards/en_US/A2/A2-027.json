@@ -1,0 +1,48 @@
+{
+  "language": "en_US",
+  "id": "A2-027",
+  "name": "Chimchar",
+  "localId": "027",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Space-Time Smackdown"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2/A2-027_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-027_artwork.png",
+  "illustrator": "Kagemaru Himeno",
+  "hp": 60,
+  "types": [
+    "Fire"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fire"
+      ],
+      "name": "Scratch",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Water",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Its fiery rear end is fueled by gas made in its belly. Even rain can't extinguish the fire."
+}

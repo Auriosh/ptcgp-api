@@ -1,0 +1,51 @@
+{
+  "language": "pt_BR",
+  "id": "A3-107",
+  "name": "Raticatede Alola",
+  "localId": "107",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-107_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-107_artwork.png",
+  "illustrator": "nagimiso",
+  "hp": 110,
+  "types": [
+    "Darkness"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Darkness",
+        "Darkness"
+      ],
+      "name": "Investigar e Ingerir",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": "Descarte carta de Item aleatória da mão do seu oponente."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Grass",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "É um Pokémon extremamente ganancioso. Seu ninho\nfica tão repleto de comida coletada por Rattata,\nque não dá conta de comer tudo."
+}

@@ -1,0 +1,48 @@
+{
+  "language": "en_US",
+  "id": "A1-154",
+  "name": "Hitmonlee",
+  "localId": "154",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1",
+    "name": "Genetic Apex"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/en_US/A1/A1-154_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-154_artwork.png",
+  "illustrator": "Yukiko Baba",
+  "hp": 80,
+  "types": [
+    "Fighting"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fighting"
+      ],
+      "name": "Stretch Kick",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "This attack does 30 damage to 1 of your opponent's Benched Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psychic",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "This amazing Pokémon has an awesome sense of balance. It can kick in succession from any position."
+}

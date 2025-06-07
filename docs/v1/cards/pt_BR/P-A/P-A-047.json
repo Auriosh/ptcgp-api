@@ -1,0 +1,56 @@
+{
+  "language": "pt_BR",
+  "id": "P-A-047",
+  "name": "Staraptor",
+  "localId": "047",
+  "category": "Pokemon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "None",
+  "cardImage": "/assets/cardImage/pt_BR/P-A/P-A-047_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-047_artwork.png",
+  "illustrator": "Hasuno",
+  "hp": 140,
+  "types": [
+    "Colorless"
+  ],
+  "stage": "Stage2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Turbilhão Defensivo",
+      "effect": "Este Pokémon recebe −30 pontos de dano de ataques de Pokémon {F}."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Ataque de Asa",
+      "damage": {
+        "value": 90,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Quando um Staravia evolui para Staraptor,\ndeixa o bando para viver sozinho. Têm asas robustas."
+}

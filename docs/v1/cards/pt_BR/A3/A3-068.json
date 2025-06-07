@@ -1,0 +1,50 @@
+{
+  "language": "pt_BR",
+  "id": "A3-068",
+  "name": "Tapu Koko",
+  "localId": "068",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "Three Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-068_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-068_artwork.png",
+  "illustrator": "kirisAki",
+  "hp": 100,
+  "types": [
+    "Lightning"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lightning",
+        "Lightning",
+        "Lightning"
+      ],
+      "name": "Troca Elétrica",
+      "damage": {
+        "value": 70,
+        "modifier": null
+      },
+      "effect": "Troque este Pokémon por 1 dos seus Pokémon {L} no Banco."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Embora seja considerado um espírito guardião, se uma\npessoa ou Pokémon deixá-lo de mau humor, torna-se\num espírito malévolo e ataca."
+}

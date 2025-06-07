@@ -1,0 +1,52 @@
+{
+  "language": "it_IT",
+  "id": "A2-117",
+  "name": "Bronzong",
+  "localId": "117",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Scontro Spaziotemporale"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2/A2-117_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-117_artwork.png",
+  "illustrator": "Yuka Morii",
+  "hp": 120,
+  "types": [
+    "Metallo"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Metallo",
+        "Metallo",
+        "Incolore"
+      ],
+      "name": "Pressadifesa",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": "Durante il prossimo turno del tuo avversario, questo Pokémon subisce -20 danni dagli attacchi."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fuoco",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "È stato venerato per secoli come Pokémon che\nporta la pioggia. A volte lo si trova sepolto nel terreno."
+}

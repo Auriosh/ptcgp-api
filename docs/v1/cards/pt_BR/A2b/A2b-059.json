@@ -1,0 +1,49 @@
+{
+  "language": "pt_BR",
+  "id": "A2b-059",
+  "name": "Raticate",
+  "localId": "059",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2b",
+    "name": "Festival Brilhante"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A2b/A2b-059_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-059_artwork.png",
+  "illustrator": "Kyoko Umemoto",
+  "hp": 90,
+  "types": [
+    "Colorless"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Investida",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Dizem que fugiu dos seus inimigos\nusando seus pés palmados para nadar\nde ilha em ilha em Alola."
+}

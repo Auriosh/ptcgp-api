@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "A3-003",
+  "name": "Surskit",
+  "localId": "003",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-003_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-003_artwork.png",
+  "illustrator": "Miki Tanaka",
+  "hp": 50,
+  "types": [
+    "Grass"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Ataque Rápido",
+      "damage": {
+        "value": 10,
+        "modifier": "+"
+      },
+      "effect": "Jogue uma moeda. Se sair cara, este ataque causará 20 pontos de dano a mais."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Normalmente vivem em lagos, mas, após uma chuva\nnoturna, podem aparecer em poças nas cidades."
+}

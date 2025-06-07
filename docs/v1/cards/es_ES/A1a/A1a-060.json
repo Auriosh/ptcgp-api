@@ -1,0 +1,51 @@
+{
+  "language": "es_ES",
+  "id": "A1a-060",
+  "name": "Tauros",
+  "localId": "060",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "La Isla Singular"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A1a/A1a-060_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-060_artwork.png",
+  "illustrator": "KEIICHIRO ITO",
+  "hp": 100,
+  "types": [
+    "Incolora"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolora",
+        "Incolora",
+        "Incolora"
+      ],
+      "name": "Placaje Lucha",
+      "damage": {
+        "value": 40,
+        "modifier": "+"
+      },
+      "effect": "Si el Pokémon Activo de tu rival es un Pokémon {ex}, este ataque hace 80 puntos de daño más."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lucha",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Conviene tener cuidado si empieza a\nfustigarse con las colas, pues es señal\nde que va a cargar a máxima velocidad."
+}

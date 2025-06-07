@@ -1,0 +1,49 @@
+{
+  "language": "en_US",
+  "id": "A1a-038",
+  "name": "Florges",
+  "localId": "038",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1a",
+    "name": "Mythical Island"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A1a/A1a-038_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-038_artwork.png",
+  "illustrator": "Cona Nitanda",
+  "hp": 120,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Stage2",
+  "evolveFrom": "Floette",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psychic",
+        "Psychic"
+      ],
+      "name": "Bloomshine",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": "Heal 20 damage from each of your Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metal",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "This Pokémon creates an impressive flower garden in its territory. It draws forth the power of the red flowers around its neck."
+}

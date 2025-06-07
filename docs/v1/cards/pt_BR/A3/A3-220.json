@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "A3-220",
+  "name": "Gastly",
+  "localId": "220",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "One Shiny",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-220_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-220_artwork.png",
+  "illustrator": "kurumitsu",
+  "hp": 50,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Abismar",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Jogue uma moeda. Se sair cara, seu oponente revelará 1 carta aleatória da mão dele e a embaralhará no baralho dele."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Darkness",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Envolve o oponente em seu corpo gasoso,\nenfraquecendo sua presa lentamente\ne a envenenando pela pele."
+}

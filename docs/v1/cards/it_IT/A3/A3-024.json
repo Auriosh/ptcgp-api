@@ -1,0 +1,51 @@
+{
+  "language": "it_IT",
+  "id": "A3-024",
+  "name": "Tapu Bulu",
+  "localId": "024",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiani Astrali"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A3/A3-024_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-024_artwork.png",
+  "illustrator": "Satoshi Shirai",
+  "hp": 120,
+  "types": [
+    "Erba"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Erba",
+        "Erba",
+        "Incolore"
+      ],
+      "name": "Assalto Spericolato",
+      "damage": {
+        "value": 100,
+        "modifier": null
+      },
+      "effect": "Lancia una moneta. Se esce croce, questo Pokémon infligge anche 20 danni a se stesso."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fuoco",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "È considerato un Pokémon protettore, ma annienta\nsenza pietà tutti quelli che considera nemici."
+}

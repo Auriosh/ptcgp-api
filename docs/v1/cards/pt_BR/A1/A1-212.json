@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "A1-212",
+  "name": "Minccino",
+  "localId": "212",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1",
+    "name": "Dominação Genética"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A1/A1-212_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-212_artwork.png",
+  "illustrator": "sui",
+  "hp": 60,
+  "types": [
+    "Colorless"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Ataque de Cauda",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "A maneira como este Pokémon varre a sujeira com\na cauda pode ser útil na hora de fazer uma faxina, mas\nsua obsessão por limpeza pode tornar o processo uma chatice."
+}

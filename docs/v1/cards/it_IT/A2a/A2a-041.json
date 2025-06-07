@@ -1,0 +1,60 @@
+{
+  "language": "it_IT",
+  "id": "A2a-041",
+  "name": "Tyranitar",
+  "localId": "041",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Luce Trionfale"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2a/A2a-041_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-041_artwork.png",
+  "illustrator": "kawayoo",
+  "hp": 160,
+  "types": [
+    "Lotta"
+  ],
+  "stage": "Livello 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Potenza Simbiotica",
+      "effect": "Se hai in gioco Arceus o Arceus-ex, gli attacchi usati da questo Pokémon infliggono +30 danni al Pokémon attivo del tuo avversario."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Lotta",
+        "Lotta",
+        "Lotta",
+        "Incolore"
+      ],
+      "name": "Schiacciaterra",
+      "damage": {
+        "value": 130,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Erba",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Con la sua forza smisurata riesce a trasformare\nil paesaggio con estrema facilità. La sua indole\ninsolente lo rende indifferente al mondo."
+}

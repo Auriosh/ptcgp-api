@@ -1,0 +1,48 @@
+{
+  "language": "de_DE",
+  "id": "A3-014",
+  "name": "Imantis",
+  "localId": "014",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-014_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-014_artwork.png",
+  "illustrator": "Kagemaru Himeno",
+  "hp": 60,
+  "types": [
+    "Pflanze"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Pflanze"
+      ],
+      "name": "Blattwerk",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feuer",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Es wird nicht gern beim Mittagsschlaf gestört.\nMithilfe der Energie, die es beim Sonnenbaden\nsammelt, kann es Strahlen abfeuern."
+}

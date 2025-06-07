@@ -1,0 +1,49 @@
+{
+  "language": "de_DE",
+  "id": "A3-057",
+  "name": "Pikachu",
+  "localId": "057",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-057_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-057_artwork.png",
+  "illustrator": "Naoyo Kimura",
+  "hp": 60,
+  "types": [
+    "Elektro"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Farblos",
+        "Farblos"
+      ],
+      "name": "Schweifschlag",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Kampf",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Ist es wütend, entlädt sich augenblicklich die\nElektrizität, die es in seinen Backentaschen\ngespeichert hat."
+}

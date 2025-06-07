@@ -1,0 +1,50 @@
+{
+  "language": "de_DE",
+  "id": "A1-068",
+  "name": "Krabby",
+  "localId": "068",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Unschlagbare Gene"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A1/A1-068_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-068_artwork.png",
+  "illustrator": "Tomokazu Komiya",
+  "hp": 70,
+  "types": [
+    "Wasser"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Wasser",
+        "Farblos"
+      ],
+      "name": "Klammer",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Elektro",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Es kommt vor allem nahe dem Meer vor.\nDie großen Scheren wachsen nach, wenn\nsie vom Körper abgetrennt wurden."
+}

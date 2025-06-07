@@ -1,0 +1,52 @@
+{
+  "language": "en_US",
+  "id": "A2-081",
+  "name": "Rhydon",
+  "localId": "081",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Space-Time Smackdown"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2/A2-081_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-081_artwork.png",
+  "illustrator": "Oswaldo KATO",
+  "hp": 110,
+  "types": [
+    "Fighting"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Rhyhorn",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fighting",
+        "Fighting",
+        "Colorless"
+      ],
+      "name": "Wrack Down",
+      "damage": {
+        "value": 70,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Grass",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "It begins walking on its hind legs after evolution. It can punch holes through boulders with its horn."
+}

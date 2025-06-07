@@ -1,0 +1,50 @@
+{
+  "language": "it_IT",
+  "id": "P-A-035",
+  "name": "Turtwig",
+  "localId": "035",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "Nessuna",
+  "cardImage": "/assets/cardImage/it_IT/P-A/P-A-035_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-035_artwork.png",
+  "illustrator": "Atsuko Nishida",
+  "hp": 80,
+  "types": [
+    "Erba"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Erba",
+        "Incolore"
+      ],
+      "name": "Morso",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fuoco",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Si espone ai raggi solari ed esegue la fotosintesi con\ntutto il corpo. La sua corazza è fatta di terra rassodata."
+}
