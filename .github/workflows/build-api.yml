@@ -6,7 +6,7 @@ on:
   # Gatilho 1: Executa quando há um push para a branch 'main'
   push:
     branches: [ "main" ]
-
+  
   # Gatilho 2: Executa em um horário agendado (ex: toda segunda-feira às 02:00)
   schedule:
     - cron: '0 2 * * 1'
@@ -18,7 +18,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest # Usa um ambiente Linux para executar os comandos
-
+    
     steps:
       # Passo 1: Baixa o código do seu repositório para o ambiente da Action
       - name: Checkout repository
@@ -35,7 +35,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-
+          
       # Passo 4: Executa o seu script de construção da API
       - name: Run build script
         run: python build_api.py
@@ -45,7 +45,8 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add docs/
+          # --- ALTERAÇÃO AQUI: Adiciona a flag -f para forçar a adição da pasta ignorada ---
+          git add -f docs/
           # O comando a seguir verifica se há ficheiros preparados para commit
           # Se houver, ele faz o commit e o push. Se não, não faz nada.
           git diff --staged --quiet || (git commit -m "Automated build: Update API data" && git push)

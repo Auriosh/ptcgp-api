@@ -1,4 +1,8 @@
 # Guarde este ficheiro como: build_api.py (na raiz do seu projeto)
+#
+# Este script busca os dados da API pública TCGdex.net (https://tcgdex.net),
+# processa-os e constrói a estrutura final de ficheiros JSON para a API.
+#
 
 import json
 import os
@@ -36,6 +40,7 @@ def parse_retreat(retreat_cost):
     return []
 
 def get_language_code(api_lang):
+    """Converte o código de idioma da API para o nosso padrão."""
     lang_map = {
         'pt-br': 'pt_BR', 'en': 'en_US', 'es': 'es_ES', 'fr': 'fr_FR',
         'de': 'de_DE', 'it': 'it_IT', 'ja': 'ja_JP', 'ko': 'ko_KR', 'zh-tw': 'zh_TW'
@@ -43,6 +48,9 @@ def get_language_code(api_lang):
     return lang_map.get(api_lang, api_lang)
 
 def print_progress_bar(iteration, total, prefix = '', suffix = '', length = 50, fill = '█'):
+    """
+    Gera e exibe uma barra de progresso no terminal.
+    """
     percent = ("{0:.1f}").format(100 * (iteration / float(total)))
     filled_length = int(length * iteration // total)
     bar = fill * filled_length + '-' * (length - filled_length)
@@ -51,16 +59,24 @@ def print_progress_bar(iteration, total, prefix = '', suffix = '', length = 50, 
 
 # --- Função Principal ---
 def build_api_data():
+    """
+    Busca dados da API, processa-os e constrói a estrutura final de pastas
+    e ficheiros JSON para a API na pasta /docs.
+    """
     print("🚀 Iniciando a construção dos dados da API...")
+    
     total_cards_processed = 0
 
     for lang in LANGUAGE_CODES:
         lang_code_standard = get_language_code(lang)
         print(f"\n🌐 Processando idioma: {lang_code_standard}")
+        
         all_sets_for_lang = []
 
         for set_id in SET_IDS_TO_PROCESS:
             print(f"  - Buscando índice de cartas para o set: {set_id}...")
+            
+            # Passo 1: Obter a lista de cartas do set
             set_url = f"{API_BASE_URL}/{lang}/sets/{set_id}"
             
             try:
@@ -71,6 +87,7 @@ def build_api_data():
                 response.raise_for_status()
                 set_data = response.json()
                 card_index = set_data.get('cards', [])
+
             except requests.exceptions.RequestException as e:
                 print(f"    ❌ Erro ao buscar o índice do set {set_id}: {e}")
                 continue
@@ -79,14 +96,20 @@ def build_api_data():
                 print(f"    ⚠️  Aviso: O set '{set_id}' foi encontrado, mas não continha nenhuma carta na resposta da API.")
                 continue
 
-            all_sets_for_lang.append({"id": set_data.get("id"), "name": set_data.get("name"), "logo": f"/{ASSETS_BASE_DIR}/logoImage/{lang_code_standard}/logo_{set_data.get('id')}_{lang_code_standard}.png"})
+            # Adiciona o set à lista do idioma
+            all_sets_for_lang.append({
+                "id": set_data.get("id"), "name": set_data.get("name"),
+                "logo": f"/{ASSETS_BASE_DIR}/logoImage/{lang_code_standard}/logo_{set_data.get('id')}_{lang_code_standard}.png"
+            })
             
             cards_processed_in_set = 0
             total_cards_in_set = len(card_index)
-            set_card_list = [] # NOVO: Lista para o índice do set
+            set_card_list = [] # Lista para o índice do set
 
+            # Passo 2: Iterar sobre a lista e buscar os detalhes de CADA carta
             for i, card_info in enumerate(card_index):
                 print_progress_bar(i + 1, total_cards_in_set, prefix=f"    Processando '{set_id}'", suffix="Completo", length=40)
+
                 card_id = card_info.get('id')
                 if not card_id: continue
 
@@ -98,6 +121,7 @@ def build_api_data():
                     old_card = card_response.json()
                 except requests.exceptions.RequestException: continue
 
+                # Passo 3: Processar e salvar os dados completos
                 new_card = {
                   "language": lang_code_standard, "id": card_id, "name": old_card.get('name', ''),
                   "localId": old_card.get('localId', ''), "category": old_card.get('category', 'Pokemon'),
@@ -114,6 +138,7 @@ def build_api_data():
                   "weaknesses": old_card.get('weaknesses', []), "rules": [],
                   "retreat": parse_retreat(old_card.get('retreat')), "description": old_card.get('description', '')
                 }
+
                 if new_card["isEx"]: new_card["rules"].append("Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos.")
 
                 target_dir = os.path.join(BASE_OUTPUT_DIR, 'v1', 'cards', lang_code_standard, set_id)
@@ -121,7 +146,7 @@ def build_api_data():
                 card_filename = os.path.join(target_dir, f"{card_id}.json")
                 with open(card_filename, 'w', encoding='utf-8') as f: json.dump(new_card, f, ensure_ascii=False, indent=2)
                 
-                # NOVO: Adiciona a carta ao índice do set
+                # Adiciona a carta ao índice do set
                 set_card_list.append({"id": card_id, "name": new_card["name"], "localId": new_card["localId"]})
                 
                 total_cards_processed += 1
@@ -130,7 +155,7 @@ def build_api_data():
             
             print()
 
-            # NOVO: Salva o ficheiro de índice para este set
+            # Salva o ficheiro de índice para este set
             if cards_processed_in_set > 0:
                 set_index_path = os.path.join(BASE_OUTPUT_DIR, 'v1', 'cards', lang_code_standard, set_id, '_index.json')
                 with open(set_index_path, 'w', encoding='utf-8') as f: json.dump(set_card_list, f, ensure_ascii=False, indent=2)
