@@ -49,3 +49,4 @@ Se encontrar algum erro nos dados ou tiver sugestões para melhorar a API, sinta
 ## Licença
 
 Este projeto é distribuído sob a **Licença MIT**. Veja o ficheiro [**LICENSE**](LICENSE) para mais detalhes.
+ 
