@@ -44,18 +44,27 @@ jobs:
       - name: Run build script
         run: python build_api.py
 
-      # Passo 5: Verifica se houve alterações na pasta 'docs' e faz o commit/push
+      # Passo 5: Faz o commit e o push das alterações geradas
       - name: Commit and push if changed
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # Adiciona todos os ficheiros gerados na pasta docs
           git add -f docs/
-          # Verifica se há alterações preparadas para commit
-          if ! git diff --staged --quiet; then
-            # --- ALTERAÇÃO AQUI: Obtém as últimas atualizações antes de enviar ---
-            git pull --rebase
-            git commit -m "Automated build: Update API data"
-            git push
-          else
+
+          # Só continua se houver de facto alterações para salvar
+          if git diff --staged --quiet; then
             echo "Nenhuma alteração detectada na pasta /docs. Nada a enviar."
+            exit 0
           fi
+
+          # --- LÓGICA CORRIGIDA ---
+          # 1. Cria um commit local com os novos dados
+          git commit -m "Automated build: Update API data"
+
+          # 2. Sincroniza com o repositório remoto, colocando o nosso commit no topo
+          git pull --rebase
+
+          # 3. Envia as alterações para o GitHub
+          git push
