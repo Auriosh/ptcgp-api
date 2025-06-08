@@ -110,7 +110,9 @@
     </div>
 
     <script>
-        const API_BASE_URL = '/ptcgp-api/v1/cards'; 
+        // --- ALTERAÇÃO AQUI: O caminho base agora é relativo ---
+        const API_BASE_URL = 'v1/cards'; 
+        
         const LANGUAGES = [
             { code: 'pt_BR', name: 'Português (Brasil)' }, { code: 'en_US', name: 'English' },
             { code: 'es_ES', name: 'Español' }, { code: 'fr_FR', name: 'Français' },
