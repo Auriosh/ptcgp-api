@@ -1,19 +1,24 @@
 # Nome do workflow que aparecerá na aba "Actions" do GitHub
-name: Build and Deploy API
+name: Build and Deploy API Data
 
+# Define os gatilhos que iniciam a automação
 on:
   push:
     branches: [ "main" ]
   schedule:
-    - cron: '0 2 * * 1'
+    - cron: '0 2 * * 1' # Executa toda segunda-feira às 02:00
   workflow_dispatch:
+
+# --- ALTERAÇÃO AQUI: Concede permissões de escrita ao robô ---
+permissions:
+  contents: write
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     
     steps:
-      # Passo 1: Baixa o código do seu repositório (excluindo a pasta /docs)
+      # Passo 1: Baixa o código do seu repositório
       - name: Checkout repository
         uses: actions/checkout@v4
 
@@ -29,17 +34,32 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
           
-      # Passo 4: Executa o seu script para gerar a pasta /docs
+      # Passo 4: Executa o seu script de construção da API
       - name: Run build script
         run: python build_api.py
 
-      # Passo 5: Faz o deploy da pasta /docs para a branch gh-pages
-      # Esta ação irá criar e gerir a branch gh-pages automaticamente.
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          # A pasta que contém o "produto final" da sua API
-          publish_dir: ./docs
-          # Opcional: mantém o histórico de deploys na branch gh-pages
-          keep_files: false
+      # Passo 5: Faz o commit e o push das alterações geradas
+      - name: Commit and push if changes exist
+        run: |
+          # Configura o utilizador do Git para o robô da Action
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # Força a adição da pasta 'docs', mesmo que esteja no .gitignore
+          git add -f docs/
+          
+          # Só continua se houver de facto alterações para salvar
+          if git diff --staged --quiet; then
+            echo "Nenhuma alteração detectada na pasta /docs. Nada a enviar."
+            exit 0
+          fi
+
+          # Lógica robusta de commit e push
+          # 1. Cria um commit local com os novos dados
+          git commit -m "Automated build: Update API data"
+          
+          # 2. Sincroniza com o repositório remoto para evitar conflitos
+          git pull --rebase
+          
+          # 3. Envia as alterações para o GitHub
+          git push
