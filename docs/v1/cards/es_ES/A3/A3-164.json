@@ -1,0 +1,50 @@
+{
+  "language": "es_ES",
+  "id": "A3-164",
+  "name": "Tapu Fini",
+  "localId": "164",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-164_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-164_artwork.png",
+  "illustrator": "OKACHEKE",
+  "hp": 100,
+  "types": [
+    "Agua"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Agua",
+        "Agua",
+        "Incolora"
+      ],
+      "name": "Drenaje Espiral",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": "Cura 20 puntos de daño a este Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Rayo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "El espíritu guardián de Poni, temido y venerado a la vez.\nMora en una espesa niebla y manipula el agua a su antojo."
+}

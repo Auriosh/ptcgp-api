@@ -1,0 +1,51 @@
+{
+  "language": "es_ES",
+  "id": "P-A-028",
+  "name": "Volcarona",
+  "localId": "028",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "Ninguno",
+  "cardImage": "/assets/cardImage/es_ES/P-A/P-A-028_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-028_artwork.png",
+  "illustrator": "Shin Nagasawa",
+  "hp": 120,
+  "types": [
+    "Guego"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Guego",
+        "Guego",
+        "Incolora"
+      ],
+      "name": "Ceniza Volcánica",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Descarta 2 Energías {R} de este Pokémon. Este ataque hace 80 puntos de daño a 1 de los Pokémon de tu rival."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Agua",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "El calor que irradia le granjea pocas simpatías en\ntierras cálidas. Por el contrario, en las regiones\nmás frías lo veneran como encarnación del sol."
+}

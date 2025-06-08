@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A1-017",
+  "name": "Venomoth",
+  "localId": "017",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Genes Formidables"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A1/A1-017_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-017_artwork.png",
+  "illustrator": "Mina Nakai",
+  "hp": 80,
+  "types": [
+    "Planta"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Planta"
+      ],
+      "name": "Polvo Veneno",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": "El Pokémon Activo de tu rival pasa a estar Envenenado."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Guego",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Tiene las alas cubiertas de escamas.\nCada vez que las bate, esparce un\npolvillo sumamente venenoso."
+}

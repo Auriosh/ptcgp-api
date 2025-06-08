@@ -1,0 +1,49 @@
+{
+  "language": "pt_BR",
+  "id": "A3-089",
+  "name": "Cubone",
+  "localId": "089",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-089_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-089_artwork.png",
+  "illustrator": "kawayoo",
+  "hp": 60,
+  "types": [
+    "Fighting"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Pulso",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Grass",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Quando a memória de sua falecida mãe traz\nlágrimas aos seus olhos, seu choro ecoa com\ntristeza pelo crânio que usa em sua cabeça."
+}

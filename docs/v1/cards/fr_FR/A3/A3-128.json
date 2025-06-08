@@ -1,0 +1,51 @@
+{
+  "language": "fr_FR",
+  "id": "A3-128",
+  "name": "Tauros",
+  "localId": "128",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Gardiens Astraux"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A3/A3-128_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-128_artwork.png",
+  "illustrator": "Kazumasa Yasukuni",
+  "hp": 100,
+  "types": [
+    "Incolore"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore",
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Botte Secrète",
+      "damage": {
+        "value": 50,
+        "modifier": "+"
+      },
+      "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 50 dégâts de plus."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Combat",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Il faut prendre garde quand un Tauros fouette\nson corps avec ses queues. Cela signifie qu'il\ns'apprête à charger à une vitesse démentielle."
+}

@@ -1,0 +1,57 @@
+{
+  "language": "es_ES",
+  "id": "A1a-072",
+  "name": "Vaporeon",
+  "localId": "072",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "La Isla Singular"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/es_ES/A1a/A1a-072_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-072_artwork.png",
+  "illustrator": "aspara",
+  "hp": 120,
+  "types": [
+    "Agua"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Habilidad",
+      "name": "Hacer Limpieza",
+      "effect": "Todas las veces que quieras durante tu turno, puedes mover 1 Energía {W} de 1 de tus Pokémon {W} en Banca a tu Pokémon {W} Activo."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Agua",
+        "Incolora",
+        "Incolora"
+      ],
+      "name": "Chapoteo Ondulante",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Rayo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Vive cerca del agua. Su cola termina en una\naleta parecida a la de un pez, por lo que hay\ngente que lo confunde con una sirena."
+}

@@ -1,0 +1,50 @@
+{
+  "language": "fr_FR",
+  "id": "A2-018",
+  "name": "Apireine",
+  "localId": "018",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Choc Spatio-Temporel"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2/A2-018_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-018_artwork.png",
+  "illustrator": "chibi",
+  "hp": 100,
+  "types": [
+    "Plante"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Plante",
+        "Plante"
+      ],
+      "name": "Transpercement",
+      "damage": {
+        "value": 70,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feu",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Son abdomen abrite ses petits, qu'il\ncontrôle grâce à des phéromones."
+}

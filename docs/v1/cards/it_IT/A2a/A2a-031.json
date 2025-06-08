@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "A2a-031",
+  "name": "Gastly",
+  "localId": "031",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Luce Trionfale"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2a/A2a-031_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-031_artwork.png",
+  "illustrator": "Yuu Nishida",
+  "hp": 50,
+  "types": [
+    "Psico"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore"
+      ],
+      "name": "Sgomento",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Lancia una moneta. Se esce testa, il tuo avversario mostra una carta a caso dalla sua mano e la rimischia nel suo mazzo."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Oscurità",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Avvolge le prede nel corpo gassoso\ne le indebolisce lentamente facendo\npenetrare il veleno nella loro pelle."
+}

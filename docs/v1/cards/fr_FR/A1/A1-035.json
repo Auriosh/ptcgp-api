@@ -1,0 +1,52 @@
+{
+  "language": "fr_FR",
+  "id": "A1-035",
+  "name": "Dracaufeu",
+  "localId": "035",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Puissance Génétique"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A1/A1-035_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-035_artwork.png",
+  "illustrator": "takuyoa",
+  "hp": 150,
+  "types": [
+    "Feu"
+  ],
+  "stage": "Niveau 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Feu",
+        "Feu",
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Danse Flammes",
+      "damage": {
+        "value": 150,
+        "modifier": null
+      },
+      "effect": "Défaussez 2 Énergies {R} de ce Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Eau",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Il est très brutal. En combat, il se sert de ses griffes acérées\net de sa queue enflammée pour mettre en pièces ses adversaires."
+}

@@ -1,0 +1,49 @@
+{
+  "language": "en_US",
+  "id": "A1-131",
+  "name": "Kirlia",
+  "localId": "131",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1",
+    "name": "Genetic Apex"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A1/A1-131_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-131_artwork.png",
+  "illustrator": "sowsow",
+  "hp": 80,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Ralts",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psychic",
+        "Colorless"
+      ],
+      "name": "Smack",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Darkness",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "It has a psychic power that enables it to distort the space around it and see into the future."
+}

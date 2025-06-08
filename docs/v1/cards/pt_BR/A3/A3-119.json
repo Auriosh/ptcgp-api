@@ -1,0 +1,50 @@
+{
+  "language": "pt_BR",
+  "id": "A3-119",
+  "name": "Excadrill",
+  "localId": "119",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-119_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-119_artwork.png",
+  "illustrator": "SATOSHI NAKAI",
+  "hp": 110,
+  "types": [
+    "Metal"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Metal"
+      ],
+      "name": "Talho",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Alguns túneis que parecem ter sido formados\nnaturalmente, na verdade, foram criados a partir\ndas escavações de Excadrill."
+}

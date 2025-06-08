@@ -1,0 +1,55 @@
+{
+  "language": "es_ES",
+  "id": "A2a-081",
+  "name": "Shaymin",
+  "localId": "081",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Luz Triunfal"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/es_ES/A2a/A2a-081_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-081_artwork.png",
+  "illustrator": "MINAMINAMI Take",
+  "hp": 70,
+  "types": [
+    "Incolora"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Habilidad",
+      "name": "Apoyo Aéreo",
+      "effect": "Mientras este Pokémon esté en tu Banca, el Coste de Retirada de tu Pokémon Básico Activo es de 1 menos."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Incolora",
+        "Incolora"
+      ],
+      "name": "Aleteo",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Rayo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Puede disolver las toxinas del aire para\ntransformar tierra yerma en campos de flores."
+}

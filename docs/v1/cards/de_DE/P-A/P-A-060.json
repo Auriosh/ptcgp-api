@@ -1,0 +1,48 @@
+{
+  "language": "de_DE",
+  "id": "P-A-060",
+  "name": "Owei",
+  "localId": "060",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "PROMO-A"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/P-A/P-A-060_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-060_artwork.png",
+  "illustrator": "0313",
+  "hp": 50,
+  "types": [
+    "Pflanze"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Farblos"
+      ],
+      "name": "Wachstumsschub",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Lege 1 {G}-Energie aus deinem Energiebereich an dieses Pokémon an."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feuer",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Owei mag zwar Eiern ähneln, ist aber ein echtes\nPokémon, das aus sechs Individuen besteht, die\nwohl telepathisch miteinander kommunizieren."
+}

@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A1a-052",
+  "name": "Liepard",
+  "localId": "052",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "La Isla Singular"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A1a/A1a-052_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-052_artwork.png",
+  "illustrator": "GIDORA",
+  "hp": 90,
+  "types": [
+    "Oscura"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Oscura"
+      ],
+      "name": "Cuchillada",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Planta",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Bajo su hermoso pelaje y cautivador estilo,\nque puede llevar fácilmente a engaño, se\noculta un carácter imprevisible y agresivo."
+}

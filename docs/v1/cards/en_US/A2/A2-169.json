@@ -1,0 +1,54 @@
+{
+  "language": "en_US",
+  "id": "A2-169",
+  "name": "Rhyperior",
+  "localId": "169",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Space-Time Smackdown"
+  },
+  "rarity": "One Star",
+  "cardImage": "/assets/cardImage/en_US/A2/A2-169_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-169_artwork.png",
+  "illustrator": "Taiga Kayama",
+  "hp": 160,
+  "types": [
+    "Fighting"
+  ],
+  "stage": "Stage2",
+  "evolveFrom": "Rhydon",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fighting",
+        "Fighting",
+        "Fighting",
+        "Colorless"
+      ],
+      "name": "Mountain Swing",
+      "damage": {
+        "value": 150,
+        "modifier": null
+      },
+      "effect": "Discard the top 3 cards of your deck."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Grass",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "It can load up to three projectiles per arm into the holes in its hands. What launches out of those holes could be either rocks or Roggenrola."
+}

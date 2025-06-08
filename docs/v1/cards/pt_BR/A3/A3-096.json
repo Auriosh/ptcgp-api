@@ -1,0 +1,58 @@
+{
+  "language": "pt_BR",
+  "id": "A3-096",
+  "name": "Conkeldurr",
+  "localId": "096",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "Three Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-096_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-096_artwork.png",
+  "illustrator": "kawayoo",
+  "hp": 150,
+  "types": [
+    "Fighting"
+  ],
+  "stage": "Stage2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Tenacidade",
+      "effect": "Se este Pokémon estiver prestes a ser Nocauteado pelo dano de um ataque, jogue uma moeda. Se sair cara, este Pokémon não será Nocauteado e o PS restante dele será 10."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Fighting",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Megassoco",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psychic",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "O concreto misturado por Conkeldurr é muito mais\nduradouro do que o concreto normal, mesmo quando\na composição dos dois materiais é a mesma."
+}

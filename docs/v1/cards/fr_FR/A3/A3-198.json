@@ -1,0 +1,63 @@
+{
+  "language": "fr_FR",
+  "id": "A3-198",
+  "name": "Archéduc-ex",
+  "localId": "198",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Gardiens Astraux"
+  },
+  "rarity": "deux Étoiles",
+  "cardImage": "/assets/cardImage/fr_FR/A3/A3-198_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-198_artwork.png",
+  "illustrator": "Takumi Wada",
+  "hp": 170,
+  "types": [
+    "Plante"
+  ],
+  "stage": "Niveau 2",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Acharnement Perçant",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Cette attaque inflige 100 dégâts à un des Pokémon de votre adversaire ayant subi des dégâts."
+    },
+    {
+      "cost": [
+        "Plante",
+        "Plante"
+      ],
+      "name": "Tranch'Herbe",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feu",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": ""
+}

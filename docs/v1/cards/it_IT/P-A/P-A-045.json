@@ -1,0 +1,49 @@
+{
+  "language": "it_IT",
+  "id": "P-A-045",
+  "name": "Nosepass",
+  "localId": "045",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "Nessuna",
+  "cardImage": "/assets/cardImage/it_IT/P-A/P-A-045_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-045_artwork.png",
+  "illustrator": "Tomokazu Komiya",
+  "hp": 60,
+  "types": [
+    "Lotta"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Ferroscudo",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Lancia una moneta. Se esce testa, durante il prossimo turno del tuo avversario, previeni tutti i danni inflitti a questo Pokémon da qualsiasi attacco."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Erba",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Si sposta di 1 cm all'anno, ma quando si trova in difficoltà\nruota su se stesso e in un attimo si nasconde sottoterra."
+}

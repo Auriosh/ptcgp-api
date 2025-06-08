@@ -1,0 +1,51 @@
+{
+  "language": "es_ES",
+  "id": "A2a-001",
+  "name": "Heracross",
+  "localId": "001",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Luz Triunfal"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2a/A2a-001_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-001_artwork.png",
+  "illustrator": "Satoshi Shirai",
+  "hp": 100,
+  "types": [
+    "Planta"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Planta",
+        "Incolora",
+        "Incolora"
+      ],
+      "name": "Lanzamiento Cuerno",
+      "damage": {
+        "value": 50,
+        "modifier": "+"
+      },
+      "effect": "Lanza 2 monedas. Si en las dos sale cara, este ataque hace 70 puntos de daño más."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Guego",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Le encanta la savia dulce y usa su cuerno para lanzar\npor los aires a cualquiera que se acerque a ella."
+}

@@ -1,0 +1,48 @@
+{
+  "language": "de_DE",
+  "id": "P-A-038",
+  "name": "Traunfugil",
+  "localId": "038",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "PROMO-A"
+  },
+  "rarity": "Keine",
+  "cardImage": "/assets/cardImage/de_DE/P-A/P-A-038_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-038_artwork.png",
+  "illustrator": "Miki Tanaka",
+  "hp": 60,
+  "types": [
+    "Psycho"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psycho"
+      ],
+      "name": "Konfusstrahl",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Das Aktive Pokémon deines Gegners ist jetzt verwirrt."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Unlicht",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Ein Pokémon, das Menschen mitten in der Nacht\nerschreckt. Es sammelt die Angst als seine Energie."
+}

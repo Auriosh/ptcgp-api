@@ -1,0 +1,56 @@
+{
+  "language": "fr_FR",
+  "id": "A2-034",
+  "name": "Regice",
+  "localId": "034",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Choc Spatio-Temporel"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2/A2-034_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-034_artwork.png",
+  "illustrator": "Tomokazu Komiya",
+  "hp": 110,
+  "types": [
+    "Eau"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Talent",
+      "name": "Corps de Cristal",
+      "effect": "Évitez tous les effets d'attaques utilisées par les Pokémon de votre adversaire infligés à ce Pokémon."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Eau",
+        "Eau"
+      ],
+      "name": "Impact Glacial",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Métal",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Regice gèle quiconque s'approche de lui en un instant\navec de l'air glacé pouvant atteindre -200 °C."
+}

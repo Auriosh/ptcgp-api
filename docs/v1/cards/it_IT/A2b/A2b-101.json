@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "A2b-101",
+  "name": "Wiglett",
+  "localId": "101",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Tripudio Splendente"
+  },
+  "rarity": "Un Chromatique",
+  "cardImage": "/assets/cardImage/it_IT/A2b/A2b-101_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-101_artwork.png",
+  "illustrator": "Souichirou Gunjima",
+  "hp": 60,
+  "types": [
+    "Acqua"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Acqua"
+      ],
+      "name": "Salta Fuori",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Viene scelto un Pokémon avversario a caso. Quel Pokémon subisce 30 danni."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lampo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Fiuta l'odore di un Veluza da 20 metri\ndi distanza e si nasconde nella sabbia."
+}

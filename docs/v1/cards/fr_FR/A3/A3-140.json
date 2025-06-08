@@ -1,0 +1,50 @@
+{
+  "language": "fr_FR",
+  "id": "A3-140",
+  "name": "Gouroutan",
+  "localId": "140",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Gardiens Astraux"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A3/A3-140_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-140_artwork.png",
+  "illustrator": "Naoki Saito",
+  "hp": 100,
+  "types": [
+    "Incolore"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Piège Simien",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": "Pendant le prochain tour de votre adversaire, les attaques utilisées par le Pokémon Défenseur coûtent une Énergie 1 de plus, et son Coût de Retraite augmente de une Énergie 1."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Combat",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "On le prenait autrefois pour un être\nhumain, car on le voyait souvent donner\ndes ordres aux Pokémon de la forêt."
+}

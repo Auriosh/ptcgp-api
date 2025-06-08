@@ -1,0 +1,48 @@
+{
+  "language": "en_US",
+  "id": "A2b-001",
+  "name": "Weedle",
+  "localId": "001",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2b",
+    "name": "Shining Revelry"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2b/A2b-001_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-001_artwork.png",
+  "illustrator": "Akira Komayama",
+  "hp": 50,
+  "types": [
+    "Grass"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Grass"
+      ],
+      "name": "Multiply",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Put 1 random Weedle from your deck onto your Bench."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Often found in forests and grasslands. It has a sharp, toxic barb of around two inches on top of its head."
+}

@@ -1,0 +1,51 @@
+{
+  "language": "de_DE",
+  "id": "P-A-028",
+  "name": "Ramoth",
+  "localId": "028",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "PROMO-A"
+  },
+  "rarity": "Keine",
+  "cardImage": "/assets/cardImage/de_DE/P-A/P-A-028_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-028_artwork.png",
+  "illustrator": "Shin Nagasawa",
+  "hp": 120,
+  "types": [
+    "Feuer"
+  ],
+  "stage": "Rang 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Feuer",
+        "Feuer",
+        "Farblos"
+      ],
+      "name": "Vulkanasche",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Lege 2 {R}-Energien von diesem Pokémon ab. Diese Attacke fügt 1 Pokémon deines Gegners 80 Schadenspunkte zu."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Wasser",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "In heißen Gebieten ist sein brennender Körper\nunbeliebt, aber in kalten Gegenden wird es als\nVerkörperung der Sonne verehrt."
+}

@@ -1,0 +1,49 @@
+{
+  "language": "fr_FR",
+  "id": "A2b-006",
+  "name": "Matourgeon",
+  "localId": "006",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Réjouissances Rayonnantes"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2b/A2b-006_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-006_artwork.png",
+  "illustrator": "mashu",
+  "hp": 90,
+  "types": [
+    "Plante"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Plante",
+        "Plante"
+      ],
+      "name": "Tranche",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feu",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il manie avec habileté la liane dissimulée\nsous ses longs poils et frappe ses adversaires\navec le bourgeon dur situé à son extrémité."
+}

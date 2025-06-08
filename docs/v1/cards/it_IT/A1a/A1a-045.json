@@ -1,0 +1,53 @@
+{
+  "language": "it_IT",
+  "id": "A1a-045",
+  "name": "Golem",
+  "localId": "045",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "L'Isola Misteriosa"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A1a/A1a-045_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-045_artwork.png",
+  "illustrator": "Masakazu Fukuda",
+  "hp": 160,
+  "types": [
+    "Lotta"
+  ],
+  "stage": "Livello 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lotta",
+        "Lotta",
+        "Lotta",
+        "Incolore"
+      ],
+      "name": "Pressadifesa",
+      "damage": {
+        "value": 120,
+        "modifier": null
+      },
+      "effect": "Durante il prossimo turno del tuo avversario, questo Pokémon subisce -30 danni dagli attacchi."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Erba",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Quando invecchia, non fa più la muta.\nIl guscio dei Golem molto anziani si\nricopre di muschio tingendosi di verde."
+}

@@ -1,0 +1,48 @@
+{
+  "language": "de_DE",
+  "id": "A2a-043",
+  "name": "Meditie",
+  "localId": "043",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Licht des Triumphs"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2a/A2a-043_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-043_artwork.png",
+  "illustrator": "Mina Nakai",
+  "hp": 60,
+  "types": [
+    "Kampf"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Kampf"
+      ],
+      "name": "Tritt",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psycho",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Es vergisst nie sein tägliches Yogatraining.\nDurch Meditation erhöht es seine innere Stärke."
+}

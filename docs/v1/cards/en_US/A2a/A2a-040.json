@@ -1,0 +1,50 @@
+{
+  "language": "en_US",
+  "id": "A2a-040",
+  "name": "Pupitar",
+  "localId": "040",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2a",
+    "name": "Triumphant Light"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2a/A2a-040_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-040_artwork.png",
+  "illustrator": "match",
+  "hp": 80,
+  "types": [
+    "Fighting"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Larvitar",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fighting",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Speed Attack",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Grass",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Its shell is as hard as bedrock, and it is also very strong. Its thrashing can topple a mountain."
+}

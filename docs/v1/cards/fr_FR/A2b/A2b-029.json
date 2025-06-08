@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A2b-029",
+  "name": "Abra",
+  "localId": "029",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Réjouissances Rayonnantes"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2b/A2b-029_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-029_artwork.png",
+  "illustrator": "Mousho",
+  "hp": 60,
+  "types": [
+    "Psy"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psy"
+      ],
+      "name": "Piqûre Psy",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Obscurité",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Le contenu de ses rêves influe sur les pouvoirs\npsychiques qu'il utilise dans son sommeil."
+}

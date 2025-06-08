@@ -1,0 +1,49 @@
+{
+  "language": "pt_BR",
+  "id": "A3-223",
+  "name": "Machop",
+  "localId": "223",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "One Shiny",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-223_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-223_artwork.png",
+  "illustrator": "Shin Nagasawa",
+  "hp": 70,
+  "types": [
+    "Fighting"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fighting"
+      ],
+      "name": "Soco com Punho",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psychic",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Seu corpo é inteiramente composto por músculos.\nApesar de ter o tamanho de uma criança humana,\nconsegue arremessar 100 adultos."
+}

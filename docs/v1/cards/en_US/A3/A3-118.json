@@ -1,0 +1,49 @@
+{
+  "language": "en_US",
+  "id": "A3-118",
+  "name": "Alolan Dugtrio",
+  "localId": "118",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Celestial Guardians"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/en_US/A3/A3-118_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-118_artwork.png",
+  "illustrator": "Yuka Morii",
+  "hp": 90,
+  "types": [
+    "Metal"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Alolan Diglett",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Metal",
+        "Metal"
+      ],
+      "name": "Iron Head",
+      "damage": {
+        "value": 70,
+        "modifier": "x"
+      },
+      "effect": "Flip a coin until you get tails. This attack does 70 damage for each heads."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Their beautiful, metallic whiskers create a sort of protective helmet on their heads, and they also function as highly precise sensors."
+}

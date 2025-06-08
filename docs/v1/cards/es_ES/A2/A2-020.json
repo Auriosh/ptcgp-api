@@ -1,0 +1,49 @@
+{
+  "language": "es_ES",
+  "id": "A2-020",
+  "name": "Leafeon",
+  "localId": "020",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Pugna Espaciotemporal"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2/A2-020_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-020_artwork.png",
+  "illustrator": "Kouki Saitou",
+  "hp": 90,
+  "types": [
+    "Planta"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Planta",
+        "Incolora"
+      ],
+      "name": "Ciclón Hojarasca",
+      "damage": {
+        "value": 90,
+        "modifier": null
+      },
+      "effect": "Durante tu próximo turno, este Pokémon no puede atacar."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Guego",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "En días soleados, duerme y hace la fotosíntesis,\ncon la que emite aire puro a su alrededor."
+}

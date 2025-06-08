@@ -1,0 +1,64 @@
+{
+  "language": "pt_BR",
+  "id": "A1-274",
+  "name": "Moltres ex",
+  "localId": "274",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1",
+    "name": "Dominação Genética"
+  },
+  "rarity": "Two Star",
+  "cardImage": "/assets/cardImage/pt_BR/A1/A1-274_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-274_artwork.png",
+  "illustrator": "hncl",
+  "hp": 140,
+  "types": [
+    "Fire"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fire"
+      ],
+      "name": "Dança Infernal",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Jogue 3 moedas. Pegue uma quantidade de Energia {R} da sua Zona de Energia equivalente ao número de caras e ligue aos seus Pokémon {R} no Banco como desejar."
+    },
+    {
+      "cost": [
+        "Fire",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Raio de Calor",
+      "damage": {
+        "value": 70,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": ""
+}

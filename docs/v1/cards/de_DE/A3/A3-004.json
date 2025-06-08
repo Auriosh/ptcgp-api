@@ -1,0 +1,46 @@
+{
+  "language": "de_DE",
+  "id": "A3-004",
+  "name": "Maskeregen",
+  "localId": "004",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-004_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-004_artwork.png",
+  "illustrator": "Kanako Eo",
+  "hp": 90,
+  "types": [
+    "Pflanze"
+  ],
+  "stage": "Rang 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Pflanze"
+      ],
+      "name": "Käfergebrumm",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feuer",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [],
+  "description": "Dank seiner vier Flügel kann es frei in alle\nRichtungen fliegen, sogar seitwärts und rückwärts."
+}

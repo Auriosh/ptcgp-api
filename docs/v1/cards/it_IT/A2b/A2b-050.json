@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "A2b-050",
+  "name": "Shroodle",
+  "localId": "050",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Tripudio Splendente"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2b/A2b-050_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-050_artwork.png",
+  "illustrator": "Krgc",
+  "hp": 60,
+  "types": [
+    "Oscurità"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Oscurità"
+      ],
+      "name": "Rosicchiamento",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lotta",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "È di natura mite, ma se qualcuno lo\nfa arrabbiare lo morde con gli incisivi\nimpregnati di un veleno paralizzante."
+}

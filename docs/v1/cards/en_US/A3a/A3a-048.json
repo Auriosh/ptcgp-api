@@ -1,0 +1,50 @@
+{
+  "language": "en_US",
+  "id": "A3a-048",
+  "name": "Aron",
+  "localId": "048",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3a",
+    "name": "Extradimensional Crisis"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/en_US/A3a/A3a-048_card.png",
+  "artworkImage": "/assets/artworkImage/A3a/A3a-048_artwork.png",
+  "illustrator": "Shigenori Negishi",
+  "hp": 70,
+  "types": [
+    "Metal"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Metal",
+        "Colorless"
+      ],
+      "name": "Headbutt",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "It eats iron ore—and sometimes railroad tracks—\nto build up the steel armor that protects its body."
+}

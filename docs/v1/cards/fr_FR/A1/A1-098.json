@@ -1,0 +1,58 @@
+{
+  "language": "fr_FR",
+  "id": "A1-098",
+  "name": "Magnéton",
+  "localId": "098",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Puissance Génétique"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A1/A1-098_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-098_artwork.png",
+  "illustrator": "kirisAki",
+  "hp": 80,
+  "types": [
+    "Électrique"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Talent",
+      "name": "Charge Volt",
+      "effect": "Une fois pendant votre tour, vous pouvez prendre une Énergie {L} de votre zone Énergie et l'attacher à ce Pokémon."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Électrique",
+        "Incolore",
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Attaque Tournante",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Combat",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Le lien magnétique qui rattache ces trois Magnéti est si puissant\nqu'il fait mal aux oreilles si on s'en approche trop."
+}

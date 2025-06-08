@@ -1,0 +1,53 @@
+{
+  "language": "pt_BR",
+  "id": "A3-212",
+  "name": "Venusaur",
+  "localId": "212",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "One Shiny",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-212_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-212_artwork.png",
+  "illustrator": "Ryuta Fuse",
+  "hp": 160,
+  "types": [
+    "Grass"
+  ],
+  "stage": "Stage2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Grass",
+        "Grass",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Megadreno",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": "Cure 30 pontos de dano deste Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Sua planta floresce ao absorver energia solar,\npor isso este Pokémon vive em busca da luz do sol."
+}

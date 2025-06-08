@@ -1,0 +1,48 @@
+{
+  "language": "en_US",
+  "id": "A2-130",
+  "name": "Aipom",
+  "localId": "130",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Space-Time Smackdown"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2/A2-130_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-130_artwork.png",
+  "illustrator": "Miki Tanaka",
+  "hp": 60,
+  "types": [
+    "Colorless"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Tail Jab",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "As it did more and more with its tail, its hands became clumsy. It makes its nest high in the treetops."
+}

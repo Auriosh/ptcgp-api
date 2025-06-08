@@ -1,0 +1,49 @@
+{
+  "language": "en_US",
+  "id": "A2-107",
+  "name": "Croagunk",
+  "localId": "107",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Space-Time Smackdown"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2/A2-107_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-107_artwork.png",
+  "illustrator": "Masakazu Fukuda",
+  "hp": 60,
+  "types": [
+    "Darkness"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Darkness",
+        "Darkness"
+      ],
+      "name": "Group Beatdown",
+      "damage": {
+        "value": 20,
+        "modifier": "x"
+      },
+      "effect": "Flip a coin for each Pokémon you have in play. This attack does 20 damage for each heads."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Inflating its poison sacs, it fills the area with an odd sound and hits flinching opponents with a poison jab."
+}

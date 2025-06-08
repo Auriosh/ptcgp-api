@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A3-063",
+  "name": "Iguolta",
+  "localId": "063",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Gardiens Astraux"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A3/A3-063_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-063_artwork.png",
+  "illustrator": "Kagemaru Himeno",
+  "hp": 90,
+  "types": [
+    "Électrique"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore"
+      ],
+      "name": "Ruade",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Combat",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Lorsqu'il déploie sa collerette pour emmagasiner\nla lumière du soleil, il génère à lui seul assez\nd'électricité pour alimenter une grande ville."
+}

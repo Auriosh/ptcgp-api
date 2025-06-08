@@ -1,0 +1,49 @@
+{
+  "language": "en_US",
+  "id": "A1a-009",
+  "name": "Dhelmise",
+  "localId": "009",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1a",
+    "name": "Mythical Island"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A1a/A1a-009_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-009_artwork.png",
+  "illustrator": "Hasuno",
+  "hp": 100,
+  "types": [
+    "Grass"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Grass"
+      ],
+      "name": "Energy Whip",
+      "damage": {
+        "value": 20,
+        "modifier": "+"
+      },
+      "effect": "If this Pokémon has at least 3 extra {G} Energy attached, this attack does 70 more damage."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "After a piece of seaweed merged with debris from a sunken ship, it was reborn as this ghost Pokémon."
+}

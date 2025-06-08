@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "A2-102",
+  "name": "Stunky",
+  "localId": "102",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Scontro Spaziotemporale"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2/A2-102_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-102_artwork.png",
+  "illustrator": "Kyoko Umemoto",
+  "hp": 70,
+  "types": [
+    "Oscurità"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Oscurità"
+      ],
+      "name": "Graffio",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lotta",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Emette un fluido puzzolente dal posteriore. Il\ntanfo tiene lontani i Pokémon nel raggio di 2 km."
+}

@@ -1,0 +1,49 @@
+{
+  "language": "de_DE",
+  "id": "A3-233",
+  "name": "Starmie-ex",
+  "localId": "233",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "Deux Chromatique",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-233_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-233_artwork.png",
+  "illustrator": "PLANETA Igarashi",
+  "hp": 130,
+  "types": [
+    "Wasser"
+  ],
+  "stage": "Rang 1",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Wasser",
+        "Wasser"
+      ],
+      "name": "Hydroplatscher",
+      "damage": {
+        "value": 90,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Elektro",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [],
+  "description": ""
+}

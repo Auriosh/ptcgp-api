@@ -1,0 +1,48 @@
+{
+  "language": "de_DE",
+  "id": "A3-131",
+  "name": "Dartiri",
+  "localId": "131",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-131_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-131_artwork.png",
+  "illustrator": "5ban Graphics",
+  "hp": 50,
+  "types": [
+    "Farblos"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Farblos"
+      ],
+      "name": "Flattern",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Elektro",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Normalerweise sind Dartiri friedfertig, doch wenn\nsie kämpfen, ändert sich ihr Hormonhaushalt und\nsie werden angriffslustig."
+}

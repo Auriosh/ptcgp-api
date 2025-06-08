@@ -1,0 +1,48 @@
+{
+  "language": "de_DE",
+  "id": "A2b-058",
+  "name": "Rattfratz",
+  "localId": "058",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Glänzendes Festival"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2b/A2b-058_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-058_artwork.png",
+  "illustrator": "Eri Yamaki",
+  "hp": 50,
+  "types": [
+    "Farblos"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Farblos"
+      ],
+      "name": "Tackle",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Kampf",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Seine Nagezähne wachsen sein ganzes Leben\nüber. Werden sie allzu lang, kann es damit nicht\nmehr fressen und verhungert."
+}

@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "A1a-036",
+  "name": "Flabébé",
+  "localId": "036",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1a",
+    "name": "Ilha Mítica"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A1a/A1a-036_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-036_artwork.png",
+  "illustrator": "Cona Nitanda",
+  "hp": 40,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psychic"
+      ],
+      "name": "Olhar Hipnótico",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "O Pokémon Ativo do seu oponente agora está Adormecido."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metal",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Este Pokémon é capaz de trazer à tona o poder escondido\nno florescer das flores silvestres. Gosta especialmente de flores vermelhas."
+}

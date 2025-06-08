@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A2a-048",
+  "name": "Nosferapti",
+  "localId": "048",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Lumière Triomphale"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2a/A2a-048_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-048_artwork.png",
+  "illustrator": "Sekio",
+  "hp": 50,
+  "types": [
+    "Obscurité"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Obscurité"
+      ],
+      "name": "Morsure",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Combat",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il sonde les environs en émettant des ultrasons\navec sa bouche, et peut ainsi se frayer un chemin\nmême dans les grottes les plus étroites."
+}

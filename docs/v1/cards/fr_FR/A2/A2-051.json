@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A2-051",
+  "name": "Magnéti",
+  "localId": "051",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Choc Spatio-Temporel"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2/A2-051_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-051_artwork.png",
+  "illustrator": "MAHOU",
+  "hp": 60,
+  "types": [
+    "Électrique"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore"
+      ],
+      "name": "Collision",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Combat",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Les ondes électromagnétiques émises par ses extrémités\nlui permettent de défier les lois de la gravité et de flotter."
+}

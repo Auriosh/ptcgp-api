@@ -1,0 +1,48 @@
+{
+  "language": "de_DE",
+  "id": "A2-027",
+  "name": "Panflam",
+  "localId": "027",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Kollision von Raum und Zeit"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2/A2-027_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-027_artwork.png",
+  "illustrator": "Kagemaru Himeno",
+  "hp": 60,
+  "types": [
+    "Feuer"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Feuer"
+      ],
+      "name": "Kratzer",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Wasser",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Das Feuer an seinem Hinterteil wird durch Gase\nim Bauch genährt. Selbst Regen löscht es nicht."
+}

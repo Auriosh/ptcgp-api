@@ -1,0 +1,53 @@
+{
+  "language": "en_US",
+  "id": "A1a-069",
+  "name": "Exeggutor",
+  "localId": "069",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1a",
+    "name": "Mythical Island"
+  },
+  "rarity": "One Star",
+  "cardImage": "/assets/cardImage/en_US/A1a/A1a-069_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-069_artwork.png",
+  "illustrator": "Gapao",
+  "hp": 130,
+  "types": [
+    "Grass"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Exeggcute",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Grass",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Psychic",
+      "damage": {
+        "value": 80,
+        "modifier": "+"
+      },
+      "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Each of Exeggutor's three heads is thinking different thoughts. The three don't seem to be very interested in one another."
+}

@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A1-244",
+  "name": "Dragonite",
+  "localId": "244",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Genes Formidables"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/es_ES/A1/A1-244_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-244_artwork.png",
+  "illustrator": "Gemi",
+  "hp": 160,
+  "types": [
+    "Dragón"
+  ],
+  "stage": "Fase 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Agua",
+        "Rayo",
+        "Incolora",
+        "Incolora"
+      ],
+      "name": "Cometa Draco",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Se elige 4 veces a un Pokémon aleatorio de tu rival. Haz a cada uno 50 puntos de daño por cada vez que haya resultado elegido."
+    }
+  ],
+  "weaknesses": [],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Dicen que viven en una isla en algún\nlugar del océano que solo ellos habitan."
+}

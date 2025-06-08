@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A2b-052",
+  "name": "Tinkatink",
+  "localId": "052",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Festival Brillante"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2b/A2b-052_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-052_artwork.png",
+  "illustrator": "miki kudo",
+  "hp": 60,
+  "types": [
+    "Metálica"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Metálica"
+      ],
+      "name": "Puño Tirabuzón",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Guego",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Agita su martillo forjado a mano para ahuyentar\na posibles amenazas, pero los Pokémon que se\nalimentan a base de metal suelen robárselo."
+}

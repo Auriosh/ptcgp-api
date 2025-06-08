@@ -1,0 +1,48 @@
+{
+  "language": "en_US",
+  "id": "P-A-024",
+  "name": "Magnemite",
+  "localId": "024",
+  "category": "Pokemon",
+  "set": {
+    "id": "P-A",
+    "name": "Promos-A"
+  },
+  "rarity": "None",
+  "cardImage": "/assets/cardImage/en_US/P-A/P-A-024_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-024_artwork.png",
+  "illustrator": "Miki Tanaka",
+  "hp": 60,
+  "types": [
+    "Lightning"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lightning"
+      ],
+      "name": "Lightning Ball",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "The electromagnetic waves emitted by the units at the sides of its head expel antigravity, which allows it to float."
+}

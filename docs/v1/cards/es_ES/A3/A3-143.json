@@ -1,0 +1,27 @@
+{
+  "language": "es_ES",
+  "id": "A3-143",
+  "name": "Red de Pesca",
+  "localId": "143",
+  "category": "Entrenador",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-143_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-143_artwork.png",
+  "illustrator": "Toyste Beach",
+  "hp": null,
+  "types": [],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [],
+  "weaknesses": [],
+  "rules": [],
+  "retreat": [],
+  "description": ""
+}

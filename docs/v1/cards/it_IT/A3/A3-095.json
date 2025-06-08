@@ -1,0 +1,50 @@
+{
+  "language": "it_IT",
+  "id": "A3-095",
+  "name": "Gurdurr",
+  "localId": "095",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiani Astrali"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A3/A3-095_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-095_artwork.png",
+  "illustrator": "Naoki Saito",
+  "hp": 90,
+  "types": [
+    "Lotta"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lotta",
+        "Incolore"
+      ],
+      "name": "Forza",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psico",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Sfoggia i suoi muscoli facendo a gara con i suoi simili e con\nMachoke. Chi perde sparisce dalla circolazione per un po'."
+}

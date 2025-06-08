@@ -1,0 +1,59 @@
+{
+  "language": "pt_BR",
+  "id": "P-A-042",
+  "name": "Darkrai ex",
+  "localId": "042",
+  "category": "Pokemon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "None",
+  "cardImage": "/assets/cardImage/pt_BR/P-A/P-A-042_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-042_artwork.png",
+  "illustrator": "PLANETA Mochizuki",
+  "hp": 140,
+  "types": [
+    "Darkness"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Aura de Pesadelo",
+      "effect": "Sempre que você ligar uma Energia {D} da sua Zona de Energia a este Pokémon, cause 20 pontos de dano ao Pokémon Ativo do seu oponente."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Darkness",
+        "Darkness",
+        "Colorless"
+      ],
+      "name": "Prisma da Escuridão",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Grass",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": ""
+}

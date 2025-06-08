@@ -1,0 +1,50 @@
+{
+  "language": "en_US",
+  "id": "A2-019",
+  "name": "Carnivine",
+  "localId": "019",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Space-Time Smackdown"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2/A2-019_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-019_artwork.png",
+  "illustrator": "Anesaki Dynamic",
+  "hp": 90,
+  "types": [
+    "Grass"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Grass",
+        "Grass",
+        "Colorless"
+      ],
+      "name": "Flog",
+      "damage": {
+        "value": 40,
+        "modifier": "+"
+      },
+      "effect": "Flip a coin. If heads, this attack does 50 more damage."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "It attracts prey with its sweet-smelling saliva, then chomps down. It takes a whole day to eat prey."
+}

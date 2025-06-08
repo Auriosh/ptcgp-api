@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "P-A-039",
+  "name": "Airmure",
+  "localId": "039",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "Sans Rareté",
+  "cardImage": "/assets/cardImage/fr_FR/P-A/P-A-039_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-039_artwork.png",
+  "illustrator": "Anesaki Dynamic",
+  "hp": 80,
+  "types": [
+    "Métal"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Métal"
+      ],
+      "name": "Bras Métalliques",
+      "damage": {
+        "value": 20,
+        "modifier": "+"
+      },
+      "effect": "Si un Outil Pokémon est attaché à ce Pokémon, cette attaque inflige 30 dégâts supplémentaires."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Électrique",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Ce Pokémon orne souvent les blasons, car les plumes\nqu'il perd sont utilisées pour forger des épées."
+}

@@ -1,0 +1,51 @@
+{
+  "language": "fr_FR",
+  "id": "A1-034",
+  "name": "Reptincel",
+  "localId": "034",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Puissance Génétique"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A1/A1-034_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-034_artwork.png",
+  "illustrator": "kantaro",
+  "hp": 90,
+  "types": [
+    "Feu"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Feu",
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Griffes Enflammées",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Eau",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Son souffle brûlant peut faire fondre la roche.\nIl est parfois la cause d'incendies de forêt."
+}

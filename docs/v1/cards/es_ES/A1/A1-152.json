@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A1-152",
+  "name": "Marowak",
+  "localId": "152",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Genes Formidables"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A1/A1-152_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-152_artwork.png",
+  "illustrator": "Shin Nagasawa",
+  "hp": 140,
+  "types": [
+    "Lucha"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lucha"
+      ],
+      "name": "Derribo Óseo",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Planta",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Ha evolucionado tras fortalecerse y\nsuperar su pena. Ahora lucha con arrojo\nblandiendo su hueso a modo de arma."
+}

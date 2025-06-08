@@ -1,0 +1,49 @@
+{
+  "language": "fr_FR",
+  "id": "A2b-104",
+  "name": "Riolu",
+  "localId": "104",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Réjouissances Rayonnantes"
+  },
+  "rarity": "Un Chromatique",
+  "cardImage": "/assets/cardImage/fr_FR/A2b/A2b-104_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-104_artwork.png",
+  "illustrator": "GOSSAN",
+  "hp": 70,
+  "types": [
+    "Combat"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Combat",
+        "Combat"
+      ],
+      "name": "Koud'Poing",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psy",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Les Riolu communiquent entre eux à l'aide de\nleur aura. Ils sont capables de courir toute la nuit."
+}

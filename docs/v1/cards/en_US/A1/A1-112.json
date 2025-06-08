@@ -1,0 +1,49 @@
+{
+  "language": "en_US",
+  "id": "A1-112",
+  "name": "Pincurchin",
+  "localId": "112",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1",
+    "name": "Genetic Apex"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A1/A1-112_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-112_artwork.png",
+  "illustrator": "Tika Matsuno",
+  "hp": 70,
+  "types": [
+    "Lightning"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lightning",
+        "Lightning"
+      ],
+      "name": "Thunder Shock",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "This Pokémon generates electricity when it digests food. It uses its five hard teeth to scrape seaweed off surfaces and eat it."
+}

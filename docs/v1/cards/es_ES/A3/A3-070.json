@@ -1,0 +1,49 @@
+{
+  "language": "es_ES",
+  "id": "A3-070",
+  "name": "Sableye",
+  "localId": "070",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-070_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-070_artwork.png",
+  "illustrator": "Aya Kusube",
+  "hp": 80,
+  "types": [
+    "Psíquico"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psíquico",
+        "Incolora"
+      ],
+      "name": "Arrinconar",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": "Durante el próximo turno de tu rival, el Pokémon Defensor no puede retirarse."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Oscura",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Hace su guarida en cuevas oscuras. Usa sus afiladas\ngarras para desenterrar las gemas que se come."
+}

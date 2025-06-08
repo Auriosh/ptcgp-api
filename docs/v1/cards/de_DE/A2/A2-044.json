@@ -1,0 +1,49 @@
+{
+  "language": "de_DE",
+  "id": "A2-044",
+  "name": "Shnebedeck",
+  "localId": "044",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Kollision von Raum und Zeit"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2/A2-044_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-044_artwork.png",
+  "illustrator": "match",
+  "hp": 70,
+  "types": [
+    "Wasser"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Wasser"
+      ],
+      "name": "Eissplitter",
+      "damage": {
+        "value": 10,
+        "modifier": "+"
+      },
+      "effect": "Wenn das Aktive Pokémon deines Gegners ein {F}-Pokémon ist, fügt diese Attacke 30 Schadenspunkte mehr zu."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metall",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "In der kalten Jahreszeit steigt es bis zum Fuß\nder Berge hinab. Im Frühjahr kehrt es auf die\nGipfel zurück, wo noch Schnee liegt."
+}

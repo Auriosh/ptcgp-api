@@ -1,0 +1,48 @@
+{
+  "language": "en_US",
+  "id": "P-A-052",
+  "name": "Sprigatito",
+  "localId": "052",
+  "category": "Pokemon",
+  "set": {
+    "id": "P-A",
+    "name": "Promos-A"
+  },
+  "rarity": "None",
+  "cardImage": "/assets/cardImage/en_US/P-A/P-A-052_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-052_artwork.png",
+  "illustrator": "MINAMINAMI Take",
+  "hp": 60,
+  "types": [
+    "Grass"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Grass"
+      ],
+      "name": "Cry for Help",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Put 1 random {G} Pokémon from your deck into your hand."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Its fluffy fur is similar in composition to plants. This Pokémon frequently washes its face to keep it from drying out."
+}

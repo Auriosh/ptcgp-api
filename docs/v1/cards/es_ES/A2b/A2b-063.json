@@ -1,0 +1,52 @@
+{
+  "language": "es_ES",
+  "id": "A2b-063",
+  "name": "Lickilicky",
+  "localId": "063",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Festival Brillante"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2b/A2b-063_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-063_artwork.png",
+  "illustrator": "Suwama Chiaki",
+  "hp": 130,
+  "types": [
+    "Incolora"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolora",
+        "Incolora",
+        "Incolora"
+      ],
+      "name": "Rodar",
+      "damage": {
+        "value": 70,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lucha",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Su lengua es un misterio sin resolver: no se sabe\ncómo puede extenderla hasta alcanzar longitudes\nque superan varias veces la de su propio cuerpo."
+}

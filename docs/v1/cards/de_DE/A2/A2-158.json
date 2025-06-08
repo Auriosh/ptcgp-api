@@ -1,0 +1,50 @@
+{
+  "language": "de_DE",
+  "id": "A2-158",
+  "name": "Venuflibis",
+  "localId": "158",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Kollision von Raum und Zeit"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/de_DE/A2/A2-158_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-158_artwork.png",
+  "illustrator": "Yoriyuki Ikegami",
+  "hp": 90,
+  "types": [
+    "Pflanze"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Pflanze",
+        "Pflanze",
+        "Farblos"
+      ],
+      "name": "Auspeitscher",
+      "damage": {
+        "value": 40,
+        "modifier": "+"
+      },
+      "effect": "Wirf 1 Münze. Bei Kopf fügt diese Attacke 50 Schadenspunkte mehr zu."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feuer",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Sein süßlich riechender Speichel zieht Beute an,\ndie es frisst. Es braucht einen Tag, sie zu fressen."
+}

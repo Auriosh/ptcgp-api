@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A2b-067",
+  "name": "Lopunny",
+  "localId": "067",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Festival Brillante"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2b/A2b-067_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-067_artwork.png",
+  "illustrator": "Minahamu",
+  "hp": 100,
+  "types": [
+    "Incolora"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolora"
+      ],
+      "name": "Disparo Salto",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lucha",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Está siempre atento a lo que ocurre a su\nalrededor. Si advierte peligro, se defenderá\ncon patadas de potencia devastadora."
+}

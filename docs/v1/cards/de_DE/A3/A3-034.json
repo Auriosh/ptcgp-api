@@ -1,0 +1,49 @@
+{
+  "language": "de_DE",
+  "id": "A3-034",
+  "name": "Choreogel",
+  "localId": "034",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-034_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-034_artwork.png",
+  "illustrator": "Jerky",
+  "hp": 70,
+  "types": [
+    "Feuer"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Feuer",
+        "Feuer"
+      ],
+      "name": "Anzünden",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": "Lege 1 zufällige Energie von beiden Aktiven Pokémon ab."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Wasser",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Dieses Choreogel hat Roten Nektar geschlürft.\nMit seinen feurigen Tanzschritten lässt es\nlodernde Flammen aufwirbeln."
+}

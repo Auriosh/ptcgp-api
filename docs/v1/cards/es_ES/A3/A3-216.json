@@ -1,0 +1,49 @@
+{
+  "language": "es_ES",
+  "id": "A3-216",
+  "name": "Wartortle",
+  "localId": "216",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "Un Chromatique",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-216_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-216_artwork.png",
+  "illustrator": "Nisota Niso",
+  "hp": 80,
+  "types": [
+    "Agua"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Agua",
+        "Incolora"
+      ],
+      "name": "Chapoteo Ondulante",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Rayo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Se lo considera un símbolo de longevidad.\nLos ejemplares más ancianos tienen\nmusgo sobre el caparazón."
+}

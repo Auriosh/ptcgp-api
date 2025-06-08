@@ -1,0 +1,50 @@
+{
+  "language": "es_ES",
+  "id": "A2a-012",
+  "name": "Houndoom",
+  "localId": "012",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Luz Triunfal"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2a/A2a-012_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-012_artwork.png",
+  "illustrator": "Hajime Kusajima",
+  "hp": 100,
+  "types": [
+    "Guego"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Guego",
+        "Incolora"
+      ],
+      "name": "Arrinconar",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": "Durante el próximo turno de tu rival, el Pokémon Defensor no puede retirarse."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Agua",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Si alguien se quema con las llamas que lanza\npor la boca, el dolor no desaparecerá nunca."
+}

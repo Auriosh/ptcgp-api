@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A2b-023",
+  "name": "Voltorbe",
+  "localId": "023",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Réjouissances Rayonnantes"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2b/A2b-023_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-023_artwork.png",
+  "illustrator": "Masakazu Fukuda",
+  "hp": 70,
+  "types": [
+    "Électrique"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Électrique"
+      ],
+      "name": "Boule Éclair",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Combat",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il se déplace en roulant. Si le sol est cabossé,\nles chocs le font exploser."
+}

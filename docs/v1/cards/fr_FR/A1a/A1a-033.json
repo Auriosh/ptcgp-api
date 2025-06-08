@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A1a-033",
+  "name": "Cryptéro",
+  "localId": "033",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "L’Île Fabuleuse"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A1a/A1a-033_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-033_artwork.png",
+  "illustrator": "Shigenori Negishi",
+  "hp": 80,
+  "types": [
+    "Psy"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psy"
+      ],
+      "name": "Pique-Pioche",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": "Piochez une carte."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Obscurité",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il vole grâce à ses pouvoirs psychiques. Certains disent qu'il était\nle dieu protecteur d'une ville antique, d'autres, son messager."
+}

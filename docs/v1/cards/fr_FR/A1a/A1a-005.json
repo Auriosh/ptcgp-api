@@ -1,0 +1,49 @@
+{
+  "language": "fr_FR",
+  "id": "A1a-005",
+  "name": "Lianaja",
+  "localId": "005",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "L’Île Fabuleuse"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A1a/A1a-005_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-005_artwork.png",
+  "illustrator": "Shigenori Negishi",
+  "hp": 80,
+  "types": [
+    "Plante"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Plante",
+        "Incolore"
+      ],
+      "name": "Fouet Lianes",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feu",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il court comme s'il glissait sur le sol. Il déroute l'ennemi\npar ses mouvements et l'assomme d'un coup de liane."
+}

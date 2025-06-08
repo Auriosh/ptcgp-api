@@ -1,0 +1,49 @@
+{
+  "language": "fr_FR",
+  "id": "A2a-019",
+  "name": "Momartik",
+  "localId": "019",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Lumière Triomphale"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2a/A2a-019_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-019_artwork.png",
+  "illustrator": "Mizue",
+  "hp": 90,
+  "types": [
+    "Eau"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Eau",
+        "Incolore"
+      ],
+      "name": "Blizzard",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": "Cette attaque inflige aussi 10 dégâts à chaque Pokémon de Banc de votre adversaire."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Métal",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il congèle les êtres humains et les Pokémon\nqui lui plaisent. Il les emmène ensuite\ndans sa tanière pour les admirer à loisir."
+}

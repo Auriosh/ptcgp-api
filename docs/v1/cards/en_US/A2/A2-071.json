@@ -1,0 +1,51 @@
+{
+  "language": "en_US",
+  "id": "A2-071",
+  "name": "Dusclops",
+  "localId": "071",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Space-Time Smackdown"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2/A2-071_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-071_artwork.png",
+  "illustrator": "Sumiyoshi Kizuki",
+  "hp": 90,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Duskull",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psychic",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Psypunch",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Darkness",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "It seeks drifting will-o'-the-wisps and sucks them into its empty body. What happens inside is a mystery."
+}

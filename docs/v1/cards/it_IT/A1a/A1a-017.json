@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "A1a-017",
+  "name": "Magikarp",
+  "localId": "017",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "L'Isola Misteriosa"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A1a/A1a-017_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-017_artwork.png",
+  "illustrator": "Mitsuhiro Arita",
+  "hp": 30,
+  "types": [
+    "Acqua"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Acqua"
+      ],
+      "name": "Sguizzata",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Scambia questo Pokémon con uno della tua panchina."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lampo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Un Pokémon debole e patetico. Nelle rare\noccasioni in cui spicca alti salti, non riesce\ncomunque a raggiungere i due metri."
+}

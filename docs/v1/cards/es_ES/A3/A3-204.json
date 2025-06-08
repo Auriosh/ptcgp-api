@@ -1,0 +1,58 @@
+{
+  "language": "es_ES",
+  "id": "A3-204",
+  "name": "Lunala ex",
+  "localId": "204",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "deux Étoiles",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-204_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-204_artwork.png",
+  "illustrator": "AKIRA EGAWA",
+  "hp": 180,
+  "types": [
+    "Psíquico"
+  ],
+  "stage": "Fase 2",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Habilidad",
+      "name": "Conexión Psíquica",
+      "effect": "Una vez durante tu turno, puedes mover todas las Energías {P} de 1 de tus Pokémon {P} en Banca a tu Pokémon Activo."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Psíquico",
+        "Incolora",
+        "Incolora"
+      ],
+      "name": "Explosión Lunar",
+      "damage": {
+        "value": 100,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Oscura",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": ""
+}

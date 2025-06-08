@@ -1,0 +1,58 @@
+{
+  "language": "de_DE",
+  "id": "A2a-022",
+  "name": "Glaziola-ex",
+  "localId": "022",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Licht des Triumphs"
+  },
+  "rarity": "Quatre Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2a/A2a-022_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-022_artwork.png",
+  "illustrator": "PLANETA CG Works",
+  "hp": 140,
+  "types": [
+    "Wasser"
+  ],
+  "stage": "Rang 1",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Fähigkeit",
+      "name": "Schneefeld",
+      "effect": "Wenn dieses Pokémon beim Pokémon-Check in der Aktiven Position ist, füge dem Aktiven Pokémon deines Gegners 10 Schadenspunkte zu."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Wasser",
+        "Wasser",
+        "Farblos"
+      ],
+      "name": "Polarwind",
+      "damage": {
+        "value": 90,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metall",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": ""
+}

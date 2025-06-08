@@ -1,0 +1,48 @@
+{
+  "language": "en_US",
+  "id": "A2b-016",
+  "name": "Buizel",
+  "localId": "016",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2b",
+    "name": "Shining Revelry"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2b/A2b-016_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-016_artwork.png",
+  "illustrator": "sui",
+  "hp": 70,
+  "types": [
+    "Water"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Water"
+      ],
+      "name": "Water Gun",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "It inflates its flotation sac, keeping its face above water in order to watch for prey movement."
+}

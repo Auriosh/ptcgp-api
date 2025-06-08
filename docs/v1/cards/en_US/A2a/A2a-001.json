@@ -1,0 +1,51 @@
+{
+  "language": "en_US",
+  "id": "A2a-001",
+  "name": "Heracross",
+  "localId": "001",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2a",
+    "name": "Triumphant Light"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2a/A2a-001_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-001_artwork.png",
+  "illustrator": "Satoshi Shirai",
+  "hp": 100,
+  "types": [
+    "Grass"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Grass",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Single-Horn Throw",
+      "damage": {
+        "value": 50,
+        "modifier": "+"
+      },
+      "effect": "Flip 2 coins. If both of them are heads, this attack does 70 more damage."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "It loves sweet nectar. To keep all the nectar to itself, it hurls rivals away with its prized horn."
+}

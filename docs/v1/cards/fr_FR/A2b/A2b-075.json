@@ -1,0 +1,54 @@
+{
+  "language": "fr_FR",
+  "id": "A2b-075",
+  "name": "Nigirigon",
+  "localId": "075",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Réjouissances Rayonnantes"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/fr_FR/A2b/A2b-075_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-075_artwork.png",
+  "illustrator": "cochi8i",
+  "hp": 70,
+  "types": [
+    "Eau"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Talent",
+      "name": "Ordre de Repli",
+      "effect": "Votre Oyacata Actif n'a aucun Coût de Retraite."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Eau"
+      ],
+      "name": "Pluie Éclaboussante",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Électrique",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Ce petit Pokémon Dragon vit dans la gueule\nd'Oyacata, à l'abri de ses adversaires."
+}

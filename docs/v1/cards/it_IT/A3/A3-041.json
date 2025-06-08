@@ -1,0 +1,50 @@
+{
+  "language": "it_IT",
+  "id": "A3-041",
+  "name": "Ninetalesdi Alola",
+  "localId": "041",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiani Astrali"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A3/A3-041_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-041_artwork.png",
+  "illustrator": "Eri Yamaki",
+  "hp": 110,
+  "types": [
+    "Acqua"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Acqua",
+        "Acqua",
+        "Acqua"
+      ],
+      "name": "Bora",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": "Questo attacco infligge anche 20 danni a ciascuno dei Pokémon nella panchina del tuo avversario."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metallo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "In passato viveva su un impenetrabile monte innevato,\ndimora di una divinità di cui era considerato l'incarnazione."
+}

@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A2-035",
+  "name": "Piplup",
+  "localId": "035",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Pugna Espaciotemporal"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2/A2-035_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-035_artwork.png",
+  "illustrator": "Hajime Kusajima",
+  "hp": 60,
+  "types": [
+    "Agua"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolora"
+      ],
+      "name": "Siesta",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Cura 20 puntos de daño a este Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Rayo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "No le gusta que lo cuiden. Como no aprecia el apoyo\nde su Entrenador, le cuesta coger confianza con él."
+}

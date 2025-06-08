@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A2b-037",
+  "name": "Machop",
+  "localId": "037",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Festival Brillante"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2b/A2b-037_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-037_artwork.png",
+  "illustrator": "Mina Nakai",
+  "hp": 60,
+  "types": [
+    "Lucha"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lucha"
+      ],
+      "name": "Patada Baja",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psíquico",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Es una masa de músculos y, pese a su\npequeño tamaño, tiene fuerza de sobra\npara levantar en brazos a 100 personas."
+}

@@ -1,0 +1,64 @@
+{
+  "language": "it_IT",
+  "id": "A1-104",
+  "name": "Zapdos-ex",
+  "localId": "104",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Geni Supremi"
+  },
+  "rarity": "Quatre Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A1/A1-104_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-104_artwork.png",
+  "illustrator": "PLANETA CG Works",
+  "hp": 130,
+  "types": [
+    "Lampo"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lampo"
+      ],
+      "name": "Beccata",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    },
+    {
+      "cost": [
+        "Lampo",
+        "Lampo",
+        "Lampo"
+      ],
+      "name": "Tuonuragano",
+      "damage": {
+        "value": 50,
+        "modifier": "x"
+      },
+      "effect": "Lancia 4 volte una moneta. Questo attacco infligge 50 danni ogni volta che esce testa."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lampo",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": ""
+}

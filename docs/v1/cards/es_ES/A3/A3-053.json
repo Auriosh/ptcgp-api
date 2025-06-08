@@ -1,0 +1,51 @@
+{
+  "language": "es_ES",
+  "id": "A3-053",
+  "name": "Araquanid",
+  "localId": "053",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-053_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-053_artwork.png",
+  "illustrator": "kodama",
+  "hp": 110,
+  "types": [
+    "Agua"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Agua",
+        "Agua",
+        "Incolora"
+      ],
+      "name": "Zarpas Peligrosas",
+      "damage": {
+        "value": 60,
+        "modifier": "+"
+      },
+      "effect": "Si el Pokémon Activo de tu rival es un Pokémon Básico, este ataque hace 60 puntos de daño más."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Rayo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Usa las patas para lanzar burbujas de agua con las que atrapa y\nahoga a sus presas. Luego se toma su tiempo para saborearlas."
+}

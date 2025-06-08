@@ -1,0 +1,27 @@
+{
+  "language": "de_DE",
+  "id": "P-A-007",
+  "name": "Forschung des Professors",
+  "localId": "007",
+  "category": "Trainer",
+  "set": {
+    "id": "P-A",
+    "name": "PROMO-A"
+  },
+  "rarity": "Keine",
+  "cardImage": "/assets/cardImage/de_DE/P-A/P-A-007_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-007_artwork.png",
+  "illustrator": "Naoki Saito",
+  "hp": null,
+  "types": [],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [],
+  "weaknesses": [],
+  "rules": [],
+  "retreat": [],
+  "description": ""
+}

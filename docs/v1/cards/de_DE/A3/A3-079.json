@@ -1,0 +1,46 @@
+{
+  "language": "de_DE",
+  "id": "A3-079",
+  "name": "Bandelby",
+  "localId": "079",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-079_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-079_artwork.png",
+  "illustrator": "Megumi Mizutani",
+  "hp": 80,
+  "types": [
+    "Psycho"
+  ],
+  "stage": "Rang 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Farblos"
+      ],
+      "name": "Feenbrise",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metall",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [],
+  "description": "Es rollt Blütenstaub und Honig zu Kugeln. Je nach\nZutaten und Menge, die es hineinmischt, weisen sie\neine andere Wirkung auf."
+}

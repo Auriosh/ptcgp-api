@@ -1,0 +1,50 @@
+{
+  "language": "de_DE",
+  "id": "A2-123",
+  "name": "Knakrack",
+  "localId": "123",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Kollision von Raum und Zeit"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2/A2-123_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-123_artwork.png",
+  "illustrator": "Atsushi Furusawa",
+  "hp": 140,
+  "types": [
+    "Drache"
+  ],
+  "stage": "Rang 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Fähigkeit",
+      "name": "Rücksichtsloses Scheren",
+      "effect": "Du musst 1 Karte von deiner Hand auf deinen Ablagestapel legen, um diese Fähigkeit einzusetzen. Einmal während deines Zuges kannst du 1 Karte ziehen."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Wasser",
+        "Kampf"
+      ],
+      "name": "Drachenklaue",
+      "damage": {
+        "value": 100,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Stürmt es schnell vorwärts, erzeugen seine Flügel Klingen\naus Wind, die in der Nähe stehende Bäume fällen."
+}

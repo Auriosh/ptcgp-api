@@ -1,0 +1,52 @@
+{
+  "language": "pt_BR",
+  "id": "A3-217",
+  "name": "Blastoise",
+  "localId": "217",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "One Shiny",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-217_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-217_artwork.png",
+  "illustrator": "Nisota Niso",
+  "hp": 150,
+  "types": [
+    "Water"
+  ],
+  "stage": "Stage2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Water",
+        "Water",
+        "Colorless"
+      ],
+      "name": "Jato d'Água",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": "Se este Pokémon tiver pelo menos 2 Energia {W} extra ligada a ele, este ataque causará 60 pontos de dano a mais."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Esmaga seus inimigos com seu corpo pesado\naté que desmaiem. Quando está em apuros,\nse esconde dentro do seu casco."
+}

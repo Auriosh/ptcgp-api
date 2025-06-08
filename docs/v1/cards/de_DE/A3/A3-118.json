@@ -1,0 +1,49 @@
+{
+  "language": "de_DE",
+  "id": "A3-118",
+  "name": "Alola-Digdri",
+  "localId": "118",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-118_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-118_artwork.png",
+  "illustrator": "Yuka Morii",
+  "hp": 90,
+  "types": [
+    "Metall"
+  ],
+  "stage": "Rang 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Metall",
+        "Metall"
+      ],
+      "name": "Eisenschädel",
+      "damage": {
+        "value": 70,
+        "modifier": "x"
+      },
+      "effect": "Wirf so lange 1 Münze, bis sie Zahl zeigt. Diese Attacke fügt 70 Schadenspunkte pro Kopf zu."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feuer",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Seine prächtigen, metallischen Haare schützen seine\nKöpfe wie ein Helm. Gleichzeitig dienen sie ihm als\npräzise Sensoren."
+}

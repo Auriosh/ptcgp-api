@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "A2-096",
+  "name": "Murkrow",
+  "localId": "096",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Scontro Spaziotemporale"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2/A2-096_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-096_artwork.png",
+  "illustrator": "Yukiko Baba",
+  "hp": 60,
+  "types": [
+    "Oscurità"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Oscurità"
+      ],
+      "name": "Beccata",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lampo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Molti lo temono e lo detestano credendo che\nporti sfortuna a chiunque lo veda di notte."
+}

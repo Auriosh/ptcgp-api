@@ -1,0 +1,27 @@
+{
+  "language": "es_ES",
+  "id": "A1a-066",
+  "name": "Explorador Novel",
+  "localId": "066",
+  "category": "Entrenador",
+  "set": {
+    "id": "A1a",
+    "name": "La Isla Singular"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A1a/A1a-066_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-066_artwork.png",
+  "illustrator": "Yuu Nishida",
+  "hp": null,
+  "types": [],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [],
+  "weaknesses": [],
+  "rules": [],
+  "retreat": [],
+  "description": ""
+}

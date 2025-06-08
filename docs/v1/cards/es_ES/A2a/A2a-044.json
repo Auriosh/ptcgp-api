@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A2a-044",
+  "name": "Medicham",
+  "localId": "044",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Luz Triunfal"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2a/A2a-044_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-044_artwork.png",
+  "illustrator": "Tetsu Kayama",
+  "hp": 100,
+  "types": [
+    "Lucha"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lucha"
+      ],
+      "name": "Disparo Patada",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": "Lanza 1 moneda. Si sale cruz, este ataque no hace nada."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psíquico",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Puede prever los movimientos de su rival usando\nsus poderes psíquicos, fortalecidos por el yoga."
+}

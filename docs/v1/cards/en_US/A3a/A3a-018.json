@@ -1,0 +1,48 @@
+{
+  "language": "en_US",
+  "id": "A3a-018",
+  "name": "Emolga",
+  "localId": "018",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3a",
+    "name": "Extradimensional Crisis"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/en_US/A3a/A3a-018_card.png",
+  "artworkImage": "/assets/artworkImage/A3a/A3a-018_artwork.png",
+  "illustrator": "Naoki Saito",
+  "hp": 70,
+  "types": [
+    "Lightning"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lightning"
+      ],
+      "name": "Static Shock",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "As Emolga flutters through the air, it crackles\nwith electricity. This Pokémon is cute, but it can\ncause a lot of trouble."
+}

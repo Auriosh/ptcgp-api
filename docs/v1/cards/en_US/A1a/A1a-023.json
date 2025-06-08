@@ -1,0 +1,52 @@
+{
+  "language": "en_US",
+  "id": "A1a-023",
+  "name": "Drednaw",
+  "localId": "023",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1a",
+    "name": "Mythical Island"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A1a/A1a-023_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-023_artwork.png",
+  "illustrator": "nisimono",
+  "hp": 130,
+  "types": [
+    "Water"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Chewtle",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Water",
+        "Water",
+        "Water"
+      ],
+      "name": "Crunch",
+      "damage": {
+        "value": 70,
+        "modifier": null
+      },
+      "effect": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Its massive, jagged teeth can crush a boulder in a single bite. This Pokémon has an extremely vicious disposition."
+}

@@ -1,0 +1,56 @@
+{
+  "language": "fr_FR",
+  "id": "A3-048",
+  "name": "Oratoria",
+  "localId": "048",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Gardiens Astraux"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A3/A3-048_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-048_artwork.png",
+  "illustrator": "Kagemaru Himeno",
+  "hp": 140,
+  "types": [
+    "Eau"
+  ],
+  "stage": "Niveau 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Talent",
+      "name": "Mélodie Médicinale",
+      "effect": "Une fois pendant votre tour, vous pouvez soigner 30 dégâts de chacun de vos Pokémon {W}."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Eau",
+        "Incolore"
+      ],
+      "name": "Surf",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Électrique",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Pour Oratoria, le combat est une performance\nartistique. Ce Pokémon chante et danse\navec prestance pour abattre ses proies."
+}

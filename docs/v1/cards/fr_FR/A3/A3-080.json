@@ -1,0 +1,55 @@
+{
+  "language": "fr_FR",
+  "id": "A3-080",
+  "name": "Guérilande",
+  "localId": "080",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Gardiens Astraux"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A3/A3-080_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-080_artwork.png",
+  "illustrator": "Sanosuke Sakuma",
+  "hp": 70,
+  "types": [
+    "Psy"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Talent",
+      "name": "Garde Florale",
+      "effect": "Chacun de vos Pokémon auquel de l'Énergie {P} est attachée guérit de tous les États Spéciaux et ne peut être affecté par aucun État Spécial."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Psy",
+        "Incolore"
+      ],
+      "name": "Attaque Tournante",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Métal",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il orne son corps de fleurs qu'il cueille avec sa liane.\nMystérieusement, celles-ci ne se fanent jamais."
+}

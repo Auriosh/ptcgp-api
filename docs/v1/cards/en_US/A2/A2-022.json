@@ -1,0 +1,55 @@
+{
+  "language": "en_US",
+  "id": "A2-022",
+  "name": "Shaymin",
+  "localId": "022",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Space-Time Smackdown"
+  },
+  "rarity": "Three Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2/A2-022_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-022_artwork.png",
+  "illustrator": "Narumi Sato",
+  "hp": 60,
+  "types": [
+    "Grass"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Fragrant Flower Garden",
+      "effect": "Once during your turn, you may heal 10 damage from each of your Pokémon."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Grass",
+        "Colorless"
+      ],
+      "name": "Flop",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "It can dissolve toxins in the air to instantly transform ruined land into a lush field of flowers."
+}

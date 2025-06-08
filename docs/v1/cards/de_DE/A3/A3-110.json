@@ -1,0 +1,50 @@
+{
+  "language": "de_DE",
+  "id": "A3-110",
+  "name": "Alola-Sleima",
+  "localId": "110",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-110_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-110_artwork.png",
+  "illustrator": "Akira Komayama",
+  "hp": 70,
+  "types": [
+    "Unlicht"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Unlicht",
+        "Farblos"
+      ],
+      "name": "Schleimwurf",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Kampf",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Die Müllanlagen Alolas beherbergen rund hundert\nExemplare dieses Pokémon. Sie sind fleißig dabei,\nriesige Mengen an Müll zu vertilgen."
+}

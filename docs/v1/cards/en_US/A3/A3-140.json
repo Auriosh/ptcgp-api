@@ -1,0 +1,50 @@
+{
+  "language": "en_US",
+  "id": "A3-140",
+  "name": "Oranguru",
+  "localId": "140",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Celestial Guardians"
+  },
+  "rarity": "Three Diamond",
+  "cardImage": "/assets/cardImage/en_US/A3/A3-140_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-140_artwork.png",
+  "illustrator": "Naoki Saito",
+  "hp": 100,
+  "types": [
+    "Colorless"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Primate's Trap",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": "During your opponent's next turn, attacks used by the Defending Pokémon cost 1 {C} more, and its Retreat Cost is 1 {C} more."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "People used to mistake Oranguru for a human when they saw it issue command after command to the other Pokémon of the forest."
+}

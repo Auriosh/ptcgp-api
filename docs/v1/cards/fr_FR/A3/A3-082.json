@@ -1,0 +1,52 @@
+{
+  "language": "fr_FR",
+  "id": "A3-082",
+  "name": "Trépassable",
+  "localId": "082",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Gardiens Astraux"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A3/A3-082_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-082_artwork.png",
+  "illustrator": "OOYAMA",
+  "hp": 130,
+  "types": [
+    "Psy"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psy",
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Tir Effrayant",
+      "damage": {
+        "value": 70,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Obscurité",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Trépassable est terrifiant. Il attire de petits\nPokémon à l'intérieur de son corps de sable\nafin d'aspirer leur énergie vitale à sa guise."
+}

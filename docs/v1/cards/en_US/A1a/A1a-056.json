@@ -1,0 +1,52 @@
+{
+  "language": "en_US",
+  "id": "A1a-056",
+  "name": "Druddigon",
+  "localId": "056",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1a",
+    "name": "Mythical Island"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A1a/A1a-056_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-056_artwork.png",
+  "illustrator": "Ryota Murayama",
+  "hp": 100,
+  "types": [
+    "Dragon"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Rough Skin",
+      "effect": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Fire",
+        "Water",
+        "Colorless"
+      ],
+      "name": "Dragon Claw",
+      "damage": {
+        "value": 90,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Druddigon lives in caves, but it never skips sunbathing—it won't be able to move if its body gets too cold."
+}

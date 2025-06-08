@@ -1,0 +1,48 @@
+{
+  "language": "de_DE",
+  "id": "A2-138",
+  "name": "Schlapor",
+  "localId": "138",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Kollision von Raum und Zeit"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2/A2-138_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-138_artwork.png",
+  "illustrator": "Sanosuke Sakuma",
+  "hp": 90,
+  "types": [
+    "Farblos"
+  ],
+  "stage": "Rang 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Farblos"
+      ],
+      "name": "Sprungkick",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": "Diese Attacke fügt auch 1 Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Kampf",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Schlapor behält seine Umgebung stets im Auge.\nWenn Gefahr im Verzug ist, setzt es sich mit\nvernichtenden Tritten zur Wehr."
+}

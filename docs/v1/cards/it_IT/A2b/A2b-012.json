@@ -1,0 +1,52 @@
+{
+  "language": "it_IT",
+  "id": "A2b-012",
+  "name": "Magmortar",
+  "localId": "012",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Tripudio Splendente"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2b/A2b-012_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-012_artwork.png",
+  "illustrator": "Miki Tanaka",
+  "hp": 120,
+  "types": [
+    "Fuoco"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fuoco",
+        "Fuoco",
+        "Incolore"
+      ],
+      "name": "Bomba Fumogena",
+      "damage": {
+        "value": 70,
+        "modifier": null
+      },
+      "effect": "Durante il prossimo turno del tuo avversario, se il Pokémon difensore prova a usare un attacco, il tuo avversario lancia una moneta. Se esce croce, quell'attacco non avviene."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Acqua",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Quando respira profondamente, le fiamme all'interno del\nsuo ventre aumentano d'intensità, raggiungendo i 2.000 ºC."
+}

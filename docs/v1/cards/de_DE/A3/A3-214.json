@@ -1,0 +1,53 @@
+{
+  "language": "de_DE",
+  "id": "A3-214",
+  "name": "Kokowei",
+  "localId": "214",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "Un Chromatique",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-214_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-214_artwork.png",
+  "illustrator": "Shigenori Negishi",
+  "hp": 130,
+  "types": [
+    "Pflanze"
+  ],
+  "stage": "Rang 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Pflanze",
+        "Farblos",
+        "Farblos",
+        "Farblos"
+      ],
+      "name": "Psychokinese",
+      "damage": {
+        "value": 80,
+        "modifier": "+"
+      },
+      "effect": "Diese Attacke fügt für jede an das Aktive Pokémon deines Gegners angelegte Energie 20 Schadenspunkte mehr zu."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feuer",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Jeder der drei Köpfe hat einen\neigenen Willen und scheint sich\nnur für sich selbst zu interessieren."
+}

@@ -1,0 +1,59 @@
+{
+  "language": "en_US",
+  "id": "A2-114",
+  "name": "Bastiodon",
+  "localId": "114",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Space-Time Smackdown"
+  },
+  "rarity": "Three Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2/A2-114_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-114_artwork.png",
+  "illustrator": "Kagemaru Himeno",
+  "hp": 160,
+  "types": [
+    "Metal"
+  ],
+  "stage": "Stage2",
+  "evolveFrom": "Shieldon",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Guarded Grill",
+      "effect": "If any damage is done to this Pokémon by attacks, flip a coin. If heads, this Pokémon takes −100 damage from that attack."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Metal",
+        "Metal",
+        "Colorless"
+      ],
+      "name": "Headbang",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "The bones of its face are huge and hard, so they were mistaken for its spine until after this Pokémon was successfully restored."
+}

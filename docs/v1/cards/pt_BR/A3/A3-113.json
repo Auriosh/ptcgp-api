@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "A3-113",
+  "name": "Trubbish",
+  "localId": "113",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-113_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-113_artwork.png",
+  "illustrator": "Tomokazu Komiya",
+  "hp": 60,
+  "types": [
+    "Darkness"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Darkness"
+      ],
+      "name": "Pancada",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Este Pokémon prefere lugares insalubres, e se você\nnão limpar o lixo do seu quarto, poderá até encontrá-lo\nvivendo lá dentro."
+}

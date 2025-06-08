@@ -1,0 +1,56 @@
+{
+  "language": "de_DE",
+  "id": "A1-020",
+  "name": "Sarzenia",
+  "localId": "020",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Unschlagbare Gene"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A1/A1-020_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-020_artwork.png",
+  "illustrator": "Sumiyoshi Kizuki",
+  "hp": 140,
+  "types": [
+    "Pflanze"
+  ],
+  "stage": "Rang 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Fähigkeit",
+      "name": "Aromafalle",
+      "effect": "Einmal während deines Zuges, wenn dieses Pokémon in der Aktiven Position ist, kannst du 1 Basis-Pokémon von der Bank deines Gegners in die Aktive Position einwechseln."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Pflanze",
+        "Farblos"
+      ],
+      "name": "Rankenhieb",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feuer",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Dieses Pokémon soll in großen Kolonien\ntief im Dschungel leben, doch niemand\nkann dies bestätigen."
+}

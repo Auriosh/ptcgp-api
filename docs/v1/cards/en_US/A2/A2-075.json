@@ -1,0 +1,48 @@
+{
+  "language": "en_US",
+  "id": "A2-075",
+  "name": "Uxie",
+  "localId": "075",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Space-Time Smackdown"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2/A2-075_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-075_artwork.png",
+  "illustrator": "AKIRA EGAWA",
+  "hp": 70,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psychic"
+      ],
+      "name": "Mind Boost",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": "Take a {P} Energy from your Energy Zone and attach it to Mesprit or Azelf."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Darkness",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Known as “The Being of Knowledge.” It is said\nthat it can wipe out the memory of those who see\nits eyes."
+}

@@ -1,0 +1,58 @@
+{
+  "language": "it_IT",
+  "id": "A3-189",
+  "name": "Solgaleo-ex",
+  "localId": "189",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiani Astrali"
+  },
+  "rarity": "deux Étoiles",
+  "cardImage": "/assets/cardImage/it_IT/A3/A3-189_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-189_artwork.png",
+  "illustrator": "PLANETA CG Works",
+  "hp": 180,
+  "types": [
+    "Metallo"
+  ],
+  "stage": "Livello 2",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Ascesa Rapida",
+      "effect": "Una sola volta durante il tuo turno, se questo Pokémon è nella tua panchina, puoi scambiarlo con il tuo Pokémon attivo."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Metallo",
+        "Metallo"
+      ],
+      "name": "Schianto Solare",
+      "damage": {
+        "value": 120,
+        "modifier": null
+      },
+      "effect": "Questo Pokémon infligge anche 10 danni a se stesso."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fuoco",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": ""
+}

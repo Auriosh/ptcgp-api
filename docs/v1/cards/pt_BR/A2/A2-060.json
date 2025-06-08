@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "A2-060",
+  "name": "Luxray",
+  "localId": "060",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Embate do Tempo e Espaço"
+  },
+  "rarity": "Three Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A2/A2-060_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-060_artwork.png",
+  "illustrator": "Hitoshi Ariga",
+  "hp": 130,
+  "types": [
+    "Lightning"
+  ],
+  "stage": "Stage2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lightning",
+        "Lightning",
+        "Lightning"
+      ],
+      "name": "Raio de Energia",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Descarte todas as Energias {L} deste Pokémon. Este ataque causa 120 pontos de dano a 1 dos Pokémon do seu oponente."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [],
+  "description": "Pode ver claramente através de paredes para rastrear\nsuas presas e procurar seus jovens perdidos."
+}

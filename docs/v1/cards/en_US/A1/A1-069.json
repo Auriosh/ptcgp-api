@@ -1,0 +1,52 @@
+{
+  "language": "en_US",
+  "id": "A1-069",
+  "name": "Kingler",
+  "localId": "069",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1",
+    "name": "Genetic Apex"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A1/A1-069_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-069_artwork.png",
+  "illustrator": "Shigenori Negishi",
+  "hp": 120,
+  "types": [
+    "Water"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Krabby",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Water",
+        "Water",
+        "Colorless"
+      ],
+      "name": "KO Crab",
+      "damage": {
+        "value": 80,
+        "modifier": "+"
+      },
+      "effect": "Flip 2 coins. If both of them are heads, this attack does 80 more damage."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Its large and hard pincer has 10,000-horsepower strength. However, being so big, it is unwieldy to move."
+}

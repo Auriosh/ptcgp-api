@@ -1,0 +1,52 @@
+{
+  "language": "pt_BR",
+  "id": "A2-106",
+  "name": "Drapion",
+  "localId": "106",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Embate do Tempo e Espaço"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A2/A2-106_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-106_artwork.png",
+  "illustrator": "Hitoshi Ariga",
+  "hp": 120,
+  "types": [
+    "Darkness"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Darkness",
+        "Darkness",
+        "Darkness"
+      ],
+      "name": "Corte-veneno",
+      "damage": {
+        "value": 40,
+        "modifier": "x"
+      },
+      "effect": "Jogue 4 moedas. Este ataque causa 40 pontos de dano para cada cara. Se pelo menos 2 delas saírem cara, o Pokémon Ativo do seu oponente agora estará Envenenado."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Seu veneno é poderoso, mas é raramente usado.\nEste Pokémon prefere usar sua força física, partindo\npara a briga com um vigor destrutivo."
+}

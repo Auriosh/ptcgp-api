@@ -1,0 +1,27 @@
+{
+  "language": "it_IT",
+  "id": "A2-149",
+  "name": "Baccaprugna",
+  "localId": "149",
+  "category": "Allenatore",
+  "set": {
+    "id": "A2",
+    "name": "Scontro Spaziotemporale"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2/A2-149_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-149_artwork.png",
+  "illustrator": "Yoshinobu Saito",
+  "hp": null,
+  "types": [],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [],
+  "weaknesses": [],
+  "rules": [],
+  "retreat": [],
+  "description": ""
+}

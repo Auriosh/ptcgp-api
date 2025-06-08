@@ -1,0 +1,48 @@
+{
+  "language": "de_DE",
+  "id": "A3-129",
+  "name": "Eneco",
+  "localId": "129",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-129_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-129_artwork.png",
+  "illustrator": "Sumiyoshi Kizuki",
+  "hp": 60,
+  "types": [
+    "Farblos"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Farblos"
+      ],
+      "name": "Tackle",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Kampf",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Es muss Dinge, die sich bewegen, einfach jagen.\nEs rennt oft im Kreis und jagt seinen eigenen Schweif."
+}

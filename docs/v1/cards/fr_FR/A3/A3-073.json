@@ -1,0 +1,50 @@
+{
+  "language": "fr_FR",
+  "id": "A3-073",
+  "name": "Séléroc",
+  "localId": "073",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Gardiens Astraux"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A3/A3-073_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-073_artwork.png",
+  "illustrator": "Hisao Nakamura",
+  "hp": 90,
+  "types": [
+    "Psy"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psy",
+        "Incolore"
+      ],
+      "name": "Pression Lunaire",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Obscurité",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Sa force est liée au cycle lunaire.\nIl est surtout actif les soirs de pleine lune."
+}

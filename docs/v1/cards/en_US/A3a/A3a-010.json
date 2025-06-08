@@ -1,0 +1,50 @@
+{
+  "language": "en_US",
+  "id": "A3a-010",
+  "name": "Mantine",
+  "localId": "010",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3a",
+    "name": "Extradimensional Crisis"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/en_US/A3a/A3a-010_card.png",
+  "artworkImage": "/assets/artworkImage/A3a/A3a-010_artwork.png",
+  "illustrator": "Sanosuke Sakuma",
+  "hp": 90,
+  "types": [
+    "Water"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Water",
+        "Colorless"
+      ],
+      "name": "Surf",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "If it builds up enough speed swimming, it\ncan jump out above the waves and glide\nfor over 300 feet."
+}

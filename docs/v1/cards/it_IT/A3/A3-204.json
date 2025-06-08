@@ -1,0 +1,58 @@
+{
+  "language": "it_IT",
+  "id": "A3-204",
+  "name": "Lunala-ex",
+  "localId": "204",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiani Astrali"
+  },
+  "rarity": "deux Étoiles",
+  "cardImage": "/assets/cardImage/it_IT/A3/A3-204_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-204_artwork.png",
+  "illustrator": "AKIRA EGAWA",
+  "hp": 180,
+  "types": [
+    "Psico"
+  ],
+  "stage": "Livello 2",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Connessione Psichica",
+      "effect": "Una sola volta durante il tuo turno, puoi spostare tutte le Energie {P} da uno dei tuoi Pokémon {P} in panchina al tuo Pokémon attivo."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Psico",
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Furia Lunare",
+      "damage": {
+        "value": 100,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Oscurità",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": ""
+}

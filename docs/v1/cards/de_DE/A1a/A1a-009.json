@@ -1,0 +1,49 @@
+{
+  "language": "de_DE",
+  "id": "A1a-009",
+  "name": "Moruda",
+  "localId": "009",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "Mysteriöse Insel"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A1a/A1a-009_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-009_artwork.png",
+  "illustrator": "Hasuno",
+  "hp": 100,
+  "types": [
+    "Pflanze"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Pflanze"
+      ],
+      "name": "Energiepeitsche",
+      "damage": {
+        "value": 20,
+        "modifier": "+"
+      },
+      "effect": "Wenn an dieses Pokémon mindestens 3 extra {G}-Energien angelegt sind, fügt diese Attacke 70 Schadenspunkte mehr zu."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feuer",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Dieses Geister-Pokémon entstand, als sich\nvom Meeresgrund stammendes Seegras auf\nBruchstücken eines Schiffswracks ablagerte."
+}

@@ -1,0 +1,52 @@
+{
+  "language": "en_US",
+  "id": "A3a-041",
+  "name": "Krookodile",
+  "localId": "041",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3a",
+    "name": "Extradimensional Crisis"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A3a/A3a-041_card.png",
+  "artworkImage": "/assets/artworkImage/A3a/A3a-041_artwork.png",
+  "illustrator": "Naoki Saito",
+  "hp": 140,
+  "types": [
+    "Darkness"
+  ],
+  "stage": "Stage2",
+  "evolveFrom": "Krokorok",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Darkness",
+        "Darkness",
+        "Colorless"
+      ],
+      "name": "Poaching Fangs",
+      "damage": {
+        "value": 90,
+        "modifier": null
+      },
+      "effect": "Flip 3 coins. For each heads, a card is chosen at random from your opponent's hand. Your opponent reveals that card and shuffles it into their deck."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Grass",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "After clamping down with its powerful jaws, it\ntwists its body around to rip its prey in half."
+}

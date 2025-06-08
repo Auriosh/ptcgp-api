@@ -1,0 +1,53 @@
+{
+  "language": "fr_FR",
+  "id": "A3-161",
+  "name": "Boumata",
+  "localId": "161",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Gardiens Astraux"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/fr_FR/A3/A3-161_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-161_artwork.png",
+  "illustrator": "akagi",
+  "hp": 120,
+  "types": [
+    "Feu"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Feu",
+        "Feu",
+        "Incolore"
+      ],
+      "name": "Danse Flammes",
+      "damage": {
+        "value": 90,
+        "modifier": null
+      },
+      "effect": "Défaussez une Énergie {R} de ce Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Eau",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Il s'abrite derrière une carapace couverte\nd'explosifs. Lorsqu'un ennemi l'attaque,\nil riposte à grands coups de déflagrations."
+}

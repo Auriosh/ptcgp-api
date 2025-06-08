@@ -1,0 +1,48 @@
+{
+  "language": "de_DE",
+  "id": "P-A-061",
+  "name": "Froxy",
+  "localId": "061",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "PROMO-A"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/P-A/P-A-061_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-061_artwork.png",
+  "illustrator": "Sanosuke Sakuma",
+  "hp": 60,
+  "types": [
+    "Wasser"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Farblos"
+      ],
+      "name": "Plumps",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Elektro",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Es stößt aus Brust und Rücken elastische Blasen aus,\nmit denen es gegnerische Angriffe abfängt und so\nden erlittenen Schaden verringert."
+}

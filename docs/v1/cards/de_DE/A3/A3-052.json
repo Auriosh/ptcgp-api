@@ -1,0 +1,49 @@
+{
+  "language": "de_DE",
+  "id": "A3-052",
+  "name": "Araqua",
+  "localId": "052",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-052_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-052_artwork.png",
+  "illustrator": "Atsuko Nishida",
+  "hp": 60,
+  "types": [
+    "Wasser"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Wasser",
+        "Farblos"
+      ],
+      "name": "Haken",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Elektro",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Mit dem Hinterleib füllt es eine Wasserblase auf und\nhüllt seinen Kopf darin ein. Trifft es andere Araqua,\nvergleichen sie ihre Wasserblasengröße."
+}

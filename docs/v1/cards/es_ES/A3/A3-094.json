@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A3-094",
+  "name": "Timburr",
+  "localId": "094",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-094_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-094_artwork.png",
+  "illustrator": "Mizue",
+  "hp": 60,
+  "types": [
+    "Lucha"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lucha"
+      ],
+      "name": "Puño Tirabuzón",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psíquico",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Le gusta ayudar en labores de construcción.\nCuando la lluvia obliga a interrumpir las\nobras, blande con furia su viga de madera."
+}

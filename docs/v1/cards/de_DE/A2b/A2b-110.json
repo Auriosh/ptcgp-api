@@ -1,0 +1,53 @@
+{
+  "language": "de_DE",
+  "id": "A2b-110",
+  "name": "Lucario-ex",
+  "localId": "110",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Glänzendes Festival"
+  },
+  "rarity": "Deux Chromatique",
+  "cardImage": "/assets/cardImage/de_DE/A2b/A2b-110_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-110_artwork.png",
+  "illustrator": "PLANETA CG Works",
+  "hp": 150,
+  "types": [
+    "Kampf"
+  ],
+  "stage": "Rang 1",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Kampf",
+        "Kampf",
+        "Kampf"
+      ],
+      "name": "Aurasphäre",
+      "damage": {
+        "value": 100,
+        "modifier": null
+      },
+      "effect": "Diese Attacke fügt auch 1 Pokémon auf der Bank deines Gegners 30 Schadenspunkte zu."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psycho",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": ""
+}

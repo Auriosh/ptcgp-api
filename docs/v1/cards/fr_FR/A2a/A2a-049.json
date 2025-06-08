@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A2a-049",
+  "name": "Nosferalto",
+  "localId": "049",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Lumière Triomphale"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2a/A2a-049_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-049_artwork.png",
+  "illustrator": "Kyoko Umemoto",
+  "hp": 80,
+  "types": [
+    "Obscurité"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Obscurité"
+      ],
+      "name": "Morsure",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Combat",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Le sang des êtres vivants est son péché mignon.\nOn dit qu'il partage parfois ce précieux breuvage\navec ses congénères affamés."
+}

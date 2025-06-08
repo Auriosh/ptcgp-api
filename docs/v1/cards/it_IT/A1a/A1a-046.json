@@ -1,0 +1,57 @@
+{
+  "language": "it_IT",
+  "id": "A1a-046",
+  "name": "Aerodactyl-ex",
+  "localId": "046",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "L'Isola Misteriosa"
+  },
+  "rarity": "Quatre Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A1a/A1a-046_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-046_artwork.png",
+  "illustrator": "PLANETA CG Works",
+  "hp": 140,
+  "types": [
+    "Lotta"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Editto Primordiale",
+      "effect": "Il tuo avversario non può giocare Pokémon dalla sua mano per far evolvere il Pokémon in posizione attiva."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Lotta",
+        "Incolore"
+      ],
+      "name": "Schiacciaterra",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lampo",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": ""
+}

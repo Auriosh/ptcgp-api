@@ -1,0 +1,55 @@
+{
+  "language": "de_DE",
+  "id": "A1-245",
+  "name": "Tauboss",
+  "localId": "245",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Unschlagbare Gene"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/de_DE/A1/A1-245_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-245_artwork.png",
+  "illustrator": "Anesaki Dynamic",
+  "hp": 130,
+  "types": [
+    "Farblos"
+  ],
+  "stage": "Rang 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Fähigkeit",
+      "name": "Wegtreiben",
+      "effect": "Einmal während deines Zuges kannst du das Aktive Pokémon deines Gegners auf seine Bank auswechseln. (Dein Gegner wählt das neue Aktive Pokémon.)"
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Farblos",
+        "Farblos"
+      ],
+      "name": "Flügelschlag",
+      "damage": {
+        "value": 70,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Elektro",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Dieses Pokémon schnellt bei der Jagd blitzschnell\nunter Wasser, um seine ahnungslose Beute zu fangen."
+}

@@ -1,0 +1,56 @@
+{
+  "language": "fr_FR",
+  "id": "A2-092",
+  "name": "Lucario",
+  "localId": "092",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Choc Spatio-Temporel"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2/A2-092_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-092_artwork.png",
+  "illustrator": "nagimiso",
+  "hp": 100,
+  "types": [
+    "Combat"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Talent",
+      "name": "Entraînement au Combat",
+      "effect": "Les attaques de vos Pokémon {F} infligent + 20 dégâts au Pokémon Actif de votre adversaire."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Combat",
+        "Combat"
+      ],
+      "name": "Coup Sous-Marin",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psy",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "On dit qu'il peut repérer ses ennemis, même\nlorsqu'ils sont invisibles, car il ressent leur aura."
+}

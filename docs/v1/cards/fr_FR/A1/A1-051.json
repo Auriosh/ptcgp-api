@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A1-051",
+  "name": "Grillepattes",
+  "localId": "051",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Puissance Génétique"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A1/A1-051_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-051_artwork.png",
+  "illustrator": "Teeziro",
+  "hp": 60,
+  "types": [
+    "Feu"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore"
+      ],
+      "name": "Ronge",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Eau",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il produit de la chaleur grâce au gaz inflammable\nqu'il emmagasine dans son corps. La partie jaune\nde son abdomen est particulièrement brûlante."
+}

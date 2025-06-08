@@ -1,0 +1,56 @@
+{
+  "language": "it_IT",
+  "id": "A2b-061",
+  "name": "Wigglytuff",
+  "localId": "061",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Tripudio Splendente"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2b/A2b-061_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-061_artwork.png",
+  "illustrator": "miki kudo",
+  "hp": 100,
+  "types": [
+    "Incolore"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Canto Soave",
+      "effect": "Una sola volta durante il tuo turno, puoi curare il tuo Pokémon attivo da 20 danni."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Schiaffetto",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lotta",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Ha un pelo molto fino. Attenzione a non farlo adirare,\nperché può gonfiarsi e caricare con tutto il suo peso."
+}

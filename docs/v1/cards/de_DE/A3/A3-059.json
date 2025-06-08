@@ -1,0 +1,50 @@
+{
+  "language": "de_DE",
+  "id": "A3-059",
+  "name": "Alola-Kleinstein",
+  "localId": "059",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-059_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-059_artwork.png",
+  "illustrator": "Hitoshi Ariga",
+  "hp": 70,
+  "types": [
+    "Elektro"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Elektro",
+        "Farblos"
+      ],
+      "name": "Knöchelhieb",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Kampf",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Verwechselt man es mit einem Felsbrocken und\ntritt darauf, erwarten einen eine schmerzhafte\nKopfnuss gepaart mit einem Stromschlag."
+}

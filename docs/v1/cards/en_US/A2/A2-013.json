@@ -1,0 +1,48 @@
+{
+  "language": "en_US",
+  "id": "A2-013",
+  "name": "Kricketot",
+  "localId": "013",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Space-Time Smackdown"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2/A2-013_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-013_artwork.png",
+  "illustrator": "Shigenori Negishi",
+  "hp": 60,
+  "types": [
+    "Grass"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Grass"
+      ],
+      "name": "Bug Bite",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Its legs are short. Whenever it stumbles, its stiff antennae clack with a xylophone-like sound."
+}

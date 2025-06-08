@@ -1,0 +1,49 @@
+{
+  "language": "fr_FR",
+  "id": "A3-123",
+  "name": "Magearna",
+  "localId": "123",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Gardiens Astraux"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A3/A3-123_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-123_artwork.png",
+  "illustrator": "kawayoo",
+  "hp": 90,
+  "types": [
+    "Métal"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Métal",
+        "Métal"
+      ],
+      "name": "Canon Argenté",
+      "damage": {
+        "value": 40,
+        "modifier": "+"
+      },
+      "effect": "Si le Pokémon Actif de votre adversaire a un talent, cette attaque inflige 40 dégâts supplémentaires."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feu",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il accède à la conscience des individus\nen se synchronisant avec eux. Cette\nfaculté l'aide à prendre soin d'eux."
+}

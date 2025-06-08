@@ -1,0 +1,51 @@
+{
+  "language": "de_DE",
+  "id": "A2-037",
+  "name": "Impoleon",
+  "localId": "037",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Kollision von Raum und Zeit"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2/A2-037_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-037_artwork.png",
+  "illustrator": "Satoshi Shirai",
+  "hp": 150,
+  "types": [
+    "Wasser"
+  ],
+  "stage": "Rang 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Wasser",
+        "Wasser",
+        "Farblos"
+      ],
+      "name": "Wasserdüse",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": "Diese Attacke fügt auch 1 Pokémon auf der Bank deines Gegners 30 Schadenspunkte zu."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Elektro",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Es schwimmt so schnell wie ein Rennboot. Seine Flügel\nhaben scharfe Seiten und können Packeis schneiden."
+}

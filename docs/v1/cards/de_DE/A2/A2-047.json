@@ -1,0 +1,49 @@
+{
+  "language": "de_DE",
+  "id": "A2-047",
+  "name": "Wasch-Rotom",
+  "localId": "047",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Kollision von Raum und Zeit"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2/A2-047_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-047_artwork.png",
+  "illustrator": "Saboteri",
+  "hp": 80,
+  "types": [
+    "Wasser"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Wasser"
+      ],
+      "name": "Wellenplatscher",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Elektro",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Dieses Rotom ist in eine Waschmaschine\neingedrungen. Es setzt alles um sich herum\nunter Wasser und nickt dann selbstgefällig."
+}

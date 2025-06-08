@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "A3-031",
+  "name": "Litten",
+  "localId": "031",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-031_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-031_artwork.png",
+  "illustrator": "sui",
+  "hp": 60,
+  "types": [
+    "Fire"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fire"
+      ],
+      "name": "Arranhão",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Water",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Se você se esforçar demais para se aproximar deste Pokémon,\nele não dará a menor bola. Mesmo que você consiga\nse aproximar, Litten continuará detestando afeto em excesso."
+}

@@ -1,0 +1,50 @@
+{
+  "language": "es_ES",
+  "id": "A3-025",
+  "name": "Growlithe",
+  "localId": "025",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-025_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-025_artwork.png",
+  "illustrator": "Naoyo Kimura",
+  "hp": 70,
+  "types": [
+    "Guego"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Guego",
+        "Incolora"
+      ],
+      "name": "Combustión",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Agua",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "De naturaleza valiente y honrada, se enfrenta\nsin miedo a enemigos más grandes y fuertes."
+}

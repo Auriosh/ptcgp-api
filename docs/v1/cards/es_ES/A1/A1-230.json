@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A1-230",
+  "name": "Charmander",
+  "localId": "230",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Genes Formidables"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/es_ES/A1/A1-230_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-230_artwork.png",
+  "illustrator": "GIDORA",
+  "hp": 60,
+  "types": [
+    "Guego"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Guego"
+      ],
+      "name": "Ascuas",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": "Descarta 1 Energía {R} de este Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Agua",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Prefiere las cosas calientes. Dicen que cuando\nllueve le sale vapor de la punta de la cola."
+}

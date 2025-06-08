@@ -1,0 +1,45 @@
+{
+  "language": "fr_FR",
+  "id": "A3-176",
+  "name": "Draïeul",
+  "localId": "176",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Gardiens Astraux"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/fr_FR/A3/A3-176_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-176_artwork.png",
+  "illustrator": "Shinji Kanda",
+  "hp": 100,
+  "types": [
+    "Dragon"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Folle Furie",
+      "damage": {
+        "value": 20,
+        "modifier": "+"
+      },
+      "effect": "Si au moins un de vos Pokémon de Banc a subi des dégâts, cette attaque inflige 50 dégâts supplémentaires."
+    }
+  ],
+  "weaknesses": [],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Il vit dans les montagnes culminant à plus\nde 3 000 m d'altitude. Il se rend parfois\nen ville pour jouer avec les petits enfants."
+}

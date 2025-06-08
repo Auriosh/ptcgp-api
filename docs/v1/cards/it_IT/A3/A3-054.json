@@ -1,0 +1,54 @@
+{
+  "language": "it_IT",
+  "id": "A3-054",
+  "name": "Pyukumuku",
+  "localId": "054",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiani Astrali"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A3/A3-054_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-054_artwork.png",
+  "illustrator": "You Iribi",
+  "hp": 60,
+  "types": [
+    "Acqua"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Espellinterno",
+      "effect": "Se questo Pokémon è in posizione attiva e viene messo KO dai danni inflitti da un attacco di un Pokémon del tuo avversario, il Pokémon attaccante subisce 50 danni."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Acqua"
+      ],
+      "name": "Goccioline",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lampo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Vive vicino alle spiagge in acque calde e poco\nprofonde. Quando si imbatte in un nemico, lo\nattacca espellendo gli organi interni dalla bocca."
+}

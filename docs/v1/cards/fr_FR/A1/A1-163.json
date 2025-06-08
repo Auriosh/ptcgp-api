@@ -1,0 +1,52 @@
+{
+  "language": "fr_FR",
+  "id": "A1-163",
+  "name": "Krakos",
+  "localId": "163",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Puissance Génétique"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A1/A1-163_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-163_artwork.png",
+  "illustrator": "kurumitsu",
+  "hp": 130,
+  "types": [
+    "Combat"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Combat",
+        "Combat",
+        "Incolore"
+      ],
+      "name": "Dégagement",
+      "damage": {
+        "value": 70,
+        "modifier": null
+      },
+      "effect": "Échangez le Pokémon Actif de votre adversaire avec l'un de ses Pokémon de Banc. (Votre adversaire choisit le nouveau Pokémon Actif.)"
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psy",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Son corps est un amas de muscles. La puissance des prises\nd'étranglement qu'il exécute avec ses tentacules est saisissante."
+}

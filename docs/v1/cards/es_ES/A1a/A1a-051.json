@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A1a-051",
+  "name": "Purrloin",
+  "localId": "051",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "La Isla Singular"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A1a/A1a-051_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-051_artwork.png",
+  "illustrator": "Kagemaru Himeno",
+  "hp": 60,
+  "types": [
+    "Oscura"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Oscura"
+      ],
+      "name": "Arañazo",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Planta",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Sustrae las pertenencias de las personas solo para\nverlas pasar apuros. Es un rival encarnizado de Nickit."
+}

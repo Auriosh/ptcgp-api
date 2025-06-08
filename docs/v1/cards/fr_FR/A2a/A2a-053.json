@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A2a-053",
+  "name": "Magnéti",
+  "localId": "053",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Lumière Triomphale"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2a/A2a-053_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-053_artwork.png",
+  "illustrator": "OKACHEKE",
+  "hp": 60,
+  "types": [
+    "Métal"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Métal"
+      ],
+      "name": "Charge",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feu",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Les ondes électromagnétiques émises par ses extrémités\nlui permettent de défier les lois de la gravité et de flotter."
+}

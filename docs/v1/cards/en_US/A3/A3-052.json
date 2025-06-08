@@ -1,0 +1,49 @@
+{
+  "language": "en_US",
+  "id": "A3-052",
+  "name": "Dewpider",
+  "localId": "052",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Celestial Guardians"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/en_US/A3/A3-052_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-052_artwork.png",
+  "illustrator": "Atsuko Nishida",
+  "hp": 60,
+  "types": [
+    "Water"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Water",
+        "Colorless"
+      ],
+      "name": "Hook",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "It forms a water bubble at the rear of its body and then covers its head with it. Meeting another Dewpider means comparing water-bubble sizes."
+}

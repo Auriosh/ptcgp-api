@@ -1,0 +1,50 @@
+{
+  "language": "fr_FR",
+  "id": "A2-201",
+  "name": "Dimoret-ex",
+  "localId": "201",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Choc Spatio-Temporel"
+  },
+  "rarity": "deux Étoiles",
+  "cardImage": "/assets/cardImage/fr_FR/A2/A2-201_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-201_artwork.png",
+  "illustrator": "hncl",
+  "hp": 140,
+  "types": [
+    "Obscurité"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Obscurité"
+      ],
+      "name": "Griffes Griffantes",
+      "damage": {
+        "value": 30,
+        "modifier": "+"
+      },
+      "effect": "Si le Pokémon Actif de votre adversaire a subi des dégâts, cette attaque inflige 40 dégâts de plus."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Plante",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": ""
+}

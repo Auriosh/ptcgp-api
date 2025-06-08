@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "A2-066",
+  "name": "Misdreavus",
+  "localId": "066",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Scontro Spaziotemporale"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2/A2-066_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-066_artwork.png",
+  "illustrator": "Sumiyoshi Kizuki",
+  "hp": 60,
+  "types": [
+    "Psico"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psico"
+      ],
+      "name": "Borbottio",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Oscurità",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Un Pokémon che terrorizza la gente nel cuore della\nnotte. Assorbe la paura per usarla come energia."
+}

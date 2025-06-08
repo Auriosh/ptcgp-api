@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A2a-004",
+  "name": "Apitrini",
+  "localId": "004",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Lumière Triomphale"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2a/A2a-004_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-004_artwork.png",
+  "illustrator": "Akira Komayama",
+  "hp": 50,
+  "types": [
+    "Plante"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Plante"
+      ],
+      "name": "Piqûre",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feu",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "À la nuit tombée, les Apitrini s'agglutinent\npar grappes de cent pour dormir."
+}

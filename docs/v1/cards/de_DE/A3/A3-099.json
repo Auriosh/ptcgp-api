@@ -1,0 +1,48 @@
+{
+  "language": "de_DE",
+  "id": "A3-099",
+  "name": "Wuffels",
+  "localId": "099",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-099_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-099_artwork.png",
+  "illustrator": "Oswaldo KATO",
+  "hp": 60,
+  "types": [
+    "Kampf"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Kampf"
+      ],
+      "name": "Tackle",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Pflanze",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Wuffels ist sehr zutraulich, solange es jung ist.\nMit dem Alter wird es zunehmend wilder, doch es\nbleibt seinem Trainer auf ewig verbunden."
+}

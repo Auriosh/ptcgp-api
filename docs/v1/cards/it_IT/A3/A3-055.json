@@ -1,0 +1,49 @@
+{
+  "language": "it_IT",
+  "id": "A3-055",
+  "name": "Bruxish",
+  "localId": "055",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiani Astrali"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A3/A3-055_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-055_artwork.png",
+  "illustrator": "Masakazu Fukuda",
+  "hp": 80,
+  "types": [
+    "Acqua"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Acqua",
+        "Incolore"
+      ],
+      "name": "Schizzi d'Onda",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lampo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Fa stridere i denti per stimolare il proprio\ncervello e creare così onde psichiche, che\npoi emette dalla protuberanza sulla testa."
+}

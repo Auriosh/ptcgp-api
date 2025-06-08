@@ -1,0 +1,50 @@
+{
+  "language": "fr_FR",
+  "id": "A2-134",
+  "name": "Étouraptor",
+  "localId": "134",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Choc Spatio-Temporel"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2/A2-134_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-134_artwork.png",
+  "illustrator": "Sekio",
+  "hp": 140,
+  "types": [
+    "Incolore"
+  ],
+  "stage": "Niveau 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore",
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Serre",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": "Pendant le prochain tour de votre adversaire, le Pokémon Défenseur ne peut pas battre en retraite."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Électrique",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Quand Étourvol évolue en Étouraptor, il quitte son groupe\npour vivre seul. Ses ailes sont très souples et puissantes."
+}

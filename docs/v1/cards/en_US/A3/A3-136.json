@@ -1,0 +1,48 @@
+{
+  "language": "en_US",
+  "id": "A3-136",
+  "name": "Yungoos",
+  "localId": "136",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Celestial Guardians"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/en_US/A3/A3-136_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-136_artwork.png",
+  "illustrator": "Shigenori Negishi",
+  "hp": 60,
+  "types": [
+    "Colorless"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Tackle",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Its stomach fills most of its torso. It wanders the same path every day, searching for fresh food."
+}

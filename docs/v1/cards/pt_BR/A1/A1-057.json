@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "A1-057",
+  "name": "Psyduck",
+  "localId": "057",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1",
+    "name": "Dominação Genética"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A1/A1-057_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-057_artwork.png",
+  "illustrator": "Shibuzoh.",
+  "hp": 60,
+  "types": [
+    "Water"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Dor de Cabeça",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": "Seu oponente não poderá usar nenhuma carta de Apoiador durante o próximo turno dele."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Sofre constantemente de dor de cabeça.\nQuando ela se intensifica, este Pokémon\ncomeça a usar poderes misteriosos."
+}

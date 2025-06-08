@@ -1,0 +1,56 @@
+{
+  "language": "en_US",
+  "id": "A2b-061",
+  "name": "Wigglytuff",
+  "localId": "061",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2b",
+    "name": "Shining Revelry"
+  },
+  "rarity": "Three Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2b/A2b-061_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-061_artwork.png",
+  "illustrator": "miki kudo",
+  "hp": 100,
+  "types": [
+    "Colorless"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Jigglypuff",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Comforting Song",
+      "effect": "Once during your turn, you may heal 20 damage from your Active Pokémon."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Gentle Slap",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "It has a very fine fur. Take care not to make it angry, or it may inflate steadily and hit with a body slam."
+}

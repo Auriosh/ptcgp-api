@@ -1,0 +1,52 @@
+{
+  "language": "es_ES",
+  "id": "A2a-038",
+  "name": "Donphan",
+  "localId": "038",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Luz Triunfal"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2a/A2a-038_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-038_artwork.png",
+  "illustrator": "Shin Nagasawa",
+  "hp": 120,
+  "types": [
+    "Lucha"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lucha",
+        "Lucha",
+        "Lucha"
+      ],
+      "name": "Giro Ondulante",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": "Durante tu próximo turno, el ataque Giro Ondulante de este Pokémon hace Rolling Spin+60 puntos[/Ctrl:NoBreak] de daño."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Planta",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Su dura piel podría resistir el choque contra un coche sin\nsufrir un rasguño. La lluvia, sin embargo, es su punto débil."
+}

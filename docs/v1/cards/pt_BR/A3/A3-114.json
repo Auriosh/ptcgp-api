@@ -1,0 +1,52 @@
+{
+  "language": "pt_BR",
+  "id": "A3-114",
+  "name": "Garbodor",
+  "localId": "114",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-114_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-114_artwork.png",
+  "illustrator": "match",
+  "hp": 120,
+  "types": [
+    "Darkness"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Darkness",
+        "Darkness",
+        "Colorless"
+      ],
+      "name": "Super-hálito Venenoso",
+      "damage": {
+        "value": 70,
+        "modifier": null
+      },
+      "effect": "O Pokémon Ativo do seu oponente agora está Envenenado."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Este Pokémon se alimenta de lixo, que transforma\nem veneno dentro do seu corpo. O componente principal\ndo veneno depende do tipo de lixo que comeu."
+}

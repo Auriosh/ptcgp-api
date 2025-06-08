@@ -1,0 +1,50 @@
+{
+  "language": "en_US",
+  "id": "A3-119",
+  "name": "Excadrill",
+  "localId": "119",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Celestial Guardians"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A3/A3-119_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-119_artwork.png",
+  "illustrator": "SATOSHI NAKAI",
+  "hp": 110,
+  "types": [
+    "Metal"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Drilbur",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Metal"
+      ],
+      "name": "Slash",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "It's not uncommon for tunnels that appear to have formed naturally to actually be a result of Excadrill's rampant digging."
+}

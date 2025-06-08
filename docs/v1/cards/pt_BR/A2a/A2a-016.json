@@ -1,0 +1,49 @@
+{
+  "language": "pt_BR",
+  "id": "A2a-016",
+  "name": "Barboach",
+  "localId": "016",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2a",
+    "name": "Luz Triunfante"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A2a/A2a-016_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-016_artwork.png",
+  "illustrator": "sui",
+  "hp": 60,
+  "types": [
+    "Water"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Water",
+        "Colorless"
+      ],
+      "name": "Tapa de Lama",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Seus dois bigodes fornecem um radar sensível.\nPode localizar as suas presas até mesmo\nem águas lamacentas."
+}

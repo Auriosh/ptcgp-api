@@ -1,0 +1,50 @@
+{
+  "language": "de_DE",
+  "id": "A1-162",
+  "name": "Klopptopus",
+  "localId": "162",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Unschlagbare Gene"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A1/A1-162_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-162_artwork.png",
+  "illustrator": "Yuu Nishida",
+  "hp": 80,
+  "types": [
+    "Kampf"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Kampf",
+        "Farblos"
+      ],
+      "name": "Knöchelhieb",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psycho",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Zur Futtersuche kommt es an Land. Es ist sehr\nneugierig, weshalb es alles, was es sieht,\nzunächst einmal mit seinen Tentakeln haut."
+}

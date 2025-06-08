@@ -1,0 +1,50 @@
+{
+  "language": "en_US",
+  "id": "A1-071",
+  "name": "Seadra",
+  "localId": "071",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1",
+    "name": "Genetic Apex"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A1/A1-071_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-071_artwork.png",
+  "illustrator": "Sanosuke Sakuma",
+  "hp": 70,
+  "types": [
+    "Water"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Horsea",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Water",
+        "Water",
+        "Colorless"
+      ],
+      "name": "Water Arrow",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "This attack does 50 damage to 1 of your opponent's Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "It's the males that raise the offspring. While Seadra are raising young, the spines on their backs secrete thicker and stronger poison."
+}

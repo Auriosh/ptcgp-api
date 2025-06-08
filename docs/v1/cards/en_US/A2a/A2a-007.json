@@ -1,0 +1,48 @@
+{
+  "language": "en_US",
+  "id": "A2a-007",
+  "name": "Cherrim",
+  "localId": "007",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2a",
+    "name": "Triumphant Light"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2a/A2a-007_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-007_artwork.png",
+  "illustrator": "Midori Harada",
+  "hp": 80,
+  "types": [
+    "Grass"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Cherubi",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Grass"
+      ],
+      "name": "Worry Seed",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": "Your opponent's Active Pokémon is now Confused."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "As a bud, it barely moves. It sits still, placidly waiting for sunlight to appear."
+}

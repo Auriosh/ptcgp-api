@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "A2-042",
+  "name": "Finneon",
+  "localId": "042",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Scontro Spaziotemporale"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2/A2-042_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-042_artwork.png",
+  "illustrator": "Shigenori Negishi",
+  "hp": 50,
+  "types": [
+    "Acqua"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Acqua"
+      ],
+      "name": "Stilnuoto",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": "Lancia una moneta. Se esce testa, durante il prossimo turno del tuo avversario, previeni sia i danni che gli effetti degli attacchi inflitti a questo Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lampo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "La linea che contorna il suo corpo immagazzina la luce\nsolare. Di notte si illumina di una luce splendente."
+}

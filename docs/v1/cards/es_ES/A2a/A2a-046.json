@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A2a-046",
+  "name": "Gabite",
+  "localId": "046",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Luz Triunfal"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2a/A2a-046_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-046_artwork.png",
+  "illustrator": "Sumiyoshi Kizuki",
+  "hp": 80,
+  "types": [
+    "Lucha"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lucha"
+      ],
+      "name": "Guadaña Afilada",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Planta",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Muy ocasionalmente puede mudar la piel y\nperder las escamas. Las medicinas que las usan\ncomo ingrediente son muy reconstituyentes."
+}

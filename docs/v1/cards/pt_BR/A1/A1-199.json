@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "A1-199",
+  "name": "Doduo",
+  "localId": "199",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1",
+    "name": "Dominação Genética"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A1/A1-199_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-199_artwork.png",
+  "illustrator": "Yuya Oka",
+  "hp": 60,
+  "types": [
+    "Colorless"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Bicada",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Um Pokémon com duas cabeças que foi\ndescoberto como uma mutação repentina.\nEle corre a mais de 100 km/h."
+}

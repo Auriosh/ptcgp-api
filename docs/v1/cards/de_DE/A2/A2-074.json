@@ -1,0 +1,49 @@
+{
+  "language": "de_DE",
+  "id": "A2-074",
+  "name": "Drifzepeli",
+  "localId": "074",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Kollision von Raum und Zeit"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2/A2-074_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-074_artwork.png",
+  "illustrator": "Miki Tanaka",
+  "hp": 100,
+  "types": [
+    "Psycho"
+  ],
+  "stage": "Rang 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psycho",
+        "Psycho"
+      ],
+      "name": "Ballonhieb",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Elektro",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Man sagt, es bestehe aus den Seelen derer,\ndie voller Groll verstorben sind. Es treibt lautlos\nim Zwielicht dahin."
+}

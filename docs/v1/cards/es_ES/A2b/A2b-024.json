@@ -1,0 +1,49 @@
+{
+  "language": "es_ES",
+  "id": "A2b-024",
+  "name": "Electrode",
+  "localId": "024",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Festival Brillante"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2b/A2b-024_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-024_artwork.png",
+  "illustrator": "Shigenori Negishi",
+  "hp": 90,
+  "types": [
+    "Rayo"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Rayo",
+        "Rayo"
+      ],
+      "name": "Ataque Tambaleante",
+      "damage": {
+        "value": 50,
+        "modifier": "+"
+      },
+      "effect": "Lanza 1 moneda. Si sale cara, este ataque hace 30 puntos de daño más."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lucha",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Cuanta más energía almacena, mayor\nvelocidad alcanza, aunque aumenta\ntambién el riesgo de que explote."
+}

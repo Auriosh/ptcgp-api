@@ -1,0 +1,50 @@
+{
+  "language": "pt_BR",
+  "id": "P-A-035",
+  "name": "Turtwig",
+  "localId": "035",
+  "category": "Pokemon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "None",
+  "cardImage": "/assets/cardImage/pt_BR/P-A/P-A-035_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-035_artwork.png",
+  "illustrator": "Atsuko Nishida",
+  "hp": 80,
+  "types": [
+    "Grass"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Grass",
+        "Colorless"
+      ],
+      "name": "Mordida",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Usa o corpo todo para fazer fotossíntese ao se expor\nà luz do sol. Seu casco é feito de solo endurecido."
+}

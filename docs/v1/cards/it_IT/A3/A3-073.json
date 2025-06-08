@@ -1,0 +1,50 @@
+{
+  "language": "it_IT",
+  "id": "A3-073",
+  "name": "Lunatone",
+  "localId": "073",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiani Astrali"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A3/A3-073_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-073_artwork.png",
+  "illustrator": "Hisao Nakamura",
+  "hp": 90,
+  "types": [
+    "Psico"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psico",
+        "Incolore"
+      ],
+      "name": "Pressa Lunare",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Oscurità",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "La sua forza sembra aumentare o diminuire a seconda\ndelle fasi lunari. È più attivo nelle notti di luna piena."
+}

@@ -1,0 +1,49 @@
+{
+  "language": "pt_BR",
+  "id": "A1-131",
+  "name": "Kirlia",
+  "localId": "131",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1",
+    "name": "Dominação Genética"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A1/A1-131_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-131_artwork.png",
+  "illustrator": "sowsow",
+  "hp": 80,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psychic",
+        "Colorless"
+      ],
+      "name": "Estalo",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Darkness",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Possui um poder psíquico que lhe permite distorcer\no espaço ao seu redor e ver o futuro."
+}

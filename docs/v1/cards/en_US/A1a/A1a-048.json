@@ -1,0 +1,52 @@
+{
+  "language": "en_US",
+  "id": "A1a-048",
+  "name": "Stonjourner",
+  "localId": "048",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1a",
+    "name": "Mythical Island"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A1a/A1a-048_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-048_artwork.png",
+  "illustrator": "Teeziro",
+  "hp": 120,
+  "types": [
+    "Fighting"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fighting",
+        "Fighting",
+        "Fighting"
+      ],
+      "name": "Mega Kick",
+      "damage": {
+        "value": 90,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Grass",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "The elemental composition of the rocks that form its body were found to match the bedrock of a land far away from this Pokémon's habitat."
+}

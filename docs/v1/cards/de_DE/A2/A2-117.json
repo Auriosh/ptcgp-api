@@ -1,0 +1,52 @@
+{
+  "language": "de_DE",
+  "id": "A2-117",
+  "name": "Bronzong",
+  "localId": "117",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Kollision von Raum und Zeit"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2/A2-117_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-117_artwork.png",
+  "illustrator": "Yuka Morii",
+  "hp": 120,
+  "types": [
+    "Metall"
+  ],
+  "stage": "Rang 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Metall",
+        "Metall",
+        "Farblos"
+      ],
+      "name": "Schutzdruck",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": "Während des nächsten Zuges deines Gegners werden diesem Pokémon durch Attacken − 20 Schadenspunkte zugefügt."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feuer",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Vor Urzeiten wurden sie als Regenmacher verehrt.\nManchmal findet man eines von ihnen im Boden vergraben."
+}

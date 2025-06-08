@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "A2-102",
+  "name": "Stunky",
+  "localId": "102",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Embate do Tempo e Espaço"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A2/A2-102_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-102_artwork.png",
+  "illustrator": "Kyoko Umemoto",
+  "hp": 70,
+  "types": [
+    "Darkness"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Darkness"
+      ],
+      "name": "Arranhão",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Espirra um fluído malcheiroso das costas.\nSeu fedor espalha-se por mais de 1 quilômetro,\nafastando outros Pokémon."
+}

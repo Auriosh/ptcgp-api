@@ -1,0 +1,54 @@
+{
+  "language": "de_DE",
+  "id": "A2-143",
+  "name": "Regigigas",
+  "localId": "143",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Kollision von Raum und Zeit"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2/A2-143_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-143_artwork.png",
+  "illustrator": "Tomokazu Komiya",
+  "hp": 140,
+  "types": [
+    "Farblos"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Farblos",
+        "Farblos",
+        "Farblos",
+        "Farblos"
+      ],
+      "name": "Wuthammer",
+      "damage": {
+        "value": 50,
+        "modifier": "+"
+      },
+      "effect": "Diese Attacke fügt zusätzlichen Schaden in Höhe des Schadens zu, der diesem Pokémon bereits zugefügt wurde."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Kampf",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Man sagt, es habe Pokémon aus einem Eisberg,\nFelsen und Magma nach seinem Abbild geschaffen."
+}

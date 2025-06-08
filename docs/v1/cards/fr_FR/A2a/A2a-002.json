@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A2a-002",
+  "name": "Cheniti",
+  "localId": "002",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Lumière Triomphale"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2a/A2a-002_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-002_artwork.png",
+  "illustrator": "miki kudo",
+  "hp": 50,
+  "types": [
+    "Plante"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Plante"
+      ],
+      "name": "Collision",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feu",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Pour se protéger des vents glacés de l'hiver,\nil s'est tissé une cape de feuilles et de brindilles."
+}

@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "P-A-038",
+  "name": "Misdreavus",
+  "localId": "038",
+  "category": "Pokemon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "None",
+  "cardImage": "/assets/cardImage/pt_BR/P-A/P-A-038_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-038_artwork.png",
+  "illustrator": "Miki Tanaka",
+  "hp": 60,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psychic"
+      ],
+      "name": "Raio da Confusão",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "O Pokémon Ativo do seu oponente agora está Confuso."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Darkness",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Este Pokémon assusta pessoas no meio da noite.\nAcumula o medo para usar como energia."
+}

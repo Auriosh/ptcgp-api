@@ -1,0 +1,54 @@
+{
+  "language": "en_US",
+  "id": "A2-179",
+  "name": "Regigigas",
+  "localId": "179",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Space-Time Smackdown"
+  },
+  "rarity": "One Star",
+  "cardImage": "/assets/cardImage/en_US/A2/A2-179_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-179_artwork.png",
+  "illustrator": "Tetsu Kayama",
+  "hp": 140,
+  "types": [
+    "Colorless"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Raging Hammer",
+      "damage": {
+        "value": 50,
+        "modifier": "+"
+      },
+      "effect": "This attack does more damage equal to the damage this Pokémon has on it."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "It is said to have made Pokémon that look like itself from a special ice mountain, rocks, and magma."
+}

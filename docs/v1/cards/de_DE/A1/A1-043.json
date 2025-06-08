@@ -1,0 +1,48 @@
+{
+  "language": "de_DE",
+  "id": "A1-043",
+  "name": "Gallopa",
+  "localId": "043",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Unschlagbare Gene"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A1/A1-043_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-043_artwork.png",
+  "illustrator": "Misa Tsutsui",
+  "hp": 100,
+  "types": [
+    "Feuer"
+  ],
+  "stage": "Rang 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Feuer"
+      ],
+      "name": "Flammenmähne",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Wasser",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Die lodernde Mähne dieses Pokémon flattert im\nWind, wenn es mit einer Geschwindigkeit von\n240 km/h über Felder und Wiesen galoppiert."
+}

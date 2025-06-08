@@ -1,0 +1,50 @@
+{
+  "language": "de_DE",
+  "id": "A1a-043",
+  "name": "Kleinstein",
+  "localId": "043",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "Mysteriöse Insel"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A1a/A1a-043_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-043_artwork.png",
+  "illustrator": "GOSSAN",
+  "hp": 70,
+  "types": [
+    "Kampf"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Kampf",
+        "Farblos"
+      ],
+      "name": "Leichter Hieb",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Pflanze",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Mit dem Alter verliert es zunehmend seine\nKantigkeit, bis es vollkommen rund und auch\ncharakterlich immer ausgeglichener wird."
+}

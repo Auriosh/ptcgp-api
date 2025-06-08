@@ -1,0 +1,66 @@
+{
+  "language": "fr_FR",
+  "id": "P-A-050",
+  "name": "Mewtwo-ex",
+  "localId": "050",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "Sans Rareté",
+  "cardImage": "/assets/cardImage/fr_FR/P-A/P-A-050_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-050_artwork.png",
+  "illustrator": "PLANETA Mochizuki",
+  "hp": 150,
+  "types": [
+    "Psy"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psy",
+        "Incolore"
+      ],
+      "name": "Sphère Psy",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": ""
+    },
+    {
+      "cost": [
+        "Psy",
+        "Psy",
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Psykoforce",
+      "damage": {
+        "value": 150,
+        "modifier": null
+      },
+      "effect": "Défaussez 2 Énergies {P} de ce Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Obscurité",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": ""
+}

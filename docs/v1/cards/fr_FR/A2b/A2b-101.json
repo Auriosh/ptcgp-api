@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A2b-101",
+  "name": "Taupikeau",
+  "localId": "101",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Réjouissances Rayonnantes"
+  },
+  "rarity": "Un Chromatique",
+  "cardImage": "/assets/cardImage/fr_FR/A2b/A2b-101_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-101_artwork.png",
+  "illustrator": "Souichirou Gunjima",
+  "hp": 60,
+  "types": [
+    "Eau"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Eau"
+      ],
+      "name": "Surgir",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Un des Pokémon de votre adversaire est choisi au hasard. Il subit 30 dégâts."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Électrique",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il détecte l'odeur de Délestin à plus de vingt mètres,\nce qui lui donne le temps de s'enfouir dans le sable."
+}

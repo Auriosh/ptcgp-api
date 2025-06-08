@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A2b-033",
+  "name": "Drifloon",
+  "localId": "033",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Festival Brillante"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2b/A2b-033_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-033_artwork.png",
+  "illustrator": "kodama",
+  "hp": 60,
+  "types": [
+    "Psíquico"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psíquico"
+      ],
+      "name": "Apisonar",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Oscura",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Se dice que a veces desaparecen niños que\nagarran un Drifloon pensando que es un globo."
+}

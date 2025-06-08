@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A2b-099",
+  "name": "Salamèche",
+  "localId": "099",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Réjouissances Rayonnantes"
+  },
+  "rarity": "Un Chromatique",
+  "cardImage": "/assets/cardImage/fr_FR/A2b/A2b-099_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-099_artwork.png",
+  "illustrator": "Souichirou Gunjima",
+  "hp": 60,
+  "types": [
+    "Feu"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Feu"
+      ],
+      "name": "Fournaise",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Eau",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il préfère ce qui est chaud. En cas de pluie,\nde la vapeur se forme autour de sa queue."
+}

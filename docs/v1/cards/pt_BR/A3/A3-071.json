@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "A3-071",
+  "name": "Spoink",
+  "localId": "071",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-071_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-071_artwork.png",
+  "illustrator": "Sekio",
+  "hp": 60,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psychic"
+      ],
+      "name": "Carregamento Psíquico",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Pegue 1 Energia {P} da sua Zona de Energia e ligue-a a este Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Darkness",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Spoink morrerá se parar de pular. A pérola em sua cabeça\naumenta seus poderes psíquicos."
+}

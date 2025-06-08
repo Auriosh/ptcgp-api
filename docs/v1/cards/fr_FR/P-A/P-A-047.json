@@ -1,0 +1,56 @@
+{
+  "language": "fr_FR",
+  "id": "P-A-047",
+  "name": "Étouraptor",
+  "localId": "047",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "Sans Rareté",
+  "cardImage": "/assets/cardImage/fr_FR/P-A/P-A-047_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-047_artwork.png",
+  "illustrator": "Hasuno",
+  "hp": 140,
+  "types": [
+    "Incolore"
+  ],
+  "stage": "Niveau 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Talent",
+      "name": "Cyclone Défensif",
+      "effect": "Ce Pokémon subit − 30 dégâts provenant des attaques des Pokémon {F}."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore",
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Cru-Ailes",
+      "damage": {
+        "value": 90,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Électrique",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Quand Étourvol évolue en Étouraptor, il quitte son groupe\npour vivre seul. Ses ailes sont très souples et puissantes."
+}

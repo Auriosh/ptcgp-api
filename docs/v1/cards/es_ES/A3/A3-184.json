@@ -1,0 +1,54 @@
+{
+  "language": "es_ES",
+  "id": "A3-184",
+  "name": "Wishiwashi ex",
+  "localId": "184",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "deux Étoiles",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-184_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-184_artwork.png",
+  "illustrator": "PLANETA CG Works",
+  "hp": 170,
+  "types": [
+    "Agua"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Agua",
+        "Agua",
+        "Agua"
+      ],
+      "name": "Banco Tormentoso",
+      "damage": {
+        "value": 30,
+        "modifier": "+"
+      },
+      "effect": "Este ataque hace 40 puntos de daño más por cada uno de tus Wishiwashi y Wishiwashi ex en Banca."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Rayo",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": ""
+}

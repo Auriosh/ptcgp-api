@@ -1,0 +1,55 @@
+{
+  "language": "es_ES",
+  "id": "A2-022",
+  "name": "Shaymin",
+  "localId": "022",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Pugna Espaciotemporal"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2/A2-022_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-022_artwork.png",
+  "illustrator": "Narumi Sato",
+  "hp": 60,
+  "types": [
+    "Planta"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Habilidad",
+      "name": "Jardín de Flores Aromático",
+      "effect": "Una vez durante tu turno, puedes curar 10 puntos de daño a cada uno de tus Pokémon."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Planta",
+        "Incolora"
+      ],
+      "name": "Vuelta",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Guego",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Puede disolver las toxinas del aire para\ntransformar tierra yerma en campos de flores."
+}

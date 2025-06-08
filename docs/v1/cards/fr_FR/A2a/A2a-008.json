@@ -1,0 +1,49 @@
+{
+  "language": "fr_FR",
+  "id": "A2a-008",
+  "name": "Ceriflor",
+  "localId": "008",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Lumière Triomphale"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2a/A2a-008_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-008_artwork.png",
+  "illustrator": "Kagemaru Himeno",
+  "hp": 80,
+  "types": [
+    "Plante"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Plante",
+        "Plante"
+      ],
+      "name": "Vampigraine",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": "Soignez 20 dégâts de ce Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feu",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il prend cette forme lorsqu'il a fait le plein de soleil.\nIl déborde alors d'énergie et reste très actif jusqu'au crépuscule."
+}

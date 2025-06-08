@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "A3-038",
+  "name": "Sandshrewdi Alola",
+  "localId": "038",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiani Astrali"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A3/A3-038_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-038_artwork.png",
+  "illustrator": "ryoma uratsuka",
+  "hp": 60,
+  "types": [
+    "Acqua"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Acqua"
+      ],
+      "name": "Graffio",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metallo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Vivendo in zone montuose gelide e impenetrabili ha\nsviluppato un corpo di ghiaccio duro come l'acciaio."
+}

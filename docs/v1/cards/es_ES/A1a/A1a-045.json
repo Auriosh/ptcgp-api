@@ -1,0 +1,53 @@
+{
+  "language": "es_ES",
+  "id": "A1a-045",
+  "name": "Golem",
+  "localId": "045",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "La Isla Singular"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A1a/A1a-045_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-045_artwork.png",
+  "illustrator": "Masakazu Fukuda",
+  "hp": 160,
+  "types": [
+    "Lucha"
+  ],
+  "stage": "Fase 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lucha",
+        "Lucha",
+        "Lucha",
+        "Incolora"
+      ],
+      "name": "Presión de Guardia",
+      "damage": {
+        "value": 120,
+        "modifier": null
+      },
+      "effect": "Durante el próximo turno de tu rival, los ataques hacen -30 puntos de daño a este Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Planta",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "A medida que envejece, pierde la facultad de\nmudar la piel. Se han observado ejemplares de\nedad avanzada totalmente cubiertos de musgo."
+}

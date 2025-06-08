@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A2b-066",
+  "name": "Laporeille",
+  "localId": "066",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Réjouissances Rayonnantes"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2b/A2b-066_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-066_artwork.png",
+  "illustrator": "Kagemaru Himeno",
+  "hp": 50,
+  "types": [
+    "Incolore"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore"
+      ],
+      "name": "Écras'Face",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Combat",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Quand ses deux oreilles sont repliées, c'est\nsigne qu'il ne se sent pas bien physiquement\nou mentalement et qu'il a besoin de soins."
+}

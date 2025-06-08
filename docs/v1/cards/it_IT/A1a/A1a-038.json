@@ -1,0 +1,49 @@
+{
+  "language": "it_IT",
+  "id": "A1a-038",
+  "name": "Florges",
+  "localId": "038",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "L'Isola Misteriosa"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A1a/A1a-038_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-038_artwork.png",
+  "illustrator": "Cona Nitanda",
+  "hp": 120,
+  "types": [
+    "Psico"
+  ],
+  "stage": "Livello 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psico",
+        "Psico"
+      ],
+      "name": "Fioritura Splendente",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": "Cura ciascuno dei tuoi Pokémon da 20 danni."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metallo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Questo Pokémon trasforma il proprio territorio\nin uno splendido giardino fiorito. I suoi poteri\nderivano dai fiori rossi che ha attorno al collo."
+}

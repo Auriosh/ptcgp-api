@@ -1,0 +1,58 @@
+{
+  "language": "de_DE",
+  "id": "A2a-021",
+  "name": "Rexblisar",
+  "localId": "021",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Licht des Triumphs"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2a/A2a-021_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-021_artwork.png",
+  "illustrator": "nagimiso",
+  "hp": 120,
+  "types": [
+    "Wasser"
+  ],
+  "stage": "Rang 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Fähigkeit",
+      "name": "Vitalkopplung",
+      "effect": "Wenn du Arceus oder Arceus-ex im Spiel hast, verringern sich die Kosten der von diesem Pokémon eingesetzten Attacken um 1 {C}-Energie."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Wasser",
+        "Wasser",
+        "Farblos"
+      ],
+      "name": "Megahieb",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metall",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Es führt ein ruhiges Leben im Gebirge, wo\newiger Schnee liegt, und löst Blizzards aus,\num sich zu verstecken."
+}

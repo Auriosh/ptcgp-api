@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A2-013",
+  "name": "Crikzik",
+  "localId": "013",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Choc Spatio-Temporel"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2/A2-013_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-013_artwork.png",
+  "illustrator": "Shigenori Negishi",
+  "hp": 60,
+  "types": [
+    "Plante"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Plante"
+      ],
+      "name": "Piqûre",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feu",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il possède de courtes pattes. Quand il tombe,\nses antennes solides s'entrechoquent et émettent\ndes sons semblables à ceux d'un xylophone."
+}

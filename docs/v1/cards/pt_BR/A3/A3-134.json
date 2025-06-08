@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "A3-134",
+  "name": "Trumbeak",
+  "localId": "134",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-134_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-134_artwork.png",
+  "illustrator": "Kouki Saitou",
+  "hp": 80,
+  "types": [
+    "Colorless"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Planeio",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Pode entortar a ponta de seu bico para emitir\nmais de cem sons diferentes."
+}

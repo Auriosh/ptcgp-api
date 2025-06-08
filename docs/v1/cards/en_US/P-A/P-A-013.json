@@ -1,0 +1,56 @@
+{
+  "language": "en_US",
+  "id": "P-A-013",
+  "name": "Butterfree",
+  "localId": "013",
+  "category": "Pokemon",
+  "set": {
+    "id": "P-A",
+    "name": "Promos-A"
+  },
+  "rarity": "None",
+  "cardImage": "/assets/cardImage/en_US/P-A/P-A-013_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-013_artwork.png",
+  "illustrator": "miki kudo",
+  "hp": 120,
+  "types": [
+    "Grass"
+  ],
+  "stage": "Stage2",
+  "evolveFrom": "Metapod",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Powder Heal",
+      "effect": "Once during your turn, you may heal 20 damage from each of your Pokémon."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Grass",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Gust",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "In battle, it flaps its wings at great speed to release highly toxic dust into the air."
+}

@@ -1,0 +1,48 @@
+{
+  "language": "de_DE",
+  "id": "A3-071",
+  "name": "Spoink",
+  "localId": "071",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-071_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-071_artwork.png",
+  "illustrator": "Sekio",
+  "hp": 60,
+  "types": [
+    "Psycho"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psycho"
+      ],
+      "name": "Psycholadung",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Lege 1 {P}-Energie aus deinem Energiebereich an dieses Pokémon an."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Unlicht",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Hört es je auf umherzuspringen, stirbt es.\nDie Perle auf seinem Kopf verstärkt seine\nPsycho-Kräfte."
+}

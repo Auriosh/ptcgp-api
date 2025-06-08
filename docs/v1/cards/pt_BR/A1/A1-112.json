@@ -1,0 +1,49 @@
+{
+  "language": "pt_BR",
+  "id": "A1-112",
+  "name": "Pincurchin",
+  "localId": "112",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1",
+    "name": "Dominação Genética"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A1/A1-112_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-112_artwork.png",
+  "illustrator": "Tika Matsuno",
+  "hp": 70,
+  "types": [
+    "Lightning"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lightning",
+        "Lightning"
+      ],
+      "name": "Trovoada de Choques",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": "Jogue uma moeda. Se sair cara, o Pokémon Ativo do seu oponente agora estará Paralisado."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Este Pokémon gera eletricidade ao digerir comida.\nUsa seus cinco dentes rígidos para raspar alga\nmarinha de superfícies e se alimentar."
+}

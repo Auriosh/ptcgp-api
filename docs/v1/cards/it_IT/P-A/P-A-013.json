@@ -1,0 +1,56 @@
+{
+  "language": "it_IT",
+  "id": "P-A-013",
+  "name": "Butterfree",
+  "localId": "013",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "Nessuna",
+  "cardImage": "/assets/cardImage/it_IT/P-A/P-A-013_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-013_artwork.png",
+  "illustrator": "miki kudo",
+  "hp": 120,
+  "types": [
+    "Erba"
+  ],
+  "stage": "Livello 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Polvere Lenitiva",
+      "effect": "Una sola volta durante il tuo turno, puoi curare ciascuno dei tuoi Pokémon da 20 danni."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Erba",
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Raffica",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fuoco",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Sbatte le ali a gran velocità per liberare\nle sue polveri tossiche nell'aria."
+}

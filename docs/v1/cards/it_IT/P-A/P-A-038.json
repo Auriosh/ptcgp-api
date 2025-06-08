@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "P-A-038",
+  "name": "Misdreavus",
+  "localId": "038",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "Nessuna",
+  "cardImage": "/assets/cardImage/it_IT/P-A/P-A-038_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-038_artwork.png",
+  "illustrator": "Miki Tanaka",
+  "hp": 60,
+  "types": [
+    "Psico"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psico"
+      ],
+      "name": "Stordiraggio",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Il Pokémon attivo del tuo avversario viene confuso."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Oscurità",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Un Pokémon che terrorizza la gente nel cuore della\nnotte. Assorbe la paura per usarla come energia."
+}

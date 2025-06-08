@@ -1,0 +1,49 @@
+{
+  "language": "es_ES",
+  "id": "A3-118",
+  "name": "Dugtriode Alola",
+  "localId": "118",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-118_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-118_artwork.png",
+  "illustrator": "Yuka Morii",
+  "hp": 90,
+  "types": [
+    "Metálica"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Metálica",
+        "Metálica"
+      ],
+      "name": "Cabeza de Hierro",
+      "damage": {
+        "value": 70,
+        "modifier": "x"
+      },
+      "effect": "Lanza 1 moneda hasta que salga cruz. Este ataque hace 70 puntos de daño por cada cara."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Guego",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Las espléndidas melenas metálicas que cubren sus cabezas hacen\nlas veces de casco protector y de sensor de gran precisión."
+}

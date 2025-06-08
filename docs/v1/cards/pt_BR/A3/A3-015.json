@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "A3-015",
+  "name": "Lurantis",
+  "localId": "015",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-015_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-015_artwork.png",
+  "illustrator": "AKIRA EGAWA",
+  "hp": 90,
+  "types": [
+    "Grass"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Grass"
+      ],
+      "name": "Nevasca de Pétalas",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Este ataque causa 20 pontos de dano a cada um dos Pokémon do seu oponente."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Ao se passar por um Pokémon inseto, baixa a guarda\ndos verdadeiros Pokémon inseto atraídos pelo aroma\ndoce das flores. Suas foices são aniquiladoras."
+}

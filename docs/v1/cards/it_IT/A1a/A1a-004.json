@@ -1,0 +1,49 @@
+{
+  "language": "it_IT",
+  "id": "A1a-004",
+  "name": "Snivy",
+  "localId": "004",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "L'Isola Misteriosa"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A1a/A1a-004_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-004_artwork.png",
+  "illustrator": "Kagemaru Himeno",
+  "hp": 70,
+  "types": [
+    "Erba"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Erba",
+        "Incolore"
+      ],
+      "name": "Frustata",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fuoco",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Quando è esposto alla luce solare può muoversi più\nvelocemente. Usa le sue liane meglio dei suoi stessi arti."
+}

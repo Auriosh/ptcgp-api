@@ -1,0 +1,54 @@
+{
+  "language": "es_ES",
+  "id": "A2-143",
+  "name": "Regigigas",
+  "localId": "143",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Pugna Espaciotemporal"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2/A2-143_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-143_artwork.png",
+  "illustrator": "Tomokazu Komiya",
+  "hp": 140,
+  "types": [
+    "Incolora"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolora",
+        "Incolora",
+        "Incolora",
+        "Incolora"
+      ],
+      "name": "Martillo Furioso",
+      "damage": {
+        "value": 50,
+        "modifier": "+"
+      },
+      "effect": "Este ataque hace una cantidad de daño adicional igual al daño que ya tenga este Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lucha",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Se dice que usó rocas, magma y un hielo especial\nde montaña para crear Pokémon con su aspecto."
+}

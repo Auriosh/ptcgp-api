@@ -1,0 +1,60 @@
+{
+  "language": "en_US",
+  "id": "A2b-083",
+  "name": "Giratina ex",
+  "localId": "083",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2b",
+    "name": "Shining Revelry"
+  },
+  "rarity": "Two Star",
+  "cardImage": "/assets/cardImage/en_US/A2b/A2b-083_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-083_artwork.png",
+  "illustrator": "PLANETA Yamashita",
+  "hp": 150,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Broken-Space Bellow",
+      "effect": "Once during your turn, you may take a {P} Energy from your Energy Zone and attach it to this Pokémon. If you use this Ability, your turn ends."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Psychic",
+        "Psychic",
+        "Psychic",
+        "Colorless"
+      ],
+      "name": "Chaotic Impact",
+      "damage": {
+        "value": 130,
+        "modifier": null
+      },
+      "effect": "This Pokémon also does 20 damage to itself."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Darkness",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": ""
+}

@@ -1,0 +1,49 @@
+{
+  "language": "de_DE",
+  "id": "A2-116",
+  "name": "Bronzel",
+  "localId": "116",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Kollision von Raum und Zeit"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2/A2-116_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-116_artwork.png",
+  "illustrator": "Miki Tanaka",
+  "hp": 60,
+  "types": [
+    "Metall"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Metall",
+        "Farblos"
+      ],
+      "name": "Tackle",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feuer",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Früher glaubten die Menschen, dem Muster auf\nseinem Rücken wohne eine mysteriöse Kraft inne."
+}

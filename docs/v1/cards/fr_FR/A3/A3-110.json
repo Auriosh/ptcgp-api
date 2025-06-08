@@ -1,0 +1,50 @@
+{
+  "language": "fr_FR",
+  "id": "A3-110",
+  "name": "Tadmorvd'Alola",
+  "localId": "110",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Gardiens Astraux"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A3/A3-110_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-110_artwork.png",
+  "illustrator": "Akira Komayama",
+  "hp": 70,
+  "types": [
+    "Obscurité"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Obscurité",
+        "Incolore"
+      ],
+      "name": "Giclée Vaseuse",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Combat",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Dans les décharges d'Alola, une centaine d'entre\neux dévorent les immondices avec diligence."
+}

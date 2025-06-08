@@ -1,0 +1,53 @@
+{
+  "language": "it_IT",
+  "id": "A3-237",
+  "name": "Wigglytuff-ex",
+  "localId": "237",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiani Astrali"
+  },
+  "rarity": "Deux Chromatique",
+  "cardImage": "/assets/cardImage/it_IT/A3/A3-237_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-237_artwork.png",
+  "illustrator": "PLANETA Igarashi",
+  "hp": 140,
+  "types": [
+    "Incolore"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore",
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Cantilena",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": "Il Pokémon attivo del tuo avversario viene addormentato."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lotta",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": ""
+}

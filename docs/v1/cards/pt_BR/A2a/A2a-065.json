@@ -1,0 +1,49 @@
+{
+  "language": "pt_BR",
+  "id": "A2a-065",
+  "name": "Noctowl",
+  "localId": "065",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2a",
+    "name": "Luz Triunfante"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A2a/A2a-065_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-065_artwork.png",
+  "illustrator": "DOM",
+  "hp": 100,
+  "types": [
+    "Colorless"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Asa Silenciosa",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": "Seu oponente revela a mão dele."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Seus olhos são especialmente desenvolvidos\npara permitir que ele enxergue na mais sombria\nescuridão e com o mínimo de luz."
+}

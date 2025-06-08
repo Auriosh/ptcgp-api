@@ -1,0 +1,53 @@
+{
+  "language": "fr_FR",
+  "id": "A2b-110",
+  "name": "Lucario-ex",
+  "localId": "110",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Réjouissances Rayonnantes"
+  },
+  "rarity": "Deux Chromatique",
+  "cardImage": "/assets/cardImage/fr_FR/A2b/A2b-110_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-110_artwork.png",
+  "illustrator": "PLANETA CG Works",
+  "hp": 150,
+  "types": [
+    "Combat"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Combat",
+        "Combat",
+        "Combat"
+      ],
+      "name": "Aurasphère",
+      "damage": {
+        "value": 100,
+        "modifier": null
+      },
+      "effect": "Cette attaque inflige aussi 30 dégâts à un des Pokémon de Banc de votre adversaire."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psy",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": ""
+}

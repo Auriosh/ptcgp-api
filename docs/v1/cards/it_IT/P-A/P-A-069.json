@@ -1,0 +1,53 @@
+{
+  "language": "it_IT",
+  "id": "P-A-069",
+  "name": "Exeggutordi Alola",
+  "localId": "069",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/it_IT/P-A/P-A-069_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-069_artwork.png",
+  "illustrator": "Satoshi Shirai",
+  "hp": 150,
+  "types": [
+    "Erba"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Erba",
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Martellata Tropicale",
+      "damage": {
+        "value": 150,
+        "modifier": null
+      },
+      "effect": "Lancia una moneta. Se esce croce, questo attacco non ha effetto."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fuoco",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "L'esposizione a intensi raggi solari ha risvegliato\nl'aspetto e il potere originari di questo Pokémon."
+}

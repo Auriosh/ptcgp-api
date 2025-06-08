@@ -1,0 +1,51 @@
+{
+  "language": "en_US",
+  "id": "A2a-005",
+  "name": "Vespiquen",
+  "localId": "005",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2a",
+    "name": "Triumphant Light"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2a/A2a-005_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-005_artwork.png",
+  "illustrator": "kawayoo",
+  "hp": 100,
+  "types": [
+    "Grass"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Combee",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Grass",
+        "Grass",
+        "Grass"
+      ],
+      "name": "Reckless Charge",
+      "damage": {
+        "value": 120,
+        "modifier": null
+      },
+      "effect": "This Pokémon also does 30 damage to itself."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "It houses its colony in cells in its body and releases various pheromones to make those grubs do its bidding."
+}

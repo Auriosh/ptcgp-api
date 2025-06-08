@@ -1,0 +1,49 @@
+{
+  "language": "fr_FR",
+  "id": "A2-003",
+  "name": "Joliflor",
+  "localId": "003",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Choc Spatio-Temporel"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2/A2-003_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-003_artwork.png",
+  "illustrator": "Naoyo Kimura",
+  "hp": 130,
+  "types": [
+    "Plante"
+  ],
+  "stage": "Niveau 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Plante",
+        "Plante"
+      ],
+      "name": "Enjambée de Feuillage",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feu",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Ce Pokémon vit en nombre dans les tropiques.\nQuand il danse, ses pétales frottent les uns\ncontre les autres et émettent un son mélodieux."
+}

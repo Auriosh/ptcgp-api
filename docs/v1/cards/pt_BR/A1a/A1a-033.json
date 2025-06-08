@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "A1a-033",
+  "name": "Sigilyph",
+  "localId": "033",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1a",
+    "name": "Ilha Mítica"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A1a/A1a-033_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-033_artwork.png",
+  "illustrator": "Shigenori Negishi",
+  "hp": 80,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psychic"
+      ],
+      "name": "Comprada Espinhosa",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": "Compre 1 carta."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Darkness",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "O poder psíquico destes Pokémon permite que voem. Há quem diga que eles\neram os guardiões de uma cidade antiga. Outros dizem que, na verdade, eram\nos emissários dos guardiões."
+}

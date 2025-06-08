@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "P-A-058",
+  "name": "Pachirisu",
+  "localId": "058",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "Ninguno",
+  "cardImage": "/assets/cardImage/es_ES/P-A/P-A-058_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-058_artwork.png",
+  "illustrator": "OOYAMA",
+  "hp": 70,
+  "types": [
+    "Rayo"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Rayo"
+      ],
+      "name": "Plasma",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": "Une 1 Energía {L} de tu área de Energía a 1 de tus Pokémon {L} en Banca."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lucha",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Forma parte del grupo de Pokémon que\nposee bolsas de electricidad en las mejillas.\nDescarga por la cola la electricidad que acumula."
+}

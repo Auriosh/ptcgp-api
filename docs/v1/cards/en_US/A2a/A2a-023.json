@@ -1,0 +1,51 @@
+{
+  "language": "en_US",
+  "id": "A2a-023",
+  "name": "Origin Forme Palkia",
+  "localId": "023",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2a",
+    "name": "Triumphant Light"
+  },
+  "rarity": "Three Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2a/A2a-023_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-023_artwork.png",
+  "illustrator": "toriyufu",
+  "hp": 120,
+  "types": [
+    "Water"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Water",
+        "Water",
+        "Water"
+      ],
+      "name": "Zone Smash",
+      "damage": {
+        "value": 60,
+        "modifier": "+"
+      },
+      "effect": "Flip a coin. If heads, this attack does 60 more damage."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "It soars across the sky in a form that greatly resembles the creator of all things. Perhaps this imitation of appearance is Palkia's strategy for gaining Arceus's powers."
+}

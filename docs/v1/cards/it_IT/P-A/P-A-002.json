@@ -1,0 +1,27 @@
+{
+  "language": "it_IT",
+  "id": "P-A-002",
+  "name": "Velocità X",
+  "localId": "002",
+  "category": "Allenatore",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "Nessuna",
+  "cardImage": "/assets/cardImage/it_IT/P-A/P-A-002_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-002_artwork.png",
+  "illustrator": "Toyste Beach",
+  "hp": null,
+  "types": [],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [],
+  "weaknesses": [],
+  "rules": [],
+  "retreat": [],
+  "description": ""
+}

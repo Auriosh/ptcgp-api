@@ -1,0 +1,50 @@
+{
+  "language": "it_IT",
+  "id": "A1-024",
+  "name": "Tangela",
+  "localId": "024",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Geni Supremi"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A1/A1-024_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-024_artwork.png",
+  "illustrator": "Midori Harada",
+  "hp": 80,
+  "types": [
+    "Erba"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Erba",
+        "Incolore"
+      ],
+      "name": "Assorbimento",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": "Cura questo Pokémon da 10 danni."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fuoco",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Non è ancora chiaro quale sia il vero aspetto\ncelato dietro alle sue liane, che crescono\nall'infinito anche dopo essere state recise."
+}

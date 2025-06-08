@@ -1,0 +1,50 @@
+{
+  "language": "en_US",
+  "id": "A2-079",
+  "name": "Cresselia",
+  "localId": "079",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Space-Time Smackdown"
+  },
+  "rarity": "Three Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2/A2-079_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-079_artwork.png",
+  "illustrator": "Masako Tomii",
+  "hp": 110,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psychic",
+        "Psychic"
+      ],
+      "name": "Moonlight Gain",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": "Heal 20 damage from this Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Darkness",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Shiny particles are released from its wings like a veil. It is said to represent the crescent moon."
+}

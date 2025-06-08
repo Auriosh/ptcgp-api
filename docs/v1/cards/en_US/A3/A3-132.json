@@ -1,0 +1,48 @@
+{
+  "language": "en_US",
+  "id": "A3-132",
+  "name": "Hawlucha",
+  "localId": "132",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Celestial Guardians"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A3/A3-132_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-132_artwork.png",
+  "illustrator": "miki kudo",
+  "hp": 80,
+  "types": [
+    "Colorless"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Justified Press",
+      "damage": {
+        "value": 20,
+        "modifier": "+"
+      },
+      "effect": "If your opponent's Active Pokémon is a {D} Pokémon, this attack does 30 more damage."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Its elegant finishing moves—performed by nimbly leaping around using its wings—are polished in the forest where it was born and raised."
+}

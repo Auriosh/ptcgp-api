@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A2-027",
+  "name": "Chimchar",
+  "localId": "027",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Pugna Espaciotemporal"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2/A2-027_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-027_artwork.png",
+  "illustrator": "Kagemaru Himeno",
+  "hp": 60,
+  "types": [
+    "Guego"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Guego"
+      ],
+      "name": "Arañazo",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Agua",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "El gas de su panza alimenta el fuego de su\nparte trasera, que ni la lluvia puede extinguir."
+}

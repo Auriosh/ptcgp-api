@@ -1,0 +1,48 @@
+{
+  "language": "de_DE",
+  "id": "A3-062",
+  "name": "Eguana",
+  "localId": "062",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-062_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-062_artwork.png",
+  "illustrator": "0313",
+  "hp": 60,
+  "types": [
+    "Elektro"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Farblos"
+      ],
+      "name": "Schmetterkick",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Kampf",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Es breitet die Hautlappen an seinem Kopf aus,\num mithilfe des Sonnenlichts Strom zu erzeugen\nund mächtige Elektro-Attacken einzusetzen."
+}

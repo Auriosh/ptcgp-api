@@ -1,0 +1,49 @@
+{
+  "language": "es_ES",
+  "id": "A2-074",
+  "name": "Drifblim",
+  "localId": "074",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Pugna Espaciotemporal"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2/A2-074_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-074_artwork.png",
+  "illustrator": "Miki Tanaka",
+  "hp": 100,
+  "types": [
+    "Psíquico"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psíquico",
+        "Psíquico"
+      ],
+      "name": "Golpe Globo",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Rayo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Se dice que está formado por almas en pena.\nAl caer la noche, flota a la deriva en silencio sepulcral."
+}

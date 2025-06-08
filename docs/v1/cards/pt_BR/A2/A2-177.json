@@ -1,0 +1,50 @@
+{
+  "language": "pt_BR",
+  "id": "A2-177",
+  "name": "Bidoof",
+  "localId": "177",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Embate do Tempo e Espaço"
+  },
+  "rarity": "One Star",
+  "cardImage": "/assets/cardImage/pt_BR/A2/A2-177_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-177_artwork.png",
+  "illustrator": "Shinya Komatsu",
+  "hp": 60,
+  "types": [
+    "Colorless"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Superpresa",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Reduza o PS restante do Pokémon Ativo do seu oponente pela metade, arrendondando para baixo."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Com nervos de aço, nada pode perturbá-lo.\nÉ mais ágil e ativo do que parece."
+}

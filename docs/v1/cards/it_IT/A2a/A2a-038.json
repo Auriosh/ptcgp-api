@@ -1,0 +1,52 @@
+{
+  "language": "it_IT",
+  "id": "A2a-038",
+  "name": "Donphan",
+  "localId": "038",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Luce Trionfale"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2a/A2a-038_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-038_artwork.png",
+  "illustrator": "Shin Nagasawa",
+  "hp": 120,
+  "types": [
+    "Lotta"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lotta",
+        "Lotta",
+        "Lotta"
+      ],
+      "name": "Ruzzolata",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": "Durante il tuo prossimo turno, l'attacco Ruzzolata di questo Pokémon infligge +60 danni."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Erba",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "La sua pelle è così dura che anche se sbatte\ncontro una macchina non si fa un graffio.\nLa pioggia è il suo punto debole."
+}

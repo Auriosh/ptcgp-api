@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A2-017",
+  "name": "Apitrini",
+  "localId": "017",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Choc Spatio-Temporel"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2/A2-017_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-017_artwork.png",
+  "illustrator": "Yukiko Baba",
+  "hp": 50,
+  "types": [
+    "Plante"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore"
+      ],
+      "name": "Appel à la Famille",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Placez un Pokémon de base au hasard de votre deck sur votre Banc."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feu",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "À la nuit tombée, les Apitrini s'agglutinent\npar grappes de cent pour dormir."
+}

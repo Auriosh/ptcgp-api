@@ -1,0 +1,57 @@
+{
+  "language": "de_DE",
+  "id": "A2a-055",
+  "name": "Magnezone",
+  "localId": "055",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Licht des Triumphs"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2a/A2a-055_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-055_artwork.png",
+  "illustrator": "toriyufu",
+  "hp": 140,
+  "types": [
+    "Metall"
+  ],
+  "stage": "Rang 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Fähigkeit",
+      "name": "Widerstandskopplung",
+      "effect": "Wenn du Arceus oder Arceus-ex im Spiel hast, werden diesem Pokémon durch Attacken − 30 Schadenspunkte zugefügt."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Metall",
+        "Metall",
+        "Farblos"
+      ],
+      "name": "Power-Strahl",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feuer",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Es heißt, dass es beim Herumfliegen mysteriöse Funkwellen\naussende und unbekannte Wellen empfange."
+}

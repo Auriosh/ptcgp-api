@@ -1,0 +1,49 @@
+{
+  "language": "it_IT",
+  "id": "A2-030",
+  "name": "Rotom Calore",
+  "localId": "030",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Scontro Spaziotemporale"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2/A2-030_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-030_artwork.png",
+  "illustrator": "Kedamahadaitai Yawarakai",
+  "hp": 80,
+  "types": [
+    "Fuoco"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fuoco",
+        "Incolore"
+      ],
+      "name": "Alitorovente",
+      "damage": {
+        "value": 30,
+        "modifier": "+"
+      },
+      "effect": "Lancia una moneta. Se esce testa, questo attacco infligge 30 danni in più."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Acqua",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Se il forno elettrico dentro cui si trova è in\ncattive condizioni, anche Rotom ne risente."
+}

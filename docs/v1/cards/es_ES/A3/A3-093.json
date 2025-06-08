@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A3-093",
+  "name": "Drilbur",
+  "localId": "093",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-093_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-093_artwork.png",
+  "illustrator": "Tomokazu Komiya",
+  "hp": 60,
+  "types": [
+    "Lucha"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolora"
+      ],
+      "name": "Arañazo",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Planta",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Tras juntar las garras, se abalanza sobre su presa\nhaciendo rotar el cuerpo a gran velocidad."
+}

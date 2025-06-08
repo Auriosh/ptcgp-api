@@ -1,0 +1,27 @@
+{
+  "language": "pt_BR",
+  "id": "A2b-069",
+  "name": "Kissera",
+  "localId": "069",
+  "category": "Trainer",
+  "set": {
+    "id": "A2b",
+    "name": "Festival Brilhante"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A2b/A2b-069_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-069_artwork.png",
+  "illustrator": "saino misaki",
+  "hp": null,
+  "types": [],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [],
+  "weaknesses": [],
+  "rules": [],
+  "retreat": [],
+  "description": ""
+}

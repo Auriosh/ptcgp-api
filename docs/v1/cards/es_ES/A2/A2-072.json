@@ -1,0 +1,57 @@
+{
+  "language": "es_ES",
+  "id": "A2-072",
+  "name": "Dusknoir",
+  "localId": "072",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Pugna Espaciotemporal"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2/A2-072_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-072_artwork.png",
+  "illustrator": "Suwama Chiaki",
+  "hp": 130,
+  "types": [
+    "Psíquico"
+  ],
+  "stage": "Fase 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Habilidad",
+      "name": "Brecha Sombra",
+      "effect": "Todas las veces que quieras durante tu turno, puedes elegir 1 de tus Pokémon que ya tenga daño y mover todo su daño a este Pokémon."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Psíquico",
+        "Incolora",
+        "Incolora"
+      ],
+      "name": "Devorar Almas",
+      "damage": {
+        "value": 70,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Oscura",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Se desconoce si posee voluntad propia. Capta ondas de otra\ndimensión que le incitan a llevarse allí a humanos y Pokémon."
+}

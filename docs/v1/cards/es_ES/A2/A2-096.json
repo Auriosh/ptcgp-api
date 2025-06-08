@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A2-096",
+  "name": "Murkrow",
+  "localId": "096",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Pugna Espaciotemporal"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2/A2-096_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-096_artwork.png",
+  "illustrator": "Yukiko Baba",
+  "hp": 60,
+  "types": [
+    "Oscura"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Oscura"
+      ],
+      "name": "Picotazo",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Rayo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Temido y odiado por muchos, dicen que trae la\ndesgracia a todos aquellos que lo ven por la noche."
+}

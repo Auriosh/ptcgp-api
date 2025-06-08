@@ -1,0 +1,58 @@
+{
+  "language": "fr_FR",
+  "id": "A3-096",
+  "name": "Bétochef",
+  "localId": "096",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Gardiens Astraux"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A3/A3-096_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-096_artwork.png",
+  "illustrator": "kawayoo",
+  "hp": 150,
+  "types": [
+    "Combat"
+  ],
+  "stage": "Niveau 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Talent",
+      "name": "Cran",
+      "effect": "Si ce Pokémon doit être mis K.O. par les dégâts d'une attaque, lancez une pièce. Si c'est face, ce Pokémon n'est pas mis K.O. et il lui reste 10 PV."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Combat",
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Ultimapoing",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psy",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Le béton préparé par Bétochef est bien\nplus solide qu'un béton ordinaire, même\nsi les mêmes ingrédients sont utilisés."
+}

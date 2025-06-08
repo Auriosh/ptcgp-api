@@ -1,0 +1,52 @@
+{
+  "language": "es_ES",
+  "id": "A3-008",
+  "name": "Trevenant",
+  "localId": "008",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-008_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-008_artwork.png",
+  "illustrator": "Shin Nagasawa",
+  "hp": 130,
+  "types": [
+    "Planta"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Planta",
+        "Planta",
+        "Incolora"
+      ],
+      "name": "Cuchillada Garra",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Guego",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Los humanos lo temen porque devora a\nquienes osen talar los árboles, pero es amable\ncon los Pokémon que habitan en el bosque."
+}

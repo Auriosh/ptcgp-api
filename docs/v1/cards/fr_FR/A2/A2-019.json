@@ -1,0 +1,50 @@
+{
+  "language": "fr_FR",
+  "id": "A2-019",
+  "name": "Vortente",
+  "localId": "019",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Choc Spatio-Temporel"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2/A2-019_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-019_artwork.png",
+  "illustrator": "Anesaki Dynamic",
+  "hp": 90,
+  "types": [
+    "Plante"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Plante",
+        "Plante",
+        "Incolore"
+      ],
+      "name": "Martinet",
+      "damage": {
+        "value": 40,
+        "modifier": "+"
+      },
+      "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 50 dégâts de plus."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feu",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il attire sa proie avec sa salive odorante avant\nde la croquer. Il lui faut une journée pour l'avaler."
+}

@@ -1,0 +1,52 @@
+{
+  "language": "en_US",
+  "id": "A2-106",
+  "name": "Drapion",
+  "localId": "106",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Space-Time Smackdown"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2/A2-106_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-106_artwork.png",
+  "illustrator": "Hitoshi Ariga",
+  "hp": 120,
+  "types": [
+    "Darkness"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Skorupi",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Darkness",
+        "Darkness",
+        "Darkness"
+      ],
+      "name": "Cross Poison",
+      "damage": {
+        "value": 40,
+        "modifier": "x"
+      },
+      "effect": "Flip 4 coins. This attack does 40 damage for each heads. If at least 2 of them are heads, your opponent's Active Pokémon is now Poisoned."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Its poison is potent, but it rarely sees use. This Pokémon prefers to use physical force instead, going on rampages with its car-crushing strength."
+}
