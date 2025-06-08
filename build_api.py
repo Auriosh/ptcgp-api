@@ -66,49 +66,71 @@ def build_api_data():
     """
     print("🚀 Iniciando a construção dos dados da API...")
     
-    # --- CORREÇÃO: Cria a pasta 'docs' no início para garantir que ela exista ---
     if not os.path.exists(BASE_OUTPUT_DIR):
         os.makedirs(BASE_OUTPUT_DIR)
 
     total_cards_processed = 0
+    total_sets_skipped = 0
 
     for lang in LANGUAGE_CODES:
         lang_code_standard = get_language_code(lang)
         print(f"\n🌐 Processando idioma: {lang_code_standard}")
         
+        # ETAPA 1: Obter a lista de TODOS os sets disponíveis para este idioma
+        try:
+            sets_url = f"{API_BASE_URL}/{lang}/sets"
+            response = requests.get(sets_url, timeout=15)
+            response.raise_for_status()
+            available_sets = response.json()
+        except requests.exceptions.RequestException as e:
+            print(f"  ❌ Erro ao buscar a lista de sets para {lang_code_standard}: {e}. Pulando este idioma.")
+            continue
+        
+        # ETAPA 2: Construir a lista de sets para o ficheiro sets.json principal
         all_sets_for_lang = []
+        for set_data in available_sets:
+            if set_data.get('id') in SET_IDS_TO_PROCESS:
+                all_sets_for_lang.append({
+                    "id": set_data.get("id"),
+                    "name": set_data.get("name"),
+                    "logo": f"/{ASSETS_BASE_DIR}/logoImage/{lang_code_standard}/logo_{set_data.get('id')}_{lang_code_standard}.png"
+                })
 
-        for set_id in SET_IDS_TO_PROCESS:
-            print(f"  - Buscando índice de cartas para o set: {set_id}...")
+        # ETAPA 3: Processar cada set individualmente
+        for set_info in all_sets_for_lang:
+            set_id = set_info['id']
+            print(f"  - Verificando set: {set_id} - {set_info['name']}...")
             
+            target_dir = os.path.join(BASE_OUTPUT_DIR, 'v1', 'cards', lang_code_standard, set_id)
+            set_index_path = os.path.join(target_dir, '_index.json')
+
+            # --- LÓGICA DE VERIFICAÇÃO ---
+            if os.path.exists(set_index_path):
+                print(f"    ℹ️  Índice para o set '{set_id}' já existe. Pulando.")
+                total_sets_skipped += 1
+                continue
+
             set_url = f"{API_BASE_URL}/{lang}/sets/{set_id}"
-            
             try:
                 response = requests.get(set_url, timeout=15)
-                if response.status_code == 404:
-                    print(f"    ℹ️  Set '{set_id}' não encontrado para o idioma {lang_code_standard}. Pulando.")
-                    continue
                 response.raise_for_status()
-                set_data = response.json()
-                card_index = set_data.get('cards', [])
-
-            except (requests.exceptions.RequestException, json.JSONDecodeError) as e:
-                print(f"    ❌ Erro ao buscar o índice do set {set_id}: {e}")
+                set_data_details = response.json()
+                card_index = set_data_details.get('cards', [])
+            except requests.exceptions.RequestException as e:
+                print(f"    ❌ Erro ao buscar detalhes do set {set_id}: {e}")
                 continue
-            
+
             if not card_index:
                 print(f"    ⚠️  Aviso: O set '{set_id}' foi encontrado, mas não continha nenhuma carta na resposta da API.")
                 continue
 
-            all_sets_for_lang.append({"id": set_data.get("id"), "name": set_data.get("name"), "logo": f"/{ASSETS_BASE_DIR}/logoImage/{lang_code_standard}/logo_{set_data.get('id')}_{lang_code_standard}.png"})
-            
             cards_processed_in_set = 0
             total_cards_in_set = len(card_index)
             set_card_list = [] 
 
-            for i, card_info in enumerate(card_index):
+            for i, card_info_summary in enumerate(card_index):
                 print_progress_bar(i + 1, total_cards_in_set, prefix=f"    Processando '{set_id}'", suffix="Completo", length=40)
-                card_id = card_info.get('id')
+                card_id = card_info_summary.get('id')
                 if not card_id: continue
 
                 try:
@@ -117,13 +139,12 @@ def build_api_data():
                     if card_response.status_code == 404: continue
                     card_response.raise_for_status()
                     old_card = card_response.json()
-                except (requests.exceptions.RequestException, json.JSONDecodeError):
-                    continue
+                except (requests.exceptions.RequestException, json.JSONDecodeError): continue
 
                 new_card = {
                   "language": lang_code_standard, "id": card_id, "name": old_card.get('name', ''),
                   "localId": old_card.get('localId', ''), "category": old_card.get('category', 'Pokemon'),
-                  "set": {"id": set_id, "name": set_data.get('name', '')},
+                  "set": {"id": set_id, "name": set_info['name']},
                   "rarity": old_card.get('rarity', ''),
                   "cardImage": f"/{ASSETS_BASE_DIR}/cardImage/{lang_code_standard}/{set_id}/{card_id}_card.png",
                   "artworkImage": f"/{ASSETS_BASE_DIR}/artworkImage/{set_id}/{card_id}_artwork.png",
@@ -138,7 +159,6 @@ def build_api_data():
                 }
                 if new_card["isEx"]: new_card["rules"].append("Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos.")
 
-                target_dir = os.path.join(BASE_OUTPUT_DIR, 'v1', 'cards', lang_code_standard, set_id)
                 os.makedirs(target_dir, exist_ok=True)
                 card_filename = os.path.join(target_dir, f"{card_id}.json")
                 with open(card_filename, 'w', encoding='utf-8') as f: json.dump(new_card, f, ensure_ascii=False, indent=2)
@@ -151,17 +171,17 @@ def build_api_data():
             print()
 
             if cards_processed_in_set > 0:
-                set_index_path = os.path.join(BASE_OUTPUT_DIR, 'v1', 'cards', lang_code_standard, set_id, '_index.json')
                 with open(set_index_path, 'w', encoding='utf-8') as f: json.dump(set_card_list, f, ensure_ascii=False, indent=2)
-                print(f"    ✅ Set '{set_id}' processado e índice criado ({cards_processed_in_set} cartas).")
+                print(f"    ✅ Set '{set_id}' processado e índice criado ({cards_processed_in_set} novas cartas).")
 
+        # ETAPA 4: Salvar o ficheiro de índice principal `sets.json`
         if all_sets_for_lang:
             sets_index_path = os.path.join(BASE_OUTPUT_DIR, 'v1', 'cards', lang_code_standard, 'sets.json')
             os.makedirs(os.path.dirname(sets_index_path), exist_ok=True)
             with open(sets_index_path, 'w', encoding='utf-8') as f: json.dump(all_sets_for_lang, f, ensure_ascii=False, indent=2)
-            print(f"  - ✅ Ficheiro de índice principal 'sets.json' para '{lang_code_standard}' criado.")
+            print(f"  - ✅ Ficheiro de índice principal 'sets.json' para '{lang_code_standard}' foi atualizado.")
 
-    print(f"\n🎉 Processo concluído! {total_cards_processed} registros de cartas foram criados/atualizados.")
+    print(f"\n🎉 Processo concluído! {total_cards_processed} novos registros foram criados e {total_sets_skipped} coleções foram ignoradas por já existirem.")
 
 if __name__ == '__main__':
     build_api_data()
