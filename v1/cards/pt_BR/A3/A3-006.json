@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "A3-006",
+  "name": "Karrablast",
+  "localId": "006",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-006_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-006_artwork.png",
+  "illustrator": "OOYAMA",
+  "hp": 60,
+  "types": [
+    "Grass"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Cabeçada",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "A sua fisiologia estranha reage à energia elétrica\nde maneiras interessantíssimas. A presença de Shelmet\nfaz com que este Pokémon evolua."
+}

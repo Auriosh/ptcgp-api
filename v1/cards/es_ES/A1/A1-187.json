@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A1-187",
+  "name": "Pidgeotto",
+  "localId": "187",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Genes Formidables"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A1/A1-187_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-187_artwork.png",
+  "illustrator": "Scav",
+  "hp": 80,
+  "types": [
+    "Incolora"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolora"
+      ],
+      "name": "Tornado",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Rayo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Tiene unas garras desarrolladas. Puede\natrapar un Exeggcute y transportarlo\ndesde una distancia de casi 100 km."
+}

@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A3-018",
+  "name": "Bounsweet",
+  "localId": "018",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-018_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-018_artwork.png",
+  "illustrator": "Akira Komayama",
+  "hp": 50,
+  "types": [
+    "Planta"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Planta"
+      ],
+      "name": "Estampida",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Guego",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "En la antigüedad, cuando no eran comunes los\nsabores dulces, era muy apreciado por su sudor,\npues es tan dulce como un concentrado de fruta."
+}

@@ -1,0 +1,51 @@
+{
+  "language": "de_DE",
+  "id": "A2b-107",
+  "name": "Bibor-ex",
+  "localId": "107",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Glänzendes Festival"
+  },
+  "rarity": "Deux Chromatique",
+  "cardImage": "/assets/cardImage/de_DE/A2b/A2b-107_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-107_artwork.png",
+  "illustrator": "PLANETA Igarashi",
+  "hp": 170,
+  "types": [
+    "Pflanze"
+  ],
+  "stage": "Rang 2",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Pflanze",
+        "Pflanze"
+      ],
+      "name": "Vernichtender Speer",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": "Lege 1 zufällige Energie vom Aktiven Pokémon deines Gegners ab."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feuer",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": ""
+}

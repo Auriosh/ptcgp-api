@@ -1,0 +1,58 @@
+{
+  "language": "pt_BR",
+  "id": "A3-021",
+  "name": "Wimpod",
+  "localId": "021",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-021_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-021_artwork.png",
+  "illustrator": "Kagemaru Himeno",
+  "hp": 70,
+  "types": [
+    "Grass"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Amarelar",
+      "effect": "Durante o seu primeiro turno, este Pokémon não terá custo de Recuo."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Grass",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Roída",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Este Pokémon é o faxineiro da natureza e come de tudo,\naté lixo e coisas estragadas. A área ao redor do seu ninho\nestá sempre limpa."
+}

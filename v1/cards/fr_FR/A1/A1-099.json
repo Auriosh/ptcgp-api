@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A1-099",
+  "name": "Voltorbe",
+  "localId": "099",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Puissance Génétique"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A1/A1-099_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-099_artwork.png",
+  "illustrator": "SATOSHI NAKAI",
+  "hp": 60,
+  "types": [
+    "Électrique"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Électrique"
+      ],
+      "name": "Charge",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Combat",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il se déplace en roulant. Si le sol est cabossé,\nles chocs le font exploser."
+}

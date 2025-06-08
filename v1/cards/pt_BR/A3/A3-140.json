@@ -1,0 +1,50 @@
+{
+  "language": "pt_BR",
+  "id": "A3-140",
+  "name": "Oranguru",
+  "localId": "140",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "Three Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-140_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-140_artwork.png",
+  "illustrator": "Naoki Saito",
+  "hp": 100,
+  "types": [
+    "Colorless"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Armadilha de Primata",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": "Durante o próximo turno do seu oponente, os ataques usados pelo Pokémon Defensor custarão 1 1 a mais e o seu custo de Recuo será 1 1 a mais."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "As pessoas costumavam confundir Oranguru com um\nhumano quando o viam comandar outros Pokémon\nda floresta."
+}

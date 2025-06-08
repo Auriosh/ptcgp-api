@@ -1,0 +1,49 @@
+{
+  "language": "en_US",
+  "id": "A3a-074",
+  "name": "Silvally",
+  "localId": "074",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3a",
+    "name": "Extradimensional Crisis"
+  },
+  "rarity": "One Star",
+  "cardImage": "/assets/cardImage/en_US/A3a/A3a-074_card.png",
+  "artworkImage": "/assets/artworkImage/A3a/A3a-074_artwork.png",
+  "illustrator": "hncl",
+  "hp": 110,
+  "types": [
+    "Colorless"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Type: Null",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Brave Buddies",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": "If you played a Supporter card from your hand during this turn, this attack does 50 more damage."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "This is its form once it has awakened and\nevolved. Freed from its heavy mask, its speed is\ngreatly increased."
+}

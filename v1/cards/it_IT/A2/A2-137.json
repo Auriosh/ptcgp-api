@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "A2-137",
+  "name": "Buneary",
+  "localId": "137",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Scontro Spaziotemporale"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2/A2-137_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-137_artwork.png",
+  "illustrator": "Narumi Sato",
+  "hp": 60,
+  "types": [
+    "Incolore"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore"
+      ],
+      "name": "Splash",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lotta",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Se arrotola entrambe le orecchie significa che\nè afflitto da qualche disturbo fisico o emotivo.\nÈ segno che bisogna prendersi cura di lui."
+}

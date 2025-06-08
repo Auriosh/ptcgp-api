@@ -1,0 +1,51 @@
+{
+  "language": "fr_FR",
+  "id": "A3-091",
+  "name": "Hariyama",
+  "localId": "091",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Gardiens Astraux"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A3/A3-091_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-091_artwork.png",
+  "illustrator": "Miki Tanaka",
+  "hp": 120,
+  "types": [
+    "Combat"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Combat",
+        "Incolore"
+      ],
+      "name": "Expulsion",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": "Échangez le Pokémon Actif de votre adversaire avec l'un de ses Pokémon de Banc. (Votre adversaire choisit le nouveau Pokémon Actif.)"
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psy",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Il aime s'adonner à des concours de force et\nil est capable d'arrêter un train lancé à pleine\nvitesse d'un simple coup du plat de la main."
+}

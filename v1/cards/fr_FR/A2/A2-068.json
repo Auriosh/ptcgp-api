@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A2-068",
+  "name": "Tarsal",
+  "localId": "068",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Choc Spatio-Temporel"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2/A2-068_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-068_artwork.png",
+  "illustrator": "Miki Tanaka",
+  "hp": 60,
+  "types": [
+    "Psy"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore"
+      ],
+      "name": "Téléport",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Échangez ce Pokémon contre l'un de vos Pokémon de Banc."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Obscurité",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il perçoit très précisément les émotions humaines\ngrâce aux cornes rouges sur sa tête."
+}

@@ -1,0 +1,54 @@
+{
+  "language": "fr_FR",
+  "id": "A2a-063",
+  "name": "Ronflex",
+  "localId": "063",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Lumière Triomphale"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2a/A2a-063_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-063_artwork.png",
+  "illustrator": "burari",
+  "hp": 140,
+  "types": [
+    "Incolore"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore",
+        "Incolore",
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Effondrement",
+      "damage": {
+        "value": 100,
+        "modifier": null
+      },
+      "effect": "Ce Pokémon est maintenant Endormi."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Combat",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Ronflex n'est pas satisfait tant qu'il n'a pas avalé\nses 400 kg de nourriture quotidienne. Dès qu'il\na fini, il commence une sieste pour digérer."
+}

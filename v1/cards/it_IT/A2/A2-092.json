@@ -1,0 +1,56 @@
+{
+  "language": "it_IT",
+  "id": "A2-092",
+  "name": "Lucario",
+  "localId": "092",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Scontro Spaziotemporale"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2/A2-092_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-092_artwork.png",
+  "illustrator": "nagimiso",
+  "hp": 100,
+  "types": [
+    "Lotta"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Istruttore di Lotta",
+      "effect": "Gli attacchi usati dai tuoi Pokémon {F} infliggono +20 danni al Pokémon attivo del tuo avversario."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Lotta",
+        "Lotta"
+      ],
+      "name": "Colpo Sottomarino",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psico",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Si dice che riesca a individuare anche\ngli avversari invisibili percependone l'aura."
+}

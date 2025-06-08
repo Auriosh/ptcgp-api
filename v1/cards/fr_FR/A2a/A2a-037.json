@@ -1,0 +1,49 @@
+{
+  "language": "fr_FR",
+  "id": "A2a-037",
+  "name": "Phanpy",
+  "localId": "037",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Lumière Triomphale"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2a/A2a-037_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-037_artwork.png",
+  "illustrator": "Asako Ito",
+  "hp": 60,
+  "types": [
+    "Combat"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Combat"
+      ],
+      "name": "Roulade",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Plante",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Les Phanpy vivent dans les trous qu'ils creusent,\nprès des rivières. Après avoir joué dans la boue,\nils ont besoin de faire leur toilette pour se calmer."
+}

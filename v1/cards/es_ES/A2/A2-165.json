@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A2-165",
+  "name": "Drifloon",
+  "localId": "165",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Pugna Espaciotemporal"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/es_ES/A2/A2-165_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-165_artwork.png",
+  "illustrator": "Orca",
+  "hp": 50,
+  "types": [
+    "Psíquico"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psíquico"
+      ],
+      "name": "Expandir",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": "Durante el próximo turno de tu rival, los ataques hacen -20 puntos de daño a este Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Rayo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Se dice que a veces desaparecen niños que\nagarran un Drifloon pensando que es un globo."
+}

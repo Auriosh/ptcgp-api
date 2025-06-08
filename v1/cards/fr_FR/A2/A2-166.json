@@ -1,0 +1,50 @@
+{
+  "language": "fr_FR",
+  "id": "A2-166",
+  "name": "Créfollet",
+  "localId": "166",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Choc Spatio-Temporel"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/fr_FR/A2/A2-166_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-166_artwork.png",
+  "illustrator": "Orca",
+  "hp": 70,
+  "types": [
+    "Psy"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psy",
+        "Psy",
+        "Psy"
+      ],
+      "name": "Explosion Suprême",
+      "damage": {
+        "value": 160,
+        "modifier": null
+      },
+      "effect": "Vous ne pouvez utiliser cette attaque que si vous avez Créhelf et Créfadet sur votre Banc. Défaussez toutes les Énergies de ce Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Obscurité",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "On l'appelle \" être de l'émotion \". Il enseigne aux\nhommes la beauté de la tristesse, la douleur et la joie."
+}

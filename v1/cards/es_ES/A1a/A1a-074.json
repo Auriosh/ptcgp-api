@@ -1,0 +1,49 @@
+{
+  "language": "es_ES",
+  "id": "A1a-074",
+  "name": "Marshadow",
+  "localId": "074",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "La Isla Singular"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/es_ES/A1a/A1a-074_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-074_artwork.png",
+  "illustrator": "OKACHEKE",
+  "hp": 80,
+  "types": [
+    "Lucha"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lucha",
+        "Incolora"
+      ],
+      "name": "Desquite",
+      "damage": {
+        "value": 40,
+        "modifier": "+"
+      },
+      "effect": "Si alguno de tus Pokémon quedó Fuera de Combate por el daño de un ataque durante el último turno de tu rival, este ataque hace 60 puntos de daño más."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psíquico",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Se oculta en la sombra de su oponente y copia\nsus movimientos y su fuerza. Su imitación\nresulta más poderosa que el original."
+}

@@ -1,0 +1,50 @@
+{
+  "language": "pt_BR",
+  "id": "A3-092",
+  "name": "Solrock",
+  "localId": "092",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-092_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-092_artwork.png",
+  "illustrator": "Kyoko Umemoto",
+  "hp": 90,
+  "types": [
+    "Fighting"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fighting",
+        "Fighting"
+      ],
+      "name": "Raio Solar",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Grass",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Quando começa a girar, emite uma luz semelhante\nà do sol, cegando seus inimigos."
+}

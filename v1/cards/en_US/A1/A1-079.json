@@ -1,0 +1,49 @@
+{
+  "language": "en_US",
+  "id": "A1-079",
+  "name": "Lapras",
+  "localId": "079",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1",
+    "name": "Genetic Apex"
+  },
+  "rarity": "Three Diamond",
+  "cardImage": "/assets/cardImage/en_US/A1/A1-079_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-079_artwork.png",
+  "illustrator": "Sekio",
+  "hp": 100,
+  "types": [
+    "Water"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Water"
+      ],
+      "name": "Hydro Pump",
+      "damage": {
+        "value": 20,
+        "modifier": "+"
+      },
+      "effect": "If this Pokémon has at least 3 extra {W} Energy attached, this attack does 70 more damage."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "A smart and kindhearted Pokémon, it glides across the surface of the sea while its beautiful song echoes around it."
+}

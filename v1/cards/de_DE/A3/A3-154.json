@@ -1,0 +1,27 @@
+{
+  "language": "de_DE",
+  "id": "A3-154",
+  "name": "Maho",
+  "localId": "154",
+  "category": "Trainer",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-154_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-154_artwork.png",
+  "illustrator": "En Morikura",
+  "hp": null,
+  "types": [],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [],
+  "weaknesses": [],
+  "rules": [],
+  "retreat": [],
+  "description": ""
+}

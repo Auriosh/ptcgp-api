@@ -1,0 +1,51 @@
+{
+  "language": "en_US",
+  "id": "A3-211",
+  "name": "Ivysaur",
+  "localId": "211",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Celestial Guardians"
+  },
+  "rarity": "One Shiny",
+  "cardImage": "/assets/cardImage/en_US/A3/A3-211_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-211_artwork.png",
+  "illustrator": "Ryuta Fuse",
+  "hp": 90,
+  "types": [
+    "Grass"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Bulbasaur",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Grass",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Razor Leaf",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs."
+}

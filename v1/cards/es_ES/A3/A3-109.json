@@ -1,0 +1,55 @@
+{
+  "language": "es_ES",
+  "id": "A3-109",
+  "name": "Persiande Alola",
+  "localId": "109",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-109_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-109_artwork.png",
+  "illustrator": "kirisAki",
+  "hp": 100,
+  "types": [
+    "Oscura"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Habilidad",
+      "name": "Pelaje Recio",
+      "effect": "Los ataques hacen -20 puntos de daño a este Pokémon."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Oscura",
+        "Incolora"
+      ],
+      "name": "Cuchillada Garra",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Planta",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "En Alola todos consideran la cara redonda\nde los Persian un símbolo de buena fortuna,\npor lo que los tratan con mucho respeto."
+}

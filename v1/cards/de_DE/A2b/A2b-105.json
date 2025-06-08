@@ -1,0 +1,48 @@
+{
+  "language": "de_DE",
+  "id": "A2b-105",
+  "name": "Knattox",
+  "localId": "105",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Glänzendes Festival"
+  },
+  "rarity": "Un Chromatique",
+  "cardImage": "/assets/cardImage/de_DE/A2b/A2b-105_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-105_artwork.png",
+  "illustrator": "nagimiso",
+  "hp": 70,
+  "types": [
+    "Metall"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Metall"
+      ],
+      "name": "Kopfnuss",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feuer",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Es soll entstanden sein, als ein unbekanntes\nGift-Pokémon von einem Motor Besitz ergriff,\nder in einer Schrottfabrik zurückgelassen wurde."
+}

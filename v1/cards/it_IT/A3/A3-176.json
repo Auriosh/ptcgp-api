@@ -1,0 +1,45 @@
+{
+  "language": "it_IT",
+  "id": "A3-176",
+  "name": "Drampa",
+  "localId": "176",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiani Astrali"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/it_IT/A3/A3-176_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-176_artwork.png",
+  "illustrator": "Shinji Kanda",
+  "hp": 100,
+  "types": [
+    "Drago"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Furore",
+      "damage": {
+        "value": 20,
+        "modifier": "+"
+      },
+      "effect": "Se almeno uno dei tuoi Pokémon in panchina è danneggiato, questo attacco infligge 50 danni in più."
+    }
+  ],
+  "weaknesses": [],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Vive su montagne che superano i 3.000 metri di altezza.\nQualche volta scende in città per giocare con i bambini."
+}

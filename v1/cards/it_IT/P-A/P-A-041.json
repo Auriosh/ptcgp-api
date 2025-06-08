@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "P-A-041",
+  "name": "Togepi",
+  "localId": "041",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "Nessuna",
+  "cardImage": "/assets/cardImage/it_IT/P-A/P-A-041_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-041_artwork.png",
+  "illustrator": "Naoyo Kimura",
+  "hp": 50,
+  "types": [
+    "Psico"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psico"
+      ],
+      "name": "Botta",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metallo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Sembra che il suo guscio sia ricolmo di felicità.\nSi dice che porti fortuna se lo si tratta bene."
+}

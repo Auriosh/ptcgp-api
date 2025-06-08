@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A3-227",
+  "name": "Ossatueur",
+  "localId": "227",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Gardiens Astraux"
+  },
+  "rarity": "Un Chromatique",
+  "cardImage": "/assets/cardImage/fr_FR/A3/A3-227_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-227_artwork.png",
+  "illustrator": "Sanosuke Sakuma",
+  "hp": 100,
+  "types": [
+    "Combat"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Combat"
+      ],
+      "name": "Dérouillée d'Os",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Plante",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il s'est endurci et a évolué depuis qu'il a réussi\nà surmonter sa peine. Il utilise son os en guise\nd'arme et affronte ses ennemis avec bravoure."
+}

@@ -1,0 +1,52 @@
+{
+  "language": "es_ES",
+  "id": "A1a-023",
+  "name": "Drednaw",
+  "localId": "023",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "La Isla Singular"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A1a/A1a-023_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-023_artwork.png",
+  "illustrator": "nisimono",
+  "hp": 130,
+  "types": [
+    "Agua"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Agua",
+        "Agua",
+        "Agua"
+      ],
+      "name": "Triturar",
+      "damage": {
+        "value": 70,
+        "modifier": null
+      },
+      "effect": "Lanza 1 moneda. Si sale cara, descarta 1 Energía aleatoria del Pokémon Activo de tu rival."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Rayo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Con sus fuertes mandíbulas serradas es capaz\nde destrozar rocas de un mordisco. Tiene un\ntemperamento extremadamente violento."
+}

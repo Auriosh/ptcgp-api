@@ -1,0 +1,49 @@
+{
+  "language": "fr_FR",
+  "id": "A1-038",
+  "name": "Feunard",
+  "localId": "038",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Puissance Génétique"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A1/A1-038_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-038_artwork.png",
+  "illustrator": "You Iribi",
+  "hp": 90,
+  "types": [
+    "Feu"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Feu",
+        "Feu"
+      ],
+      "name": "Lance-Flammes",
+      "damage": {
+        "value": 90,
+        "modifier": null
+      },
+      "effect": "Défaussez une Énergie {R} de ce Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Eau",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "On dit qu'il vit 1 000 ans et que chacune\nde ses queues a un pouvoir magique."
+}

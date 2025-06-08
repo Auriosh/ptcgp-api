@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "A3-006",
+  "name": "Karrablast",
+  "localId": "006",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiani Astrali"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A3/A3-006_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-006_artwork.png",
+  "illustrator": "OOYAMA",
+  "hp": 60,
+  "types": [
+    "Erba"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore"
+      ],
+      "name": "Bottintesta",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fuoco",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il suo corpo reagisce misteriosamente all'energia\nelettrica. Si evolve se si trova in presenza di Shelmet."
+}

@@ -1,0 +1,51 @@
+{
+  "language": "pt_BR",
+  "id": "A1-082",
+  "name": "Omastar",
+  "localId": "082",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1",
+    "name": "Dominação Genética"
+  },
+  "rarity": "Three Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A1/A1-082_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-082_artwork.png",
+  "illustrator": "kirisAki",
+  "hp": 140,
+  "types": [
+    "Water"
+  ],
+  "stage": "Stage2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Water",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Redemoinho Ancestral",
+      "damage": {
+        "value": 70,
+        "modifier": null
+      },
+      "effect": "Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá atacar."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Por conta de seu grande casco, Omastar é\npesado e não se move rápido. Dizem que entrou\nem extinção porque era incapaz de conseguir comida."
+}

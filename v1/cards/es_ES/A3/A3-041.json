@@ -1,0 +1,50 @@
+{
+  "language": "es_ES",
+  "id": "A3-041",
+  "name": "Ninetalesde Alola",
+  "localId": "041",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-041_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-041_artwork.png",
+  "illustrator": "Eri Yamaki",
+  "hp": 110,
+  "types": [
+    "Agua"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Agua",
+        "Agua",
+        "Agua"
+      ],
+      "name": "Ventisca",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": "Este ataque también hace 20 puntos de daño a cada uno de los Pokémon en Banca de tu rival."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metálica",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Antaño lo veneraban como la encarnación de una deidad\nque se creía que moraba en las montañas nevadas."
+}

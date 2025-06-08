@@ -1,0 +1,46 @@
+{
+  "language": "es_ES",
+  "id": "A2b-034",
+  "name": "Drifblim",
+  "localId": "034",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Festival Brillante"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2b/A2b-034_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-034_artwork.png",
+  "illustrator": "Hajime Kusajima",
+  "hp": 90,
+  "types": [
+    "Psíquico"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psíquico"
+      ],
+      "name": "Tornado",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Oscura",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [],
+  "description": "Crea en su interior gases y los expulsa. De esta\nforma es capaz de volar y controlar su altura."
+}

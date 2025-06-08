@@ -1,0 +1,51 @@
+{
+  "language": "pt_BR",
+  "id": "A3-022",
+  "name": "Golisopod",
+  "localId": "022",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "Three Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-022_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-022_artwork.png",
+  "illustrator": "Kouki Saitou",
+  "hp": 120,
+  "types": [
+    "Grass"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Grass",
+        "Grass",
+        "Grass"
+      ],
+      "name": "Primeira Impressão",
+      "damage": {
+        "value": 60,
+        "modifier": "+"
+      },
+      "effect": "Se este Pokémon foi movido do seu Banco para o Campo Ativo neste turno, este ataque causará 60 pontos de dano a mais."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "É capaz de fazer qualquer coisa pela vitória e aproveita\ntodas as oportunidades para acabar com seus oponentes\nusando suas pequenas garras em suas patas dianteiras."
+}

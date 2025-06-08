@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A2a-028",
+  "name": "Élecsprint",
+  "localId": "028",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Lumière Triomphale"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2a/A2a-028_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-028_artwork.png",
+  "illustrator": "match",
+  "hp": 90,
+  "types": [
+    "Électrique"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Électrique"
+      ],
+      "name": "Flash",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": "Pendant le prochain tour de votre adversaire, si le Pokémon Défenseur essaie d'utiliser une attaque, votre adversaire lance une pièce. Si c'est pile, l'attaque n'est pas lancée."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Combat",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il diffuse de l'électricité dans ses membres\npour augmenter sa vitesse. C'est également\nainsi qu'il apaise ses douleurs musculaires."
+}

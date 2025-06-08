@@ -1,0 +1,49 @@
+{
+  "language": "de_DE",
+  "id": "A2a-029",
+  "name": "Piepi",
+  "localId": "029",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Licht des Triumphs"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2a/A2a-029_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-029_artwork.png",
+  "illustrator": "rika",
+  "hp": 60,
+  "types": [
+    "Psycho"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psycho",
+        "Farblos"
+      ],
+      "name": "Klatscher",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metall",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Eine Ansammlung von Piepi bei Vollmond tanzen\nzu sehen, soll ein glückliches Leben verheißen."
+}

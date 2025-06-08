@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "A1-133",
+  "name": "Woobat",
+  "localId": "133",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1",
+    "name": "Dominação Genética"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A1/A1-133_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-133_artwork.png",
+  "illustrator": "MAHOU",
+  "hp": 60,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Roída",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Darkness",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Se você estiver em uma caverna e vir várias\nmarcas com formato de coração nas paredes,\né sinal de que Woobat vivem ali."
+}

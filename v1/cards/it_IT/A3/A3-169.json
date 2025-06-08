@@ -1,0 +1,50 @@
+{
+  "language": "it_IT",
+  "id": "A3-169",
+  "name": "Sandygast",
+  "localId": "169",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiani Astrali"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/it_IT/A3/A3-169_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-169_artwork.png",
+  "illustrator": "Yukihiro Tada",
+  "hp": 80,
+  "types": [
+    "Psico"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psico",
+        "Incolore"
+      ],
+      "name": "Vibrazione",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Oscurità",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Se gli capita di perdere la paletta si infila in testa un ramo o\nun altro oggetto per distrarsi in attesa di trovarne una nuova."
+}

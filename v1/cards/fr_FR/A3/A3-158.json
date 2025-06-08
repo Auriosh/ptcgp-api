@@ -1,0 +1,49 @@
+{
+  "language": "fr_FR",
+  "id": "A3-158",
+  "name": "Sucreine",
+  "localId": "158",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Gardiens Astraux"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/fr_FR/A3/A3-158_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-158_artwork.png",
+  "illustrator": "Ligton",
+  "hp": 130,
+  "types": [
+    "Plante"
+  ],
+  "stage": "Niveau 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Plante"
+      ],
+      "name": "Triple Coup de Pied",
+      "damage": {
+        "value": 50,
+        "modifier": "x"
+      },
+      "effect": "Lancez 3 pièces. Cette attaque inflige 50 dégâts pour chaque côté face."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feu",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Ce Pokémon est aussi fier qu'agressif.\nOn dit néanmoins qu'il se calme instantanément\nquand on touche la couronne sur sa tête."
+}

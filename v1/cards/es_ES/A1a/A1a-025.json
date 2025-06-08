@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A1a-025",
+  "name": "Pikachu",
+  "localId": "025",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "La Isla Singular"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A1a/A1a-025_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-025_artwork.png",
+  "illustrator": "Naoyo Kimura",
+  "hp": 60,
+  "types": [
+    "Rayo"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Rayo"
+      ],
+      "name": "Circuito Circular",
+      "damage": {
+        "value": 10,
+        "modifier": "x"
+      },
+      "effect": "Este ataque hace 10 puntos de daño por cada uno de tus Pokémon {L} en Banca."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lucha",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Cuando se enfada, este Pokémon\ndescarga la energía que almacena en\nel interior de las bolsas de las mejillas."
+}

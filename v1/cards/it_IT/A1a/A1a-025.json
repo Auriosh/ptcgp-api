@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "A1a-025",
+  "name": "Pikachu",
+  "localId": "025",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "L'Isola Misteriosa"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A1a/A1a-025_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-025_artwork.png",
+  "illustrator": "Naoyo Kimura",
+  "hp": 60,
+  "types": [
+    "Lampo"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lampo"
+      ],
+      "name": "Elettroruota",
+      "damage": {
+        "value": 10,
+        "modifier": "x"
+      },
+      "effect": "Questo attacco infligge 10 danni per ogni Pokémon {L} nella tua panchina."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lotta",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Quando s'arrabbia, libera subito l'energia\naccumulata nelle sacche sulle guance."
+}

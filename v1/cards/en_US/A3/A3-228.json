@@ -1,0 +1,48 @@
+{
+  "language": "en_US",
+  "id": "A3-228",
+  "name": "Jigglypuff",
+  "localId": "228",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Celestial Guardians"
+  },
+  "rarity": "One Shiny",
+  "cardImage": "/assets/cardImage/en_US/A3/A3-228_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-228_artwork.png",
+  "illustrator": "Tomowaka",
+  "hp": 60,
+  "types": [
+    "Colorless"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Rollout",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "When its huge eyes waver, it sings a mysteriously soothing melody that lulls its enemies to sleep."
+}

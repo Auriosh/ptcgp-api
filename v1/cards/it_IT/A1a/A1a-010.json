@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "A1a-010",
+  "name": "Ponyta",
+  "localId": "010",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "L'Isola Misteriosa"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A1a/A1a-010_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-010_artwork.png",
+  "illustrator": "Tomokazu Komiya",
+  "hp": 60,
+  "types": [
+    "Fuoco"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fuoco"
+      ],
+      "name": "Pestone",
+      "damage": {
+        "value": 10,
+        "modifier": "+"
+      },
+      "effect": "Lancia una moneta. Se esce testa, questo attacco infligge 30 danni in più."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Acqua",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Appena nato non è un buon corridore, ma col tempo\nirrobustisce le sue zampe rincorrendo i suoi simili."
+}

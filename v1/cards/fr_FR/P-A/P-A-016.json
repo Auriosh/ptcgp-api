@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "P-A-016",
+  "name": "Mélofée",
+  "localId": "016",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "Sans Rareté",
+  "cardImage": "/assets/cardImage/fr_FR/P-A/P-A-016_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-016_artwork.png",
+  "illustrator": "Shibuzoh.",
+  "hp": 60,
+  "types": [
+    "Psy"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psy"
+      ],
+      "name": "Gifle",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Métal",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "On dit que ceux qui voient danser un groupe de Mélofée\nsous la pleine lune connaîtront un grand bonheur."
+}

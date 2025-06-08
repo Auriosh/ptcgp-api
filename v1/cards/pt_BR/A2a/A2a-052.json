@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "A2a-052",
+  "name": "Toxicroak",
+  "localId": "052",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2a",
+    "name": "Luz Triunfante"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A2a/A2a-052_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-052_artwork.png",
+  "illustrator": "Souichirou Gunjima",
+  "hp": 100,
+  "types": [
+    "Darkness"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Darkness"
+      ],
+      "name": "Tóxico",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "O Pokémon Ativo do seu oponente agora está Envenenado. Cause 20 pontos de dano a este Pokémon em vez da quantidade normal desta Condição Especial."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Balançando e desviando dos ataques dos inimigos,\neste Pokémon usa seu corpo flexível para se aproximar\ne, em seguida, atacar com suas garras venenosas."
+}

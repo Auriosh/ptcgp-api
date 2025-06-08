@@ -1,0 +1,49 @@
+{
+  "language": "es_ES",
+  "id": "A2-059",
+  "name": "Luxio",
+  "localId": "059",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Pugna Espaciotemporal"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2/A2-059_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-059_artwork.png",
+  "illustrator": "Naoki Saito",
+  "hp": 90,
+  "types": [
+    "Rayo"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Rayo",
+        "Incolora"
+      ],
+      "name": "Garras Eléctricas",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lucha",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Por las puntas de sus garras pasa una fuerte corriente\neléctrica. El mínimo roce debilita al enemigo."
+}

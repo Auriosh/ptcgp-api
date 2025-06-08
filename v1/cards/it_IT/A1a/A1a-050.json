@@ -1,0 +1,51 @@
+{
+  "language": "it_IT",
+  "id": "A1a-050",
+  "name": "Weezing",
+  "localId": "050",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "L'Isola Misteriosa"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A1a/A1a-050_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-050_artwork.png",
+  "illustrator": "Mousho",
+  "hp": 110,
+  "types": [
+    "Oscurità"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Oscurità",
+        "Oscurità"
+      ],
+      "name": "Muro di Fumo",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": "Durante il prossimo turno del tuo avversario, se il Pokémon difensore prova a usare un attacco, il tuo avversario lancia una moneta. Se esce croce, quell'attacco non avviene."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lotta",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Se un gemello Koffing si sgonfia, l'altro si gonfia.\nI gas velenosi dei due si mischiano continuamente."
+}

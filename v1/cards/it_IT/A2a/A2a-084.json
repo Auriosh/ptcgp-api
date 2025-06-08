@@ -1,0 +1,63 @@
+{
+  "language": "it_IT",
+  "id": "A2a-084",
+  "name": "Garchomp-ex",
+  "localId": "084",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Luce Trionfale"
+  },
+  "rarity": "deux Étoiles",
+  "cardImage": "/assets/cardImage/it_IT/A2a/A2a-084_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-084_artwork.png",
+  "illustrator": "PLANETA CG Works",
+  "hp": 170,
+  "types": [
+    "Lotta"
+  ],
+  "stage": "Livello 2",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lotta"
+      ],
+      "name": "Attacco Lineare",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Questo attacco infligge 50 danni a uno dei Pokémon\ndel tuo avversario."
+    },
+    {
+      "cost": [
+        "Lotta",
+        "Lotta",
+        "Incolore"
+      ],
+      "name": "Dragartigli",
+      "damage": {
+        "value": 100,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Erba",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": ""
+}

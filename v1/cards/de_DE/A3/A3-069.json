@@ -1,0 +1,49 @@
+{
+  "language": "de_DE",
+  "id": "A3-069",
+  "name": "Pantimos",
+  "localId": "069",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-069_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-069_artwork.png",
+  "illustrator": "Yukihiro Tada",
+  "hp": 80,
+  "types": [
+    "Psycho"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psycho",
+        "Farblos"
+      ],
+      "name": "Barrierenschubser",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": "Wirf 1 Münze. Verhindere bei Kopf während des nächsten Zuges deines Gegners allen Schaden durch und alle Effekte von Attacken, die diesem Pokémon zugefügt werden."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Unlicht",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Viele Forscher glauben, seine Hände hätten nur\ndeshalb so eine beachtliche Größe angenommen,\ndamit es Pantomime praktizieren kann."
+}

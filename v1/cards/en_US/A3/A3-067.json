@@ -1,0 +1,48 @@
+{
+  "language": "en_US",
+  "id": "A3-067",
+  "name": "Togedemaru",
+  "localId": "067",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Celestial Guardians"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/en_US/A3/A3-067_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-067_artwork.png",
+  "illustrator": "Misa Tsutsui",
+  "hp": 70,
+  "types": [
+    "Lightning"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lightning"
+      ],
+      "name": "Electrosmash",
+      "damage": {
+        "value": 20,
+        "modifier": "+"
+      },
+      "effect": "Flip a coin. If heads, this attack does 30 more damage."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "With the long hairs on its back, this Pokémon takes in electricity from other electric Pokémon. It stores what it absorbs in an electric sac."
+}

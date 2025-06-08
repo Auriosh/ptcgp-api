@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A3-157",
+  "name": "Morelull",
+  "localId": "157",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-157_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-157_artwork.png",
+  "illustrator": "kamonabe",
+  "hp": 60,
+  "types": [
+    "Planta"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolora"
+      ],
+      "name": "Estampida",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Guego",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Sus sombrerillos tienen un sabor delicioso.\nAunque los Pokémon del bosque se los\ncoman, les vuelven a crecer al día siguiente."
+}

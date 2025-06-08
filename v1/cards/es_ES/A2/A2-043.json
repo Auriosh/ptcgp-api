@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A2-043",
+  "name": "Lumineon",
+  "localId": "043",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Pugna Espaciotemporal"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2/A2-043_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-043_artwork.png",
+  "illustrator": "rika",
+  "hp": 90,
+  "types": [
+    "Agua"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Agua"
+      ],
+      "name": "Cascada",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Rayo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Atrae a sus presas con el destello que emite,\naunque eso también llama la atención de sus\nferoces depredadores marinos."
+}

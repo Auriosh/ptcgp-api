@@ -1,0 +1,53 @@
+{
+  "language": "en_US",
+  "id": "P-A-021",
+  "name": "Onix",
+  "localId": "021",
+  "category": "Pokemon",
+  "set": {
+    "id": "P-A",
+    "name": "Promos-A"
+  },
+  "rarity": "None",
+  "cardImage": "/assets/cardImage/en_US/P-A/P-A-021_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-021_artwork.png",
+  "illustrator": "Tomokazu Komiya",
+  "hp": 110,
+  "types": [
+    "Fighting"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fighting",
+        "Fighting",
+        "Fighting"
+      ],
+      "name": "Land Crush",
+      "damage": {
+        "value": 70,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Grass",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "As it digs through the ground, it absorbs many hard objects. This is what makes its body so solid."
+}

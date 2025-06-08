@@ -1,0 +1,49 @@
+{
+  "language": "es_ES",
+  "id": "P-A-066",
+  "name": "Mimikyu",
+  "localId": "066",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/es_ES/P-A/P-A-066_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-066_artwork.png",
+  "illustrator": "Amelicart",
+  "hp": 70,
+  "types": [
+    "Psíquico"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psíquico",
+        "Incolora"
+      ],
+      "name": "Impacto Umbrío",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": "Este ataque también hace 20 puntos de daño a 1 de tus Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Oscura",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Vive en lugares oscuros donde no llega el sol.\nCuando se deja ver por la gente, oculta todo\nsu cuerpo bajo un saco con aspecto de Pikachu."
+}

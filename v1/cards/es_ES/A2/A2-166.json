@@ -1,0 +1,50 @@
+{
+  "language": "es_ES",
+  "id": "A2-166",
+  "name": "Mesprit",
+  "localId": "166",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Pugna Espaciotemporal"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/es_ES/A2/A2-166_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-166_artwork.png",
+  "illustrator": "Orca",
+  "hp": 70,
+  "types": [
+    "Psíquico"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psíquico",
+        "Psíquico",
+        "Psíquico"
+      ],
+      "name": "Explosión Suprema",
+      "damage": {
+        "value": 160,
+        "modifier": null
+      },
+      "effect": "Puedes usar este ataque solo si tienes a Uxie y a Azelf en tu Banca. Descarta todas las Energías de este Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Oscura",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Se le conoce como el Ser de la Emoción. Enseñó\na los humanos la nobleza del dolor y la alegría."
+}

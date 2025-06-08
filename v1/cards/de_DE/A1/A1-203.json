@@ -1,0 +1,50 @@
+{
+  "language": "de_DE",
+  "id": "A1-203",
+  "name": "Kangama",
+  "localId": "203",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Unschlagbare Gene"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A1/A1-203_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-203_artwork.png",
+  "illustrator": "Ken Sugimori",
+  "hp": 100,
+  "types": [
+    "Farblos"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Farblos"
+      ],
+      "name": "Irrschlag",
+      "damage": {
+        "value": 30,
+        "modifier": "x"
+      },
+      "effect": "Wirf 2 Münzen. Diese Attacke fügt 30 Schadenspunkte pro Kopf zu."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Kampf",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Obwohl es sein Junges im Beutel trägt, bewegt\nsich dieses Pokémon äußerst leichtfüßig. Gegner\nschreckt Kangama mit blitzschnellen Schlägen ab."
+}

@@ -1,0 +1,57 @@
+{
+  "language": "de_DE",
+  "id": "A1a-046",
+  "name": "Aerodactyl-ex",
+  "localId": "046",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "Mysteriöse Insel"
+  },
+  "rarity": "Quatre Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A1a/A1a-046_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-046_artwork.png",
+  "illustrator": "PLANETA CG Works",
+  "hp": 140,
+  "types": [
+    "Kampf"
+  ],
+  "stage": "Rang 1",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Fähigkeit",
+      "name": "Gesetz der Urzeit",
+      "effect": "Dein Gegner kann keine Pokémon aus seiner Hand spielen, um sein Aktives Pokémon zu entwickeln."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Kampf",
+        "Farblos"
+      ],
+      "name": "Schollenbrecher",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Elektro",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": ""
+}

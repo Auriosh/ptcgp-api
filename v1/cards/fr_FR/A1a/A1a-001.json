@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A1a-001",
+  "name": "Noeunoeuf",
+  "localId": "001",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "L’Île Fabuleuse"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A1a/A1a-001_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-001_artwork.png",
+  "illustrator": "Yuka Morii",
+  "hp": 50,
+  "types": [
+    "Plante"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore"
+      ],
+      "name": "Jaillissement",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Prenez une Énergie {G} de votre zone Énergie et attachez-la à ce Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feu",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Même s'il ressemble à un tas d'œufs,\nil s'agit bien d'un Pokémon. Il paraît qu'ils\ncommuniquent entre eux par télépathie."
+}

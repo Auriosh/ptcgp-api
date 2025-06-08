@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A2b-040",
+  "name": "Kicklee",
+  "localId": "040",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Réjouissances Rayonnantes"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2b/A2b-040_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-040_artwork.png",
+  "illustrator": "Tomokazu Komiya",
+  "hp": 80,
+  "types": [
+    "Combat"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Combat"
+      ],
+      "name": "Koud'Pied",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psy",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il possède un fantastique sens de l'équilibre, et peut donner\ndes rafales de coups de pied dans toutes les positions."
+}

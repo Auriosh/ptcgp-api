@@ -1,0 +1,55 @@
+{
+  "language": "fr_FR",
+  "id": "P-A-019",
+  "name": "Amphinobi",
+  "localId": "019",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "Sans Rareté",
+  "cardImage": "/assets/cardImage/fr_FR/P-A/P-A-019_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-019_artwork.png",
+  "illustrator": "Sanosuke Sakuma",
+  "hp": 120,
+  "types": [
+    "Eau"
+  ],
+  "stage": "Niveau 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Talent",
+      "name": "Sheauriken",
+      "effect": "Une fois pendant votre tour, vous pouvez infliger 20 dégâts à un Pokémon de votre adversaire."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Eau",
+        "Incolore"
+      ],
+      "name": "Tranche-Brume",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Électrique",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il transforme des jets d'eau sous pression en redoutables\nshuriken. Une fois lancés, ils tournent si vite qu'ils peuvent\nmême couper le métal."
+}

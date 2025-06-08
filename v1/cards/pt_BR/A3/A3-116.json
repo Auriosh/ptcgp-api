@@ -1,0 +1,49 @@
+{
+  "language": "pt_BR",
+  "id": "A3-116",
+  "name": "Toxapex",
+  "localId": "116",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-116_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-116_artwork.png",
+  "illustrator": "chibi",
+  "hp": 110,
+  "types": [
+    "Darkness"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Darkness"
+      ],
+      "name": "Canhão de Espinhos",
+      "damage": {
+        "value": 20,
+        "modifier": "x"
+      },
+      "effect": "Jogue 4 moedas. Este ataque causa 20 pontos de dano para cada cara."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Este Pokémon vive em uma cúpula que forma\ncom suas pernas. Toxapex monitora os arredores\nao sentir o fluxo da maré por meio dos seus espinhos."
+}

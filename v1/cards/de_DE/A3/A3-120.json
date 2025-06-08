@@ -1,0 +1,50 @@
+{
+  "language": "de_DE",
+  "id": "A3-120",
+  "name": "Cavalanzas",
+  "localId": "120",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-120_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-120_artwork.png",
+  "illustrator": "Satoshi Shirai",
+  "hp": 110,
+  "types": [
+    "Metall"
+  ],
+  "stage": "Rang 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Metall"
+      ],
+      "name": "Langspieß",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": "Diese Attacke fügt auch 1 Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feuer",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Eine von einem Schnuthelm gestohlene Muschel\ndient ihm als Helm. Es greift Gegner mit seinen\nbeiden Lanzen an."
+}

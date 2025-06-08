@@ -1,0 +1,55 @@
+{
+  "language": "en_US",
+  "id": "A1-188",
+  "name": "Pidgeot",
+  "localId": "188",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1",
+    "name": "Genetic Apex"
+  },
+  "rarity": "Three Diamond",
+  "cardImage": "/assets/cardImage/en_US/A1/A1-188_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-188_artwork.png",
+  "illustrator": "Scav",
+  "hp": 130,
+  "types": [
+    "Colorless"
+  ],
+  "stage": "Stage2",
+  "evolveFrom": "Pidgeotto",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Drive Off",
+      "effect": "Once during your turn, you may switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Wing Attack",
+      "damage": {
+        "value": 70,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as Magikarp."
+}

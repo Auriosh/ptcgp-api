@@ -1,0 +1,45 @@
+{
+  "language": "fr_FR",
+  "id": "A3-126",
+  "name": "Écaïd",
+  "localId": "126",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Gardiens Astraux"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A3/A3-126_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-126_artwork.png",
+  "illustrator": "Ryuta Fuse",
+  "hp": 100,
+  "types": [
+    "Dragon"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Électrique",
+        "Combat"
+      ],
+      "name": "Draco-Griffe",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Ses écailles arrachées et son corps couvert de\ncicatrices sont la preuve de sa puissance. Il les\nmontre à son adversaire vaincu en se pavanant."
+}

@@ -1,0 +1,54 @@
+{
+  "language": "en_US",
+  "id": "A3-173",
+  "name": "Mudsdale",
+  "localId": "173",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Celestial Guardians"
+  },
+  "rarity": "One Star",
+  "cardImage": "/assets/cardImage/en_US/A3/A3-173_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-173_artwork.png",
+  "illustrator": "Teeziro",
+  "hp": 140,
+  "types": [
+    "Fighting"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Mudbray",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fighting",
+        "Fighting",
+        "Fighting",
+        "Colorless"
+      ],
+      "name": "High Horsepower",
+      "damage": {
+        "value": 140,
+        "modifier": null
+      },
+      "effect": "This Pokémon also does 40 damage to itself."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Grass",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "This Pokémon has been treasured not just for its physical labor but also because it produces high-quality mud used for making pottery."
+}

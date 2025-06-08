@@ -1,0 +1,51 @@
+{
+  "language": "en_US",
+  "id": "A1-045",
+  "name": "Flareon",
+  "localId": "045",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1",
+    "name": "Genetic Apex"
+  },
+  "rarity": "Three Diamond",
+  "cardImage": "/assets/cardImage/en_US/A1/A1-045_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-045_artwork.png",
+  "illustrator": "sui",
+  "hp": 120,
+  "types": [
+    "Fire"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Eevee",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fire",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Flamethrower",
+      "damage": {
+        "value": 110,
+        "modifier": null
+      },
+      "effect": "Discard 1 {R} Energy from this Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Water",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Inhaled air is carried to its flame sac, heated, and exhaled as fire that reaches over 3,000 degrees Fahrenheit."
+}

@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "A2-111",
+  "name": "Skarmory",
+  "localId": "111",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Scontro Spaziotemporale"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2/A2-111_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-111_artwork.png",
+  "illustrator": "Oswaldo KATO",
+  "hp": 80,
+  "types": [
+    "Metallo"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Metallo"
+      ],
+      "name": "Arti Metallici",
+      "damage": {
+        "value": 20,
+        "modifier": "+"
+      },
+      "effect": "Se questo Pokémon ha un Oggetto Pokémon assegnato, questo attacco infligge 30 danni in più."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lampo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Le piume perse da Skarmory sono utilizzate\nper produrre spade. Per questo è molto\napprezzato come motivo degli stemmi nobiliari."
+}

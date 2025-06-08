@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "A3-039",
+  "name": "Sandslashdi Alola",
+  "localId": "039",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiani Astrali"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A3/A3-039_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-039_artwork.png",
+  "illustrator": "Hasuno",
+  "hp": 100,
+  "types": [
+    "Acqua"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Acqua"
+      ],
+      "name": "Corazza Ispida",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": "Durante il prossimo turno del tuo avversario, se questo Pokémon viene danneggiato da un attacco, il Pokémon attaccante subisce 40 danni."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metallo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Corre piantando saldamente nella neve i suoi grandi artigli.\nCiò lo rende il Pokémon più veloce sui monti innevati."
+}

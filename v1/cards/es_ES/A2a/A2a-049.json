@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A2a-049",
+  "name": "Golbat",
+  "localId": "049",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Luz Triunfal"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2a/A2a-049_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-049_artwork.png",
+  "illustrator": "Kyoko Umemoto",
+  "hp": 80,
+  "types": [
+    "Oscura"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Oscura"
+      ],
+      "name": "Mordisco",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lucha",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Le encanta chuparles la sangre a los seres\nvivos. En ocasiones comparte la preciada\ncolecta con otros congéneres hambrientos."
+}

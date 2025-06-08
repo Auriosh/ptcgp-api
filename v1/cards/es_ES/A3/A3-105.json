@@ -1,0 +1,49 @@
+{
+  "language": "es_ES",
+  "id": "A3-105",
+  "name": "Minior",
+  "localId": "105",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-105_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-105_artwork.png",
+  "illustrator": "Amelicart",
+  "hp": 80,
+  "types": [
+    "Lucha"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lucha",
+        "Lucha"
+      ],
+      "name": "Caída Sideral",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Este ataque hace 40 puntos de daño a 1 de los Pokémon de tu rival."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Planta",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Alola es uno de los pocos lugares en los que, durante\nla noche, se puede ver cómo los Minior caen del cielo."
+}

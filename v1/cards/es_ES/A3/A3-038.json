@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A3-038",
+  "name": "Sandshrewde Alola",
+  "localId": "038",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-038_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-038_artwork.png",
+  "illustrator": "ryoma uratsuka",
+  "hp": 60,
+  "types": [
+    "Agua"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Agua"
+      ],
+      "name": "Arañazo",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metálica",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Ha desarrollado un caparazón de hielo duro como el acero para\nadaptarse a las montañas de nieves perpetuas donde habita."
+}

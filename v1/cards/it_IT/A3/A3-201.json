@@ -1,0 +1,52 @@
+{
+  "language": "it_IT",
+  "id": "A3-201",
+  "name": "Crabominable-ex",
+  "localId": "201",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiani Astrali"
+  },
+  "rarity": "deux Étoiles",
+  "cardImage": "/assets/cardImage/it_IT/A3/A3-201_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-201_artwork.png",
+  "illustrator": "Miki Tanaka",
+  "hp": 160,
+  "types": [
+    "Acqua"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Acqua"
+      ],
+      "name": "Colpi Irrefrenabili",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": "Durante il tuo prossimo turno, l'attacco Colpi Irrefrenabili di questo Pokémon infligge +40 danni."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metallo",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": ""
+}

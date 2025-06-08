@@ -1,0 +1,53 @@
+{
+  "language": "it_IT",
+  "id": "A2a-017",
+  "name": "Whiscash",
+  "localId": "017",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Luce Trionfale"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2a/A2a-017_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-017_artwork.png",
+  "illustrator": "Shinya Komatsu",
+  "hp": 120,
+  "types": [
+    "Acqua"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Acqua",
+        "Acqua",
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Colpo",
+      "damage": {
+        "value": 80,
+        "modifier": "+"
+      },
+      "effect": "Lancia una moneta. Se esce testa, questo attacco infligge 60 danni in più. Se esce croce, questo Pokémon infligge anche 20 danni a se stesso."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lampo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "È molto protettivo del suo territorio e, se\nun nemico si avvicina, reagisce facendo\ntremare violentemente la terra."
+}

@@ -1,0 +1,51 @@
+{
+  "language": "es_ES",
+  "id": "A1-082",
+  "name": "Omastar",
+  "localId": "082",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Genes Formidables"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A1/A1-082_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-082_artwork.png",
+  "illustrator": "kirisAki",
+  "hp": 140,
+  "types": [
+    "Agua"
+  ],
+  "stage": "Fase 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Agua",
+        "Incolora",
+        "Incolora"
+      ],
+      "name": "Torbellino Ancestral",
+      "damage": {
+        "value": 70,
+        "modifier": null
+      },
+      "effect": "Durante el próximo turno de tu rival, el Pokémon Defensor no puede atacar."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Rayo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Se cree que se extinguió porque el excesivo\ntamaño y peso de su concha le impedían\nmoverse con rapidez para capturar presas."
+}

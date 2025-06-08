@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "A1a-037",
+  "name": "Floette",
+  "localId": "037",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "L'Isola Misteriosa"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A1a/A1a-037_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-037_artwork.png",
+  "illustrator": "Cona Nitanda",
+  "hp": 70,
+  "types": [
+    "Psico"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psico"
+      ],
+      "name": "Assorbifoglia",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": "Cura questo Pokémon da 10 danni."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metallo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Riesce a tirare fuori l'energia rimasta\nnei fiori ormai secchi, rivitalizzandoli.\nQuesto Floette stringe un fiore rosso."
+}

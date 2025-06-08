@@ -1,0 +1,55 @@
+{
+  "language": "de_DE",
+  "id": "A2b-051",
+  "name": "Affiti",
+  "localId": "051",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Glänzendes Festival"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2b/A2b-051_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-051_artwork.png",
+  "illustrator": "Krgc",
+  "hp": 90,
+  "types": [
+    "Unlicht"
+  ],
+  "stage": "Rang 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Fähigkeit",
+      "name": "Giftbeschichtung",
+      "effect": "Einmal während deines Zuges kannst du 1 Münze werfen. Bei Kopf ist das Aktive Pokémon jetzt vergiftet."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Unlicht",
+        "Unlicht"
+      ],
+      "name": "Biss",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Kampf",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Es beschmiert seine Finger mit giftigem Speichel,\nder je nach Futter anders gefärbt ist, und malt\ndamit Muster auf die Bäume im Wald."
+}

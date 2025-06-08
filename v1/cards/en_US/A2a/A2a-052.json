@@ -1,0 +1,48 @@
+{
+  "language": "en_US",
+  "id": "A2a-052",
+  "name": "Toxicroak",
+  "localId": "052",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2a",
+    "name": "Triumphant Light"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2a/A2a-052_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-052_artwork.png",
+  "illustrator": "Souichirou Gunjima",
+  "hp": 100,
+  "types": [
+    "Darkness"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Croagunk",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Darkness"
+      ],
+      "name": "Toxic",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Your opponent's Active Pokémon is now Poisoned. Do 20 damage to this Pokémon instead of the usual amount for this Special Condition."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Swaying and dodging the attacks of its foes, it weaves its flexible body in close, then lunges out with its poisonous claws."
+}

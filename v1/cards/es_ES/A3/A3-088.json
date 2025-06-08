@@ -1,0 +1,52 @@
+{
+  "language": "es_ES",
+  "id": "A3-088",
+  "name": "Necrozma",
+  "localId": "088",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-088_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-088_artwork.png",
+  "illustrator": "Masakazu Fukuda",
+  "hp": 120,
+  "types": [
+    "Psíquico"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psíquico",
+        "Psíquico",
+        "Incolora",
+        "Incolora"
+      ],
+      "name": "Láser Prisma",
+      "damage": {
+        "value": 120,
+        "modifier": null
+      },
+      "effect": "Durante tu próximo turno, este Pokémon no puede atacar."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Oscura",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "La luz es su fuente de energía y la busca con tal desespero que da\nla impresión de que sufre. Parece ser una criatura de otro mundo."
+}

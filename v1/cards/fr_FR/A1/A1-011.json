@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A1-011",
+  "name": "Mystherbe",
+  "localId": "011",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Puissance Génétique"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A1/A1-011_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-011_artwork.png",
+  "illustrator": "HYOGONOSUKE",
+  "hp": 60,
+  "types": [
+    "Plante"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Plante"
+      ],
+      "name": "Collision",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feu",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il ne bouge que lorsqu'il est exposé aux rayons de la lune.\nIl se déplace alors pour disséminer ses graines."
+}

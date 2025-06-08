@@ -1,0 +1,50 @@
+{
+  "language": "fr_FR",
+  "id": "A1-046",
+  "name": "Sulfura",
+  "localId": "046",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Puissance Génétique"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A1/A1-046_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-046_artwork.png",
+  "illustrator": "Hitoshi Ariga",
+  "hp": 100,
+  "types": [
+    "Feu"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Feu",
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Piqué",
+      "damage": {
+        "value": 130,
+        "modifier": null
+      },
+      "effect": "Lancez une pièce. Si c'est pile, cette attaque ne fait rien."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Électrique",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il s'agit d'un des Pokémon oiseaux légendaires.\nDes flammes rouges d'une grande beauté\nétincellent lorsqu'il bat des ailes."
+}

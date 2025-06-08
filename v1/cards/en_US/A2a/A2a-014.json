@@ -1,0 +1,48 @@
+{
+  "language": "en_US",
+  "id": "A2a-014",
+  "name": "Marill",
+  "localId": "014",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2a",
+    "name": "Triumphant Light"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2a/A2a-014_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-014_artwork.png",
+  "illustrator": "Tika Matsuno",
+  "hp": 60,
+  "types": [
+    "Water"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Water"
+      ],
+      "name": "Water Gun",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "The fur on its body naturally repels water. It can stay dry even when it plays in the water."
+}

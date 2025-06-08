@@ -1,0 +1,50 @@
+{
+  "language": "it_IT",
+  "id": "P-A-073",
+  "name": "Toucannon",
+  "localId": "073",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/P-A/P-A-073_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-073_artwork.png",
+  "illustrator": "Sekio",
+  "hp": 140,
+  "types": [
+    "Incolore"
+  ],
+  "stage": "Livello 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Cannonbecco",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario viene bruciato."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lampo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "I Toucannon comunicano tra di loro sbattendo i becchi. La forza\ne il numero dei colpi indicano i sentimenti che vogliono esprimere."
+}

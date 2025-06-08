@@ -1,0 +1,48 @@
+{
+  "language": "en_US",
+  "id": "A1a-031",
+  "name": "Mew",
+  "localId": "031",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1a",
+    "name": "Mythical Island"
+  },
+  "rarity": "Three Diamond",
+  "cardImage": "/assets/cardImage/en_US/A1a/A1a-031_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-031_artwork.png",
+  "illustrator": "Saya Tsuruta",
+  "hp": 60,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psychic"
+      ],
+      "name": "Psy Report",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": "Your opponent reveals their hand."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Darkness",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Because it can use all kinds of moves, many scientists believe Mew to be the ancestor of Pokémon."
+}

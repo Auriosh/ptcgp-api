@@ -1,0 +1,48 @@
+{
+  "language": "de_DE",
+  "id": "A1a-062",
+  "name": "Plaudagei",
+  "localId": "062",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "Mysteriöse Insel"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A1a/A1a-062_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-062_artwork.png",
+  "illustrator": "Masako Tomii",
+  "hp": 60,
+  "types": [
+    "Farblos"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Farblos"
+      ],
+      "name": "Mimikry",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Mische deine Handkarten in dein Deck. Ziehe anschließend 1 Karte für jede Karte auf der Hand deines Gegners."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Elektro",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Es versucht Attacken zu entgehen, indem es den Ruf\ndes Gegners nachahmt und einen Artgenossen mimt."
+}

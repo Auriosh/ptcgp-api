@@ -1,0 +1,49 @@
+{
+  "language": "it_IT",
+  "id": "A3-210",
+  "name": "Bulbasaur",
+  "localId": "210",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiani Astrali"
+  },
+  "rarity": "Un Chromatique",
+  "cardImage": "/assets/cardImage/it_IT/A3/A3-210_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-210_artwork.png",
+  "illustrator": "Ryuta Fuse",
+  "hp": 70,
+  "types": [
+    "Erba"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Erba",
+        "Incolore"
+      ],
+      "name": "Frustata",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fuoco",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Fin dalla nascita questo Pokémon ha sulla\nschiena un seme che cresce lentamente."
+}

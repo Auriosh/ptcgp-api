@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A3-019",
+  "name": "Candine",
+  "localId": "019",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Gardiens Astraux"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A3/A3-019_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-019_artwork.png",
+  "illustrator": "Mizue",
+  "hp": 80,
+  "types": [
+    "Plante"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Plante"
+      ],
+      "name": "Double Tour",
+      "damage": {
+        "value": 30,
+        "modifier": "x"
+      },
+      "effect": "Lancez 2 pièces. Cette attaque inflige 30 dégâts pour chaque côté face."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feu",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il dégage un doux parfum qui a le pouvoir\nde redonner du tonus, et qui est très\npopulaire en odeur de déodorant."
+}

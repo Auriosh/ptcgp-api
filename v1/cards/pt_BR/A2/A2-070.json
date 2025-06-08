@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "A2-070",
+  "name": "Duskull",
+  "localId": "070",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Embate do Tempo e Espaço"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A2/A2-070_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-070_artwork.png",
+  "illustrator": "ryoma uratsuka",
+  "hp": 60,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psychic"
+      ],
+      "name": "Fogo Fátuo",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Darkness",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Captura crianças malcriadas que não obedecem aos pais.\nOu pelo menos é o que dizem."
+}

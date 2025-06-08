@@ -1,0 +1,51 @@
+{
+  "language": "en_US",
+  "id": "A2-129",
+  "name": "Porygon-Z",
+  "localId": "129",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Space-Time Smackdown"
+  },
+  "rarity": "Three Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2/A2-129_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-129_artwork.png",
+  "illustrator": "Shin Nagasawa",
+  "hp": 140,
+  "types": [
+    "Colorless"
+  ],
+  "stage": "Stage2",
+  "evolveFrom": "Porygon2",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Buggy Beam",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": "Change the type of the next Energy that will be generated for your opponent to 1 of the following at random: {G}, {R}, {W}, {L}, {P}, {F}, {D}, or {M}."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Porygon-Z had a program installed to allow it to move between dimensions, but the program also caused instability in Porygon-Z's behavior."
+}

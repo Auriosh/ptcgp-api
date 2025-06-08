@@ -1,0 +1,49 @@
+{
+  "language": "pt_BR",
+  "id": "A1a-009",
+  "name": "Dhelmise",
+  "localId": "009",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1a",
+    "name": "Ilha Mítica"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A1a/A1a-009_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-009_artwork.png",
+  "illustrator": "Hasuno",
+  "hp": 100,
+  "types": [
+    "Grass"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Grass"
+      ],
+      "name": "Chicote Energético",
+      "damage": {
+        "value": 20,
+        "modifier": "+"
+      },
+      "effect": "Se este Pokémon tiver pelo menos 3 Energia {G} extra ligada a ele, este ataque causará 70 pontos de dano a mais."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Depois que um pedaço de alga marinha se fundiu\na destroços de um navio naufragado, renasceu como\neste Pokémon fantasma."
+}

@@ -1,0 +1,49 @@
+{
+  "language": "es_ES",
+  "id": "A2-002",
+  "name": "Gloom",
+  "localId": "002",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Pugna Espaciotemporal"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2/A2-002_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-002_artwork.png",
+  "illustrator": "Shibuzoh.",
+  "hp": 80,
+  "types": [
+    "Planta"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Planta"
+      ],
+      "name": "Hoja Afilada",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Guego",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Libera un fétido olor por los pistilos.\nEl fuerte hedor hace perder el conocimiento a\ncualquiera que se encuentre en un radio de 2 km."
+}

@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "A1a-037",
+  "name": "Floette",
+  "localId": "037",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1a",
+    "name": "Ilha Mítica"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A1a/A1a-037_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-037_artwork.png",
+  "illustrator": "Cona Nitanda",
+  "hp": 70,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psychic"
+      ],
+      "name": "Dreno Folha",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": "Cure 10 pontos de dano deste Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metal",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Este Pokémon revitaliza o resquício de força\nem flores murchas para torná-las saudáveis de novo.\nEle segura uma flor vermelha."
+}

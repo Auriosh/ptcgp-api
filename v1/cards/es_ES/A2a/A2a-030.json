@@ -1,0 +1,51 @@
+{
+  "language": "es_ES",
+  "id": "A2a-030",
+  "name": "Clefable",
+  "localId": "030",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Luz Triunfal"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2a/A2a-030_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-030_artwork.png",
+  "illustrator": "sui",
+  "hp": 100,
+  "types": [
+    "Psíquico"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psíquico",
+        "Incolora",
+        "Incolora"
+      ],
+      "name": "Fuerza Lunar",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": "Durante el próximo turno de tu rival, los ataques del Pokémon Defensor hacen -30 puntos de daño."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metálica",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Este Pokémon de aspecto feérico, raramente\nvisto por los humanos, corre a esconderse\nen cuanto detecta que hay alguien cerca."
+}

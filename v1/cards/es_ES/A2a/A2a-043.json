@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A2a-043",
+  "name": "Meditite",
+  "localId": "043",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Luz Triunfal"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2a/A2a-043_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-043_artwork.png",
+  "illustrator": "Mina Nakai",
+  "hp": 60,
+  "types": [
+    "Lucha"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lucha"
+      ],
+      "name": "Patada",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psíquico",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Practica yoga a diario y no se pierde ni una sesión.\nMediante la meditación, aumenta su fuerza interior."
+}

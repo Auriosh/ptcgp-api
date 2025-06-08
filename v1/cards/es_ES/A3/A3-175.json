@@ -1,0 +1,49 @@
+{
+  "language": "es_ES",
+  "id": "A3-175",
+  "name": "Magearna",
+  "localId": "175",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-175_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-175_artwork.png",
+  "illustrator": "Kuroimori",
+  "hp": 90,
+  "types": [
+    "Metálica"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Metálica",
+        "Metálica"
+      ],
+      "name": "Cañón Plateado",
+      "damage": {
+        "value": 40,
+        "modifier": "+"
+      },
+      "effect": "Si el Pokémon Activo de tu rival tiene una habilidad, este ataque hace 40 puntos de daño más."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Guego",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Sincroniza su consciencia con la de los demás para comprender\nsus sentimientos. Utiliza esta capacidad para cuidar de las personas."
+}

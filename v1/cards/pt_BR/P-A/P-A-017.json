@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "P-A-017",
+  "name": "Mankey",
+  "localId": "017",
+  "category": "Pokemon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "None",
+  "cardImage": "/assets/cardImage/pt_BR/P-A/P-A-017_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-017_artwork.png",
+  "illustrator": "Souichirou Gunjima",
+  "hp": 50,
+  "types": [
+    "Fighting"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fighting"
+      ],
+      "name": "Carga Indomável",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": "Este Pokémon também causa 10 pontos de dano a si mesmo."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psychic",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Vive em grupo no topo de árvores.\nSe perde seu grupo de vista, a solidão\ndeixa este Pokémon furioso."
+}

@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A1-070",
+  "name": "Hypotrempe",
+  "localId": "070",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Puissance Génétique"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A1/A1-070_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-070_artwork.png",
+  "illustrator": "Saya Tsuruta",
+  "hp": 60,
+  "types": [
+    "Eau"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Eau"
+      ],
+      "name": "Pistolet à O",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Électrique",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il vit dans les mers calmes. Quand on l'attaque,\nil crache de l'encre noire et profite de la diversion\npour s'enfuir."
+}

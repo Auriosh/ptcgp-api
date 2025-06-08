@@ -1,0 +1,54 @@
+{
+  "language": "pt_BR",
+  "id": "A2-169",
+  "name": "Rhyperior",
+  "localId": "169",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Embate do Tempo e Espaço"
+  },
+  "rarity": "One Star",
+  "cardImage": "/assets/cardImage/pt_BR/A2/A2-169_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-169_artwork.png",
+  "illustrator": "Taiga Kayama",
+  "hp": 160,
+  "types": [
+    "Fighting"
+  ],
+  "stage": "Stage2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fighting",
+        "Fighting",
+        "Fighting",
+        "Colorless"
+      ],
+      "name": "Tacada Montanhosa",
+      "damage": {
+        "value": 150,
+        "modifier": null
+      },
+      "effect": "Descarte as 3 cartas de cima do seu baralho."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Grass",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Pode carregar até três projéteis por braço dentro\ndos buracos em suas mãos, de onde dispara tanto pedras\nquanto Roggenrola."
+}

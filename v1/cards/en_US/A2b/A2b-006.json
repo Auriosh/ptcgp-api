@@ -1,0 +1,49 @@
+{
+  "language": "en_US",
+  "id": "A2b-006",
+  "name": "Floragato",
+  "localId": "006",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2b",
+    "name": "Shining Revelry"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2b/A2b-006_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-006_artwork.png",
+  "illustrator": "mashu",
+  "hp": 90,
+  "types": [
+    "Grass"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Sprigatito",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Grass",
+        "Grass"
+      ],
+      "name": "Slash",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Floragato deftly wields the vine hidden beneath its long fur, slamming the hard flower bud against its opponents."
+}

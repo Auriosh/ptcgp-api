@@ -1,0 +1,54 @@
+{
+  "language": "it_IT",
+  "id": "A1-263",
+  "name": "Machamp-ex",
+  "localId": "263",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Geni Supremi"
+  },
+  "rarity": "deux Étoiles",
+  "cardImage": "/assets/cardImage/it_IT/A1/A1-263_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-263_artwork.png",
+  "illustrator": "PLANETA Igarashi",
+  "hp": 180,
+  "types": [
+    "Lotta"
+  ],
+  "stage": "Livello 2",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lotta",
+        "Lotta",
+        "Lotta"
+      ],
+      "name": "Megapugno",
+      "damage": {
+        "value": 120,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psico",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": ""
+}

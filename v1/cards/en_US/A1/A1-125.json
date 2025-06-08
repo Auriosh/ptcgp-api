@@ -1,0 +1,57 @@
+{
+  "language": "en_US",
+  "id": "A1-125",
+  "name": "Hypno",
+  "localId": "125",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1",
+    "name": "Genetic Apex"
+  },
+  "rarity": "Three Diamond",
+  "cardImage": "/assets/cardImage/en_US/A1/A1-125_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-125_artwork.png",
+  "illustrator": "Shigenori Negishi",
+  "hp": 100,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Drowzee",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Sleep Pendulum",
+      "effect": "Once during your turn, you may flip a coin. If heads, your opponent's Active Pokémon is now Asleep."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Psychic",
+        "Psychic",
+        "Colorless"
+      ],
+      "name": "Psypunch",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Darkness",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "When it locks eyes with an enemy, it will use a mix of psi moves, such as Hypnosis and Confusion."
+}

@@ -1,0 +1,48 @@
+{
+  "language": "de_DE",
+  "id": "A2a-031",
+  "name": "Nebulak",
+  "localId": "031",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Licht des Triumphs"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2a/A2a-031_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-031_artwork.png",
+  "illustrator": "Yuu Nishida",
+  "hp": 50,
+  "types": [
+    "Psycho"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Farblos"
+      ],
+      "name": "Erstauner",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Wirf 1 Münze. Bei Kopf zeigt dein Gegner dir 1 zufällige Karte aus seiner Hand und mischt sie in sein Deck."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Unlicht",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Es hüllt seine Beute in seinen Gaskörper ein\nund schwächt sie, indem es sie nach und nach\nüber die Haut vergiftet."
+}

@@ -1,0 +1,51 @@
+{
+  "language": "es_ES",
+  "id": "A3-043",
+  "name": "Cloyster",
+  "localId": "043",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-043_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-043_artwork.png",
+  "illustrator": "Masakazu Fukuda",
+  "hp": 110,
+  "types": [
+    "Agua"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Agua",
+        "Agua"
+      ],
+      "name": "Presión de Guardia",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": "Durante el próximo turno de tu rival, los ataques hacen -20 puntos de daño a este Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Rayo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "A los Cloyster que viven en las fuertes corrientes\nmarinas les crecen largas y afiladas púas en la concha."
+}

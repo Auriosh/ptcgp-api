@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "A1-011",
+  "name": "Oddish",
+  "localId": "011",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Geni Supremi"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A1/A1-011_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-011_artwork.png",
+  "illustrator": "HYOGONOSUKE",
+  "hp": 60,
+  "types": [
+    "Erba"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Erba"
+      ],
+      "name": "Carica",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fuoco",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Inizia a muoversi quando è illuminato dalla luce\nlunare. Di notte se ne va in giro a spargere semi."
+}

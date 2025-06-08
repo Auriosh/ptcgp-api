@@ -1,0 +1,59 @@
+{
+  "language": "es_ES",
+  "id": "P-A-037",
+  "name": "Cresselia ex",
+  "localId": "037",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "Ninguno",
+  "cardImage": "/assets/cardImage/es_ES/P-A/P-A-037_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-037_artwork.png",
+  "illustrator": "PLANETA Mochizuki",
+  "hp": 140,
+  "types": [
+    "Psíquico"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Habilidad",
+      "name": "Plumaje Lunar",
+      "effect": "Cada vez que unas una Energía {P} de tu área de Energía a este Pokémon, cúrale 20 puntos de daño."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Psíquico",
+        "Psíquico",
+        "Incolora"
+      ],
+      "name": "Destello Psíquico",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Oscura",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": ""
+}

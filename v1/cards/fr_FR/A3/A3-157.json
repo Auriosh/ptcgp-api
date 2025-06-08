@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A3-157",
+  "name": "Spododo",
+  "localId": "157",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Gardiens Astraux"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/fr_FR/A3/A3-157_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-157_artwork.png",
+  "illustrator": "kamonabe",
+  "hp": 60,
+  "types": [
+    "Plante"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore"
+      ],
+      "name": "Ruée",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feu",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Ses chapeaux sont délicieux, et les Pokémon\nde la forêt s'en délectent. Heureusement pour lui,\nses couvre-chefs repoussent en une nuit."
+}

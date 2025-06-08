@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "A2a-044",
+  "name": "Medicham",
+  "localId": "044",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2a",
+    "name": "Luz Triunfante"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A2a/A2a-044_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-044_artwork.png",
+  "illustrator": "Tetsu Kayama",
+  "hp": 100,
+  "types": [
+    "Fighting"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fighting"
+      ],
+      "name": "Chute Tiro",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": "Jogue uma moeda. Se sair coroa, este ataque não fará nada."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psychic",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Através do treinamento de ioga, ganhou o poder psíquico\nde prever o movimento seguinte do oponente."
+}

@@ -1,0 +1,53 @@
+{
+  "language": "it_IT",
+  "id": "A2b-094",
+  "name": "Tinkaton-ex",
+  "localId": "094",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Tripudio Splendente"
+  },
+  "rarity": "deux Étoiles",
+  "cardImage": "/assets/cardImage/it_IT/A2b/A2b-094_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-094_artwork.png",
+  "illustrator": "kurumitsu",
+  "hp": 170,
+  "types": [
+    "Metallo"
+  ],
+  "stage": "Livello 2",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Metallo",
+        "Metallo",
+        "Incolore"
+      ],
+      "name": "Martellata Possente",
+      "damage": {
+        "value": 80,
+        "modifier": "+"
+      },
+      "effect": "Lancia una moneta. Se esce testa, questo attacco infligge 80 danni in più."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fuoco",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": ""
+}

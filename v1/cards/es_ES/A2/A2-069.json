@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A2-069",
+  "name": "Kirlia",
+  "localId": "069",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Pugna Espaciotemporal"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2/A2-069_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-069_artwork.png",
+  "illustrator": "Yukiko Baba",
+  "hp": 80,
+  "types": [
+    "Psíquico"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolora"
+      ],
+      "name": "Bofetón",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Oscura",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Con sus poderes psíquicos puede deformar\nel espacio a su alrededor y predecir el futuro."
+}

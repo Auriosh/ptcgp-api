@@ -1,0 +1,49 @@
+{
+  "language": "fr_FR",
+  "id": "A2-085",
+  "name": "Kapoera",
+  "localId": "085",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Choc Spatio-Temporel"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2/A2-085_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-085_artwork.png",
+  "illustrator": "sowsow",
+  "hp": 80,
+  "types": [
+    "Combat"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Combat",
+        "Combat"
+      ],
+      "name": "Attaque Tournante",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psy",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il assène des coups de pied tout en tournant sur lui-même.\nIl va parfois si vite qu'il commence à s'enfoncer dans le sol."
+}

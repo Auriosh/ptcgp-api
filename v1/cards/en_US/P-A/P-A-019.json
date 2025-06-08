@@ -1,0 +1,55 @@
+{
+  "language": "en_US",
+  "id": "P-A-019",
+  "name": "Greninja",
+  "localId": "019",
+  "category": "Pokemon",
+  "set": {
+    "id": "P-A",
+    "name": "Promos-A"
+  },
+  "rarity": "None",
+  "cardImage": "/assets/cardImage/en_US/P-A/P-A-019_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-019_artwork.png",
+  "illustrator": "Sanosuke Sakuma",
+  "hp": 120,
+  "types": [
+    "Water"
+  ],
+  "stage": "Stage2",
+  "evolveFrom": "Frogadier",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Water Shuriken",
+      "effect": "Once during your turn, you may do 20 damage to 1 of your opponent's Pokémon."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Water",
+        "Colorless"
+      ],
+      "name": "Mist Slash",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "It creates throwing stars out of compressed water.  When it spins them and throws them at high speed,  these stars can split metal in two."
+}

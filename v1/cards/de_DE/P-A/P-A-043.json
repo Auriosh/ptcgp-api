@@ -1,0 +1,49 @@
+{
+  "language": "de_DE",
+  "id": "P-A-043",
+  "name": "Kinoso",
+  "localId": "043",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "PROMO-A"
+  },
+  "rarity": "Keine",
+  "cardImage": "/assets/cardImage/de_DE/P-A/P-A-043_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-043_artwork.png",
+  "illustrator": "MAHOU",
+  "hp": 80,
+  "types": [
+    "Pflanze"
+  ],
+  "stage": "Rang 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Pflanze",
+        "Pflanze"
+      ],
+      "name": "Egelsamen",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": "Heile 20 Schadenspunkte bei diesem Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feuer",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Diese Form nimmt Kinoso an, wenn es viel Sonne\ngetankt und dadurch seine Energie aufgefüllt hat.\nEs bleibt bis zum Sonnenuntergang aktiv."
+}

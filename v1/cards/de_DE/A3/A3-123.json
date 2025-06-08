@@ -1,0 +1,49 @@
+{
+  "language": "de_DE",
+  "id": "A3-123",
+  "name": "Magearna",
+  "localId": "123",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-123_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-123_artwork.png",
+  "illustrator": "kawayoo",
+  "hp": 90,
+  "types": [
+    "Metall"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Metall",
+        "Metall"
+      ],
+      "name": "Silberkanone",
+      "damage": {
+        "value": 40,
+        "modifier": "+"
+      },
+      "effect": "Wenn das Aktive Pokémon deines Gegners eine Fähigkeit hat, fügt diese Attacke 40 Schadenspunkte mehr zu."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feuer",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Es synchronisiert sein Bewusstsein mit dem anderer,\num ihre Gefühle zu verstehen. Dadurch fällt es ihm leicht,\nMenschen zu helfen."
+}

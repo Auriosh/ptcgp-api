@@ -1,0 +1,54 @@
+{
+  "language": "pt_BR",
+  "id": "P-A-064",
+  "name": "Rayquaza ex",
+  "localId": "064",
+  "category": "Pokemon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "Four Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/P-A/P-A-064_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-064_artwork.png",
+  "illustrator": "PLANETA CG Works",
+  "hp": 140,
+  "types": [
+    "Colorless"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Meteoro do Dragão",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "4 vezes, um Pokémon do oponente é escolhido aleatoriamente. Para cada vez que um Pokémon for escolhido, cause 40 pontos de dano a ele."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": ""
+}

@@ -1,0 +1,49 @@
+{
+  "language": "pt_BR",
+  "id": "A3-034",
+  "name": "Oricorio",
+  "localId": "034",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-034_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-034_artwork.png",
+  "illustrator": "Jerky",
+  "hp": 70,
+  "types": [
+    "Fire"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fire",
+        "Fire"
+      ],
+      "name": "Inflamar",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": "Descarte 1 Energia aleatória de ambos os Pokémon Ativos."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Water",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Esta forma de Oricorio bebericou néctar vermelho.\nCria labaredas flamejantes enquanto se move aos passos\nde sua dança fervorosa."
+}

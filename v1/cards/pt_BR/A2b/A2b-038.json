@@ -1,0 +1,50 @@
+{
+  "language": "pt_BR",
+  "id": "A2b-038",
+  "name": "Machoke",
+  "localId": "038",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2b",
+    "name": "Festival Brilhante"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A2b/A2b-038_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-038_artwork.png",
+  "illustrator": "Kouki Saitou",
+  "hp": 100,
+  "types": [
+    "Fighting"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fighting",
+        "Fighting"
+      ],
+      "name": "Esmurrar",
+      "damage": {
+        "value": 30,
+        "modifier": "+"
+      },
+      "effect": "Jogue uma moeda. Se sair cara, este ataque causará 30 pontos de dano a mais."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psychic",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Sua massa muscular é tão poderosa que ele\nprecisa usar um cinto de economia de energia\npara controlar seus movimentos."
+}

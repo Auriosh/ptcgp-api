@@ -1,0 +1,57 @@
+{
+  "language": "it_IT",
+  "id": "A1a-019",
+  "name": "Vaporeon",
+  "localId": "019",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "L'Isola Misteriosa"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A1a/A1a-019_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-019_artwork.png",
+  "illustrator": "LINNE",
+  "hp": 120,
+  "types": [
+    "Acqua"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Sciacquare",
+      "effect": "Durante il tuo turno, puoi spostare un'Energia {W} da uno dei tuoi Pokémon {W} in panchina al tuo Pokémon {W} in posizione attiva tutte le volte che vuoi."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Acqua",
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Schizzi d'Onda",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lampo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Vive vicino all'acqua. Sulla punta della coda ha una\npinna, per questo alcuni lo scambiano per una sirena."
+}

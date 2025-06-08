@@ -1,0 +1,48 @@
+{
+  "language": "de_DE",
+  "id": "A2-062",
+  "name": "Rotom",
+  "localId": "062",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Kollision von Raum und Zeit"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2/A2-062_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-062_artwork.png",
+  "illustrator": "Krgc",
+  "hp": 70,
+  "types": [
+    "Elektro"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Farblos"
+      ],
+      "name": "Offensiv-Laser",
+      "damage": {
+        "value": 20,
+        "modifier": "+"
+      },
+      "effect": "Wenn an das Aktive Pokémon deines Gegners eine Pokémon-Ausrüstung angelegt ist, fügt diese Attacke 30 Schadenspunkte mehr zu."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Kampf",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Sein Körper ähnelt Elektrizität und erlaubt es ihm,\nin einige Geräte einzudringen, um dann damit für\nChaos zu sorgen."
+}

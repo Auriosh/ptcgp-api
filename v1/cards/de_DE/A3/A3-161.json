@@ -1,0 +1,53 @@
+{
+  "language": "de_DE",
+  "id": "A3-161",
+  "name": "Tortunator",
+  "localId": "161",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-161_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-161_artwork.png",
+  "illustrator": "akagi",
+  "hp": 120,
+  "types": [
+    "Feuer"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Feuer",
+        "Feuer",
+        "Farblos"
+      ],
+      "name": "Feuerwirbel",
+      "damage": {
+        "value": 90,
+        "modifier": null
+      },
+      "effect": "Lege 1 {R}-Energie von diesem Pokémon ab."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Wasser",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Sein Panzer ist mit einer explosiven Schicht überzogen.\nGegnerische Angriffe quittiert es mit gewaltigen Explosionen."
+}

@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A2-141",
+  "name": "Pijako",
+  "localId": "141",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Choc Spatio-Temporel"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2/A2-141_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-141_artwork.png",
+  "illustrator": "HYOGONOSUKE",
+  "hp": 70,
+  "types": [
+    "Incolore"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore"
+      ],
+      "name": "Furie",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": "Lancez 3 pièces. Cette attaque inflige 20 dégâts pour chaque côté face."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Électrique",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il reproduit le cri de ses ennemis pour faire\ncroire qu'il est des leurs et éviter d'être attaqué."
+}

@@ -1,0 +1,44 @@
+{
+  "language": "fr_FR",
+  "id": "A2-122",
+  "name": "Carmache",
+  "localId": "122",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Choc Spatio-Temporel"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2/A2-122_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-122_artwork.png",
+  "illustrator": "Shigenori Negishi",
+  "hp": 90,
+  "types": [
+    "Dragon"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Eau",
+        "Combat"
+      ],
+      "name": "Tranche",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Lorsqu'il mue, il perd parfois ses écailles. Les remèdes\nconcoctés à partir de celles-ci sont de puissants toniques."
+}

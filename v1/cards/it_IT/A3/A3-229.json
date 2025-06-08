@@ -1,0 +1,56 @@
+{
+  "language": "it_IT",
+  "id": "A3-229",
+  "name": "Wigglytuff",
+  "localId": "229",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiani Astrali"
+  },
+  "rarity": "Un Chromatique",
+  "cardImage": "/assets/cardImage/it_IT/A3/A3-229_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-229_artwork.png",
+  "illustrator": "Tomowaka",
+  "hp": 100,
+  "types": [
+    "Incolore"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Canto Soave",
+      "effect": "Una sola volta durante il tuo turno, puoi curare il tuo Pokémon attivo da 20 danni."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Schiaffetto",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lotta",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Ha un pelo molto fino. Attenzione a non farlo adirare,\nperché può gonfiarsi e caricare con tutto il suo peso."
+}

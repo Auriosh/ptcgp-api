@@ -1,0 +1,27 @@
+{
+  "language": "en_US",
+  "id": "A1-226",
+  "name": "Lt. Surge",
+  "localId": "226",
+  "category": "Trainer",
+  "set": {
+    "id": "A1",
+    "name": "Genetic Apex"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A1/A1-226_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-226_artwork.png",
+  "illustrator": "nagimiso",
+  "hp": null,
+  "types": [],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [],
+  "weaknesses": [],
+  "rules": [],
+  "retreat": [],
+  "description": ""
+}

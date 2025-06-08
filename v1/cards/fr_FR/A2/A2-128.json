@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A2-128",
+  "name": "Porygon2",
+  "localId": "128",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Choc Spatio-Temporel"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2/A2-128_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-128_artwork.png",
+  "illustrator": "sowsow",
+  "hp": 80,
+  "types": [
+    "Incolore"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore"
+      ],
+      "name": "Affûtage",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Combat",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Fruit de la mise à jour d'un Porygon avec des données spéciales,\nil peut apprendre et se développer de manière autonome."
+}

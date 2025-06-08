@@ -1,0 +1,58 @@
+{
+  "language": "es_ES",
+  "id": "A2-078",
+  "name": "Giratina",
+  "localId": "078",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Pugna Espaciotemporal"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2/A2-078_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-078_artwork.png",
+  "illustrator": "AKIRA EGAWA",
+  "hp": 120,
+  "types": [
+    "Psíquico"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Habilidad",
+      "name": "Levitación",
+      "effect": "Si este Pokémon tiene alguna Energía unida a él, no tiene ningún Coste de Retirada."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Psíquico",
+        "Psíquico",
+        "Incolora"
+      ],
+      "name": "Disparo Embrujado",
+      "damage": {
+        "value": 70,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Oscura",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Vive en el Mundo Distorsión, un mundo opuesto\nal nuestro y cuyas leyes desafían el sentido común."
+}

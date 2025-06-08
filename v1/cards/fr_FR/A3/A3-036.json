@@ -1,0 +1,49 @@
+{
+  "language": "fr_FR",
+  "id": "A3-036",
+  "name": "Malamandre",
+  "localId": "036",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Gardiens Astraux"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A3/A3-036_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-036_artwork.png",
+  "illustrator": "Naoki Saito",
+  "hp": 90,
+  "types": [
+    "Feu"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Feu",
+        "Feu"
+      ],
+      "name": "Poison Ardent",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": "Le Pokémon Actif de votre adversaire est maintenant Empoisonné et Brûlé."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Eau",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il étourdit ses adversaires avec son gaz toxique,\npuis il les asservit en exécutant une danse envoûtante."
+}

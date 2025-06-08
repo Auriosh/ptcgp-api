@@ -1,0 +1,50 @@
+{
+  "language": "fr_FR",
+  "id": "A1-162",
+  "name": "Poulpaf",
+  "localId": "162",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Puissance Génétique"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A1/A1-162_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-162_artwork.png",
+  "illustrator": "Yuu Nishida",
+  "hp": 80,
+  "types": [
+    "Combat"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Combat",
+        "Incolore"
+      ],
+      "name": "Coud'Phalange",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psy",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Il se rend sur la terre ferme pour se nourrir.\nTrès curieux, son premier réflexe est de frapper\ntout ce qu'il voit avec ses tentacules."
+}

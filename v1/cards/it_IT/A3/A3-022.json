@@ -1,0 +1,51 @@
+{
+  "language": "it_IT",
+  "id": "A3-022",
+  "name": "Golisopod",
+  "localId": "022",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiani Astrali"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A3/A3-022_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-022_artwork.png",
+  "illustrator": "Kouki Saitou",
+  "hp": 120,
+  "types": [
+    "Erba"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Erba",
+        "Erba",
+        "Erba"
+      ],
+      "name": "Schermaglia",
+      "damage": {
+        "value": 60,
+        "modifier": "+"
+      },
+      "effect": "Se questo Pokémon si è spostato dalla tua panchina in posizione attiva nel turno in corso, questo attacco infligge 60 danni in più."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fuoco",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "È disposto a tutto per vincere. Colpisce\nl'avversario quando abbassa la guardia e lo\nfinisce con i piccoli artigli degli arti anteriori."
+}

@@ -1,0 +1,60 @@
+{
+  "language": "fr_FR",
+  "id": "A2a-041",
+  "name": "Tyranocif",
+  "localId": "041",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Lumière Triomphale"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2a/A2a-041_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-041_artwork.png",
+  "illustrator": "kawayoo",
+  "hp": 160,
+  "types": [
+    "Combat"
+  ],
+  "stage": "Niveau 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Talent",
+      "name": "Lien Puissance",
+      "effect": "Si vous avez Arceus ou Arceus-ex en jeu, les attaques utilisées par ce Pokémon infligent + 30 dégâts au Pokémon Actif de votre adversaire."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Combat",
+        "Combat",
+        "Combat",
+        "Incolore"
+      ],
+      "name": "Écras'Terre",
+      "damage": {
+        "value": 130,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Plante",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Ce Pokémon est si fort qu'il est capable\nde modifier la topographie d'un lieu.\nIl ne se préoccupe pas des autres."
+}

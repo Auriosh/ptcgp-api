@@ -1,0 +1,52 @@
+{
+  "language": "fr_FR",
+  "id": "A2a-050",
+  "name": "Nostenfer",
+  "localId": "050",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Lumière Triomphale"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2a/A2a-050_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-050_artwork.png",
+  "illustrator": "AKIRA EGAWA",
+  "hp": 110,
+  "types": [
+    "Obscurité"
+  ],
+  "stage": "Niveau 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Talent",
+      "name": "Lien Malice",
+      "effect": "Une fois pendant votre tour, si vous avez Arceus ou Arceus-ex en jeu, vous pouvez infliger 30 dégâts au Pokémon Actif de votre adversaire."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Obscurité"
+      ],
+      "name": "Croc Obscur",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Combat",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [],
+  "description": "Ses pattes sont devenues des ailes.\nIl fond sur sa proie furtivement puis\nplante ses crocs dans sa nuque."
+}

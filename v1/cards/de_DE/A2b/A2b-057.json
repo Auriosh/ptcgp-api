@@ -1,0 +1,51 @@
+{
+  "language": "de_DE",
+  "id": "A2b-057",
+  "name": "Monetigo",
+  "localId": "057",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Glänzendes Festival"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2b/A2b-057_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-057_artwork.png",
+  "illustrator": "HYOGONOSUKE",
+  "hp": 120,
+  "types": [
+    "Metall"
+  ],
+  "stage": "Rang 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Metall",
+        "Farblos",
+        "Farblos"
+      ],
+      "name": "Sensationelles Surfen",
+      "damage": {
+        "value": 50,
+        "modifier": "x"
+      },
+      "effect": "Wirf 1 Münze für jede an dieses Pokémon angelegte {M}-Energie. Diese Attacke fügt 50 Schadenspunkte pro Kopf zu."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feuer",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Sein Körper soll aus 1000 Münzen bestehen.\nEs ist sehr umgänglich und schließt mit jedem\nrasch Freundschaft."
+}

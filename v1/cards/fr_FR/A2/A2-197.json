@@ -1,0 +1,49 @@
+{
+  "language": "fr_FR",
+  "id": "A2-197",
+  "name": "Simiabraz-ex",
+  "localId": "197",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Choc Spatio-Temporel"
+  },
+  "rarity": "deux Étoiles",
+  "cardImage": "/assets/cardImage/fr_FR/A2/A2-197_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-197_artwork.png",
+  "illustrator": "nagimiso",
+  "hp": 170,
+  "types": [
+    "Feu"
+  ],
+  "stage": "Niveau 2",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Feu",
+        "Feu"
+      ],
+      "name": "Boutefeu",
+      "damage": {
+        "value": 140,
+        "modifier": null
+      },
+      "effect": "Défaussez toutes les Énergies {R} de ce Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Eau",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [],
+  "description": ""
+}

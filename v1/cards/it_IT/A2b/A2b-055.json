@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "A2b-055",
+  "name": "Varoom",
+  "localId": "055",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Tripudio Splendente"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2b/A2b-055_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-055_artwork.png",
+  "illustrator": "Souichirou Gunjima",
+  "hp": 70,
+  "types": [
+    "Metallo"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Metallo"
+      ],
+      "name": "Bottintesta",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fuoco",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Pare sia nato quando un misterioso Pokémon\ndi tipo Veleno prese possesso di un motore\nabbandonato in un deposito di rottami."
+}

@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A1a-062",
+  "name": "Pijako",
+  "localId": "062",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "L’Île Fabuleuse"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A1a/A1a-062_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-062_artwork.png",
+  "illustrator": "Masako Tomii",
+  "hp": 60,
+  "types": [
+    "Incolore"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore"
+      ],
+      "name": "Copie",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Mélangez votre main avec votre deck. Piochez une carte pour chaque carte dans la main de votre adversaire."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Électrique",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il reproduit le cri de ses ennemis pour faire\ncroire qu'il est des leurs et éviter d'être attaqué."
+}

@@ -1,0 +1,51 @@
+{
+  "language": "es_ES",
+  "id": "A3-022",
+  "name": "Golisopod",
+  "localId": "022",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-022_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-022_artwork.png",
+  "illustrator": "Kouki Saitou",
+  "hp": 120,
+  "types": [
+    "Planta"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Planta",
+        "Planta",
+        "Planta"
+      ],
+      "name": "Escaramuza",
+      "damage": {
+        "value": 60,
+        "modifier": "+"
+      },
+      "effect": "Si este Pokémon se ha movido de tu Banca al Puesto Activo en este turno, este ataque hace 60 puntos de daño más."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Guego",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Hace lo que sea por conseguir la victoria.\nSi el rival se descuida, aprovecha para asestarle\nun golpe letal con sus pequeñas garras frontales."
+}

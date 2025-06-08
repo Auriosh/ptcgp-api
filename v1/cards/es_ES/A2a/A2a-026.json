@@ -1,0 +1,55 @@
+{
+  "language": "es_ES",
+  "id": "A2a-026",
+  "name": "Raichu",
+  "localId": "026",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Luz Triunfal"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2a/A2a-026_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-026_artwork.png",
+  "illustrator": "Nisota Niso",
+  "hp": 90,
+  "types": [
+    "Rayo"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Habilidad",
+      "name": "Vínculo Protector",
+      "effect": "Si tienes a Arceus o Arceus ex en juego, los ataques hacen -30 puntos de daño a este Pokémon."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Rayo",
+        "Rayo"
+      ],
+      "name": "Chispa",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": "Este ataque también hace 20 puntos de daño a 1 de los Pokémon en Banca de tu rival."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lucha",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Su cola actúa como toma de tierra\ny descarga electricidad al suelo, lo\nque le protege de los calambrazos."
+}

@@ -1,0 +1,55 @@
+{
+  "language": "de_DE",
+  "id": "P-A-019",
+  "name": "Quajutsu",
+  "localId": "019",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "PROMO-A"
+  },
+  "rarity": "Keine",
+  "cardImage": "/assets/cardImage/de_DE/P-A/P-A-019_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-019_artwork.png",
+  "illustrator": "Sanosuke Sakuma",
+  "hp": 120,
+  "types": [
+    "Wasser"
+  ],
+  "stage": "Rang 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Fähigkeit",
+      "name": "Wasser-Shuriken",
+      "effect": "Einmal während deines Zuges kannst du 1 Pokémon deines Gegners 20 Schadenspunkte zufügen."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Wasser",
+        "Farblos"
+      ],
+      "name": "Schleierschlitzer",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Elektro",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Es stellt Wurfsterne aus komprimiertem Wasser\nher, die durch ihre hohe Drehgeschwindigkeit\nbeim Werfen sogar Metall durchtrennen."
+}

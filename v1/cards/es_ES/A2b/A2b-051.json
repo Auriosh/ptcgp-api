@@ -1,0 +1,55 @@
+{
+  "language": "es_ES",
+  "id": "A2b-051",
+  "name": "Grafaiai",
+  "localId": "051",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Festival Brillante"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2b/A2b-051_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-051_artwork.png",
+  "illustrator": "Krgc",
+  "hp": 90,
+  "types": [
+    "Oscura"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Habilidad",
+      "name": "Recubrimiento Venenoso",
+      "effect": "Una vez durante tu turno, puedes lanzar 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Envenenado."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Oscura",
+        "Oscura"
+      ],
+      "name": "Mordisco",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lucha",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "El color de su saliva venenosa varía según su\nalimentación. Se embadurna los dedos con ella\npara pintar motivos en los árboles del bosque."
+}

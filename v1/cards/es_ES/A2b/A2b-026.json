@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A2b-026",
+  "name": "Pawmi",
+  "localId": "026",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Festival Brillante"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2b/A2b-026_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-026_artwork.png",
+  "illustrator": "Saboteri",
+  "hp": 60,
+  "types": [
+    "Rayo"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Rayo"
+      ],
+      "name": "Puño",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lucha",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Como las bolsas de sus mejillas están poco desarrolladas, genera\nelectricidad frotándolas con las almohadillas de sus patas delanteras."
+}

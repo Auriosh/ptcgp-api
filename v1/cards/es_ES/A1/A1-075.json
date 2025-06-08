@@ -1,0 +1,46 @@
+{
+  "language": "es_ES",
+  "id": "A1-075",
+  "name": "Starmie",
+  "localId": "075",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Genes Formidables"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A1/A1-075_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-075_artwork.png",
+  "illustrator": "Yukiko Baba",
+  "hp": 90,
+  "types": [
+    "Agua"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Agua"
+      ],
+      "name": "Chapoteo Ondulante",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Rayo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [],
+  "description": "Su órgano central, conocido como núcleo, brilla\ncon los colores del arcoíris cuando se dispone\na liberar sus potentes poderes psíquicos."
+}

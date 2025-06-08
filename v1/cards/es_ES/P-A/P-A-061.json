@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "P-A-061",
+  "name": "Froakie",
+  "localId": "061",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/P-A/P-A-061_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-061_artwork.png",
+  "illustrator": "Sanosuke Sakuma",
+  "hp": 60,
+  "types": [
+    "Agua"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolora"
+      ],
+      "name": "Vuelta",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Rayo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Secreta burbujas tanto por la espalda como\npor el pecho. Gracias a la elasticidad de estas,\npuede parar ataques y reducir el daño recibido."
+}

@@ -1,0 +1,50 @@
+{
+  "language": "pt_BR",
+  "id": "A1a-058",
+  "name": "Pidgeotto",
+  "localId": "058",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1a",
+    "name": "Ilha Mítica"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A1a/A1a-058_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-058_artwork.png",
+  "illustrator": "Taiga Kayama",
+  "hp": 90,
+  "types": [
+    "Colorless"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Ataque de Asa",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "As garras nos seus pés são bem desenvolvidas.\nEle pode levar presas como Exeggcute para seu\nninho a mais de 100 km de distância."
+}

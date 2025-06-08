@@ -1,0 +1,66 @@
+{
+  "language": "it_IT",
+  "id": "A2-207",
+  "name": "Dialga-ex",
+  "localId": "207",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Scontro Spaziotemporale"
+  },
+  "rarity": "Couronne",
+  "cardImage": "/assets/cardImage/it_IT/A2/A2-207_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-207_artwork.png",
+  "illustrator": "PLANETA CG Works",
+  "hp": 150,
+  "types": [
+    "Metallo"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Metallo",
+        "Metallo"
+      ],
+      "name": "Metalturbo",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": "Prendi 2 un'Energia {M} dalla Zona Energia e assegnala a uno dei tuoi Pokémon in panchina."
+    },
+    {
+      "cost": [
+        "Metallo",
+        "Metallo",
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Impatto Pesante",
+      "damage": {
+        "value": 100,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fuoco",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": ""
+}

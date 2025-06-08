@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "A2b-036",
+  "name": "Gimmighoul",
+  "localId": "036",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Tripudio Splendente"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2b/A2b-036_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-036_artwork.png",
+  "illustrator": "HYOGONOSUKE",
+  "hp": 60,
+  "types": [
+    "Psico"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore"
+      ],
+      "name": "Camufforziere",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Lancia una moneta. Se esce testa, durante il prossimo turno del tuo avversario, previeni sia i danni che gli effetti degli attacchi inflitti a questo Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Oscurità",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Nacque all'interno di un forziere circa 1.500\nanni fa. Assorbe l'energia vitale dei furfanti\nche provano a rubare il suo tesoro."
+}

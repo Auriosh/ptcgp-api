@@ -1,0 +1,49 @@
+{
+  "language": "en_US",
+  "id": "A3-158",
+  "name": "Tsareena",
+  "localId": "158",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Celestial Guardians"
+  },
+  "rarity": "One Star",
+  "cardImage": "/assets/cardImage/en_US/A3/A3-158_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-158_artwork.png",
+  "illustrator": "Ligton",
+  "hp": 130,
+  "types": [
+    "Grass"
+  ],
+  "stage": "Stage2",
+  "evolveFrom": "Steenee",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Grass"
+      ],
+      "name": "Three Kick Combo",
+      "damage": {
+        "value": 50,
+        "modifier": "x"
+      },
+      "effect": "Flip 3 coins. This attack does 50 damage for each heads."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "This Pokémon is proud and aggressive. However, it is said that a Tsareena will instantly become calm if someone touches the crown on its calyx."
+}

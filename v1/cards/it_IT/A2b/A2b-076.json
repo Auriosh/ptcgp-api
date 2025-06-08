@@ -1,0 +1,55 @@
+{
+  "language": "it_IT",
+  "id": "A2b-076",
+  "name": "Grafaiai",
+  "localId": "076",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Tripudio Splendente"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/it_IT/A2b/A2b-076_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-076_artwork.png",
+  "illustrator": "Teeziro",
+  "hp": 90,
+  "types": [
+    "Oscurità"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Patina Velenosa",
+      "effect": "Una sola volta durante il tuo turno, puoi lanciare una moneta. Se esce testa, il Pokémon attivo del tuo avversario viene avvelenato."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Oscurità",
+        "Oscurità"
+      ],
+      "name": "Morso",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lotta",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Traccia dei motivi sugli alberi della foresta\ncon le dita imbrattate di saliva velenosa, il\ncui colore cambia in base all'alimentazione."
+}

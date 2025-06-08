@@ -1,0 +1,27 @@
+{
+  "language": "en_US",
+  "id": "A3-155",
+  "name": "Lillie",
+  "localId": "155",
+  "category": "Trainer",
+  "set": {
+    "id": "A3",
+    "name": "Celestial Guardians"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A3/A3-155_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-155_artwork.png",
+  "illustrator": "hechima",
+  "hp": null,
+  "types": [],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [],
+  "weaknesses": [],
+  "rules": [],
+  "retreat": [],
+  "description": ""
+}

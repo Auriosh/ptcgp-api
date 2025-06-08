@@ -1,0 +1,53 @@
+{
+  "language": "fr_FR",
+  "id": "A2-005",
+  "name": "Bouldeneu",
+  "localId": "005",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Choc Spatio-Temporel"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2/A2-005_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-005_artwork.png",
+  "illustrator": "kodama",
+  "hp": 130,
+  "types": [
+    "Plante"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Plante",
+        "Plante",
+        "Plante",
+        "Incolore"
+      ],
+      "name": "Méga-Sangsue",
+      "damage": {
+        "value": 90,
+        "modifier": null
+      },
+      "effect": "Soignez 30 dégâts de ce Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feu",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "La science a récemment découvert que\nles deux bras qu'il peut allonger à volonté\nsont en fait des lianes entrelacées."
+}

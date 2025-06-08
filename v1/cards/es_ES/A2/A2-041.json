@@ -1,0 +1,52 @@
+{
+  "language": "es_ES",
+  "id": "A2-041",
+  "name": "Gastrodon",
+  "localId": "041",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Pugna Espaciotemporal"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2/A2-041_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-041_artwork.png",
+  "illustrator": "Aya Kusube",
+  "hp": 120,
+  "types": [
+    "Agua"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Agua",
+        "Incolora",
+        "Incolora"
+      ],
+      "name": "Agua Lodosa",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": "Este ataque también hace 20 puntos de daño a 1 de los Pokémon en Banca de tu rival."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Rayo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Normalmente viven en la costa, pero también\nes posible encontrarlos en montañas alejadas\ndel mar cuando caen lluvias persistentes."
+}

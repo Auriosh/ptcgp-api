@@ -1,0 +1,45 @@
+{
+  "language": "en_US",
+  "id": "A3-126",
+  "name": "Hakamo-o",
+  "localId": "126",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Celestial Guardians"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A3/A3-126_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-126_artwork.png",
+  "illustrator": "Ryuta Fuse",
+  "hp": 100,
+  "types": [
+    "Dragon"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Jangmo-o",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lightning",
+        "Fighting"
+      ],
+      "name": "Dragon Claw",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "The scaleless, scarred parts of its body are signs of its strength. It shows them off to defeated opponents."
+}

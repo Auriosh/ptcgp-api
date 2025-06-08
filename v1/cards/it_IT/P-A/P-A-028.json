@@ -1,0 +1,51 @@
+{
+  "language": "it_IT",
+  "id": "P-A-028",
+  "name": "Volcarona",
+  "localId": "028",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "Nessuna",
+  "cardImage": "/assets/cardImage/it_IT/P-A/P-A-028_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-028_artwork.png",
+  "illustrator": "Shin Nagasawa",
+  "hp": 120,
+  "types": [
+    "Fuoco"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fuoco",
+        "Fuoco",
+        "Incolore"
+      ],
+      "name": "Vulcanocenere",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Rimuovi 2 Energie {R} da questo Pokémon. Questo attacco infligge 80 danni a uno dei Pokémon del tuo avversario."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Acqua",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Chi vive in regioni calde odia il suo corpo\ninfuocato, ma nelle terre più fredde viene\nvenerato come l'incarnazione stessa del sole."
+}

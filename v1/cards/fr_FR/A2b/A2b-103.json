@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A2b-103",
+  "name": "Pachirisu",
+  "localId": "103",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Réjouissances Rayonnantes"
+  },
+  "rarity": "Un Chromatique",
+  "cardImage": "/assets/cardImage/fr_FR/A2b/A2b-103_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-103_artwork.png",
+  "illustrator": "Tomowaka",
+  "hp": 70,
+  "types": [
+    "Électrique"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Électrique"
+      ],
+      "name": "Plasma",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": "Prenez une Énergie {L} de votre zone Énergie et attachez-la à l'un de vos Pokémon de Banc."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Combat",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Pachirisu fait partie des Pokémon aux joues électriques.\nIl libère l'énergie qu'il accumule par la queue."
+}

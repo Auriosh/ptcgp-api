@@ -1,0 +1,48 @@
+{
+  "language": "en_US",
+  "id": "A3-075",
+  "name": "Banette",
+  "localId": "075",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Celestial Guardians"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/en_US/A3/A3-075_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-075_artwork.png",
+  "illustrator": "Aya Kusube",
+  "hp": 90,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Shuppet",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psychic"
+      ],
+      "name": "Night Bind",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": "During your opponent's next turn, they can't take any Energy from their Energy Zone to attach to their Active Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Darkness",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "This Pokémon developed from an abandoned doll that amassed a grudge. It is seen in dark alleys."
+}

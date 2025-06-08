@@ -1,0 +1,54 @@
+{
+  "language": "es_ES",
+  "id": "P-A-049",
+  "name": "Snorlax",
+  "localId": "049",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "Ninguno",
+  "cardImage": "/assets/cardImage/es_ES/P-A/P-A-049_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-049_artwork.png",
+  "illustrator": "okayamatakatoshi",
+  "hp": 140,
+  "types": [
+    "Incolora"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolora",
+        "Incolora",
+        "Incolora",
+        "Incolora"
+      ],
+      "name": "Colapso",
+      "damage": {
+        "value": 100,
+        "modifier": null
+      },
+      "effect": "Este Pokémon pasa a estar Dormido."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lucha",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "No se encuentra satisfecho hasta haber\ningerido 400 kg de comida cada día.\nCuando acaba de comer, se queda dormido."
+}

@@ -1,0 +1,56 @@
+{
+  "language": "es_ES",
+  "id": "A2-203",
+  "name": "Lickilicky ex",
+  "localId": "203",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Pugna Espaciotemporal"
+  },
+  "rarity": "deux Étoiles",
+  "cardImage": "/assets/cardImage/es_ES/A2/A2-203_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-203_artwork.png",
+  "illustrator": "Jerky",
+  "hp": 160,
+  "types": [
+    "Incolora"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolora",
+        "Incolora",
+        "Incolora",
+        "Incolora"
+      ],
+      "name": "Furia Lingual",
+      "damage": {
+        "value": 100,
+        "modifier": "+"
+      },
+      "effect": "Lanza 1 moneda hasta que salga cruz. Este ataque hace 40 puntos de daño más por cada cara."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lucha",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": ""
+}

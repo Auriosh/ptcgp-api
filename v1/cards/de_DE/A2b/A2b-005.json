@@ -1,0 +1,48 @@
+{
+  "language": "de_DE",
+  "id": "A2b-005",
+  "name": "Felori",
+  "localId": "005",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Glänzendes Festival"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2b/A2b-005_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-005_artwork.png",
+  "illustrator": "mashu",
+  "hp": 60,
+  "types": [
+    "Pflanze"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Pflanze"
+      ],
+      "name": "Hilfeschrei",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Nimm 1 zufälliges {G}-Pokémon aus deinem Deck auf deine Hand."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feuer",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Die Zusammensetzung seines weichen Fells ähnelt\nder von Pflanzen. Es reinigt penibel sein Gesicht,\num zu verhindern, dass dieses austrocknet."
+}

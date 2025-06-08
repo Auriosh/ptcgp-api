@@ -1,0 +1,51 @@
+{
+  "language": "es_ES",
+  "id": "A3-091",
+  "name": "Hariyama",
+  "localId": "091",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-091_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-091_artwork.png",
+  "illustrator": "Miki Tanaka",
+  "hp": 120,
+  "types": [
+    "Lucha"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lucha",
+        "Incolora"
+      ],
+      "name": "Expulsar",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": "Mueve el Pokémon Activo de tu rival a la Banca. (Tu rival elige el nuevo Pokémon Activo)."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psíquico",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Le encanta medir sus fuerzas. Es tan fuerte que\npuede detener un tren en marcha de un manotazo."
+}

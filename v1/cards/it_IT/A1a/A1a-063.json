@@ -1,0 +1,27 @@
+{
+  "language": "it_IT",
+  "id": "A1a-063",
+  "name": "Ambra Antica",
+  "localId": "063",
+  "category": "Allenatore",
+  "set": {
+    "id": "A1a",
+    "name": "L'Isola Misteriosa"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A1a/A1a-063_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-063_artwork.png",
+  "illustrator": "Toyste Beach",
+  "hp": null,
+  "types": [],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [],
+  "weaknesses": [],
+  "rules": [],
+  "retreat": [],
+  "description": ""
+}

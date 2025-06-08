@@ -1,0 +1,51 @@
+{
+  "language": "fr_FR",
+  "id": "A1a-014",
+  "name": "Pyrax",
+  "localId": "014",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "L’Île Fabuleuse"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A1a/A1a-014_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-014_artwork.png",
+  "illustrator": "DOM",
+  "hp": 120,
+  "types": [
+    "Feu"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Feu",
+        "Feu",
+        "Incolore"
+      ],
+      "name": "Cendres volcaniques",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Défaussez 2 Énergie {R} de ce Pokémon. Cette attaque inflige 80 dégâts à l'un des Pokémon de votre adversaire."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Eau",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Son corps brûlant le rend impopulaire dans les\nrégions chaudes. Toutefois, on le vénère comme\nl'incarnation du soleil dans les régions froides."
+}

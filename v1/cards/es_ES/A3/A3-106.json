@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A3-106",
+  "name": "Rattatade Alola",
+  "localId": "106",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-106_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-106_artwork.png",
+  "illustrator": "nagimiso",
+  "hp": 50,
+  "types": [
+    "Oscura"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Oscura"
+      ],
+      "name": "Mordisco",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Planta",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Solo muestra interés por los productos más frescos, lo que lo\nconvierte en un valioso aliado a la hora de hacer la compra."
+}

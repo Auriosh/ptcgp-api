@@ -1,0 +1,51 @@
+{
+  "language": "pt_BR",
+  "id": "A3-027",
+  "name": "Marowakde Alola",
+  "localId": "027",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-027_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-027_artwork.png",
+  "illustrator": "miki kudo",
+  "hp": 110,
+  "types": [
+    "Fire"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fire",
+        "Fire",
+        "Colorless"
+      ],
+      "name": "Ossomerangue Ardente",
+      "damage": {
+        "value": 70,
+        "modifier": "x"
+      },
+      "effect": "Jogue 2 moedas. Este ataque causa 70 pontos de dano para cada cara. Se pelo menos 1 delas sair cara, o Pokémon Ativo do seu oponente agora estará Queimado."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Water",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Este Pokémon ateia fogo ao osso que segura e dança\na noite toda para lamentar seus aliados que sucumbiram\nem batalha."
+}

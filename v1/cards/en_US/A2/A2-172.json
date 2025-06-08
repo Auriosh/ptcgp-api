@@ -1,0 +1,48 @@
+{
+  "language": "en_US",
+  "id": "A2-172",
+  "name": "Spiritomb",
+  "localId": "172",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Space-Time Smackdown"
+  },
+  "rarity": "One Star",
+  "cardImage": "/assets/cardImage/en_US/A2/A2-172_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-172_artwork.png",
+  "illustrator": "Shinji Kanda",
+  "hp": 80,
+  "types": [
+    "Darkness"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Swirling Disaster",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "This attack does 10 damage to each of your opponent's Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Grass",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell."
+}

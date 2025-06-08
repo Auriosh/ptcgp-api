@@ -1,0 +1,49 @@
+{
+  "language": "es_ES",
+  "id": "A2-088",
+  "name": "Cranidos",
+  "localId": "088",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Pugna Espaciotemporal"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2/A2-088_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-088_artwork.png",
+  "illustrator": "Kouki Saitou",
+  "hp": 90,
+  "types": [
+    "Lucha"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lucha"
+      ],
+      "name": "Golpe Cabeza",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Planta",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Este Pokémon arcaico cuenta con un cráneo sólido\ny resistente, pero su cerebro no está a la par."
+}

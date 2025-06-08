@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A3-013",
+  "name": "Grubbin",
+  "localId": "013",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-013_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-013_artwork.png",
+  "illustrator": "Yuka Morii",
+  "hp": 60,
+  "types": [
+    "Planta"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolora"
+      ],
+      "name": "Roer",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Guego",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Con sus potentes mandíbulas puede hacer trizas las ramas más\ngruesas y ahuyentar incluso a los Rookidee, su enemigo natural."
+}

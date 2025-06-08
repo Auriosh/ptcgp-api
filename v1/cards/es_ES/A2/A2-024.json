@@ -1,0 +1,53 @@
+{
+  "language": "es_ES",
+  "id": "A2-024",
+  "name": "Magmortar",
+  "localId": "024",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Pugna Espaciotemporal"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2/A2-024_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-024_artwork.png",
+  "illustrator": "KEIICHIRO ITO",
+  "hp": 130,
+  "types": [
+    "Guego"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Guego",
+        "Guego",
+        "Guego",
+        "Guego"
+      ],
+      "name": "Infierno Explosivo",
+      "damage": {
+        "value": 100,
+        "modifier": null
+      },
+      "effect": "El Pokémon Activo de tu rival pasa a estar Quemado."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Agua",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Al respirar profundamente, el fuego del interior de su\nvientre gana intensidad y puede alcanzar los 2000 °C."
+}

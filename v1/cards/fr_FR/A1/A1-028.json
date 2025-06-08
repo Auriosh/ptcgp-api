@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A1-028",
+  "name": "Farfaduvet",
+  "localId": "028",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Puissance Génétique"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A1/A1-028_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-028_artwork.png",
+  "illustrator": "Atsuko Nishida",
+  "hp": 80,
+  "types": [
+    "Plante"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore"
+      ],
+      "name": "Roulé-Boulé",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feu",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il joue de mauvais tours en répandant son coton.\nSi on le mouille, il s'alourdit et ne peut plus\nbouger, ce qui l'oblige à s'avouer vaincu."
+}

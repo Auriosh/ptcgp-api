@@ -1,0 +1,49 @@
+{
+  "language": "it_IT",
+  "id": "A3-116",
+  "name": "Toxapex",
+  "localId": "116",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiani Astrali"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A3/A3-116_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-116_artwork.png",
+  "illustrator": "chibi",
+  "hp": 110,
+  "types": [
+    "Oscurità"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Oscurità"
+      ],
+      "name": "Sparalance",
+      "damage": {
+        "value": 20,
+        "modifier": "x"
+      },
+      "effect": "Lancia 4 volte una moneta. Questo attacco infligge 20 danni ogni volta che esce testa."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lotta",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Vive in una cupola creata coi suoi stessi tentacoli. Usa gli artigli\nper scandagliare i dintorni e percepire i movimenti della marea."
+}

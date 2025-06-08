@@ -1,0 +1,49 @@
+{
+  "language": "pt_BR",
+  "id": "P-A-066",
+  "name": "Mimikyu",
+  "localId": "066",
+  "category": "Pokemon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "One Star",
+  "cardImage": "/assets/cardImage/pt_BR/P-A/P-A-066_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-066_artwork.png",
+  "illustrator": "Amelicart",
+  "hp": 70,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psychic",
+        "Colorless"
+      ],
+      "name": "Batida Sombria",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": "Este ataque também causa 20 pontos de dano a 1 dos seus Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Darkness",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Este Pokémon vive em lugares escuros livres da luz do sol.\nQuando aparece diante de humanos, esconde-se sob\num pano parecido com Pikachu."
+}

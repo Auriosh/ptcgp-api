@@ -1,0 +1,49 @@
+{
+  "language": "fr_FR",
+  "id": "A2b-044",
+  "name": "Flamenroule",
+  "localId": "044",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Réjouissances Rayonnantes"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2b/A2b-044_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-044_artwork.png",
+  "illustrator": "REND",
+  "hp": 80,
+  "types": [
+    "Combat"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Combat",
+        "Combat"
+      ],
+      "name": "Double Pied",
+      "damage": {
+        "value": 50,
+        "modifier": "x"
+      },
+      "effect": "Lancez 2 pièces. Cette attaque inflige 50 dégâts pour chaque côté face."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psy",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "On pense qu'il fait un nœud à la base de son cou\nafin d'empêcher l'énergie qu'il accumule\ndans son ventre de s'échapper par son bec."
+}

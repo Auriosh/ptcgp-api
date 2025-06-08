@@ -1,0 +1,48 @@
+{
+  "language": "de_DE",
+  "id": "A1a-034",
+  "name": "Pygraulon",
+  "localId": "034",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "Mysteriöse Insel"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A1a/A1a-034_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-034_artwork.png",
+  "illustrator": "Kouki Saitou",
+  "hp": 60,
+  "types": [
+    "Psycho"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psycho"
+      ],
+      "name": "Kopfnuss",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Unlicht",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Wenn es in der Nähe ist, beginnen Fernseher zu\nflackern und fremdartige Landschaften zu zeigen.\nDiese stellen angeblich seine Heimat dar."
+}

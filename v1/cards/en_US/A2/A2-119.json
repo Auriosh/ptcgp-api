@@ -1,0 +1,66 @@
+{
+  "language": "en_US",
+  "id": "A2-119",
+  "name": "Dialga ex",
+  "localId": "119",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Space-Time Smackdown"
+  },
+  "rarity": "Four Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2/A2-119_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-119_artwork.png",
+  "illustrator": "PLANETA CG Works",
+  "hp": 150,
+  "types": [
+    "Metal"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Metal",
+        "Metal"
+      ],
+      "name": "Metallic Turbo",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": "Take 2 {M} Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
+    },
+    {
+      "cost": [
+        "Metal",
+        "Metal",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Heavy Impact",
+      "damage": {
+        "value": 100,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": ""
+}

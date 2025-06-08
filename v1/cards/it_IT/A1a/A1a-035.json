@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "A1a-035",
+  "name": "Beheeyem",
+  "localId": "035",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "L'Isola Misteriosa"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A1a/A1a-035_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-035_artwork.png",
+  "illustrator": "sowsow",
+  "hp": 90,
+  "types": [
+    "Psico"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psico"
+      ],
+      "name": "Sollevamente",
+      "damage": {
+        "value": 10,
+        "modifier": "+"
+      },
+      "effect": "Questo attacco infligge 20 danni in più per ogni Pokémon nella panchina del tuo avversario."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Oscurità",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Per qualche strano motivo, nelle fattorie in cui\ncompare un Beheeyem sparisce sempre un Dubwool."
+}

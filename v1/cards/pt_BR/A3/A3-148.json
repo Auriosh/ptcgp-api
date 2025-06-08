@@ -1,0 +1,27 @@
+{
+  "language": "pt_BR",
+  "id": "A3-148",
+  "name": "Acerola",
+  "localId": "148",
+  "category": "Trainer",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-148_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-148_artwork.png",
+  "illustrator": "Susumu Maeya",
+  "hp": null,
+  "types": [],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [],
+  "weaknesses": [],
+  "rules": [],
+  "retreat": [],
+  "description": ""
+}

@@ -1,0 +1,48 @@
+{
+  "language": "en_US",
+  "id": "A1-283",
+  "name": "Mew",
+  "localId": "283",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1",
+    "name": "Genetic Apex"
+  },
+  "rarity": "Three Star",
+  "cardImage": "/assets/cardImage/en_US/A1/A1-283_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-283_artwork.png",
+  "illustrator": "Amelicart",
+  "hp": 60,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psychic"
+      ],
+      "name": "Psy Report",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": "Your opponent reveals their hand."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Darkness",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Because it can use all kinds of moves, many scientists believe Mew to be the ancestor of Pokémon."
+}

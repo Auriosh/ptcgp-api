@@ -1,0 +1,51 @@
+{
+  "language": "en_US",
+  "id": "A2-112",
+  "name": "Registeel",
+  "localId": "112",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Space-Time Smackdown"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2/A2-112_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-112_artwork.png",
+  "illustrator": "Tomokazu Komiya",
+  "hp": 110,
+  "types": [
+    "Metal"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Metal",
+        "Metal",
+        "Metal"
+      ],
+      "name": "Metal Claw",
+      "damage": {
+        "value": 90,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Registeel's body is made of a strange material that is flexible enough to stretch and shrink but also more durable than any metal."
+}

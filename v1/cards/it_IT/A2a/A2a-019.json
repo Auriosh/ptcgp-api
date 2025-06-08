@@ -1,0 +1,49 @@
+{
+  "language": "it_IT",
+  "id": "A2a-019",
+  "name": "Froslass",
+  "localId": "019",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Luce Trionfale"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2a/A2a-019_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-019_artwork.png",
+  "illustrator": "Mizue",
+  "hp": 90,
+  "types": [
+    "Acqua"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Acqua",
+        "Incolore"
+      ],
+      "name": "Bora",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": "Questo attacco infligge anche 10 danni a ciascuno dei Pokémon nella panchina del tuo avversario."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metallo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Con il suo alito glaciale congela gli esseri\numani e i Pokémon che gli piacciono\ne li usa per decorare la sua tana."
+}

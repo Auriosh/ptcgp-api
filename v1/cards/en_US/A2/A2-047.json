@@ -1,0 +1,49 @@
+{
+  "language": "en_US",
+  "id": "A2-047",
+  "name": "Wash Rotom",
+  "localId": "047",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Space-Time Smackdown"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2/A2-047_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-047_artwork.png",
+  "illustrator": "Saboteri",
+  "hp": 80,
+  "types": [
+    "Water"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Water"
+      ],
+      "name": "Wave Splash",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "This Rotom has entered a washing machine. It nods with satisfaction after it floods the surrounding area."
+}

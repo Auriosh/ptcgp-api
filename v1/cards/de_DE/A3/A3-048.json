@@ -1,0 +1,56 @@
+{
+  "language": "de_DE",
+  "id": "A3-048",
+  "name": "Primarene",
+  "localId": "048",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-048_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-048_artwork.png",
+  "illustrator": "Kagemaru Himeno",
+  "hp": 140,
+  "types": [
+    "Wasser"
+  ],
+  "stage": "Rang 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Fähigkeit",
+      "name": "Melodische Heilung",
+      "effect": "Einmal während deines Zuges kannst du 30 Schadenspunkte bei jedem deiner {W}-Pokémon heilen."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Wasser",
+        "Farblos"
+      ],
+      "name": "Surfer",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Elektro",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Für Primarene ist jeder Kampf wie eine Aufführung.\nEs erlegt seine Beute durch anmutiges Singen und Tanzen."
+}

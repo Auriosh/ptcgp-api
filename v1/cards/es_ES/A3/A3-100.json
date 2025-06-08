@@ -1,0 +1,50 @@
+{
+  "language": "es_ES",
+  "id": "A3-100",
+  "name": "Lycanroc",
+  "localId": "100",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-100_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-100_artwork.png",
+  "illustrator": "Atsushi Furusawa",
+  "hp": 100,
+  "types": [
+    "Lucha"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lucha",
+        "Lucha",
+        "Incolora"
+      ],
+      "name": "Triturar",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": "Lanza 1 moneda. Si sale cara, descarta 1 Energía aleatoria del Pokémon Activo de tu rival."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Planta",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Ataca a sus presas con sus afilados colmillos y\ngarras. Solo obedece las órdenes de aquellos\nEntrenadores que logran ganarse su confianza."
+}

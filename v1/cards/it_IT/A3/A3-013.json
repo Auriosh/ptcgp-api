@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "A3-013",
+  "name": "Grubbin",
+  "localId": "013",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiani Astrali"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A3/A3-013_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-013_artwork.png",
+  "illustrator": "Yuka Morii",
+  "hp": 60,
+  "types": [
+    "Erba"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore"
+      ],
+      "name": "Rosicchiamento",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fuoco",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Può spezzare grossi rami con le robuste mandibole, che\nmettono in fuga persino il suo nemico naturale, Rookidee."
+}

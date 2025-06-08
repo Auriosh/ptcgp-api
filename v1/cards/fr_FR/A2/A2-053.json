@@ -1,0 +1,51 @@
+{
+  "language": "fr_FR",
+  "id": "A2-053",
+  "name": "Magnézone",
+  "localId": "053",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Choc Spatio-Temporel"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2/A2-053_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-053_artwork.png",
+  "illustrator": "Yoshinobu Saito",
+  "hp": 140,
+  "types": [
+    "Électrique"
+  ],
+  "stage": "Niveau 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Électrique",
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Grondement de Tonnerre",
+      "damage": {
+        "value": 110,
+        "modifier": null
+      },
+      "effect": "Défaussez une Énergie {L} de ce Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Combat",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Il parcourt le ciel en émettant et en\nrecevant des ondes bien mystérieuses."
+}

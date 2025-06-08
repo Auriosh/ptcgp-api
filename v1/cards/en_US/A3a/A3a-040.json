@@ -1,0 +1,50 @@
+{
+  "language": "en_US",
+  "id": "A3a-040",
+  "name": "Krokorok",
+  "localId": "040",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3a",
+    "name": "Extradimensional Crisis"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/en_US/A3a/A3a-040_card.png",
+  "artworkImage": "/assets/artworkImage/A3a/A3a-040_artwork.png",
+  "illustrator": "Akira Komayama",
+  "hp": 90,
+  "types": [
+    "Darkness"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Sandile",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Darkness",
+        "Colorless"
+      ],
+      "name": "Light Punch",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Grass",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Protected by thin membranes, their eyes can see\neven in the dead of night. They live in groups of\na few individuals."
+}

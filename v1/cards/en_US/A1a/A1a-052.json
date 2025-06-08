@@ -1,0 +1,48 @@
+{
+  "language": "en_US",
+  "id": "A1a-052",
+  "name": "Liepard",
+  "localId": "052",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1a",
+    "name": "Mythical Island"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/en_US/A1a/A1a-052_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-052_artwork.png",
+  "illustrator": "GIDORA",
+  "hp": 90,
+  "types": [
+    "Darkness"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Purrloin",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Darkness"
+      ],
+      "name": "Slash",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Grass",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Don't be fooled by its gorgeous fur and elegant figure. This is a moody and vicious Pokémon."
+}

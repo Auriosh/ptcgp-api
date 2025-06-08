@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A1-139",
+  "name": "Diglett",
+  "localId": "139",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Genes Formidables"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A1/A1-139_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-139_artwork.png",
+  "illustrator": "Masako Yamashita",
+  "hp": 50,
+  "types": [
+    "Lucha"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lucha"
+      ],
+      "name": "Bofetón Lodo",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Planta",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Vive 1 m por debajo del suelo, donde se alimenta\nde raíces. A veces también aparece en la superficie."
+}

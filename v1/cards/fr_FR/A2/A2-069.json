@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A2-069",
+  "name": "Kirlia",
+  "localId": "069",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Choc Spatio-Temporel"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2/A2-069_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-069_artwork.png",
+  "illustrator": "Yukiko Baba",
+  "hp": 80,
+  "types": [
+    "Psy"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore"
+      ],
+      "name": "Gifle",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Obscurité",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Grâce à ses pouvoirs psychiques, il peut distordre\nl'espace-temps et ainsi voir l'avenir."
+}

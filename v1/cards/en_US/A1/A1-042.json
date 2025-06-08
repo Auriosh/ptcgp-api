@@ -1,0 +1,48 @@
+{
+  "language": "en_US",
+  "id": "A1-042",
+  "name": "Ponyta",
+  "localId": "042",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1",
+    "name": "Genetic Apex"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/en_US/A1/A1-042_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-042_artwork.png",
+  "illustrator": "Uta",
+  "hp": 60,
+  "types": [
+    "Fire"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fire"
+      ],
+      "name": "Flare",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Water",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "It can't run properly when it's newly born. As it races around with others of its kind, its legs grow stronger."
+}

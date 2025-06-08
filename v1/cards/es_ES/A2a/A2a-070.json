@@ -1,0 +1,52 @@
+{
+  "language": "es_ES",
+  "id": "A2a-070",
+  "name": "Arceus",
+  "localId": "070",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Luz Triunfal"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2a/A2a-070_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-070_artwork.png",
+  "illustrator": "Nurikabe",
+  "hp": 120,
+  "types": [
+    "Incolora"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolora",
+        "Incolora",
+        "Incolora",
+        "Incolora"
+      ],
+      "name": "Estallido Vigoroso",
+      "damage": {
+        "value": 100,
+        "modifier": null
+      },
+      "effect": "Descarta 1 Energía aleatoria de este Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lucha",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Según la mitología de Sinnoh, Arceus surgió\nde un huevo y después creó todo el mundo."
+}

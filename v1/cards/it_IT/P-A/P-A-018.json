@@ -1,0 +1,53 @@
+{
+  "language": "it_IT",
+  "id": "P-A-018",
+  "name": "Venusaur",
+  "localId": "018",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "Nessuna",
+  "cardImage": "/assets/cardImage/it_IT/P-A/P-A-018_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-018_artwork.png",
+  "illustrator": "Kuroimori",
+  "hp": 160,
+  "types": [
+    "Erba"
+  ],
+  "stage": "Livello 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Erba",
+        "Erba",
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Megassorbimento",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": "Cura questo Pokémon da 30 danni."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fuoco",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Il fiore sboccia assorbendo energia solare.\nSi muove continuamente in cerca di luce."
+}

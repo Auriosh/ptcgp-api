@@ -1,0 +1,49 @@
+{
+  "language": "fr_FR",
+  "id": "A2b-002",
+  "name": "Coconfort",
+  "localId": "002",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Réjouissances Rayonnantes"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2b/A2b-002_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-002_artwork.png",
+  "illustrator": "Yuka Morii",
+  "hp": 80,
+  "types": [
+    "Plante"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Plante"
+      ],
+      "name": "Sécrétion",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": "Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Paralysé."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feu",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Incapable de se déplacer de lui-même,\nil se défend en durcissant sa carapace."
+}

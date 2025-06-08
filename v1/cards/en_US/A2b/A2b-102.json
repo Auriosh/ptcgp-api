@@ -1,0 +1,53 @@
+{
+  "language": "en_US",
+  "id": "A2b-102",
+  "name": "Dondozo",
+  "localId": "102",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2b",
+    "name": "Shining Revelry"
+  },
+  "rarity": "One Shiny",
+  "cardImage": "/assets/cardImage/en_US/A2b/A2b-102_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-102_artwork.png",
+  "illustrator": "GOSSAN",
+  "hp": 120,
+  "types": [
+    "Water"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Water",
+        "Water",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Ocean Cyclone",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": "This attack also does 10 damage to each of your opponent's Benched Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "This Pokémon is a glutton, but it's bad at getting food. It teams up with a Tatsugiri to catch prey."
+}

@@ -1,0 +1,49 @@
+{
+  "language": "it_IT",
+  "id": "A2-020",
+  "name": "Leafeon",
+  "localId": "020",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Scontro Spaziotemporale"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2/A2-020_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-020_artwork.png",
+  "illustrator": "Kouki Saitou",
+  "hp": 90,
+  "types": [
+    "Erba"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Erba",
+        "Incolore"
+      ],
+      "name": "Fogliaturbine",
+      "damage": {
+        "value": 90,
+        "modifier": null
+      },
+      "effect": "Durante il tuo prossimo turno, questo Pokémon non può attaccare."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fuoco",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Nelle belle giornate dorme al sole e usa\nla fotosintesi, producendo aria pulita."
+}

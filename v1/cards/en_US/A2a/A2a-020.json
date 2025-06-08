@@ -1,0 +1,50 @@
+{
+  "language": "en_US",
+  "id": "A2a-020",
+  "name": "Snover",
+  "localId": "020",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2a",
+    "name": "Triumphant Light"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2a/A2a-020_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-020_artwork.png",
+  "illustrator": "otumami",
+  "hp": 70,
+  "types": [
+    "Water"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Water",
+        "Colorless"
+      ],
+      "name": "Corkscrew Punch",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metal",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "During cold seasons, it migrates to the mountain's lower reaches. It returns to the snow-covered summit in the spring."
+}

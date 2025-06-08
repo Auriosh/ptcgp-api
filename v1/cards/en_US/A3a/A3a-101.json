@@ -1,0 +1,57 @@
+{
+  "language": "en_US",
+  "id": "A3a-101",
+  "name": "Aerodactyl ex",
+  "localId": "101",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3a",
+    "name": "Extradimensional Crisis"
+  },
+  "rarity": "Two Shiny",
+  "cardImage": "/assets/cardImage/en_US/A3a/A3a-101_card.png",
+  "artworkImage": "/assets/artworkImage/A3a/A3a-101_artwork.png",
+  "illustrator": "PLANETA CG Works",
+  "hp": 140,
+  "types": [
+    "Fighting"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Old Amber",
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Primeval Law",
+      "effect": "Your opponent can't play any Pokémon from their hand to evolve their Active Pokémon."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Fighting",
+        "Colorless"
+      ],
+      "name": "Land Crush",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": ""
+}

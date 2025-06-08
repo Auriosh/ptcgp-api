@@ -1,0 +1,27 @@
+{
+  "language": "en_US",
+  "id": "A3a-083",
+  "name": "Lusamine",
+  "localId": "083",
+  "category": "Trainer",
+  "set": {
+    "id": "A3a",
+    "name": "Extradimensional Crisis"
+  },
+  "rarity": "Two Star",
+  "cardImage": "/assets/cardImage/en_US/A3a/A3a-083_card.png",
+  "artworkImage": "/assets/artworkImage/A3a/A3a-083_artwork.png",
+  "illustrator": "Taira Akitsu",
+  "hp": null,
+  "types": [],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [],
+  "weaknesses": [],
+  "rules": [],
+  "retreat": [],
+  "description": ""
+}

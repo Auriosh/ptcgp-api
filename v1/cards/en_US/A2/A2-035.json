@@ -1,0 +1,48 @@
+{
+  "language": "en_US",
+  "id": "A2-035",
+  "name": "Piplup",
+  "localId": "035",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Space-Time Smackdown"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2/A2-035_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-035_artwork.png",
+  "illustrator": "Hajime Kusajima",
+  "hp": 60,
+  "types": [
+    "Water"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Nap",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Heal 20 damage from this Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "It doesn't like to be taken care of. It's difficult to bond with since it won't listen to its Trainer."
+}

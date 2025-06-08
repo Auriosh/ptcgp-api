@@ -1,0 +1,52 @@
+{
+  "language": "es_ES",
+  "id": "A2a-059",
+  "name": "Bronzong",
+  "localId": "059",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Luz Triunfal"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2a/A2a-059_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-059_artwork.png",
+  "illustrator": "Naoki Saito",
+  "hp": 120,
+  "types": [
+    "Metálica"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolora",
+        "Incolora",
+        "Incolora"
+      ],
+      "name": "Psíquico",
+      "damage": {
+        "value": 50,
+        "modifier": "+"
+      },
+      "effect": "Este ataque hace 20 puntos de daño más por cada Energía unida al Pokémon Activo de tu rival."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Guego",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Antaño se adoraba a este Pokémon para\nque propiciara lluvias abundantes. A veces,\npuede encontrarse enterrado bajo tierra."
+}

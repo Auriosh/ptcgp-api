@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "A1-052",
+  "name": "Centiskorch",
+  "localId": "052",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Geni Supremi"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A1/A1-052_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-052_artwork.png",
+  "illustrator": "GOSSAN",
+  "hp": 130,
+  "types": [
+    "Fuoco"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fuoco",
+        "Incolore",
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Fuocobomba",
+      "damage": {
+        "value": 130,
+        "modifier": null
+      },
+      "effect": "Rimuovi un'Energia {R} da questo Pokémon."
+    }
+  ],
+  "weaknesses": [],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Quando genera calore, la temperatura del\nsuo corpo raggiunge gli 800 ºC. Si lancia\nall'attacco usando il corpo come una frusta."
+}

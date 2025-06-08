@@ -1,0 +1,45 @@
+{
+  "language": "pt_BR",
+  "id": "A3-176",
+  "name": "Drampa",
+  "localId": "176",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "One Star",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-176_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-176_artwork.png",
+  "illustrator": "Shinji Kanda",
+  "hp": 100,
+  "types": [
+    "Dragon"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Furioso",
+      "damage": {
+        "value": 20,
+        "modifier": "+"
+      },
+      "effect": "Se algum dos seus Pokémon no Banco estiver danificado, este ataque causará 50 pontos de dano a mais."
+    }
+  ],
+  "weaknesses": [],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "As montanhas onde mora têm mais de 3 km de altura.\nEm raras ocasiões, Drampa desce para brincar\ncom as crianças dos vilarejos abaixo."
+}

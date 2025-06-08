@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A2a-052",
+  "name": "Toxicroak",
+  "localId": "052",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Luz Triunfal"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2a/A2a-052_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-052_artwork.png",
+  "illustrator": "Souichirou Gunjima",
+  "hp": 100,
+  "types": [
+    "Oscura"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Oscura"
+      ],
+      "name": "Tóxico",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "El Pokémon Activo de tu rival pasa a estar Envenenado. Ese Pokémon sufre 20 puntos de daño en vez de la cantidad habitual por esta Condición Especial."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lucha",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Esquiva ágilmente los ataques de sus\nenemigos mientras va acortando distancias\npara contraatacar con sus garras venenosas."
+}

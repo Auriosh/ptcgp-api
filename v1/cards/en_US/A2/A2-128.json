@@ -1,0 +1,48 @@
+{
+  "language": "en_US",
+  "id": "A2-128",
+  "name": "Porygon2",
+  "localId": "128",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Space-Time Smackdown"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2/A2-128_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-128_artwork.png",
+  "illustrator": "sowsow",
+  "hp": 80,
+  "types": [
+    "Colorless"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Porygon",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Sharpen",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "This is a Porygon that was updated with special data. Porygon2 develops itself by learning about many different subjects all on its own."
+}

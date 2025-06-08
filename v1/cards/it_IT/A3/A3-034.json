@@ -1,0 +1,49 @@
+{
+  "language": "it_IT",
+  "id": "A3-034",
+  "name": "Oricorio",
+  "localId": "034",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiani Astrali"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A3/A3-034_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-034_artwork.png",
+  "illustrator": "Jerky",
+  "hp": 70,
+  "types": [
+    "Fuoco"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fuoco",
+        "Fuoco"
+      ],
+      "name": "Infiammare",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": "Rimuovi un'Energia a caso da entrambi i Pokémon attivi."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Acqua",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Forma assunta da un Oricorio che si è nutrito\ndi Nettare rosso. Con i suoi ardenti passi di\ndanza crea impetuosi turbini fiammeggianti."
+}

@@ -1,0 +1,50 @@
+{
+  "language": "it_IT",
+  "id": "A1-165",
+  "name": "Arbok",
+  "localId": "165",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Geni Supremi"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A1/A1-165_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-165_artwork.png",
+  "illustrator": "Naoki Saito",
+  "hp": 100,
+  "types": [
+    "Oscurità"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Oscurità",
+        "Incolore"
+      ],
+      "name": "Trappola",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": "Durante il prossimo turno del tuo avversario, il Pokémon difensore non può ritirarsi."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lotta",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Secondo gli studi più recenti, esistono più\ndi 20 varianti del disegno che ha sul ventre."
+}

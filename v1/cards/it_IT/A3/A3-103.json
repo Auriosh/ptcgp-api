@@ -1,0 +1,54 @@
+{
+  "language": "it_IT",
+  "id": "A3-103",
+  "name": "Mudsdale",
+  "localId": "103",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiani Astrali"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A3/A3-103_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-103_artwork.png",
+  "illustrator": "Takeshi Nakamura",
+  "hp": 140,
+  "types": [
+    "Lotta"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lotta",
+        "Lotta",
+        "Lotta",
+        "Incolore"
+      ],
+      "name": "Forza Equina",
+      "damage": {
+        "value": 140,
+        "modifier": null
+      },
+      "effect": "Questo Pokémon infligge anche 40 danni a se stesso."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Erba",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "È molto apprezzato sia per i lavori di fatica,\nsia per il fango che produce, così sopraffino\nda essere impiegato per realizzare vasellame."
+}

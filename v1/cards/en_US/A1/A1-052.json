@@ -1,0 +1,48 @@
+{
+  "language": "en_US",
+  "id": "A1-052",
+  "name": "Centiskorch",
+  "localId": "052",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1",
+    "name": "Genetic Apex"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A1/A1-052_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-052_artwork.png",
+  "illustrator": "GOSSAN",
+  "hp": 130,
+  "types": [
+    "Fire"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Sizzlipede",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fire",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Fire Blast",
+      "damage": {
+        "value": 130,
+        "modifier": null
+      },
+      "effect": "Discard a {R} Energy from this Pokémon."
+    }
+  ],
+  "weaknesses": [],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "When it heats up, its body temperature reaches about 1,500 degrees Fahrenheit. It lashes its body like a whip and launches itself at enemies."
+}

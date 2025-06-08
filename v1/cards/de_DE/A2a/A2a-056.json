@@ -1,0 +1,48 @@
+{
+  "language": "de_DE",
+  "id": "A2a-056",
+  "name": "Flunkifer",
+  "localId": "056",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Licht des Triumphs"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2a/A2a-056_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-056_artwork.png",
+  "illustrator": "tetsuya koizumi",
+  "hp": 70,
+  "types": [
+    "Metall"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Farblos"
+      ],
+      "name": "Stahlgerüstbrecher",
+      "damage": {
+        "value": 20,
+        "modifier": "+"
+      },
+      "effect": "Wenn das Aktive Pokémon deines Gegners ein {M}-Pokémon ist, fügt diese Attacke 30 Schadenspunkte mehr zu."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feuer",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Mit seinem friedlichen Gesicht wiegt es Gegner\nin Sicherheit und beißt dann mit seinem riesigen\nKiefer zu. Danach gibt es kein Entkommen mehr."
+}

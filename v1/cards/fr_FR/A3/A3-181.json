@@ -1,0 +1,53 @@
+{
+  "language": "fr_FR",
+  "id": "A3-181",
+  "name": "Sinistrail-ex",
+  "localId": "181",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Gardiens Astraux"
+  },
+  "rarity": "deux Étoiles",
+  "cardImage": "/assets/cardImage/fr_FR/A3/A3-181_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-181_artwork.png",
+  "illustrator": "PLANETA Tsuji",
+  "hp": 140,
+  "types": [
+    "Plante"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Plante",
+        "Plante",
+        "Incolore"
+      ],
+      "name": "Ancrage",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": "Pendant le prochain tour de votre adversaire, le Pokémon Défenseur ne peut pas battre en retraite."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feu",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": ""
+}

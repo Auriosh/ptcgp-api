@@ -1,0 +1,52 @@
+{
+  "language": "it_IT",
+  "id": "A2-196",
+  "name": "Yanmega-ex",
+  "localId": "196",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Scontro Spaziotemporale"
+  },
+  "rarity": "deux Étoiles",
+  "cardImage": "/assets/cardImage/it_IT/A2/A2-196_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-196_artwork.png",
+  "illustrator": "Mina Nakai",
+  "hp": 140,
+  "types": [
+    "Erba"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore",
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Eterelama",
+      "damage": {
+        "value": 120,
+        "modifier": null
+      },
+      "effect": "Rimuovi un'Energia a caso da questo Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lampo",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": ""
+}

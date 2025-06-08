@@ -1,0 +1,49 @@
+{
+  "language": "de_DE",
+  "id": "A3-029",
+  "name": "Fiaro",
+  "localId": "029",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-029_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-029_artwork.png",
+  "illustrator": "Masakazu Fukuda",
+  "hp": 120,
+  "types": [
+    "Feuer"
+  ],
+  "stage": "Rang 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Feuer",
+        "Feuer"
+      ],
+      "name": "Feuerflügel",
+      "damage": {
+        "value": 90,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Elektro",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Es verfügt über erstklassige Flugfertigkeiten und kann\nselbst mit ergriffener Beute, die mehr als 100 kg wiegt,\nproblemlos umherfliegen."
+}

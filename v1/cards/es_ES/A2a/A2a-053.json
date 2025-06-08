@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A2a-053",
+  "name": "Magnemite",
+  "localId": "053",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Luz Triunfal"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2a/A2a-053_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-053_artwork.png",
+  "illustrator": "OKACHEKE",
+  "hp": 60,
+  "types": [
+    "Metálica"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Metálica"
+      ],
+      "name": "Placaje",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Guego",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Las unidades laterales crean ondas\nelectromagnéticas que contrarrestan\nla gravedad y le permiten flotar."
+}

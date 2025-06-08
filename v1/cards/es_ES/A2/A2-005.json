@@ -1,0 +1,53 @@
+{
+  "language": "es_ES",
+  "id": "A2-005",
+  "name": "Tangrowth",
+  "localId": "005",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Pugna Espaciotemporal"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2/A2-005_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-005_artwork.png",
+  "illustrator": "kodama",
+  "hp": 130,
+  "types": [
+    "Planta"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Planta",
+        "Planta",
+        "Planta",
+        "Incolora"
+      ],
+      "name": "Megaagotar",
+      "damage": {
+        "value": 90,
+        "modifier": null
+      },
+      "effect": "Cura 30 puntos de daño a este Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Guego",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Se ha descubierto recientemente que los dos brazos que\nestira a voluntad son en realidad lianas enredadas entre sí."
+}

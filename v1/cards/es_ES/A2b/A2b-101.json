@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A2b-101",
+  "name": "Wiglett",
+  "localId": "101",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Festival Brillante"
+  },
+  "rarity": "Un Chromatique",
+  "cardImage": "/assets/cardImage/es_ES/A2b/A2b-101_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-101_artwork.png",
+  "illustrator": "Souichirou Gunjima",
+  "hp": 60,
+  "types": [
+    "Agua"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Agua"
+      ],
+      "name": "Saltar en Resorte",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Se elige a un Pokémon aleatorio de tu rival. Hazle 30 puntos de daño."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Rayo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Puede percibir el olor de los Veluza a 20 m de distancia,\nlo que le permite ocultarse bajo la arena a tiempo."
+}

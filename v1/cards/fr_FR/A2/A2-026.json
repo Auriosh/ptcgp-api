@@ -1,0 +1,51 @@
+{
+  "language": "fr_FR",
+  "id": "A2-026",
+  "name": "Volcaropod",
+  "localId": "026",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Choc Spatio-Temporel"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2/A2-026_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-026_artwork.png",
+  "illustrator": "Oswaldo KATO",
+  "hp": 120,
+  "types": [
+    "Feu"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Feu",
+        "Incolore"
+      ],
+      "name": "Flammes Calcinantes",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": "Le Pokémon Actif de votre adversaire est maintenant Brûlé."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Eau",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Sa coquille, très fragile, projette régulièrement\ndes flammes qui circulent dans son corps."
+}

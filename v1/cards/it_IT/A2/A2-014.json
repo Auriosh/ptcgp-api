@@ -1,0 +1,49 @@
+{
+  "language": "it_IT",
+  "id": "A2-014",
+  "name": "Kricketune",
+  "localId": "014",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Scontro Spaziotemporale"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2/A2-014_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-014_artwork.png",
+  "illustrator": "Naoyo Kimura",
+  "hp": 90,
+  "types": [
+    "Erba"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Erba",
+        "Incolore"
+      ],
+      "name": "Incantomelodia",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": "Il Pokémon attivo del tuo avversario viene confuso."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fuoco",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Usa delle cavità all'interno del proprio corpo come\ncasse di risonanza per produrre melodie affascinanti."
+}

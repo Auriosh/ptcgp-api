@@ -1,0 +1,49 @@
+{
+  "language": "pt_BR",
+  "id": "A3-101",
+  "name": "Lycanroc",
+  "localId": "101",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "Three Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-101_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-101_artwork.png",
+  "illustrator": "5ban Graphics",
+  "hp": 100,
+  "types": [
+    "Fighting"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fighting",
+        "Fighting"
+      ],
+      "name": "Presa Sanguinária",
+      "damage": {
+        "value": 50,
+        "modifier": "+"
+      },
+      "effect": "Se o Pokémon Ativo do seu oponente tiver mais PS restante do que este Pokémon, este ataque causará 50 pontos de dano a mais."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Grass",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Este Pokémon usa sua juba pedregosa para dilacerar\nqualquer um que se aproxime. Desobedecerá até seu\nTreinador se não gostar das ordens que lhe forem dadas."
+}

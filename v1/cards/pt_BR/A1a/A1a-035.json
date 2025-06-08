@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "A1a-035",
+  "name": "Beheeyem",
+  "localId": "035",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1a",
+    "name": "Ilha Mítica"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A1a/A1a-035_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-035_artwork.png",
+  "illustrator": "sowsow",
+  "hp": 90,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psychic"
+      ],
+      "name": "Tomada Mental",
+      "damage": {
+        "value": 10,
+        "modifier": "+"
+      },
+      "effect": "Este ataque causa 20 pontos de dano a mais para cada um dos Pokémon no Banco do seu oponente."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Darkness",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Sempre que um Beheeyem visita uma fazenda,\num Dubwool desaparece misteriosamente."
+}

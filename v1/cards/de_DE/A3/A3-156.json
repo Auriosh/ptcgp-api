@@ -1,0 +1,53 @@
+{
+  "language": "de_DE",
+  "id": "A3-156",
+  "name": "Alola-Kokowei",
+  "localId": "156",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-156_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-156_artwork.png",
+  "illustrator": "Saboteri",
+  "hp": 150,
+  "types": [
+    "Pflanze"
+  ],
+  "stage": "Rang 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Pflanze",
+        "Farblos",
+        "Farblos"
+      ],
+      "name": "Tropischer Hammer",
+      "damage": {
+        "value": 150,
+        "modifier": null
+      },
+      "effect": "Wirf 1 Münze. Bei Zahl hat diese Attacke keine Auswirkungen."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feuer",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Durch starke Sonneneinstrahlung wurden seine\neigentlichen Kräfte und seine wahre Gestalt freigesetzt."
+}

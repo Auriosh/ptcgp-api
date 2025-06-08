@@ -1,0 +1,54 @@
+{
+  "language": "de_DE",
+  "id": "A2-082",
+  "name": "Rihornior",
+  "localId": "082",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Kollision von Raum und Zeit"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2/A2-082_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-082_artwork.png",
+  "illustrator": "Naoki Saito",
+  "hp": 160,
+  "types": [
+    "Kampf"
+  ],
+  "stage": "Rang 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Kampf",
+        "Kampf",
+        "Kampf",
+        "Farblos"
+      ],
+      "name": "Bergschwinger",
+      "damage": {
+        "value": 150,
+        "modifier": null
+      },
+      "effect": "Lege die obersten 3 Karten deines Decks ab."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Pflanze",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Es bestückt die Vertiefungen in seinen Händen\nmit Felsen oder Kiesling und feuert sie daraus ab.\nIn jeder Hand hat es Platz für drei Geschosse."
+}

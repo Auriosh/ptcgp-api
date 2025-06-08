@@ -1,0 +1,59 @@
+{
+  "language": "pt_BR",
+  "id": "A2a-071",
+  "name": "Arceus ex",
+  "localId": "071",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2a",
+    "name": "Luz Triunfante"
+  },
+  "rarity": "Four Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A2a/A2a-071_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-071_artwork.png",
+  "illustrator": "PLANETA CG Works",
+  "hp": 140,
+  "types": [
+    "Colorless"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Esplendor Mitológico",
+      "effect": "Este Pokémon não pode ser afetado por quaisquer Condições Especiais."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Força Suprema",
+      "damage": {
+        "value": 70,
+        "modifier": "+"
+      },
+      "effect": "Este ataque causa 20 pontos de dano a mais para cada um dos seus Pokémon no Banco."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": ""
+}

@@ -1,0 +1,59 @@
+{
+  "language": "de_DE",
+  "id": "A2-202",
+  "name": "Darkrai-ex",
+  "localId": "202",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Kollision von Raum und Zeit"
+  },
+  "rarity": "deux Étoiles",
+  "cardImage": "/assets/cardImage/de_DE/A2/A2-202_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-202_artwork.png",
+  "illustrator": "Oswaldo KATO",
+  "hp": 140,
+  "types": [
+    "Unlicht"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Fähigkeit",
+      "name": "Alptraum-Aura",
+      "effect": "Füge jedes Mal, wenn du 1 {D}-Energie aus dem Energiebereich an dieses Pokémon anlegst, dem Aktiven Pokémon deines Gegners 20 Schadenspunkte zu."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Unlicht",
+        "Unlicht",
+        "Farblos"
+      ],
+      "name": "Dunkles Prisma",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Pflanze",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": ""
+}

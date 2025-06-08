@@ -1,0 +1,49 @@
+{
+  "language": "it_IT",
+  "id": "P-A-071",
+  "name": "Crabrawler",
+  "localId": "071",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/P-A/P-A-071_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-071_artwork.png",
+  "illustrator": "Miki Tanaka",
+  "hp": 70,
+  "types": [
+    "Lotta"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore"
+      ],
+      "name": "Pugno",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psico",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Prende a pugni gli alberi, per poi cibarsi delle\nbacche che cadono dai rami. In questo modo,\nsi allena e si procaccia il cibo simultaneamente."
+}

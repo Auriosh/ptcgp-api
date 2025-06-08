@@ -1,0 +1,55 @@
+{
+  "language": "de_DE",
+  "id": "A3-168",
+  "name": "Curelei",
+  "localId": "168",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-168_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-168_artwork.png",
+  "illustrator": "mashu",
+  "hp": 70,
+  "types": [
+    "Psycho"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Fähigkeit",
+      "name": "Floraschutz",
+      "effect": "Jedes deiner Pokémon, an das mindestens 1 {P}-Energie angelegt ist, erholt sich von allen Speziellen Zuständen und kann von keinen Speziellen Zuständen betroffen werden."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Psycho",
+        "Farblos"
+      ],
+      "name": "Rundumangriff",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metall",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Mit seiner Ranke pflückt es Blumen und schmückt\ndann seinen Körper mit ihnen. Aus irgendeinem\nGrund verwelken diese nie."
+}

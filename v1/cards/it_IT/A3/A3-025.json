@@ -1,0 +1,50 @@
+{
+  "language": "it_IT",
+  "id": "A3-025",
+  "name": "Growlithe",
+  "localId": "025",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiani Astrali"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A3/A3-025_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-025_artwork.png",
+  "illustrator": "Naoyo Kimura",
+  "hp": 70,
+  "types": [
+    "Fuoco"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fuoco",
+        "Incolore"
+      ],
+      "name": "Fuoco Continuo",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Acqua",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Coraggioso e affidabile, si oppone senza\npaura anche a nemici più grandi e forti di lui."
+}

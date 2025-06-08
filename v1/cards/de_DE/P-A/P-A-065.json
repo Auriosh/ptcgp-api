@@ -1,0 +1,54 @@
+{
+  "language": "de_DE",
+  "id": "P-A-065",
+  "name": "Rayquaza-ex",
+  "localId": "065",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "PROMO-A"
+  },
+  "rarity": "deux Étoiles",
+  "cardImage": "/assets/cardImage/de_DE/P-A/P-A-065_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-065_artwork.png",
+  "illustrator": "PLANETA CG Works",
+  "hp": 140,
+  "types": [
+    "Farblos"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Farblos",
+        "Farblos",
+        "Farblos",
+        "Farblos"
+      ],
+      "name": "Draco Meteor",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "4 Mal wird zufällig 1 Pokémon des Gegners ausgewählt. Füge jedes Mal, wenn ein Pokémon ausgewählt wird, diesem Pokémon 40 Schadenspunkte zu."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Elektro",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": ""
+}

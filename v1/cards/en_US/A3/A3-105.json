@@ -1,0 +1,49 @@
+{
+  "language": "en_US",
+  "id": "A3-105",
+  "name": "Minior",
+  "localId": "105",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Celestial Guardians"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A3/A3-105_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-105_artwork.png",
+  "illustrator": "Amelicart",
+  "hp": 80,
+  "types": [
+    "Fighting"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fighting",
+        "Fighting"
+      ],
+      "name": "Star Drop",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "This attack does 40 damage to 1 of your opponent's Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Grass",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Places where Minior fall from the night sky are few and far between, with Alola being one of the precious few."
+}

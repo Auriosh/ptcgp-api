@@ -1,0 +1,51 @@
+{
+  "language": "en_US",
+  "id": "A3a-009",
+  "name": "Blacephalon",
+  "localId": "009",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3a",
+    "name": "Extradimensional Crisis"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A3a/A3a-009_card.png",
+  "artworkImage": "/assets/artworkImage/A3a/A3a-009_artwork.png",
+  "illustrator": "Anesaki Dynamic",
+  "hp": 100,
+  "types": [
+    "Fire"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": true,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fire",
+        "Fire",
+        "Colorless"
+      ],
+      "name": "Beat Punk",
+      "damage": {
+        "value": 130,
+        "modifier": null
+      },
+      "effect": "This Pokémon also does 70 damage to itself."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Water",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "It slithers toward people. Then, without warning, it triggers the\nexplosion of its own head. It's apparently one kind of Ultra Beast."
+}

@@ -1,0 +1,59 @@
+{
+  "language": "fr_FR",
+  "id": "P-A-042",
+  "name": "Darkrai-ex",
+  "localId": "042",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "Sans Rareté",
+  "cardImage": "/assets/cardImage/fr_FR/P-A/P-A-042_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-042_artwork.png",
+  "illustrator": "PLANETA Mochizuki",
+  "hp": 140,
+  "types": [
+    "Obscurité"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Talent",
+      "name": "Aura Cauchemardesque",
+      "effect": "Chaque fois que vous attachez une Énergie {D} de votre zone Énergie à ce Pokémon, infligez 20 dégâts au Pokémon Actif de votre adversaire."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Obscurité",
+        "Obscurité",
+        "Incolore"
+      ],
+      "name": "Prisme Obscur",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Plante",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": ""
+}

@@ -1,0 +1,48 @@
+{
+  "language": "de_DE",
+  "id": "A2-139",
+  "name": "Charmian",
+  "localId": "139",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Kollision von Raum und Zeit"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2/A2-139_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-139_artwork.png",
+  "illustrator": "sowsow",
+  "hp": 60,
+  "types": [
+    "Farblos"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Farblos"
+      ],
+      "name": "Posieren",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": "Wirf 1 Münze. Bei Zahl hat diese Attacke keine Auswirkungen."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Kampf",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Es schlägt mit Krallen zu oder schnurrt, je nachdem,\nob es gerade wütend oder zutraulich ist."
+}

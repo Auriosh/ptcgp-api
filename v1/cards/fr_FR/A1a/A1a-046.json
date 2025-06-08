@@ -1,0 +1,57 @@
+{
+  "language": "fr_FR",
+  "id": "A1a-046",
+  "name": "Ptéra-ex",
+  "localId": "046",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "L’Île Fabuleuse"
+  },
+  "rarity": "Quatre Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A1a/A1a-046_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-046_artwork.png",
+  "illustrator": "PLANETA CG Works",
+  "hp": 140,
+  "types": [
+    "Combat"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Talent",
+      "name": "Ordre Primitif",
+      "effect": "Votre adversaire ne peut pas jouer de Pokémon de sa main sur le Pokémon Actif pour le faire évoluer."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Combat",
+        "Incolore"
+      ],
+      "name": "Écras'Terre",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Électrique",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": ""
+}

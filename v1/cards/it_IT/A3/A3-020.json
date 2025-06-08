@@ -1,0 +1,49 @@
+{
+  "language": "it_IT",
+  "id": "A3-020",
+  "name": "Tsareena",
+  "localId": "020",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiani Astrali"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A3/A3-020_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-020_artwork.png",
+  "illustrator": "Hasuno",
+  "hp": 130,
+  "types": [
+    "Erba"
+  ],
+  "stage": "Livello 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Erba"
+      ],
+      "name": "Triplice Calcio",
+      "damage": {
+        "value": 50,
+        "modifier": "x"
+      },
+      "effect": "Lancia 3 volte una moneta. Questo attacco infligge 50 danni ogni volta che esce testa."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fuoco",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "È un Pokémon aggressivo e orgoglioso,\nma si dice che sia sufficiente toccare la\ncoroncina che ha sul calice per farlo calmare."
+}
