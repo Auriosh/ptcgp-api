@@ -14,6 +14,10 @@ on:
   # Permite executar este workflow manualmente a partir da aba "Actions"
   workflow_dispatch:
 
+# --- ALTERAÇÃO AQUI: Concede permissões de escrita ao robô ---
+permissions:
+  contents: write
+
 # Define as tarefas a serem executadas
 jobs:
   build:
@@ -45,8 +49,7 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          # --- ALTERAÇÃO AQUI: Adiciona a flag -f para forçar a adição da pasta ignorada ---
+          # Força a adição da pasta 'docs', mesmo que esteja no .gitignore
           git add -f docs/
-          # O comando a seguir verifica se há ficheiros preparados para commit
-          # Se houver, ele faz o commit e o push. Se não, não faz nada.
+          # Se houver ficheiros preparados, faz o commit e o push. Se não, não faz nada.
           git diff --staged --quiet || (git commit -m "Automated build: Update API data" && git push)
