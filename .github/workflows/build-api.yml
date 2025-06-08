@@ -1,30 +1,19 @@
 # Nome do workflow que aparecerá na aba "Actions" do GitHub
-name: Build API Data
+name: Build and Deploy API
 
-# Define os gatilhos que iniciam a automação
 on:
-  # Gatilho 1: Executa quando há um push para a branch 'main'
   push:
     branches: [ "main" ]
-  
-  # Gatilho 2: Executa em um horário agendado (ex: toda segunda-feira às 02:00)
   schedule:
     - cron: '0 2 * * 1'
-
-  # Permite executar este workflow manualmente a partir da aba "Actions"
   workflow_dispatch:
 
-# Concede permissões de escrita ao robô
-permissions:
-  contents: write
-
-# Define as tarefas a serem executadas
 jobs:
-  build:
-    runs-on: ubuntu-latest # Usa um ambiente Linux para executar os comandos
+  build-and-deploy:
+    runs-on: ubuntu-latest
     
     steps:
-      # Passo 1: Baixa o código do seu repositório para o ambiente da Action
+      # Passo 1: Baixa o código do seu repositório (excluindo a pasta /docs)
       - name: Checkout repository
         uses: actions/checkout@v4
 
@@ -34,37 +23,23 @@ jobs:
         with:
           python-version: '3.10'
 
-      # Passo 3: Instala as dependências listadas no requirements.txt
+      # Passo 3: Instala as dependências
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
           
-      # Passo 4: Executa o seu script de construção da API
+      # Passo 4: Executa o seu script para gerar a pasta /docs
       - name: Run build script
         run: python build_api.py
 
-      # Passo 5: Faz o commit e o push das alterações geradas
-      - name: Commit and push if changed
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          
-          # Adiciona todos os ficheiros gerados na pasta docs
-          git add -f docs/
-
-          # Só continua se houver de facto alterações para salvar
-          if git diff --staged --quiet; then
-            echo "Nenhuma alteração detectada na pasta /docs. Nada a enviar."
-            exit 0
-          fi
-
-          # --- LÓGICA CORRIGIDA ---
-          # 1. Cria um commit local com os novos dados
-          git commit -m "Automated build: Update API data"
-
-          # 2. Sincroniza com o repositório remoto, colocando o nosso commit no topo
-          git pull --rebase
-
-          # 3. Envia as alterações para o GitHub
-          git push
+      # Passo 5: Faz o deploy da pasta /docs para a branch gh-pages
+      # Esta ação irá criar e gerir a branch gh-pages automaticamente.
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # A pasta que contém o "produto final" da sua API
+          publish_dir: ./docs
+          # Opcional: mantém o histórico de deploys na branch gh-pages
+          keep_files: false
