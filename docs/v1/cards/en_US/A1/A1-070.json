@@ -1,0 +1,48 @@
+{
+  "language": "en_US",
+  "id": "A1-070",
+  "name": "Horsea",
+  "localId": "070",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1",
+    "name": "Genetic Apex"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/en_US/A1/A1-070_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-070_artwork.png",
+  "illustrator": "Saya Tsuruta",
+  "hp": 60,
+  "types": [
+    "Water"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Water"
+      ],
+      "name": "Water Gun",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Horsea makes its home in oceans with gentle currents. If this Pokémon is under attack, it spits out pitch-black ink and escapes."
+}

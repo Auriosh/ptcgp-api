@@ -1,0 +1,51 @@
+{
+  "language": "en_US",
+  "id": "A3-159",
+  "name": "Tapu Bulu",
+  "localId": "159",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Celestial Guardians"
+  },
+  "rarity": "One Star",
+  "cardImage": "/assets/cardImage/en_US/A3/A3-159_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-159_artwork.png",
+  "illustrator": "OKACHEKE",
+  "hp": 120,
+  "types": [
+    "Grass"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Grass",
+        "Grass",
+        "Colorless"
+      ],
+      "name": "Stuck-In Tackle",
+      "damage": {
+        "value": 100,
+        "modifier": null
+      },
+      "effect": "Flip a coin. If tails, this Pokémon also does 20 damage to itself."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Although it's called a guardian deity, it's violent enough to crush anyone it sees as an enemy."
+}

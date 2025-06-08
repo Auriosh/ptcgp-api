@@ -1,0 +1,53 @@
+{
+  "language": "de_DE",
+  "id": "A2b-028",
+  "name": "Pamomamo",
+  "localId": "028",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Glänzendes Festival"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2b/A2b-028_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-028_artwork.png",
+  "illustrator": "Saboteri",
+  "hp": 140,
+  "types": [
+    "Elektro"
+  ],
+  "stage": "Rang 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Fähigkeit",
+      "name": "Gegenangriff",
+      "effect": "Wenn dieses Pokémon in der Aktiven Position ist und durch eine Attacke von Pokémon deines Gegners Schaden erhält, füge dem Angreifenden Pokémon 20 Schadenspunkte zu."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Elektro",
+        "Elektro"
+      ],
+      "name": "Elektroschlag",
+      "damage": {
+        "value": 70,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Kampf",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [],
+  "description": "Dieses Pokémon ist für gewöhnlich sehr gelassen,\ndoch sobald ein Kampf beginnt, streckt es den Gegner\nmit blitzschnellen Bewegungen zu Boden."
+}

@@ -1,0 +1,52 @@
+{
+  "language": "es_ES",
+  "id": "A3-060",
+  "name": "Gravelerde Alola",
+  "localId": "060",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-060_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-060_artwork.png",
+  "illustrator": "match",
+  "hp": 110,
+  "types": [
+    "Rayo"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Rayo",
+        "Incolora",
+        "Incolora"
+      ],
+      "name": "Impacto Pesado",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lucha",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Cuando dos Graveler pelean entre ellos, el aire\nse llena de destellos y estallidos. Los lugareños\nlo suelen comparar con fuegos artificiales."
+}

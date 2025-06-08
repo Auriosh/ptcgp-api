@@ -1,0 +1,54 @@
+{
+  "language": "fr_FR",
+  "id": "A3-051",
+  "name": "Froussardine-ex",
+  "localId": "051",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Gardiens Astraux"
+  },
+  "rarity": "Quatre Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A3/A3-051_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-051_artwork.png",
+  "illustrator": "PLANETA CG Works",
+  "hp": 170,
+  "types": [
+    "Eau"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Eau",
+        "Eau",
+        "Eau"
+      ],
+      "name": "Banc Houleux",
+      "damage": {
+        "value": 30,
+        "modifier": "+"
+      },
+      "effect": "Cette attaque inflige 40 dégâts supplémentaires pour chaque Froussardine et Froussardine-ex sur votre Banc."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Électrique",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": ""
+}

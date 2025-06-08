@@ -1,0 +1,50 @@
+{
+  "language": "es_ES",
+  "id": "A2-135",
+  "name": "Bidoof",
+  "localId": "135",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Pugna Espaciotemporal"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2/A2-135_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-135_artwork.png",
+  "illustrator": "Kagemaru Himeno",
+  "hp": 60,
+  "types": [
+    "Incolora"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolora",
+        "Incolora"
+      ],
+      "name": "Superdiente",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Reduce a la mitad los PS restantes del Pokémon Activo de tu rival redondeando hacia abajo."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lucha",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Tiene nervios de acero y nada puede perturbarlo.\nEs más ágil y activo de lo que aparenta."
+}

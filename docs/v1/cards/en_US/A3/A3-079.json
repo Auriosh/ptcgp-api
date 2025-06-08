@@ -1,0 +1,46 @@
+{
+  "language": "en_US",
+  "id": "A3-079",
+  "name": "Ribombee",
+  "localId": "079",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Celestial Guardians"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/en_US/A3/A3-079_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-079_artwork.png",
+  "illustrator": "Megumi Mizutani",
+  "hp": 80,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Cutiefly",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Fairy Wind",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metal",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [],
+  "description": "It makes pollen puffs from pollen and nectar. The puffs' effects depend on the type of ingredients and how much of each one is used."
+}

@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A1-121",
+  "name": "Haunter",
+  "localId": "121",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Genes Formidables"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A1/A1-121_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-121_artwork.png",
+  "illustrator": "Nisota Niso",
+  "hp": 80,
+  "types": [
+    "Psíquico"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psíquico"
+      ],
+      "name": "Fuego Fatuo",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Oscura",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Le gusta acechar en la oscuridad y tocarles el\nhombro a sus víctimas con su mano gaseosa.\nEstas se quedan temblando para siempre."
+}

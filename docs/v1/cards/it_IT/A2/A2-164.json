@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "A2-164",
+  "name": "Rotom",
+  "localId": "164",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Scontro Spaziotemporale"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/it_IT/A2/A2-164_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-164_artwork.png",
+  "illustrator": "Shimaris Yukichi",
+  "hp": 70,
+  "types": [
+    "Lampo"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore"
+      ],
+      "name": "Laserassalto",
+      "damage": {
+        "value": 20,
+        "modifier": "+"
+      },
+      "effect": "Se il Pokémon attivo del tuo avversario ha un Oggetto Pokémon assegnato, questo attacco infligge 30 danni in più."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lotta",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il suo corpo simile all'elettricità può introdursi in alcuni\napparecchi, di cui prende il controllo per combinare guai."
+}

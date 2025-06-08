@@ -1,0 +1,48 @@
+{
+  "language": "de_DE",
+  "id": "P-A-017",
+  "name": "Menki",
+  "localId": "017",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "PROMO-A"
+  },
+  "rarity": "Keine",
+  "cardImage": "/assets/cardImage/de_DE/P-A/P-A-017_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-017_artwork.png",
+  "illustrator": "Souichirou Gunjima",
+  "hp": 50,
+  "types": [
+    "Kampf"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Kampf"
+      ],
+      "name": "Waghalsiger Sturmangriff",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": "Dieses Pokémon fügt auch sich selbst 10 Schadenspunkte zu."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psycho",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Es lebt mit Artgenossen in Baumkronen.\nVerliert es sie aus den Augen, wird es\nvor Einsamkeit sofort zornig."
+}

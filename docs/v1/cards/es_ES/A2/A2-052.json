@@ -1,0 +1,49 @@
+{
+  "language": "es_ES",
+  "id": "A2-052",
+  "name": "Magneton",
+  "localId": "052",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Pugna Espaciotemporal"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2/A2-052_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-052_artwork.png",
+  "illustrator": "Yumi",
+  "hp": 80,
+  "types": [
+    "Rayo"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Rayo",
+        "Rayo"
+      ],
+      "name": "Bola Relámpago",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lucha",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Tres Magnemite se enlazan mediante una\nintensa fuerza magnética. Provoca un fuerte\npitido en los oídos a quien se le acerque."
+}

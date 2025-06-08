@@ -1,0 +1,49 @@
+{
+  "language": "fr_FR",
+  "id": "A2-044",
+  "name": "Blizzi",
+  "localId": "044",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Choc Spatio-Temporel"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2/A2-044_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-044_artwork.png",
+  "illustrator": "match",
+  "hp": 70,
+  "types": [
+    "Eau"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Eau"
+      ],
+      "name": "Éclats Glace",
+      "damage": {
+        "value": 10,
+        "modifier": "+"
+      },
+      "effect": "Si le Pokémon Actif de votre adversaire est un Pokémon {F}, cette attaque inflige 30 dégâts supplémentaires."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Métal",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Il s'aventure jusqu'au pied des montagnes en hiver,\nmais se réfugie sur les pics neigeux au printemps."
+}

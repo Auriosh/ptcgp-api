@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A2a-002",
+  "name": "Burmy",
+  "localId": "002",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Luz Triunfal"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2a/A2a-002_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-002_artwork.png",
+  "illustrator": "miki kudo",
+  "hp": 50,
+  "types": [
+    "Planta"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Planta"
+      ],
+      "name": "Apisonar",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Guego",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Para protegerse de los vientos fríos invernales,\nse cubre con un caparazón de ramas y hojas."
+}

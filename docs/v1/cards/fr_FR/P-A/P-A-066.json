@@ -1,0 +1,49 @@
+{
+  "language": "fr_FR",
+  "id": "P-A-066",
+  "name": "Mimiqui",
+  "localId": "066",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/fr_FR/P-A/P-A-066_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-066_artwork.png",
+  "illustrator": "Amelicart",
+  "hp": 70,
+  "types": [
+    "Psy"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psy",
+        "Incolore"
+      ],
+      "name": "Frappe Ombre",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": "Cette attaque inflige aussi 20 dégâts à un de vos Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Obscurité",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il vit dans les lieux sombres, à l'abri du soleil.\nLorsqu'il se montre, il dissimule tout son corps\nsous un déguisement qui rappelle Pikachu."
+}

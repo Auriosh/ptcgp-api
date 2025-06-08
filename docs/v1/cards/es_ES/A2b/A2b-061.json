@@ -1,0 +1,56 @@
+{
+  "language": "es_ES",
+  "id": "A2b-061",
+  "name": "Wigglytuff",
+  "localId": "061",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Festival Brillante"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2b/A2b-061_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-061_artwork.png",
+  "illustrator": "miki kudo",
+  "hp": 100,
+  "types": [
+    "Incolora"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Habilidad",
+      "name": "Canción Reconfortante",
+      "effect": "Una vez durante tu turno, puedes curar 20 puntos de daño a tu Pokémon Activo."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Incolora",
+        "Incolora"
+      ],
+      "name": "Bofetada Gentil",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lucha",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Tiene un pelaje muy fino. Se recomienda no enfadarlo,\no se inflará y golpeará con todo su cuerpo."
+}

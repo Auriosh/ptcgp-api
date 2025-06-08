@@ -1,0 +1,49 @@
+{
+  "language": "it_IT",
+  "id": "A3-070",
+  "name": "Sableye",
+  "localId": "070",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiani Astrali"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A3/A3-070_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-070_artwork.png",
+  "illustrator": "Aya Kusube",
+  "hp": 80,
+  "types": [
+    "Psico"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psico",
+        "Incolore"
+      ],
+      "name": "Trappola",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": "Durante il prossimo turno del tuo avversario, il Pokémon difensore non può ritirarsi."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Oscurità",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Si costruisce la tana in grotte oscure e utilizza gli\nartigli affilati per estrarre le gemme di cui si nutre."
+}

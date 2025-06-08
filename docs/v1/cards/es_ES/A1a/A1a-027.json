@@ -1,0 +1,49 @@
+{
+  "language": "es_ES",
+  "id": "A1a-027",
+  "name": "Electabuzz",
+  "localId": "027",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "La Isla Singular"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A1a/A1a-027_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-027_artwork.png",
+  "illustrator": "Naoyo Kimura",
+  "hp": 70,
+  "types": [
+    "Rayo"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Rayo",
+        "Rayo"
+      ],
+      "name": "Lanza del Trueno",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Este ataque hace 40 puntos de daño a 1 de los Pokémon de tu rival."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lucha",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Es habitual que las centrales eléctricas cuenten\ncon Pokémon de tipo Tierra para hacer frente\na los Electabuzz ávidos de electricidad."
+}

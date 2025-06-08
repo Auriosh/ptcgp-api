@@ -1,0 +1,52 @@
+{
+  "language": "es_ES",
+  "id": "A2-171",
+  "name": "Hippopotas",
+  "localId": "171",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Pugna Espaciotemporal"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/es_ES/A2/A2-171_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-171_artwork.png",
+  "illustrator": "Teeziro",
+  "hp": 80,
+  "types": [
+    "Lucha"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lucha",
+        "Lucha",
+        "Incolora"
+      ],
+      "name": "Placaje Giro",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Planta",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Cierra los orificios nasales y luego se\ndesplaza por la arena con total tranquilidad.\nSuele formar colonias de diez individuos."
+}

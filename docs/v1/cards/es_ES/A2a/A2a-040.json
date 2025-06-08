@@ -1,0 +1,50 @@
+{
+  "language": "es_ES",
+  "id": "A2a-040",
+  "name": "Pupitar",
+  "localId": "040",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Luz Triunfal"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2a/A2a-040_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-040_artwork.png",
+  "illustrator": "match",
+  "hp": 80,
+  "types": [
+    "Lucha"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lucha",
+        "Incolora",
+        "Incolora"
+      ],
+      "name": "Ataque Fugaz",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Planta",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Su caparazón es duro como una piedra y muy\nresistente. Sus golpes pueden derribar montañas."
+}

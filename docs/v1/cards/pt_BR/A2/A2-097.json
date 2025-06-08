@@ -1,0 +1,50 @@
+{
+  "language": "pt_BR",
+  "id": "A2-097",
+  "name": "Honchkrow",
+  "localId": "097",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Embate do Tempo e Espaço"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A2/A2-097_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-097_artwork.png",
+  "illustrator": "Hideki Ishikawa",
+  "hp": 100,
+  "types": [
+    "Darkness"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Darkness",
+        "Darkness"
+      ],
+      "name": "Mergulho Habilidoso",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Este ataque causa 50 pontos de dano a 1 dos Pokémon do seu oponente."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Sua natureza é impiedosa. Diz-se que ele nunca perdoa\nos erros de seus seguidores Murkrow."
+}

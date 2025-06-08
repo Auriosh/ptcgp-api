@@ -1,0 +1,367 @@
+[
+  {
+    "id": "P-A-001",
+    "name": "Potion",
+    "localId": "001"
+  },
+  {
+    "id": "P-A-002",
+    "name": "Vitesse +",
+    "localId": "002"
+  },
+  {
+    "id": "P-A-003",
+    "name": "Scrute Main",
+    "localId": "003"
+  },
+  {
+    "id": "P-A-004",
+    "name": "Pokédex",
+    "localId": "004"
+  },
+  {
+    "id": "P-A-005",
+    "name": "Poké Ball",
+    "localId": "005"
+  },
+  {
+    "id": "P-A-006",
+    "name": "Carton Rouge",
+    "localId": "006"
+  },
+  {
+    "id": "P-A-007",
+    "name": "Recherches Professorales",
+    "localId": "007"
+  },
+  {
+    "id": "P-A-008",
+    "name": "Pokédex",
+    "localId": "008"
+  },
+  {
+    "id": "P-A-009",
+    "name": "Pikachu",
+    "localId": "009"
+  },
+  {
+    "id": "P-A-010",
+    "name": "Mewtwo",
+    "localId": "010"
+  },
+  {
+    "id": "P-A-011",
+    "name": "Leveinard",
+    "localId": "011"
+  },
+  {
+    "id": "P-A-012",
+    "name": "Miaouss",
+    "localId": "012"
+  },
+  {
+    "id": "P-A-013",
+    "name": "Papilusion",
+    "localId": "013"
+  },
+  {
+    "id": "P-A-014",
+    "name": "Lokhlass-ex",
+    "localId": "014"
+  },
+  {
+    "id": "P-A-015",
+    "name": "Pikachu",
+    "localId": "015"
+  },
+  {
+    "id": "P-A-016",
+    "name": "Mélofée",
+    "localId": "016"
+  },
+  {
+    "id": "P-A-017",
+    "name": "Férosinge",
+    "localId": "017"
+  },
+  {
+    "id": "P-A-018",
+    "name": "Florizarre",
+    "localId": "018"
+  },
+  {
+    "id": "P-A-019",
+    "name": "Amphinobi",
+    "localId": "019"
+  },
+  {
+    "id": "P-A-020",
+    "name": "Spectrum",
+    "localId": "020"
+  },
+  {
+    "id": "P-A-021",
+    "name": "Onix",
+    "localId": "021"
+  },
+  {
+    "id": "P-A-022",
+    "name": "Rondoudou",
+    "localId": "022"
+  },
+  {
+    "id": "P-A-023",
+    "name": "Bulbizarre",
+    "localId": "023"
+  },
+  {
+    "id": "P-A-024",
+    "name": "Magnéti",
+    "localId": "024"
+  },
+  {
+    "id": "P-A-025",
+    "name": "Sulfura-ex",
+    "localId": "025"
+  },
+  {
+    "id": "P-A-026",
+    "name": "Pikachu",
+    "localId": "026"
+  },
+  {
+    "id": "P-A-027",
+    "name": "Vipélierre",
+    "localId": "027"
+  },
+  {
+    "id": "P-A-028",
+    "name": "Pyrax",
+    "localId": "028"
+  },
+  {
+    "id": "P-A-029",
+    "name": "Tortank",
+    "localId": "029"
+  },
+  {
+    "id": "P-A-030",
+    "name": "Évoli",
+    "localId": "030"
+  },
+  {
+    "id": "P-A-031",
+    "name": "Pashmilla",
+    "localId": "031"
+  },
+  {
+    "id": "P-A-032",
+    "name": "Salamèche",
+    "localId": "032"
+  },
+  {
+    "id": "P-A-033",
+    "name": "Carapuce",
+    "localId": "033"
+  },
+  {
+    "id": "P-A-034",
+    "name": "Tiplouf",
+    "localId": "034"
+  },
+  {
+    "id": "P-A-035",
+    "name": "Tortipouss",
+    "localId": "035"
+  },
+  {
+    "id": "P-A-036",
+    "name": "Élekable",
+    "localId": "036"
+  },
+  {
+    "id": "P-A-037",
+    "name": "Cresselia-ex",
+    "localId": "037"
+  },
+  {
+    "id": "P-A-038",
+    "name": "Feuforêve",
+    "localId": "038"
+  },
+  {
+    "id": "P-A-039",
+    "name": "Airmure",
+    "localId": "039"
+  },
+  {
+    "id": "P-A-040",
+    "name": "Ouisticram",
+    "localId": "040"
+  },
+  {
+    "id": "P-A-041",
+    "name": "Togepi",
+    "localId": "041"
+  },
+  {
+    "id": "P-A-042",
+    "name": "Darkrai-ex",
+    "localId": "042"
+  },
+  {
+    "id": "P-A-043",
+    "name": "Ceriflor",
+    "localId": "043"
+  },
+  {
+    "id": "P-A-044",
+    "name": "Raichu",
+    "localId": "044"
+  },
+  {
+    "id": "P-A-045",
+    "name": "Tarinor",
+    "localId": "045"
+  },
+  {
+    "id": "P-A-046",
+    "name": "Griknot",
+    "localId": "046"
+  },
+  {
+    "id": "P-A-047",
+    "name": "Étouraptor",
+    "localId": "047"
+  },
+  {
+    "id": "P-A-048",
+    "name": "Manaphy",
+    "localId": "048"
+  },
+  {
+    "id": "P-A-049",
+    "name": "Ronflex",
+    "localId": "049"
+  },
+  {
+    "id": "P-A-050",
+    "name": "Mewtwo-ex",
+    "localId": "050"
+  },
+  {
+    "id": "P-A-051",
+    "name": "Motorizard",
+    "localId": "051"
+  },
+  {
+    "id": "P-A-052",
+    "name": "Poussacha",
+    "localId": "052"
+  },
+  {
+    "id": "P-A-053",
+    "name": "Mustéflott",
+    "localId": "053"
+  },
+  {
+    "id": "P-A-054",
+    "name": "Pohmarmotte",
+    "localId": "054"
+  },
+  {
+    "id": "P-A-055",
+    "name": "Mackogneur",
+    "localId": "055"
+  },
+  {
+    "id": "P-A-056",
+    "name": "Abo",
+    "localId": "056"
+  },
+  {
+    "id": "P-A-057",
+    "name": "Keunotor",
+    "localId": "057"
+  },
+  {
+    "id": "P-A-058",
+    "name": "Pachirisu",
+    "localId": "058"
+  },
+  {
+    "id": "P-A-059",
+    "name": "Riolu",
+    "localId": "059"
+  },
+  {
+    "id": "P-A-060",
+    "name": "Noeunoeuf",
+    "localId": "060"
+  },
+  {
+    "id": "P-A-061",
+    "name": "Grenousse",
+    "localId": "061"
+  },
+  {
+    "id": "P-A-062",
+    "name": "Canarticho",
+    "localId": "062"
+  },
+  {
+    "id": "P-A-063",
+    "name": "Rayquaza",
+    "localId": "063"
+  },
+  {
+    "id": "P-A-064",
+    "name": "Rayquaza-ex",
+    "localId": "064"
+  },
+  {
+    "id": "P-A-065",
+    "name": "Rayquaza-ex",
+    "localId": "065"
+  },
+  {
+    "id": "P-A-066",
+    "name": "Mimiqui",
+    "localId": "066"
+  },
+  {
+    "id": "P-A-067",
+    "name": "Cosmog",
+    "localId": "067"
+  },
+  {
+    "id": "P-A-068",
+    "name": "Lougaroc",
+    "localId": "068"
+  },
+  {
+    "id": "P-A-069",
+    "name": "Noadkokod'Alola",
+    "localId": "069"
+  },
+  {
+    "id": "P-A-070",
+    "name": "Feunardd'Alola",
+    "localId": "070"
+  },
+  {
+    "id": "P-A-071",
+    "name": "Crabagarre",
+    "localId": "071"
+  },
+  {
+    "id": "P-A-072",
+    "name": "Tadmorvd'Alola",
+    "localId": "072"
+  },
+  {
+    "id": "P-A-073",
+    "name": "Bazoucan",
+    "localId": "073"
+  }
+]

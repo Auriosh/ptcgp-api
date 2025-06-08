@@ -1,0 +1,59 @@
+{
+  "language": "fr_FR",
+  "id": "A1-182",
+  "name": "Melmetal",
+  "localId": "182",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Puissance Génétique"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A1/A1-182_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-182_artwork.png",
+  "illustrator": "Kouki Saitou",
+  "hp": 130,
+  "types": [
+    "Métal"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Talent",
+      "name": "Strate Dure",
+      "effect": "Ce Pokémon subit − 20 dégâts provenant des attaques."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Métal",
+        "Métal",
+        "Métal",
+        "Incolore"
+      ],
+      "name": "Gros Impact",
+      "damage": {
+        "value": 120,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feu",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "En fin de vie, son corps rouille et se brise en mille morceaux.\nCes derniers renaissent ensuite sous forme de Meltan."
+}

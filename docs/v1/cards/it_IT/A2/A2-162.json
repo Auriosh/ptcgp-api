@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "A2-162",
+  "name": "Manaphy",
+  "localId": "162",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Scontro Spaziotemporale"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/it_IT/A2/A2-162_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-162_artwork.png",
+  "illustrator": "miki kudo",
+  "hp": 50,
+  "types": [
+    "Acqua"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Acqua"
+      ],
+      "name": "Dono del Mare",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Scegli 2 dei tuoi Pokémon in panchina e assegna un'Energia {W} dalla tua Zona Energia a ognuno di essi."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lampo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Dispone di un potere innato che lo fa\nlegare con qualsiasi specie di Pokémon."
+}

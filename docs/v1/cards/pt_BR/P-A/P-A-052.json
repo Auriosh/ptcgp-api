@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "P-A-052",
+  "name": "Sprigatito",
+  "localId": "052",
+  "category": "Pokemon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "None",
+  "cardImage": "/assets/cardImage/pt_BR/P-A/P-A-052_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-052_artwork.png",
+  "illustrator": "MINAMINAMI Take",
+  "hp": 60,
+  "types": [
+    "Grass"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Grass"
+      ],
+      "name": "Pedir Ajuda",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Coloque 1 Pokémon {G} aleatório do seu baralho na sua mão."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "A composição de seu pelo fofinho é semelhante\nà das plantas. Este Pokémon lava o rosto frequentemente\npara evitar que fique ressecado."
+}

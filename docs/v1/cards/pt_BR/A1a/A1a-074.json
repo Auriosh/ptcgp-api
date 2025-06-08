@@ -1,0 +1,49 @@
+{
+  "language": "pt_BR",
+  "id": "A1a-074",
+  "name": "Marshadow",
+  "localId": "074",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1a",
+    "name": "Ilha Mítica"
+  },
+  "rarity": "One Star",
+  "cardImage": "/assets/cardImage/pt_BR/A1a/A1a-074_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-074_artwork.png",
+  "illustrator": "OKACHEKE",
+  "hp": 80,
+  "types": [
+    "Fighting"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fighting",
+        "Colorless"
+      ],
+      "name": "Vingança",
+      "damage": {
+        "value": 40,
+        "modifier": "+"
+      },
+      "effect": "Se algum dos seus Pokémon tiver sido Nocauteado pelo dano de um ataque durante o último turno do seu oponente, este ataque causará 60 pontos de dano a mais."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psychic",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Invade as sombras dos outros e imita os seus poderes e movimentos.\nÀ medida que se aprimora, torna-se mais forte do que aqueles que está imitando."
+}

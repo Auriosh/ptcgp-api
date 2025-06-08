@@ -1,0 +1,52 @@
+{
+  "language": "it_IT",
+  "id": "A3-008",
+  "name": "Trevenant",
+  "localId": "008",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiani Astrali"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A3/A3-008_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-008_artwork.png",
+  "illustrator": "Shin Nagasawa",
+  "hp": 130,
+  "types": [
+    "Erba"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Erba",
+        "Erba",
+        "Incolore"
+      ],
+      "name": "Lacerartiglio",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fuoco",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Gli esseri umani lo temono perché mangia chi abbatte gli alberi.\nTuttavia è sempre gentile con i Pokémon che vivono nei boschi."
+}

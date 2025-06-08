@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "A2-069",
+  "name": "Kirlia",
+  "localId": "069",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Embate do Tempo e Espaço"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A2/A2-069_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-069_artwork.png",
+  "illustrator": "Yukiko Baba",
+  "hp": 80,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Tapa",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Darkness",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Possui um poder psíquico que lhe permite distorcer\no espaço ao seu redor e ver o futuro."
+}

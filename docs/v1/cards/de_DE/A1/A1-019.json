@@ -1,0 +1,50 @@
+{
+  "language": "de_DE",
+  "id": "A1-019",
+  "name": "Ultrigaria",
+  "localId": "019",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Unschlagbare Gene"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A1/A1-019_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-019_artwork.png",
+  "illustrator": "Miki Tanaka",
+  "hp": 90,
+  "types": [
+    "Pflanze"
+  ],
+  "stage": "Rang 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Pflanze",
+        "Farblos"
+      ],
+      "name": "Rasierblatt",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feuer",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Die Blätter werden eingesetzt, um Gegner\naufzuschlitzen. Dieses Pokémon spuckt eine\nFlüssigkeit, die alles auflöst."
+}

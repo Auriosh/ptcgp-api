@@ -1,0 +1,53 @@
+{
+  "language": "pt_BR",
+  "id": "A1a-069",
+  "name": "Exeggutor",
+  "localId": "069",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1a",
+    "name": "Ilha Mítica"
+  },
+  "rarity": "One Star",
+  "cardImage": "/assets/cardImage/pt_BR/A1a/A1a-069_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-069_artwork.png",
+  "illustrator": "Gapao",
+  "hp": 130,
+  "types": [
+    "Grass"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Grass",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Psíquico",
+      "damage": {
+        "value": 80,
+        "modifier": "+"
+      },
+      "effect": "Este ataque causa 20 pontos de dano a mais para cada Energia ligada ao Pokémon Ativo do seu oponente."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Cada uma das três cabeças de Exeggutor está\npensando em coisas diferentes. Elas não parecem\nse interessar umas pelas outras."
+}

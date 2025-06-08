@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "A3-050",
+  "name": "Wishiwashi",
+  "localId": "050",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiani Astrali"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A3/A3-050_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-050_artwork.png",
+  "illustrator": "Kouki Saitou",
+  "hp": 30,
+  "types": [
+    "Acqua"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Acqua"
+      ],
+      "name": "Cerca Famiglia",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Prendi un Wishiwashi o Wishiwashi-ex a caso dal tuo mazzo e mettilo nella tua panchina."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lampo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Presi singolarmente sono estremamente deboli.\nCiò li ha portati ad acquisire l'abilità di formare\nun banco quando affrontano il nemico."
+}

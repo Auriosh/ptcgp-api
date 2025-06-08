@@ -1,0 +1,55 @@
+{
+  "language": "es_ES",
+  "id": "A3-165",
+  "name": "Oricorio",
+  "localId": "165",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-165_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-165_artwork.png",
+  "illustrator": "USGMEN",
+  "hp": 70,
+  "types": [
+    "Rayo"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Habilidad",
+      "name": "Velo Sagrado",
+      "effect": "Se evita todo el daño infligido a este Pokémon por ataques de los Pokémon {ex} de tu rival."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Rayo",
+        "Incolora"
+      ],
+      "name": "Zumbar",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lucha",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Forma que toma Oricorio al libar Néctar Amarillo.\nSe acerca a sus rivales con ágiles pasos de baile y\nlos noquea con puñetazos eléctricos."
+}

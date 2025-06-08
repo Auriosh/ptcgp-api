@@ -1,0 +1,49 @@
+{
+  "language": "fr_FR",
+  "id": "A3-112",
+  "name": "Absol",
+  "localId": "112",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Gardiens Astraux"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A3/A3-112_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-112_artwork.png",
+  "illustrator": "Anesaki Dynamic",
+  "hp": 80,
+  "types": [
+    "Obscurité"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Obscurité",
+        "Incolore"
+      ],
+      "name": "Griffe Invisible",
+      "damage": {
+        "value": 20,
+        "modifier": "+"
+      },
+      "effect": "Si le Pokémon Actif de votre adversaire est affecté\npar un État Spécial, cette attaque inflige 60 dégâts\nsupplémentaires."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Plante",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il court par monts et par vaux, rapide comme\nle vent. Sa corne arquée lui permet de percevoir\nles signes avant-coureurs des cataclysmes."
+}

@@ -1,0 +1,51 @@
+{
+  "language": "de_DE",
+  "id": "A3-211",
+  "name": "Bisaknosp",
+  "localId": "211",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "Un Chromatique",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-211_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-211_artwork.png",
+  "illustrator": "Ryuta Fuse",
+  "hp": 90,
+  "types": [
+    "Pflanze"
+  ],
+  "stage": "Rang 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Pflanze",
+        "Farblos",
+        "Farblos"
+      ],
+      "name": "Rasierblatt",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feuer",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Sobald die Knospe auf seinem Rücken\ngroß wird, kann Bisaknosp nicht mehr\nauf zwei Beinen stehen."
+}

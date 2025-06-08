@@ -1,0 +1,51 @@
+{
+  "language": "de_DE",
+  "id": "A2b-013",
+  "name": "Paldea-Tauros",
+  "localId": "013",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Glänzendes Festival"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2b/A2b-013_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-013_artwork.png",
+  "illustrator": "Minahamu",
+  "hp": 110,
+  "types": [
+    "Feuer"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Feuer",
+        "Farblos",
+        "Farblos"
+      ],
+      "name": "Flammender Tackle",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": "Dieses Pokémon fügt auch sich selbst 10 Schadenspunkte zu."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Wasser",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Seine Hörner erreichen mithilfe von Feuer-Energie\n1000 ºC. Spießt es damit Gegner auf, so erleiden\ndiese Verletzungen und Verbrennungen."
+}

@@ -1,0 +1,54 @@
+{
+  "language": "es_ES",
+  "id": "A3-103",
+  "name": "Mudsdale",
+  "localId": "103",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-103_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-103_artwork.png",
+  "illustrator": "Takeshi Nakamura",
+  "hp": 140,
+  "types": [
+    "Lucha"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lucha",
+        "Lucha",
+        "Lucha",
+        "Incolora"
+      ],
+      "name": "Fuerza Equina",
+      "damage": {
+        "value": 140,
+        "modifier": null
+      },
+      "effect": "Este Pokémon también se hace 40 puntos de daño a sí mismo."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Planta",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Es muy apreciado por su utilidad en las labores físicas y por la alta\ncalidad del barro que produce, que es ideal para fabricar cerámica."
+}

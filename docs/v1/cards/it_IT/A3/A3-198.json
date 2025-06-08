@@ -1,0 +1,63 @@
+{
+  "language": "it_IT",
+  "id": "A3-198",
+  "name": "Decidueye-ex",
+  "localId": "198",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiani Astrali"
+  },
+  "rarity": "deux Étoiles",
+  "cardImage": "/assets/cardImage/it_IT/A3/A3-198_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-198_artwork.png",
+  "illustrator": "Takumi Wada",
+  "hp": 170,
+  "types": [
+    "Erba"
+  ],
+  "stage": "Livello 2",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Freccia Spietata",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Questo attacco infligge 100 danni a un Pokémon danneggiato dell'avversario."
+    },
+    {
+      "cost": [
+        "Erba",
+        "Erba"
+      ],
+      "name": "Foglielama",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fuoco",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": ""
+}

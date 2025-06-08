@@ -1,0 +1,51 @@
+{
+  "language": "es_ES",
+  "id": "A2-109",
+  "name": "Darkrai",
+  "localId": "109",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Pugna Espaciotemporal"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2/A2-109_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-109_artwork.png",
+  "illustrator": "Masako Tomii",
+  "hp": 110,
+  "types": [
+    "Oscura"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Oscura",
+        "Oscura",
+        "Incolora"
+      ],
+      "name": "Brecha Negra",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": "El Pokémon Activo de tu rival pasa a estar Dormido."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Planta",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Defiende su territorio de personas y Pokémon\nhaciéndoles dormir y provocándoles pesadillas."
+}

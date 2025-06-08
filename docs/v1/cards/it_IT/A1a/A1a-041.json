@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "A1a-041",
+  "name": "Mankey",
+  "localId": "041",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "L'Isola Misteriosa"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A1a/A1a-041_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-041_artwork.png",
+  "illustrator": "Akira Komayama",
+  "hp": 50,
+  "types": [
+    "Lotta"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lotta"
+      ],
+      "name": "Concentrapugno",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": "Lancia una moneta. Se esce croce, questo attacco non ha effetto."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psico",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Vivono in branchi in cima agli alberi. Se perdono\nil contatto con il gruppo s'infuriano per la solitudine."
+}

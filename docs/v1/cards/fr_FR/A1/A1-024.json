@@ -1,0 +1,50 @@
+{
+  "language": "fr_FR",
+  "id": "A1-024",
+  "name": "Saquedeneu",
+  "localId": "024",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Puissance Génétique"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A1/A1-024_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-024_artwork.png",
+  "illustrator": "Midori Harada",
+  "hp": 80,
+  "types": [
+    "Plante"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Plante",
+        "Incolore"
+      ],
+      "name": "Vole-Vie",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": "Soignez 10 dégâts de ce Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feu",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "On ne sait toujours pas ce qui se cache sous ses lianes.\nMême si on les coupe, elles repoussent à l'infini."
+}

@@ -1,0 +1,54 @@
+{
+  "language": "pt_BR",
+  "id": "A2-143",
+  "name": "Regigigas",
+  "localId": "143",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Embate do Tempo e Espaço"
+  },
+  "rarity": "Three Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A2/A2-143_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-143_artwork.png",
+  "illustrator": "Tomokazu Komiya",
+  "hp": 140,
+  "types": [
+    "Colorless"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Martelo Feroz",
+      "damage": {
+        "value": 50,
+        "modifier": "+"
+      },
+      "effect": "Este ataque causa dano a mais, equivalente ao dano que este Pokémon tiver nele."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Diz-se que criaram Pokémon parecidos com eles mesmos\nde uma montanha de gelo especial, rochas e magma."
+}

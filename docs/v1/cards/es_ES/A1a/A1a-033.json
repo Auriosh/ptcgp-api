@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A1a-033",
+  "name": "Sigilyph",
+  "localId": "033",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "La Isla Singular"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A1a/A1a-033_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-033_artwork.png",
+  "illustrator": "Shigenori Negishi",
+  "hp": 80,
+  "types": [
+    "Psíquico"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psíquico"
+      ],
+      "name": "Robo Pico",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": "Roba 1 carta."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Oscura",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Vuela gracias a sus poderes psíquicos. Dicen que\nhabía sido la deidad protectora de una antigua\nciudad, si bien otros creen que era su mensajero."
+}

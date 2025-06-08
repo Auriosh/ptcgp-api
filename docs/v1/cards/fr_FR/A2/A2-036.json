@@ -1,0 +1,49 @@
+{
+  "language": "fr_FR",
+  "id": "A2-036",
+  "name": "Prinplouf",
+  "localId": "036",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Choc Spatio-Temporel"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2/A2-036_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-036_artwork.png",
+  "illustrator": "Mizue",
+  "hp": 90,
+  "types": [
+    "Eau"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Eau",
+        "Incolore"
+      ],
+      "name": "Surf",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Électrique",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il vit seul, à l'écart de ses pairs. Chaque individu\nest convaincu d'être meilleur que les autres."
+}

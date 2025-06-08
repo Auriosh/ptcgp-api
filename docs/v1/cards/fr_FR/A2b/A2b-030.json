@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A2b-030",
+  "name": "Kadabra",
+  "localId": "030",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Réjouissances Rayonnantes"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2b/A2b-030_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-030_artwork.png",
+  "illustrator": "Mousho",
+  "hp": 80,
+  "types": [
+    "Psy"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psy"
+      ],
+      "name": "Piqûre Psy",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Obscurité",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Ses pouvoirs psychiques lui permettent de léviter en dormant.\nIl utilise alors sa queue très souple comme un oreiller."
+}

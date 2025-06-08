@@ -1,0 +1,51 @@
+{
+  "language": "de_DE",
+  "id": "A2-026",
+  "name": "Magcargo",
+  "localId": "026",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Kollision von Raum und Zeit"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2/A2-026_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-026_artwork.png",
+  "illustrator": "Oswaldo KATO",
+  "hp": 120,
+  "types": [
+    "Feuer"
+  ],
+  "stage": "Rang 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Feuer",
+        "Farblos"
+      ],
+      "name": "Sengende Flammen",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": "Das Aktive Pokémon deines Gegners ist jetzt verbrannt."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Wasser",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Aus seinem porösen Schneckengehäuse sprudeln\nFeuerfontänen, die seinen Körper durchfluten."
+}

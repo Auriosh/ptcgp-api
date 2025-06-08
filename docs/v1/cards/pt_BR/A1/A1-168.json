@@ -1,0 +1,51 @@
+{
+  "language": "pt_BR",
+  "id": "A1-168",
+  "name": "Nidoqueen",
+  "localId": "168",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1",
+    "name": "Dominação Genética"
+  },
+  "rarity": "Three Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A1/A1-168_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-168_artwork.png",
+  "illustrator": "nagimiso",
+  "hp": 140,
+  "types": [
+    "Darkness"
+  ],
+  "stage": "Stage2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Darkness",
+        "Darkness",
+        "Colorless"
+      ],
+      "name": "Ataque de Amor",
+      "damage": {
+        "value": 80,
+        "modifier": "+"
+      },
+      "effect": "Este ataque causa 50 pontos de dano a mais para cada um dos seus Nidoking no Banco."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Nidoqueen é melhor na defensiva. Com suas\nescamas parecidas com uma armadura,\nprotege seus filhotes de qualquer ataque."
+}

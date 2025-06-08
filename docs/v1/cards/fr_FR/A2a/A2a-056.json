@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A2a-056",
+  "name": "Mysdibule",
+  "localId": "056",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Lumière Triomphale"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2a/A2a-056_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-056_artwork.png",
+  "illustrator": "tetsuya koizumi",
+  "hp": 70,
+  "types": [
+    "Métal"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore"
+      ],
+      "name": "Broyeur d'Acier",
+      "damage": {
+        "value": 20,
+        "modifier": "+"
+      },
+      "effect": "Si le Pokémon Actif de votre adversaire est un Pokémon {M}, cette attaque inflige 30 dégâts supplémentaires."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feu",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Trompés par son visage innocent, ses ennemis se font happer\npar ses énormes mâchoires et ne peuvent plus s'échapper."
+}

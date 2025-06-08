@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A2b-047",
+  "name": "Axolotode Paldea",
+  "localId": "047",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Réjouissances Rayonnantes"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2b/A2b-047_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-047_artwork.png",
+  "illustrator": "Mori Yuu",
+  "hp": 50,
+  "types": [
+    "Obscurité"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Obscurité"
+      ],
+      "name": "Direct Toxik",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": "Le Pokémon Actif de votre adversaire est maintenant Empoisonné."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Combat",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Depuis qu'une dispute territoriale l'a contraint\nà vivre sur la terre ferme, il protège son corps\nen le recouvrant d'un fluide toxique."
+}

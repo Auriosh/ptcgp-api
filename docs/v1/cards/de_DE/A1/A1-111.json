@@ -1,0 +1,49 @@
+{
+  "language": "de_DE",
+  "id": "A1-111",
+  "name": "Elezard",
+  "localId": "111",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Unschlagbare Gene"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A1/A1-111_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-111_artwork.png",
+  "illustrator": "otumami",
+  "hp": 90,
+  "types": [
+    "Elektro"
+  ],
+  "stage": "Rang 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Farblos",
+        "Farblos"
+      ],
+      "name": "Ruckzuckhieb",
+      "damage": {
+        "value": 40,
+        "modifier": "+"
+      },
+      "effect": "Wirf 1 Münze. Bei Kopf fügt diese Attacke 40 Schadenspunkte mehr zu."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Kampf",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Stellt es seine kragenartigen Hautlappen auf und\nabsorbiert damit Sonnenlicht, kann ein Elezard\ngenug Strom für eine Großstadt produzieren."
+}

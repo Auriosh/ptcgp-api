@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "A2-163",
+  "name": "Shinx",
+  "localId": "163",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Scontro Spaziotemporale"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/it_IT/A2/A2-163_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-163_artwork.png",
+  "illustrator": "Yuu Nishida",
+  "hp": 60,
+  "types": [
+    "Lampo"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lampo"
+      ],
+      "name": "Nascondino",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Lancia una moneta. Se esce testa, durante il prossimo turno del tuo avversario, previeni sia i danni che gli effetti degli attacchi inflitti a questo Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lotta",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Quando si muove, le contrazioni dei suoi muscoli producono\nelettricità. Se si sente minacciato, il suo corpo si illumina."
+}

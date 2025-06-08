@@ -1,0 +1,27 @@
+{
+  "language": "es_ES",
+  "id": "A2-194",
+  "name": "Maya",
+  "localId": "194",
+  "category": "Entrenador",
+  "set": {
+    "id": "A2",
+    "name": "Pugna Espaciotemporal"
+  },
+  "rarity": "deux Étoiles",
+  "cardImage": "/assets/cardImage/es_ES/A2/A2-194_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-194_artwork.png",
+  "illustrator": "saino misaki",
+  "hp": null,
+  "types": [],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [],
+  "weaknesses": [],
+  "rules": [],
+  "retreat": [],
+  "description": ""
+}

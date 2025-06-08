@@ -1,0 +1,50 @@
+{
+  "language": "es_ES",
+  "id": "A2-123",
+  "name": "Garchomp",
+  "localId": "123",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Pugna Espaciotemporal"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2/A2-123_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-123_artwork.png",
+  "illustrator": "Atsushi Furusawa",
+  "hp": 140,
+  "types": [
+    "Dragón"
+  ],
+  "stage": "Fase 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Habilidad",
+      "name": "Descarte Feroz",
+      "effect": "Debes descartar 1 carta de tu mano para poder usar esta habilidad. Una vez durante tu turno, puedes robar 1 carta."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Agua",
+        "Lucha"
+      ],
+      "name": "Garra Dragón",
+      "damage": {
+        "value": 100,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Se dice que, cuando va a velocidad máxima, sus alas\ncrean cuchillas de viento que talan cualquier árbol."
+}

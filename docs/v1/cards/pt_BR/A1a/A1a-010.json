@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "A1a-010",
+  "name": "Ponyta",
+  "localId": "010",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1a",
+    "name": "Ilha Mítica"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A1a/A1a-010_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-010_artwork.png",
+  "illustrator": "Tomokazu Komiya",
+  "hp": 60,
+  "types": [
+    "Fire"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fire"
+      ],
+      "name": "Pisotear",
+      "damage": {
+        "value": 10,
+        "modifier": "+"
+      },
+      "effect": "Jogue uma moeda. Se sair cara, este ataque causará 30 pontos de dano a mais."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Water",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Nasce sem saber correr muito bem, mas, à medida\nque corre com outros da sua espécie, suas pernas\nvão ficando mais fortes."
+}

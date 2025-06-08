@@ -1,0 +1,49 @@
+{
+  "language": "en_US",
+  "id": "A2-052",
+  "name": "Magneton",
+  "localId": "052",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Space-Time Smackdown"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2/A2-052_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-052_artwork.png",
+  "illustrator": "Yumi",
+  "hp": 80,
+  "types": [
+    "Lightning"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Magnemite",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lightning",
+        "Lightning"
+      ],
+      "name": "Lightning Ball",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Three Magnemite are linked by a strong magnetic force. Earaches will occur if you get too close."
+}

@@ -1,0 +1,50 @@
+{
+  "language": "it_IT",
+  "id": "A3-119",
+  "name": "Excadrill",
+  "localId": "119",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiani Astrali"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A3/A3-119_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-119_artwork.png",
+  "illustrator": "SATOSHI NAKAI",
+  "hp": 110,
+  "types": [
+    "Metallo"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Metallo"
+      ],
+      "name": "Lacerazione",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fuoco",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Si dice che le grotte all'apparenza naturali siano in realtà\nspesso il risultato degli scavi forsennati effettuati da Excadrill."
+}

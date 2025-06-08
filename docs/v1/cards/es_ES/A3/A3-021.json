@@ -1,0 +1,58 @@
+{
+  "language": "es_ES",
+  "id": "A3-021",
+  "name": "Wimpod",
+  "localId": "021",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-021_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-021_artwork.png",
+  "illustrator": "Kagemaru Himeno",
+  "hp": 70,
+  "types": [
+    "Planta"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Habilidad",
+      "name": "Huida",
+      "effect": "Durante tu primer turno, este Pokémon no tiene ningún Coste de Retirada."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Planta",
+        "Incolora",
+        "Incolora"
+      ],
+      "name": "Roer",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Guego",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Hace de barrendero natural al ir devorándolo\ntodo, basura y podredumbre incluidas. Alrededor\nde su nido reina siempre la mayor pulcritud."
+}

@@ -1,0 +1,49 @@
+{
+  "language": "it_IT",
+  "id": "A3-105",
+  "name": "Minior",
+  "localId": "105",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiani Astrali"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A3/A3-105_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-105_artwork.png",
+  "illustrator": "Amelicart",
+  "hp": 80,
+  "types": [
+    "Lotta"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lotta",
+        "Lotta"
+      ],
+      "name": "Caduta Astrale",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Questo attacco infligge 40 danni a uno dei Pokémon\ndel tuo avversario."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Erba",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Alola è uno dei rari luoghi in cui di notte è\npossibile vedere dei Minior cadere dal cielo."
+}

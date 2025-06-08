@@ -1,0 +1,48 @@
+{
+  "language": "de_DE",
+  "id": "A3-177",
+  "name": "Peppeck",
+  "localId": "177",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-177_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-177_artwork.png",
+  "illustrator": "Narumi Sato",
+  "hp": 50,
+  "types": [
+    "Farblos"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Farblos"
+      ],
+      "name": "Pikser",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Elektro",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Es pickt mit seinem robusten Schnabel auf Bäume ein.\nAn seinem Pickrhythmus lassen sich seine Laune und\nsein Befinden ablesen."
+}

@@ -1,0 +1,49 @@
+{
+  "language": "pt_BR",
+  "id": "A2-084",
+  "name": "Gliscor",
+  "localId": "084",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Embate do Tempo e Espaço"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A2/A2-084_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-084_artwork.png",
+  "illustrator": "Mizue",
+  "hp": 100,
+  "types": [
+    "Fighting"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fighting"
+      ],
+      "name": "Acrobático",
+      "damage": {
+        "value": 20,
+        "modifier": "+"
+      },
+      "effect": "Jogue 2 moedas. Este ataque causa 20 pontos de dano a mais para cada cara."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Grass",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Observa as presas enquanto se pendura de cabeça\npara baixo nos galhos. Quando a chance surge, ele ataca!"
+}

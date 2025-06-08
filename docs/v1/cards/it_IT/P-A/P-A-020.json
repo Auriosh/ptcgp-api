@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "P-A-020",
+  "name": "Haunter",
+  "localId": "020",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "Nessuna",
+  "cardImage": "/assets/cardImage/it_IT/P-A/P-A-020_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-020_artwork.png",
+  "illustrator": "Mékayu",
+  "hp": 70,
+  "types": [
+    "Psico"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psico"
+      ],
+      "name": "Attacco a Sorpresa",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": "Lancia una moneta. Se esce croce, questo attacco non ha effetto."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Oscurità",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Adora stare in agguato nei luoghi bui e toccare\nle spalle delle vittime con le sue mani gassose.\nIl suo tocco causa brividi incontenibili."
+}

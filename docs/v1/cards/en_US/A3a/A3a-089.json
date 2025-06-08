@@ -1,0 +1,49 @@
+{
+  "language": "en_US",
+  "id": "A3a-089",
+  "name": "Growlithe",
+  "localId": "089",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3a",
+    "name": "Extradimensional Crisis"
+  },
+  "rarity": "One Shiny",
+  "cardImage": "/assets/cardImage/en_US/A3a/A3a-089_card.png",
+  "artworkImage": "/assets/artworkImage/A3a/A3a-089_artwork.png",
+  "illustrator": "Saya Tsuruta",
+  "hp": 70,
+  "types": [
+    "Fire"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Bite",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Water",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "It has a brave and trustworthy nature. It fearlessly\nstands up to bigger and stronger foes."
+}

@@ -1,0 +1,49 @@
+{
+  "language": "en_US",
+  "id": "A1a-011",
+  "name": "Rapidash",
+  "localId": "011",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1a",
+    "name": "Mythical Island"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A1a/A1a-011_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-011_artwork.png",
+  "illustrator": "AKIRA EGAWA",
+  "hp": 100,
+  "types": [
+    "Fire"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Ponyta",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fire",
+        "Colorless"
+      ],
+      "name": "Rising Lunge",
+      "damage": {
+        "value": 40,
+        "modifier": "+"
+      },
+      "effect": "Flip a coin. If heads, this attack does 60 more damage."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Water",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "This Pokémon can be seen galloping through fields at speeds of up to 150 mph, its fiery mane fluttering in the wind."
+}

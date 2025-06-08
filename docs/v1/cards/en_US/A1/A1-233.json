@@ -1,0 +1,49 @@
+{
+  "language": "en_US",
+  "id": "A1-233",
+  "name": "Gyarados",
+  "localId": "233",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1",
+    "name": "Genetic Apex"
+  },
+  "rarity": "One Star",
+  "cardImage": "/assets/cardImage/en_US/A1/A1-233_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-233_artwork.png",
+  "illustrator": "Nurikabe",
+  "hp": 150,
+  "types": [
+    "Water"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Magikarp",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Water",
+        "Water",
+        "Water",
+        "Water"
+      ],
+      "name": "Hyper Beam",
+      "damage": {
+        "value": 100,
+        "modifier": null
+      },
+      "effect": "Discard a random Energy from your opponent's Active Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [],
+  "description": "Once it appears, it goes on a rampage. It remains enraged until it demolishes everything around it."
+}

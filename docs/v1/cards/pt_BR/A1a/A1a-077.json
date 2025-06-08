@@ -1,0 +1,63 @@
+{
+  "language": "pt_BR",
+  "id": "A1a-077",
+  "name": "Mew ex",
+  "localId": "077",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1a",
+    "name": "Ilha Mítica"
+  },
+  "rarity": "Two Star",
+  "cardImage": "/assets/cardImage/pt_BR/A1a/A1a-077_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-077_artwork.png",
+  "illustrator": "PLANETA CG Works",
+  "hp": 130,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psychic"
+      ],
+      "name": "Tiro Psíquico",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    },
+    {
+      "cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Hackear Genoma",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Escolha 1 dos ataques do Pokémon Ativo do seu oponente e use-o como este ataque."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Darkness",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": ""
+}

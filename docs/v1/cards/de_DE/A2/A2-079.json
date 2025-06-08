@@ -1,0 +1,50 @@
+{
+  "language": "de_DE",
+  "id": "A2-079",
+  "name": "Cresselia",
+  "localId": "079",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Kollision von Raum und Zeit"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2/A2-079_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-079_artwork.png",
+  "illustrator": "Masako Tomii",
+  "hp": 110,
+  "types": [
+    "Psycho"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psycho",
+        "Psycho"
+      ],
+      "name": "Mondlichtabsorption",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": "Heile 20 Schadenspunkte bei diesem Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Unlicht",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Seine Flügel geben schimmernde Partikel ab,\ndie wie ein Schleier herabrieseln. Man sagt,\nes verkörpere die Mondsichel."
+}

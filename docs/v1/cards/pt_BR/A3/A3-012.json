@@ -1,0 +1,63 @@
+{
+  "language": "pt_BR",
+  "id": "A3-012",
+  "name": "Decidueye ex",
+  "localId": "012",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "Four Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-012_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-012_artwork.png",
+  "illustrator": "PLANETA CG Works",
+  "hp": 170,
+  "types": [
+    "Grass"
+  ],
+  "stage": "Stage2",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Perfurar a Ferida",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Este ataque causa 100 pontos de dano a 1 dos Pokémon do seu oponente que estiver danificado."
+    },
+    {
+      "cost": [
+        "Grass",
+        "Grass"
+      ],
+      "name": "Folha Navalha",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": ""
+}

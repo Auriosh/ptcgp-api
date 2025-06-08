@@ -1,0 +1,66 @@
+{
+  "language": "pt_BR",
+  "id": "A3-232",
+  "name": "Blastoise ex",
+  "localId": "232",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "Two Shiny",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-232_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-232_artwork.png",
+  "illustrator": "PLANETA CG Works",
+  "hp": 180,
+  "types": [
+    "Water"
+  ],
+  "stage": "Stage2",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Water",
+        "Colorless"
+      ],
+      "name": "Surfar",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    },
+    {
+      "cost": [
+        "Water",
+        "Water",
+        "Colorless"
+      ],
+      "name": "Bazuca d'Água",
+      "damage": {
+        "value": 100,
+        "modifier": "+"
+      },
+      "effect": "Se este Pokémon tiver pelo menos 2 Energia {W} extra ligada a ele, este ataque causará 60 pontos de dano a mais."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": ""
+}

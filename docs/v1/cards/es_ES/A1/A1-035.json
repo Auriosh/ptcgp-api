@@ -1,0 +1,52 @@
+{
+  "language": "es_ES",
+  "id": "A1-035",
+  "name": "Charizard",
+  "localId": "035",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Genes Formidables"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A1/A1-035_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-035_artwork.png",
+  "illustrator": "takuyoa",
+  "hp": 150,
+  "types": [
+    "Guego"
+  ],
+  "stage": "Fase 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Guego",
+        "Guego",
+        "Incolora",
+        "Incolora"
+      ],
+      "name": "Giro Fuego",
+      "damage": {
+        "value": 150,
+        "modifier": null
+      },
+      "effect": "Descarta 2 Energías {R} de este Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Agua",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Este Pokémon de naturaleza agresiva\nataca en combate con su cola llameante\ny hace trizas al rival con sus afiladas garras."
+}

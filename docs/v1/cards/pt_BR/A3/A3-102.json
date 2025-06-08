@@ -1,0 +1,50 @@
+{
+  "language": "pt_BR",
+  "id": "A3-102",
+  "name": "Mudbray",
+  "localId": "102",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-102_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-102_artwork.png",
+  "illustrator": "Saya Tsuruta",
+  "hp": 80,
+  "types": [
+    "Fighting"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fighting",
+        "Colorless"
+      ],
+      "name": "Chute Traseiro",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Grass",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Cobre-se com a lama que regurgitou. A lama não secará,\nmesmo que fique muito tempo exposta ao sol."
+}

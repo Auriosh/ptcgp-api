@@ -1,0 +1,63 @@
+{
+  "language": "en_US",
+  "id": "A2a-047",
+  "name": "Garchomp ex",
+  "localId": "047",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2a",
+    "name": "Triumphant Light"
+  },
+  "rarity": "Four Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2a/A2a-047_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-047_artwork.png",
+  "illustrator": "PLANETA CG Works",
+  "hp": 170,
+  "types": [
+    "Fighting"
+  ],
+  "stage": "Stage2",
+  "evolveFrom": "Gabite",
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fighting"
+      ],
+      "name": "Linear Attack",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "This attack does 50 damage to 1 of your opponent's Pokémon."
+    },
+    {
+      "cost": [
+        "Fighting",
+        "Fighting",
+        "Colorless"
+      ],
+      "name": "Dragon Claw",
+      "damage": {
+        "value": 100,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Grass",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": ""
+}

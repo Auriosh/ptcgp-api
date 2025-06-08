@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A1-113",
+  "name": "Mélofée",
+  "localId": "113",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Puissance Génétique"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A1/A1-113_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-113_artwork.png",
+  "illustrator": "kirisAki",
+  "hp": 60,
+  "types": [
+    "Psy"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psy"
+      ],
+      "name": "Gifle",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Métal",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "On dit que ceux qui voient danser un groupe de Mélofée\nsous la pleine lune connaîtront un grand bonheur."
+}

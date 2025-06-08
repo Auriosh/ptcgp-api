@@ -1,0 +1,52 @@
+{
+  "language": "en_US",
+  "id": "A1-202",
+  "name": "Chansey",
+  "localId": "202",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1",
+    "name": "Genetic Apex"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A1/A1-202_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-202_artwork.png",
+  "illustrator": "MAHOU",
+  "hp": 120,
+  "types": [
+    "Colorless"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Gentle Slap",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "This kindly Pokémon lays highly nutritious eggs and shares them with injured Pokémon or people."
+}

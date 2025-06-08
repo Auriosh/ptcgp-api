@@ -1,0 +1,54 @@
+{
+  "language": "en_US",
+  "id": "A2-045",
+  "name": "Abomasnow",
+  "localId": "045",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Space-Time Smackdown"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2/A2-045_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-045_artwork.png",
+  "illustrator": "Shin Nagasawa",
+  "hp": 140,
+  "types": [
+    "Water"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Snover",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Water",
+        "Water",
+        "Water",
+        "Colorless"
+      ],
+      "name": "Frost Breath",
+      "damage": {
+        "value": 120,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metal",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "It lives a quiet life on mountains that are perpetually covered in snow. It hides itself by whipping up blizzards."
+}

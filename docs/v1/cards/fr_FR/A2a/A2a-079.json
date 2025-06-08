@@ -1,0 +1,49 @@
+{
+  "language": "fr_FR",
+  "id": "A2a-079",
+  "name": "Simularbre",
+  "localId": "079",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Lumière Triomphale"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/fr_FR/A2a/A2a-079_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-079_artwork.png",
+  "illustrator": "Yuriko Akase",
+  "hp": 80,
+  "types": [
+    "Combat"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Combat"
+      ],
+      "name": "Coup d'Boule Combatif",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": "Si le Pokémon Actif de votre adversaire est un Pokémon-{ex}, cette attaque inflige 30 dégâts supplémentaires."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Plante",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Bien qu'il fasse semblant d'être un arbre, par sa composition,\nil semble plus proche d'un minéral que d'un végétal."
+}

@@ -1,0 +1,52 @@
+{
+  "language": "es_ES",
+  "id": "A1-013",
+  "name": "Vileplume",
+  "localId": "013",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Genes Formidables"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A1/A1-013_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-013_artwork.png",
+  "illustrator": "Kyoko Umemoto",
+  "hp": 140,
+  "types": [
+    "Planta"
+  ],
+  "stage": "Fase 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Planta",
+        "Planta",
+        "Incolora"
+      ],
+      "name": "Aroma Sedante",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": "El Pokémon Activo de tu rival pasa a estar Dormido."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Guego",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Tiene los pétalos más grandes del mundo.\nAl caminar, de ellos se desprenden\ndensas nubes de polen tóxico."
+}

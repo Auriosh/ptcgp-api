@@ -1,0 +1,49 @@
+{
+  "language": "pt_BR",
+  "id": "A2-065",
+  "name": "Togekiss",
+  "localId": "065",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Embate do Tempo e Espaço"
+  },
+  "rarity": "Three Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A2/A2-065_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-065_artwork.png",
+  "illustrator": "kawayoo",
+  "hp": 140,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Stage2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psychic",
+        "Psychic"
+      ],
+      "name": "Golpe Exaustivo",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": "Durante o seu próximo turno, o ataque Golpe Exaustivo deste Pokémon causará + 60 pontos de dano."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metal",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Estes Pokémon nunca são vistos perto de conflitos\nou confusão. Na verdade, têm sido vistos\nmuito raramente em tempos recentes."
+}

@@ -1,0 +1,57 @@
+{
+  "language": "it_IT",
+  "id": "A1-125",
+  "name": "Hypno",
+  "localId": "125",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Geni Supremi"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A1/A1-125_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-125_artwork.png",
+  "illustrator": "Shigenori Negishi",
+  "hp": 100,
+  "types": [
+    "Psico"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Ipnopendolo",
+      "effect": "Una sola volta durante il tuo turno, puoi lanciare una moneta. Se esce testa, il Pokémon attivo del tuo avversario viene addormentato."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Psico",
+        "Psico",
+        "Incolore"
+      ],
+      "name": "Psicopugno",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Oscurità",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Quando cattura lo sguardo del\nnemico, usa una varietà di poteri\npsichici come, ad esempio, l'ipnosi."
+}

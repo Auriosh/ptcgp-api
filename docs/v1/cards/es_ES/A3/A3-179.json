@@ -1,0 +1,56 @@
+{
+  "language": "es_ES",
+  "id": "A3-179",
+  "name": "Komala",
+  "localId": "179",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-179_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-179_artwork.png",
+  "illustrator": "GOTO minori",
+  "hp": 90,
+  "types": [
+    "Incolora"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Habilidad",
+      "name": "Letargo Perenne",
+      "effect": "Mientras este Pokémon esté en el Puesto Activo, cada vez que le unas 1 Energía de tu área de Energía, pasa a estar Dormido."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Incolora",
+        "Incolora"
+      ],
+      "name": "Placaje Giro",
+      "damage": {
+        "value": 70,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lucha",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Pasan toda su vida durmiendo. Las hojas de las que se alimentan\ncontienen un veneno que solo ellos son capaces de descomponer."
+}

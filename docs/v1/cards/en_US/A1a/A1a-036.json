@@ -1,0 +1,48 @@
+{
+  "language": "en_US",
+  "id": "A1a-036",
+  "name": "Flabébé",
+  "localId": "036",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1a",
+    "name": "Mythical Island"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/en_US/A1a/A1a-036_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-036_artwork.png",
+  "illustrator": "Cona Nitanda",
+  "hp": 40,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psychic"
+      ],
+      "name": "Hypnotic Gaze",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Your opponent's Active Pokémon is now Asleep."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metal",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "This Pokémon can draw forth the power hidden within blooming wild flowers. It is particularly fond of red flowers."
+}

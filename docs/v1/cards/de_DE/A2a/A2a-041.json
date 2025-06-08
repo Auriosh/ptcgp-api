@@ -1,0 +1,60 @@
+{
+  "language": "de_DE",
+  "id": "A2a-041",
+  "name": "Despotar",
+  "localId": "041",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Licht des Triumphs"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2a/A2a-041_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-041_artwork.png",
+  "illustrator": "kawayoo",
+  "hp": 160,
+  "types": [
+    "Kampf"
+  ],
+  "stage": "Rang 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Fähigkeit",
+      "name": "Kraftkopplung",
+      "effect": "Wenn du Arceus oder Arceus-ex im Spiel hast, fügen die von diesem Pokémon eingesetzten Attacken dem Aktiven Pokémon deines Gegners + 30 Schadenspunkte zu."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Kampf",
+        "Kampf",
+        "Kampf",
+        "Farblos"
+      ],
+      "name": "Schollenbrecher",
+      "damage": {
+        "value": 130,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Pflanze",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Dieses kaltblütige und rücksichtslose Pokémon ist\nso stark, dass es mit Leichtigkeit das Aussehen\nganzer Landstriche verändern kann."
+}

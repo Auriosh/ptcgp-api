@@ -1,0 +1,53 @@
+{
+  "language": "pt_BR",
+  "id": "A3-178",
+  "name": "Bewear",
+  "localId": "178",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "One Star",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-178_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-178_artwork.png",
+  "illustrator": "Tomowaka",
+  "hp": 130,
+  "types": [
+    "Colorless"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Petulância",
+      "damage": {
+        "value": 130,
+        "modifier": null
+      },
+      "effect": "Este Pokémon agora está Confuso."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Ao aceitar a sua amizade, este Pokémon tentará mostrar\nafeição com um abraço. Deixar-se abraçar por Bewear\npode ser perigoso, já que poderá deixar seus ossos em pedaços."
+}

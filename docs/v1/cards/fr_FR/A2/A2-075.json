@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A2-075",
+  "name": "Créhelf",
+  "localId": "075",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Choc Spatio-Temporel"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2/A2-075_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-075_artwork.png",
+  "illustrator": "AKIRA EGAWA",
+  "hp": 70,
+  "types": [
+    "Psy"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psy"
+      ],
+      "name": "Boost Cérébral",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": "Prenez une Énergie {P} de votre zone Énergie et attachez-la à Créfollet ou à Créfadet."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Obscurité",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "On l'appelle \" être du savoir \". On raconte que\nson regard a le pouvoir d'effacer la mémoire."
+}

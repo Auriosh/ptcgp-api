@@ -1,0 +1,51 @@
+{
+  "language": "es_ES",
+  "id": "A1-080",
+  "name": "Vaporeon",
+  "localId": "080",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Genes Formidables"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A1/A1-080_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-080_artwork.png",
+  "illustrator": "Kagemaru Himeno",
+  "hp": 130,
+  "types": [
+    "Agua"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Agua",
+        "Incolora",
+        "Incolora"
+      ],
+      "name": "Drenaje Burbujas",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": "Cura 30 puntos de daño a este Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Rayo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Vive cerca del agua. Su cola termina en una\naleta parecida a la de un pez, por lo que hay\ngente que lo confunde con una sirena."
+}

@@ -1,0 +1,55 @@
+{
+  "language": "it_IT",
+  "id": "A1-245",
+  "name": "Pidgeot",
+  "localId": "245",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Geni Supremi"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/it_IT/A1/A1-245_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-245_artwork.png",
+  "illustrator": "Anesaki Dynamic",
+  "hp": 130,
+  "types": [
+    "Incolore"
+  ],
+  "stage": "Livello 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Filar Via",
+      "effect": "Una sola volta durante il tuo turno, puoi spostare il Pokémon attivo del tuo avversario nella sua panchina. Il tuo avversario sceglie il nuovo Pokémon attivo."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Attacco d'Ala",
+      "damage": {
+        "value": 70,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lampo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Quando caccia, vola velocissimo sul pelo dell'acqua\ne cattura ignare prede come Magikarp."
+}

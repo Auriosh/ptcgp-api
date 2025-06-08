@@ -1,0 +1,49 @@
+{
+  "language": "es_ES",
+  "id": "A2-048",
+  "name": "Rotom Frío",
+  "localId": "048",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Pugna Espaciotemporal"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2/A2-048_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-048_artwork.png",
+  "illustrator": "MAHOU",
+  "hp": 80,
+  "types": [
+    "Agua"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Agua",
+        "Agua"
+      ],
+      "name": "Ventisca",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": "Este ataque también hace 10 puntos de daño a cada uno de los Pokémon en Banca de tu rival."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metálica",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Asume esta forma cuando toma posesión de\nun frigorífico. Congela todo a su alrededor con\naire gélido para acto seguido brincar de alegría."
+}

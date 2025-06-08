@@ -1,0 +1,51 @@
+{
+  "language": "en_US",
+  "id": "A3-091",
+  "name": "Hariyama",
+  "localId": "091",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Celestial Guardians"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A3/A3-091_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-091_artwork.png",
+  "illustrator": "Miki Tanaka",
+  "hp": 120,
+  "types": [
+    "Fighting"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Makuhita",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fighting",
+        "Colorless"
+      ],
+      "name": "Push Out",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": "Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psychic",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "It loves challenging others to tests of strength. It has the power to stop a train with a slap."
+}

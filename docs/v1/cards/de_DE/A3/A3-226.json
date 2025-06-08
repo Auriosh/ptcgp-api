@@ -1,0 +1,48 @@
+{
+  "language": "de_DE",
+  "id": "A3-226",
+  "name": "Tragosso",
+  "localId": "226",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "Un Chromatique",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-226_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-226_artwork.png",
+  "illustrator": "Sanosuke Sakuma",
+  "hp": 60,
+  "types": [
+    "Kampf"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Farblos"
+      ],
+      "name": "Heuler",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Während des nächsten Zuges deines Gegners fügen die Attacken des Verteidigenden Pokémon − 20 Schadenspunkte zu."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Pflanze",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Denkt Tragosso an seine verstorbene Mutter,\nso weint es. Sein Schluchzen hallt dabei in dem\nSchädel auf seinem Kopf klagend wider."
+}

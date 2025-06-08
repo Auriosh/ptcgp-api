@@ -1,0 +1,50 @@
+{
+  "language": "en_US",
+  "id": "A1a-040",
+  "name": "Slurpuff",
+  "localId": "040",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1a",
+    "name": "Mythical Island"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/en_US/A1a/A1a-040_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-040_artwork.png",
+  "illustrator": "Kagemaru Himeno",
+  "hp": 100,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Swirlix",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psychic",
+        "Colorless"
+      ],
+      "name": "Magical Shot",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metal",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "By taking in a person's scent, it can sniff out their mental and physical condition. It's hoped that this skill will have many medical applications."
+}

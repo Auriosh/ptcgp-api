@@ -1,0 +1,49 @@
+{
+  "language": "es_ES",
+  "id": "A2-065",
+  "name": "Togekiss",
+  "localId": "065",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Pugna Espaciotemporal"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2/A2-065_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-065_artwork.png",
+  "illustrator": "kawayoo",
+  "hp": 140,
+  "types": [
+    "Psíquico"
+  ],
+  "stage": "Fase 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psíquico",
+        "Psíquico"
+      ],
+      "name": "Sacudida Superdirecta",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": "Durante tu próximo turno, el ataque Sacudida Superdirecta de este Pokémon hace Overdrive Smash+60 puntos[/Ctrl:NoBreak] de daño."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metálica",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Este Pokémon jamás se muestra en lugares\ndonde reine la discordia y la disensión.\nÚltimamente apenas se avistan ejemplares."
+}

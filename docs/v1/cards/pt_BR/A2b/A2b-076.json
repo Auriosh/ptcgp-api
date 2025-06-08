@@ -1,0 +1,55 @@
+{
+  "language": "pt_BR",
+  "id": "A2b-076",
+  "name": "Grafaiai",
+  "localId": "076",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2b",
+    "name": "Festival Brilhante"
+  },
+  "rarity": "One Star",
+  "cardImage": "/assets/cardImage/pt_BR/A2b/A2b-076_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-076_artwork.png",
+  "illustrator": "Teeziro",
+  "hp": 90,
+  "types": [
+    "Darkness"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Pintura de Veneno",
+      "effect": "Uma vez durante o seu turno, você poderá jogar uma moeda. Se sair cara, o Pokémon Ativo do seu oponente agora estará Envenenado."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Darkness",
+        "Darkness"
+      ],
+      "name": "Mordida",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "A cor da saliva venenosa deste Pokémon depende\nda sua dieta. Grafaiai cobre seus dedos com saliva\ne desenha em árvores da floresta."
+}

@@ -1,0 +1,49 @@
+{
+  "language": "en_US",
+  "id": "A2b-098",
+  "name": "Kakuna",
+  "localId": "098",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2b",
+    "name": "Shining Revelry"
+  },
+  "rarity": "One Shiny",
+  "cardImage": "/assets/cardImage/en_US/A2b/A2b-098_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-098_artwork.png",
+  "illustrator": "Sanosuke Sakuma",
+  "hp": 80,
+  "types": [
+    "Grass"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Weedle",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Grass"
+      ],
+      "name": "String Shot",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Almost incapable of moving, this Pokémon can only harden its shell to protect itself when it is in danger."
+}

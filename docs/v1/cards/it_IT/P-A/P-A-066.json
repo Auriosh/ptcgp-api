@@ -1,0 +1,49 @@
+{
+  "language": "it_IT",
+  "id": "P-A-066",
+  "name": "Mimikyu",
+  "localId": "066",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/it_IT/P-A/P-A-066_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-066_artwork.png",
+  "illustrator": "Amelicart",
+  "hp": 70,
+  "types": [
+    "Psico"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psico",
+        "Incolore"
+      ],
+      "name": "Botta Spettrale",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": "Questo attacco infligge anche 20 danni a uno dei tuoi Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Oscurità",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Vive nell'ombra, lontano dalla luce del sole. Quando appare davanti\nalle persone si nasconde sotto un panno che somiglia a un Pikachu."
+}

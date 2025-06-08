@@ -1,0 +1,55 @@
+{
+  "language": "de_DE",
+  "id": "A2b-065",
+  "name": "Bidifas-ex",
+  "localId": "065",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Glänzendes Festival"
+  },
+  "rarity": "Quatre Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2b/A2b-065_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-065_artwork.png",
+  "illustrator": "PLANETA CG Works",
+  "hp": 160,
+  "types": [
+    "Farblos"
+  ],
+  "stage": "Rang 1",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Farblos",
+        "Farblos",
+        "Farblos",
+        "Farblos"
+      ],
+      "name": "Entspannter Druck",
+      "damage": {
+        "value": 100,
+        "modifier": null
+      },
+      "effect": "Heile 30 Schadenspunkte bei diesem Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Kampf",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": ""
+}

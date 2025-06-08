@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "A1-029",
+  "name": "Petilil",
+  "localId": "029",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1",
+    "name": "Dominação Genética"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A1/A1-029_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-029_artwork.png",
+  "illustrator": "Naoyo Kimura",
+  "hp": 60,
+  "types": [
+    "Grass"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Grass"
+      ],
+      "name": "Borrão",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": "Cure 10 pontos de dano deste Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "As folhas em sua cabeça crescem imediatamente\nde volta mesmo quando caem. Essas folhas amargas\nrefrescam aqueles que as comem."
+}

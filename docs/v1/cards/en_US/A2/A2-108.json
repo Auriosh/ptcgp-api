@@ -1,0 +1,50 @@
+{
+  "language": "en_US",
+  "id": "A2-108",
+  "name": "Toxicroak",
+  "localId": "108",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Space-Time Smackdown"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2/A2-108_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-108_artwork.png",
+  "illustrator": "Hajime Kusajima",
+  "hp": 90,
+  "types": [
+    "Darkness"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Croagunk",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Darkness",
+        "Darkness"
+      ],
+      "name": "Group Beatdown",
+      "damage": {
+        "value": 40,
+        "modifier": "x"
+      },
+      "effect": "Flip a coin for each Pokémon you have in play. This attack does 40 damage for each heads."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Swaying and dodging the attacks of its foes, it weaves its flexible body in close, then lunges out with its poisonous claws."
+}

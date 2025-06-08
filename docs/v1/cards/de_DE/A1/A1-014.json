@@ -1,0 +1,49 @@
+{
+  "language": "de_DE",
+  "id": "A1-014",
+  "name": "Paras",
+  "localId": "014",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Unschlagbare Gene"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A1/A1-014_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-014_artwork.png",
+  "illustrator": "Naoyo Kimura",
+  "hp": 70,
+  "types": [
+    "Pflanze"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Pflanze",
+        "Farblos"
+      ],
+      "name": "Kratzer",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feuer",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Paras' Körper kann nicht nach seinem eigenen\nWillen handeln, da er von Tochukaso, den Pilzen\nauf seinem Rücken, kontrolliert wird."
+}

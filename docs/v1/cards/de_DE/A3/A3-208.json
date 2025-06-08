@@ -1,0 +1,27 @@
+{
+  "language": "de_DE",
+  "id": "A3-208",
+  "name": "Bromley",
+  "localId": "208",
+  "category": "Trainer",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "Trois Étoiles",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-208_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-208_artwork.png",
+  "illustrator": "danciao",
+  "hp": null,
+  "types": [],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [],
+  "weaknesses": [],
+  "rules": [],
+  "retreat": [],
+  "description": ""
+}

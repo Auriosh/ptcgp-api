@@ -1,0 +1,52 @@
+{
+  "language": "es_ES",
+  "id": "A2b-109",
+  "name": "Wugtrio ex",
+  "localId": "109",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Festival Brillante"
+  },
+  "rarity": "Deux Chromatique",
+  "cardImage": "/assets/cardImage/es_ES/A2b/A2b-109_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-109_artwork.png",
+  "illustrator": "PLANETA Tsuji",
+  "hp": 140,
+  "types": [
+    "Agua"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Agua",
+        "Agua",
+        "Agua"
+      ],
+      "name": "Vapuleo por Sorteo",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Se elige 3 veces a un Pokémon aleatorio de tu rival. Haz a cada uno 50 puntos de daño por cada vez que haya resultado elegido."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Rayo",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": ""
+}

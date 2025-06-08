@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A3-177",
+  "name": "Pikipek",
+  "localId": "177",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-177_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-177_artwork.png",
+  "illustrator": "Narumi Sato",
+  "hp": 50,
+  "types": [
+    "Incolora"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolora"
+      ],
+      "name": "Picotazo",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Rayo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Agujerea los árboles con su robusto pico. Al oír su picoteo, uno\npuede deducir más o menos su humor o su estado de forma."
+}

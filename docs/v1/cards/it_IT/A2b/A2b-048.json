@@ -1,0 +1,53 @@
+{
+  "language": "it_IT",
+  "id": "A2b-048",
+  "name": "Clodsiredi Paldea-ex",
+  "localId": "048",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Tripudio Splendente"
+  },
+  "rarity": "Quatre Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2b/A2b-048_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-048_artwork.png",
+  "illustrator": "PLANETA Mochizuki",
+  "hp": 160,
+  "types": [
+    "Oscurità"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Oscurità",
+        "Oscurità"
+      ],
+      "name": "Velenoshock",
+      "damage": {
+        "value": 60,
+        "modifier": "+"
+      },
+      "effect": "Se il Pokémon attivo del tuo avversario è avvelenato, questo attacco infligge 60 danni in più."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lotta",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": ""
+}

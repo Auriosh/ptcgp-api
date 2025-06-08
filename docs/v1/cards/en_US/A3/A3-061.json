@@ -1,0 +1,54 @@
+{
+  "language": "en_US",
+  "id": "A3-061",
+  "name": "Alolan Golem",
+  "localId": "061",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Celestial Guardians"
+  },
+  "rarity": "Three Diamond",
+  "cardImage": "/assets/cardImage/en_US/A3/A3-061_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-061_artwork.png",
+  "illustrator": "kawayoo",
+  "hp": 160,
+  "types": [
+    "Lightning"
+  ],
+  "stage": "Stage2",
+  "evolveFrom": "Alolan Graveler",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lightning",
+        "Lightning",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Super Zap Cannon",
+      "damage": {
+        "value": 150,
+        "modifier": null
+      },
+      "effect": "Discard 2 {L} Energy from this Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "It's grumpy and stubborn. If you upset it, it discharges electricity from the surface of its body and growls with a voice like thunder."
+}

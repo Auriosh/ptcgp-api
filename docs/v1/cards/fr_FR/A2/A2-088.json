@@ -1,0 +1,49 @@
+{
+  "language": "fr_FR",
+  "id": "A2-088",
+  "name": "Kranidos",
+  "localId": "088",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Choc Spatio-Temporel"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2/A2-088_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-088_artwork.png",
+  "illustrator": "Kouki Saitou",
+  "hp": 90,
+  "types": [
+    "Combat"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Combat"
+      ],
+      "name": "Coup d'Boule",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Plante",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Un Pokémon préhistorique doté d'un crâne très\nsolide, mais d'un cerveau très peu performant."
+}

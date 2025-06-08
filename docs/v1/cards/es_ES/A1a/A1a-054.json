@@ -1,0 +1,49 @@
+{
+  "language": "es_ES",
+  "id": "A1a-054",
+  "name": "Whirlipede",
+  "localId": "054",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "La Isla Singular"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A1a/A1a-054_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-054_artwork.png",
+  "illustrator": "Shin Nagasawa",
+  "hp": 90,
+  "types": [
+    "Oscura"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Oscura"
+      ],
+      "name": "Picotazo Veneno",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": "El Pokémon Activo de tu rival pasa a estar Envenenado."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lucha",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Gira a gran velocidad y carga contra sus\nrivales. Puede alcanzar los 100 km/h."
+}

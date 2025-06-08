@@ -1,0 +1,49 @@
+{
+  "language": "pt_BR",
+  "id": "P-A-043",
+  "name": "Cherrim",
+  "localId": "043",
+  "category": "Pokemon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "None",
+  "cardImage": "/assets/cardImage/pt_BR/P-A/P-A-043_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-043_artwork.png",
+  "illustrator": "MAHOU",
+  "hp": 80,
+  "types": [
+    "Grass"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Grass",
+        "Grass"
+      ],
+      "name": "Semente Sanguessuga",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": "Cure 20 pontos de dano deste Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Após absorver uma grande quantidade de luz solar,\nCherrim assume esta forma. Enquanto estiver assim, fica\ncheio de energia, e seu vigor permanece até o cair do sol."
+}

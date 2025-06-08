@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A2-132",
+  "name": "Starly",
+  "localId": "132",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Pugna Espaciotemporal"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2/A2-132_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-132_artwork.png",
+  "illustrator": "Atsuko Nishida",
+  "hp": 50,
+  "types": [
+    "Incolora"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolora"
+      ],
+      "name": "Picoteo",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": "Antes de infligir daño, descarta todas las Herramientas Pokémon del Pokémon Activo de tu rival."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Rayo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Sobrevuela los campos en bandada buscando Pokémon\nde tipo Bicho. Chilla de forma muy estridente."
+}

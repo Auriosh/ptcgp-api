@@ -1,0 +1,52 @@
+{
+  "language": "de_DE",
+  "id": "A3-060",
+  "name": "Alola-Georok",
+  "localId": "060",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-060_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-060_artwork.png",
+  "illustrator": "match",
+  "hp": 110,
+  "types": [
+    "Elektro"
+  ],
+  "stage": "Rang 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Elektro",
+        "Farblos",
+        "Farblos"
+      ],
+      "name": "Schwerer Einschlag",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Kampf",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Streiten sie sich untereinander, erzeugen sie ein lautes\nKnallen und grelles Leuchten, das von Einheimischen\n\"Felsenfeuerwerk\" genannt wird."
+}

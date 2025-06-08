@@ -1,0 +1,48 @@
+{
+  "language": "de_DE",
+  "id": "A2a-044",
+  "name": "Meditalis",
+  "localId": "044",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Licht des Triumphs"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2a/A2a-044_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-044_artwork.png",
+  "illustrator": "Tetsu Kayama",
+  "hp": 100,
+  "types": [
+    "Kampf"
+  ],
+  "stage": "Rang 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Kampf"
+      ],
+      "name": "Kickschuss",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": "Wirf 1 Münze. Bei Zahl hat diese Attacke keine Auswirkungen."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psycho",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Mit Yogaübungen hat es seine Psycho-Kräfte geschärft\nund ahnt so die Attacken seiner Gegner voraus."
+}

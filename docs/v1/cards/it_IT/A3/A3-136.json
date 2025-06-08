@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "A3-136",
+  "name": "Yungoos",
+  "localId": "136",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiani Astrali"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A3/A3-136_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-136_artwork.png",
+  "illustrator": "Shigenori Negishi",
+  "hp": 60,
+  "types": [
+    "Incolore"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore"
+      ],
+      "name": "Azione",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lotta",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Lo stomaco occupa la maggior parte del suo corpo.\nSegue ogni giorno lo stesso percorso in cerca di cibo fresco."
+}

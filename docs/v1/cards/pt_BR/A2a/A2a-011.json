@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "A2a-011",
+  "name": "Houndour",
+  "localId": "011",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2a",
+    "name": "Luz Triunfante"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A2a/A2a-011_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-011_artwork.png",
+  "illustrator": "Kouki Saitou",
+  "hp": 60,
+  "types": [
+    "Fire"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fire"
+      ],
+      "name": "Chama",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Water",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "É inteligente o suficiente para caçar em bandos.\nEle usa uma variedade de choros para se comunicar\ncom os outros."
+}

@@ -1,0 +1,50 @@
+{
+  "language": "de_DE",
+  "id": "A2b-039",
+  "name": "Machomei",
+  "localId": "039",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Glänzendes Festival"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2b/A2b-039_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-039_artwork.png",
+  "illustrator": "Kouki Saitou",
+  "hp": 150,
+  "types": [
+    "Kampf"
+  ],
+  "stage": "Rang 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Kampf",
+        "Kampf"
+      ],
+      "name": "Powerdruck",
+      "damage": {
+        "value": 70,
+        "modifier": "+"
+      },
+      "effect": "Wenn an dieses Pokémon mindestens 2 extra {F}-Energien angelegt sind, fügt diese Attacke 50 Schadenspunkte mehr zu."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psycho",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Es verwendet seine vier Arme, um seine\nGegner unermüdlich mit schnellen Schlägen\naus allen Winkeln einzudecken."
+}

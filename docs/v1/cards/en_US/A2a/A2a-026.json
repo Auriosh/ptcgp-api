@@ -1,0 +1,55 @@
+{
+  "language": "en_US",
+  "id": "A2a-026",
+  "name": "Raichu",
+  "localId": "026",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2a",
+    "name": "Triumphant Light"
+  },
+  "rarity": "Three Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2a/A2a-026_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-026_artwork.png",
+  "illustrator": "Nisota Niso",
+  "hp": 90,
+  "types": [
+    "Lightning"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Pikachu",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Resilience Link",
+      "effect": "If you have Arceus or Arceus ex in play, this Pokémon takes −30 damage from attacks."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Lightning",
+        "Lightning"
+      ],
+      "name": "Spark",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Its tail discharges electricity into the ground, protecting it from getting shocked."
+}

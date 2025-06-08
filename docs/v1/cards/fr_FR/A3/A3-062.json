@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A3-062",
+  "name": "Galvaran",
+  "localId": "062",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Gardiens Astraux"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A3/A3-062_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-062_artwork.png",
+  "illustrator": "0313",
+  "hp": 60,
+  "types": [
+    "Électrique"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore"
+      ],
+      "name": "Coud'Pattes",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Combat",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il absorbe les rayons du soleil en dépliant la peau\nde sa tête pour produire l'électricité nécessaire\nà ses puissantes capacités Électrik."
+}

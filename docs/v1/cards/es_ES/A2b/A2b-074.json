@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A2b-074",
+  "name": "Buizel",
+  "localId": "074",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Festival Brillante"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/es_ES/A2b/A2b-074_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-074_artwork.png",
+  "illustrator": "Shimaris Yukichi",
+  "hp": 70,
+  "types": [
+    "Agua"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Agua"
+      ],
+      "name": "Pistola Agua",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Rayo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "La vejiga natatoria alrededor del cuello le permite flotar\nen el agua con la cabeza fuera para divisar a sus presas."
+}

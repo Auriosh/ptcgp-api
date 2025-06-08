@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "A3-085",
+  "name": "Cosmog",
+  "localId": "085",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-085_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-085_artwork.png",
+  "illustrator": "sui",
+  "hp": 60,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Teleporte",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Troque este Pokémon por 1 dos seus Pokémon no Banco."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Darkness",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Seu corpo indefeso e gasoso pode ser carregado por\nbrisas leves, mas Cosmog não parece se importar muito."
+}

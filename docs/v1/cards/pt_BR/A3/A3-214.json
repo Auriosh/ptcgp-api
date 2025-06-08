@@ -1,0 +1,53 @@
+{
+  "language": "pt_BR",
+  "id": "A3-214",
+  "name": "Exeggutor",
+  "localId": "214",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "One Shiny",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-214_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-214_artwork.png",
+  "illustrator": "Shigenori Negishi",
+  "hp": 130,
+  "types": [
+    "Grass"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Grass",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Psíquico",
+      "damage": {
+        "value": 80,
+        "modifier": "+"
+      },
+      "effect": "Este ataque causa 20 pontos de dano a mais para cada Energia ligada ao Pokémon Ativo do seu oponente."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Cada uma das três cabeças de Exeggutor está\npensando em coisas diferentes. Elas não parecem\nse interessar umas pelas outras."
+}

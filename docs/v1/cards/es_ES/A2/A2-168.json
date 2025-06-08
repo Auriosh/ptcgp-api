@@ -1,0 +1,50 @@
+{
+  "language": "es_ES",
+  "id": "A2-168",
+  "name": "Cresselia",
+  "localId": "168",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Pugna Espaciotemporal"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/es_ES/A2/A2-168_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-168_artwork.png",
+  "illustrator": "rika",
+  "hp": 110,
+  "types": [
+    "Psíquico"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psíquico",
+        "Psíquico"
+      ],
+      "name": "Ganancia Lunar",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": "Cura 20 puntos de daño a este Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Oscura",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Sus alas emiten un velo de partículas brillantes.\nSe dice que representa un cuarto lunar."
+}

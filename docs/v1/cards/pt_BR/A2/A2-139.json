@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "A2-139",
+  "name": "Glameow",
+  "localId": "139",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Embate do Tempo e Espaço"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A2/A2-139_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-139_artwork.png",
+  "illustrator": "sowsow",
+  "hp": 60,
+  "types": [
+    "Colorless"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Posar",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": "Jogue uma moeda. Se sair coroa, este ataque não fará nada."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Arranha quando está descontente e ronrona\nquando está carinhoso. Há quem goste muito\nda sua natureza inconstante."
+}

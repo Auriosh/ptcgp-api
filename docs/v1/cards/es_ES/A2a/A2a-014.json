@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A2a-014",
+  "name": "Marill",
+  "localId": "014",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Luz Triunfal"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2a/A2a-014_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-014_artwork.png",
+  "illustrator": "Tika Matsuno",
+  "hp": 60,
+  "types": [
+    "Agua"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Agua"
+      ],
+      "name": "Pistola Agua",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Rayo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Tiene un pelaje que repele el agua, por lo\nque está seco incluso después de bañarse."
+}

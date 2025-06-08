@@ -1,0 +1,49 @@
+{
+  "language": "es_ES",
+  "id": "P-A-023",
+  "name": "Bulbasaur",
+  "localId": "023",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "Ninguno",
+  "cardImage": "/assets/cardImage/es_ES/P-A/P-A-023_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-023_artwork.png",
+  "illustrator": "Kouki Saitou",
+  "hp": 70,
+  "types": [
+    "Planta"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Planta",
+        "Incolora"
+      ],
+      "name": "Látigo Cepa",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Guego",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Este Pokémon nace con una semilla en el\nlomo, que brota con el paso del tiempo."
+}

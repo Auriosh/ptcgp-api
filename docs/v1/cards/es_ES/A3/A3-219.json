@@ -1,0 +1,46 @@
+{
+  "language": "es_ES",
+  "id": "A3-219",
+  "name": "Starmie",
+  "localId": "219",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "Un Chromatique",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-219_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-219_artwork.png",
+  "illustrator": "MAHOU",
+  "hp": 90,
+  "types": [
+    "Agua"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Agua"
+      ],
+      "name": "Chapoteo Ondulante",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Rayo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [],
+  "description": "Su órgano central, conocido como núcleo, brilla\ncon los colores del arcoíris cuando se dispone\na liberar sus potentes poderes psíquicos."
+}

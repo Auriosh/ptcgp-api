@@ -1,0 +1,49 @@
+{
+  "language": "pt_BR",
+  "id": "A2b-073",
+  "name": "Meowscarada",
+  "localId": "073",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2b",
+    "name": "Festival Brilhante"
+  },
+  "rarity": "One Star",
+  "cardImage": "/assets/cardImage/pt_BR/A2b/A2b-073_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-073_artwork.png",
+  "illustrator": "danciao",
+  "hp": 140,
+  "types": [
+    "Grass"
+  ],
+  "stage": "Stage2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Grass",
+        "Grass"
+      ],
+      "name": "Garras de Luta",
+      "damage": {
+        "value": 60,
+        "modifier": "+"
+      },
+      "effect": "Se o Pokémon Ativo do seu oponente for um Pokémon {ex}, este ataque causará 70 pontos de dano a mais."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Este Pokémon usa a pelugem reflexiva da sua capa\npara camuflar o caule da sua flor, criando a ilusão\nde que a flor está flutuando."
+}

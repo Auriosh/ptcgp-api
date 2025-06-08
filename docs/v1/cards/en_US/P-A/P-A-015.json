@@ -1,0 +1,48 @@
+{
+  "language": "en_US",
+  "id": "P-A-015",
+  "name": "Pikachu",
+  "localId": "015",
+  "category": "Pokemon",
+  "set": {
+    "id": "P-A",
+    "name": "Promos-A"
+  },
+  "rarity": "None",
+  "cardImage": "/assets/cardImage/en_US/P-A/P-A-015_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-015_artwork.png",
+  "illustrator": "Kouki Saitou",
+  "hp": 60,
+  "types": [
+    "Lightning"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lightning"
+      ],
+      "name": "Gnaw",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks."
+}

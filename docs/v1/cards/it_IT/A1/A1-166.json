@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "A1-166",
+  "name": "Nidoran ♀",
+  "localId": "166",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Geni Supremi"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A1/A1-166_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-166_artwork.png",
+  "illustrator": "Miki Tanaka",
+  "hp": 60,
+  "types": [
+    "Oscurità"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Oscurità"
+      ],
+      "name": "Cerca Famiglia",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Prendi un Nidoran ♂ a caso dal tuo mazzo e mettilo nella tua panchina."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lotta",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "È più sensibile agli odori rispetto ai maschi.\nCapta le correnti d'aria con le vibrisse e si\nposiziona sottovento per cercare le prede."
+}

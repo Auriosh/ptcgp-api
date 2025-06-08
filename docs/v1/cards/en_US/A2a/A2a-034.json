@@ -1,0 +1,54 @@
+{
+  "language": "en_US",
+  "id": "A2a-034",
+  "name": "Unown",
+  "localId": "034",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2a",
+    "name": "Triumphant Light"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2a/A2a-034_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-034_artwork.png",
+  "illustrator": "Tetsu Kayama",
+  "hp": 60,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "CHECK",
+      "effect": "Once during your turn, you may choose either player. Look at the top card of that player's deck."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Hidden Power",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Darkness",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Its flat, thin body is always stuck on walls. Its shape appears to have some meaning."
+}

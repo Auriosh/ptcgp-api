@@ -1,0 +1,51 @@
+{
+  "language": "it_IT",
+  "id": "A2a-001",
+  "name": "Heracross",
+  "localId": "001",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Luce Trionfale"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2a/A2a-001_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-001_artwork.png",
+  "illustrator": "Satoshi Shirai",
+  "hp": 100,
+  "types": [
+    "Erba"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Erba",
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Lancio Monocorno",
+      "damage": {
+        "value": 50,
+        "modifier": "+"
+      },
+      "effect": "Lancia 2 volte una moneta. Se esce testa entrambe le volte, questo attacco infligge 70 danni in più."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fuoco",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "È ghiotto della dolce linfa degli alberi e\nper non farsela rubare scaglia lontano\ni nemici con il suo possente corno."
+}

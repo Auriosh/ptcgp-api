@@ -1,0 +1,51 @@
+{
+  "language": "fr_FR",
+  "id": "A3-236",
+  "name": "Ossatueur-ex",
+  "localId": "236",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Gardiens Astraux"
+  },
+  "rarity": "Deux Chromatique",
+  "cardImage": "/assets/cardImage/fr_FR/A3/A3-236_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-236_artwork.png",
+  "illustrator": "PLANETA Mochizuki",
+  "hp": 140,
+  "types": [
+    "Combat"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Combat",
+        "Combat"
+      ],
+      "name": "Osmerang",
+      "damage": {
+        "value": 80,
+        "modifier": "x"
+      },
+      "effect": "Lancez 2 pièces. Cette attaque inflige 80 dégâts pour chaque côté face."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Plante",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": ""
+}

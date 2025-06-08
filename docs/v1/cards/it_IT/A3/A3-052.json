@@ -1,0 +1,49 @@
+{
+  "language": "it_IT",
+  "id": "A3-052",
+  "name": "Dewpider",
+  "localId": "052",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiani Astrali"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A3/A3-052_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-052_artwork.png",
+  "illustrator": "Atsuko Nishida",
+  "hp": 60,
+  "types": [
+    "Acqua"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Acqua",
+        "Incolore"
+      ],
+      "name": "Uncino",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lampo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Con l'addome gonfia una bolla d'acqua in\ncui tiene infilata la testa. Fa a gara con gli\naltri Dewpider a chi ha la bolla più grande."
+}

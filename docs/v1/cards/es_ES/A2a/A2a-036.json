@@ -1,0 +1,49 @@
+{
+  "language": "es_ES",
+  "id": "A2a-036",
+  "name": "Sudowoodo",
+  "localId": "036",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Luz Triunfal"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2a/A2a-036_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-036_artwork.png",
+  "illustrator": "Tomokazu Komiya",
+  "hp": 80,
+  "types": [
+    "Lucha"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lucha"
+      ],
+      "name": "Cabezazo Lucha",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": "Si el Pokémon Activo de tu rival es un Pokémon {ex}, este ataque hace 30 puntos de daño más."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Planta",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Aunque pretende ser un árbol, en su composición\nse parece más a una roca que a una planta."
+}

@@ -1,0 +1,48 @@
+{
+  "language": "de_DE",
+  "id": "P-A-020",
+  "name": "Alpollo",
+  "localId": "020",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "PROMO-A"
+  },
+  "rarity": "Keine",
+  "cardImage": "/assets/cardImage/de_DE/P-A/P-A-020_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-020_artwork.png",
+  "illustrator": "Mékayu",
+  "hp": 70,
+  "types": [
+    "Psycho"
+  ],
+  "stage": "Rang 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psycho"
+      ],
+      "name": "Überraschungsangriff",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": "Wirf 1 Münze. Bei Zahl hat diese Attacke keine Auswirkungen."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Unlicht",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Es lauert gern im Dunkeln und tippt Leuten mit\nseiner gasförmigen Hand auf die Schulter.\nSeine Berührung erzeugt endloses Schaudern."
+}

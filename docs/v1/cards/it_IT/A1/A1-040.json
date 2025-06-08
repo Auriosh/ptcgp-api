@@ -1,0 +1,51 @@
+{
+  "language": "it_IT",
+  "id": "A1-040",
+  "name": "Arcanine",
+  "localId": "040",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Geni Supremi"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A1/A1-040_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-040_artwork.png",
+  "illustrator": "kodama",
+  "hp": 150,
+  "types": [
+    "Fuoco"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fuoco",
+        "Fuoco",
+        "Incolore"
+      ],
+      "name": "Calorazione",
+      "damage": {
+        "value": 100,
+        "modifier": null
+      },
+      "effect": "Questo Pokémon infligge anche 20 danni a se stesso."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Acqua",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Dal disegno su un'antica pergamena si vede come\nle sue corse sui prati incantassero le persone."
+}

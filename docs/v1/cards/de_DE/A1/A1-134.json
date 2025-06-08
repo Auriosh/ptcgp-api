@@ -1,0 +1,49 @@
+{
+  "language": "de_DE",
+  "id": "A1-134",
+  "name": "Fletiamo",
+  "localId": "134",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Unschlagbare Gene"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A1/A1-134_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-134_artwork.png",
+  "illustrator": "Masakazu Fukuda",
+  "hp": 90,
+  "types": [
+    "Psycho"
+  ],
+  "stage": "Rang 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psycho",
+        "Farblos"
+      ],
+      "name": "Herzstempel",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Unlicht",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Hat es besonders starke Ultraschallwellen\nausgestoßen, wird es so müde, dass es für\neine Weile nicht fliegen kann."
+}

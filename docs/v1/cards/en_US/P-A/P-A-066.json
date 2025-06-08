@@ -1,0 +1,49 @@
+{
+  "language": "en_US",
+  "id": "P-A-066",
+  "name": "Mimikyu",
+  "localId": "066",
+  "category": "Pokemon",
+  "set": {
+    "id": "P-A",
+    "name": "Promos-A"
+  },
+  "rarity": "One Star",
+  "cardImage": "/assets/cardImage/en_US/P-A/P-A-066_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-066_artwork.png",
+  "illustrator": "Amelicart",
+  "hp": 70,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psychic",
+        "Colorless"
+      ],
+      "name": "Shadow Hit",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": "This attack also does 20 damage to 1 of your Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Darkness",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "This Pokémon lives in dark places untouched by sunlight. When it appears before humans, it hides itself under a cloth that resembles a Pikachu."
+}

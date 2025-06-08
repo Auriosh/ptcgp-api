@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "A2-043",
+  "name": "Lumineon",
+  "localId": "043",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Scontro Spaziotemporale"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2/A2-043_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-043_artwork.png",
+  "illustrator": "rika",
+  "hp": 90,
+  "types": [
+    "Acqua"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Acqua"
+      ],
+      "name": "Cascata",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lampo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Con la sua luce attira le prede, ma anche i feroci\nPokémon acquatici che sono suoi predatori naturali."
+}

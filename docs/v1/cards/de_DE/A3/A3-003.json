@@ -1,0 +1,48 @@
+{
+  "language": "de_DE",
+  "id": "A3-003",
+  "name": "Gehweiher",
+  "localId": "003",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-003_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-003_artwork.png",
+  "illustrator": "Miki Tanaka",
+  "hp": 50,
+  "types": [
+    "Pflanze"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Farblos"
+      ],
+      "name": "Ruckzuckhieb",
+      "damage": {
+        "value": 10,
+        "modifier": "+"
+      },
+      "effect": "Wirf 1 Münze. Bei Kopf fügt diese Attacke 20 Schadenspunkte mehr zu."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feuer",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Normalerweise leben sie in Teichen, aber nach\neinem Schauer am Abend kann man sie auch in\nPfützen in den Städten finden."
+}

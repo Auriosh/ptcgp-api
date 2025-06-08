@@ -1,0 +1,49 @@
+{
+  "language": "de_DE",
+  "id": "P-A-072",
+  "name": "Alola-Sleima",
+  "localId": "072",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "PROMO-A"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/P-A/P-A-072_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-072_artwork.png",
+  "illustrator": "Naoki Saito",
+  "hp": 70,
+  "types": [
+    "Unlicht"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Unlicht"
+      ],
+      "name": "Giftwolke",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Das Aktive Pokémon deines Gegners ist jetzt vergiftet."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Kampf",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Die Müllanlagen Alolas beherbergen rund hundert\nExemplare dieses Pokémon. Sie sind fleißig dabei,\nriesige Mengen an Müll zu vertilgen."
+}

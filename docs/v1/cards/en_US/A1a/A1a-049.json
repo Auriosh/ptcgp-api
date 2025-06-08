@@ -1,0 +1,49 @@
+{
+  "language": "en_US",
+  "id": "A1a-049",
+  "name": "Koffing",
+  "localId": "049",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1a",
+    "name": "Mythical Island"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/en_US/A1a/A1a-049_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-049_artwork.png",
+  "illustrator": "Naoyo Kimura",
+  "hp": 70,
+  "types": [
+    "Darkness"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Darkness"
+      ],
+      "name": "Division",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Put 1 random Koffing from your deck onto your Bench."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Its body is full of poisonous gas. It floats into garbage dumps, seeking out the fumes of raw, rotting trash."
+}

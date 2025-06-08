@@ -1,0 +1,49 @@
+{
+  "language": "en_US",
+  "id": "A3a-094",
+  "name": "Jynx",
+  "localId": "094",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3a",
+    "name": "Extradimensional Crisis"
+  },
+  "rarity": "One Shiny",
+  "cardImage": "/assets/cardImage/en_US/A3a/A3a-094_card.png",
+  "artworkImage": "/assets/artworkImage/A3a/A3a-094_artwork.png",
+  "illustrator": "MAHOU",
+  "hp": 80,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psychic",
+        "Colorless"
+      ],
+      "name": "Psychic",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Darkness",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Its strange cries sound like human language.\nThere are some musicians who compose songs\nfor Jynx to sing."
+}

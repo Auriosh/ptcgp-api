@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A3-170",
+  "name": "Tapu Lele",
+  "localId": "170",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-170_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-170_artwork.png",
+  "illustrator": "OKACHEKE",
+  "hp": 90,
+  "types": [
+    "Psíquico"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psíquico"
+      ],
+      "name": "Flecha Energía",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Este ataque hace 20 puntos de daño a 1 de los Pokémon de tu rival por cada Energía unida a ese Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metálica",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Esparce escamas brillantes que curan a las\npersonas y los Pokémon. En la isla de Akala\nes venerado como su espíritu guardián."
+}

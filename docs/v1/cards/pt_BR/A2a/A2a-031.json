@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "A2a-031",
+  "name": "Gastly",
+  "localId": "031",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2a",
+    "name": "Luz Triunfante"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A2a/A2a-031_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-031_artwork.png",
+  "illustrator": "Yuu Nishida",
+  "hp": 50,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Abismar",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Jogue uma moeda. Se sair cara, seu oponente revelará 1 carta aleatória da mão dele e a embaralhará no baralho dele."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Darkness",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Envolve o oponente em seu corpo gasoso,\nenfraquecendo sua presa lentamente\ne a envenenando pela pele."
+}

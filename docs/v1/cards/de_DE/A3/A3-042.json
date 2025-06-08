@@ -1,0 +1,48 @@
+{
+  "language": "de_DE",
+  "id": "A3-042",
+  "name": "Muschas",
+  "localId": "042",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-042_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-042_artwork.png",
+  "illustrator": "Midori Harada",
+  "hp": 70,
+  "types": [
+    "Wasser"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Wasser"
+      ],
+      "name": "Tackle",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Elektro",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Seine Schale ist härter als Diamant. Im Inneren ist\nes jedoch überraschend weich."
+}

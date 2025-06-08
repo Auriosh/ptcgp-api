@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A2-064",
+  "name": "Togetic",
+  "localId": "064",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Pugna Espaciotemporal"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2/A2-064_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-064_artwork.png",
+  "illustrator": "Kanako Eo",
+  "hp": 80,
+  "types": [
+    "Psíquico"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psíquico"
+      ],
+      "name": "Viento Feérico",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metálica",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Dicen que se le aparece a la gente de\nbuen corazón y la inunda de felicidad."
+}

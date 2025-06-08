@@ -1,0 +1,43 @@
+{
+  "language": "en_US",
+  "id": "A3-125",
+  "name": "Jangmo-o",
+  "localId": "125",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Celestial Guardians"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/en_US/A3/A3-125_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-125_artwork.png",
+  "illustrator": "Naoki Saito",
+  "hp": 60,
+  "types": [
+    "Dragon"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Headbutt",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "They learn to fight by smashing their head scales together. The dueling strengthens both their skills and their spirits."
+}

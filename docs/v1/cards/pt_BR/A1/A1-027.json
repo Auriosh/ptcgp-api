@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "A1-027",
+  "name": "Cottonee",
+  "localId": "027",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1",
+    "name": "Dominação Genética"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A1/A1-027_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-027_artwork.png",
+  "illustrator": "Kanako Eo",
+  "hp": 50,
+  "types": [
+    "Grass"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Conectar",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Dispara algodão do seu corpo para se proteger.\nSe este Pokémon for carregado por um furacão,\npode ir parar do outro lado da Terra."
+}

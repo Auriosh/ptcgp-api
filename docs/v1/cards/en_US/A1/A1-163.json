@@ -1,0 +1,52 @@
+{
+  "language": "en_US",
+  "id": "A1-163",
+  "name": "Grapploct",
+  "localId": "163",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1",
+    "name": "Genetic Apex"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A1/A1-163_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-163_artwork.png",
+  "illustrator": "kurumitsu",
+  "hp": 130,
+  "types": [
+    "Fighting"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Clobbopus",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fighting",
+        "Fighting",
+        "Colorless"
+      ],
+      "name": "Knock Back",
+      "damage": {
+        "value": 70,
+        "modifier": null
+      },
+      "effect": "Switch out your opponent’s Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psychic",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "A body made up of nothing but muscle makes the grappling moves this Pokémon performs with its tentacles tremendously powerful."
+}

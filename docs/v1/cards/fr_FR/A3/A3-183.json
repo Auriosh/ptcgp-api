@@ -1,0 +1,52 @@
+{
+  "language": "fr_FR",
+  "id": "A3-183",
+  "name": "Crabominable-ex",
+  "localId": "183",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Gardiens Astraux"
+  },
+  "rarity": "deux Étoiles",
+  "cardImage": "/assets/cardImage/fr_FR/A3/A3-183_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-183_artwork.png",
+  "illustrator": "PLANETA CG Works",
+  "hp": 160,
+  "types": [
+    "Eau"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Eau"
+      ],
+      "name": "Tacle Insatiable",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": "Pendant votre prochain tour, l'attaque Tacle Insatiable de ce Pokémon inflige + 40 dégâts."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Métal",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": ""
+}

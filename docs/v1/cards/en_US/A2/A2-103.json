@@ -1,0 +1,50 @@
+{
+  "language": "en_US",
+  "id": "A2-103",
+  "name": "Skuntank",
+  "localId": "103",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Space-Time Smackdown"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2/A2-103_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-103_artwork.png",
+  "illustrator": "kirisAki",
+  "hp": 100,
+  "types": [
+    "Darkness"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Stunky",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Darkness",
+        "Colorless"
+      ],
+      "name": "Poison Gas",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": "Your opponent's Active Pokémon is now Poisoned."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks from above confound it."
+}

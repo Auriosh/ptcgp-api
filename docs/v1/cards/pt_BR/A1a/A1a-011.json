@@ -1,0 +1,49 @@
+{
+  "language": "pt_BR",
+  "id": "A1a-011",
+  "name": "Rapidash",
+  "localId": "011",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1a",
+    "name": "Ilha Mítica"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A1a/A1a-011_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-011_artwork.png",
+  "illustrator": "AKIRA EGAWA",
+  "hp": 100,
+  "types": [
+    "Fire"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fire",
+        "Colorless"
+      ],
+      "name": "Investida Ascendente",
+      "damage": {
+        "value": 40,
+        "modifier": "+"
+      },
+      "effect": "Jogue uma moeda. Se sair cara, este ataque causará 60 pontos de dano a mais."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Water",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Este Pokémon pode ser encontrado galopando\nnas pradarias, com sua crina de fogo ao vento,\na velocidades de até 240 km/h."
+}

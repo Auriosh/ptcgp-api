@@ -1,0 +1,56 @@
+{
+  "language": "it_IT",
+  "id": "A1-007",
+  "name": "Butterfree",
+  "localId": "007",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Geni Supremi"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A1/A1-007_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-007_artwork.png",
+  "illustrator": "Shin Nagasawa",
+  "hp": 120,
+  "types": [
+    "Erba"
+  ],
+  "stage": "Livello 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Polvere Lenitiva",
+      "effect": "Una sola volta durante il tuo turno, puoi curare ciascuno dei tuoi Pokémon da 20 danni."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Erba",
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Raffica",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fuoco",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Sbatte le ali a gran velocità per liberare\nle sue polveri tossiche nell'aria."
+}

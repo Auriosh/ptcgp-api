@@ -1,0 +1,49 @@
+{
+  "language": "it_IT",
+  "id": "A2-085",
+  "name": "Hitmontop",
+  "localId": "085",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Scontro Spaziotemporale"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2/A2-085_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-085_artwork.png",
+  "illustrator": "sowsow",
+  "hp": 80,
+  "types": [
+    "Lotta"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lotta",
+        "Lotta"
+      ],
+      "name": "Attacco Rotante",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psico",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Gira su se stesso tirando calci. Se gira molto\nvelocemente può scavare una fossa nel terreno."
+}

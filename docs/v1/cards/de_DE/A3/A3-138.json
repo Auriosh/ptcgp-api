@@ -1,0 +1,51 @@
+{
+  "language": "de_DE",
+  "id": "A3-138",
+  "name": "Velursi",
+  "localId": "138",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-138_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-138_artwork.png",
+  "illustrator": "Sanosuke Sakuma",
+  "hp": 70,
+  "types": [
+    "Farblos"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Farblos",
+        "Farblos",
+        "Farblos"
+      ],
+      "name": "Einhämmern",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Kampf",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Sein Pelz ist wunderbar flauschig. Wagt man es jedoch,\ndiesen zu berühren, setzt es sich ohne Rücksicht auf\nVerluste zur Wehr."
+}

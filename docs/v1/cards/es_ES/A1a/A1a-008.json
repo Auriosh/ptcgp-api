@@ -1,0 +1,50 @@
+{
+  "language": "es_ES",
+  "id": "A1a-008",
+  "name": "Shiinotic",
+  "localId": "008",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "La Isla Singular"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A1a/A1a-008_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-008_artwork.png",
+  "illustrator": "Mizue",
+  "hp": 90,
+  "types": [
+    "Planta"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Planta",
+        "Planta"
+      ],
+      "name": "Esporas Parpadeantes",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": "El Pokémon Activo de tu rival pasa a estar Dormido."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Guego",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Atrae y duerme a su presa con la luz parpadeante\nde sus esporas y luego le absorbe la energía vital\ncon la punta de los dedos."
+}

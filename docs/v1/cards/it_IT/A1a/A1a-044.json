@@ -1,0 +1,51 @@
+{
+  "language": "it_IT",
+  "id": "A1a-044",
+  "name": "Graveler",
+  "localId": "044",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "L'Isola Misteriosa"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A1a/A1a-044_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-044_artwork.png",
+  "illustrator": "Ayaka Yoshida",
+  "hp": 100,
+  "types": [
+    "Lotta"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lotta",
+        "Incolore"
+      ],
+      "name": "Affondo Lungo",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Erba",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Scala le pareti scoscese delle montagne e, una volta\nraggiunta la vetta, rotola giù lungo lo stesso percorso."
+}

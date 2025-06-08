@@ -1,0 +1,557 @@
+[
+  {
+    "id": "A2b-001",
+    "name": "Hornliu",
+    "localId": "001"
+  },
+  {
+    "id": "A2b-002",
+    "name": "Kokuna",
+    "localId": "002"
+  },
+  {
+    "id": "A2b-003",
+    "name": "Bibor-ex",
+    "localId": "003"
+  },
+  {
+    "id": "A2b-004",
+    "name": "Pinsir",
+    "localId": "004"
+  },
+  {
+    "id": "A2b-005",
+    "name": "Felori",
+    "localId": "005"
+  },
+  {
+    "id": "A2b-006",
+    "name": "Feliospa",
+    "localId": "006"
+  },
+  {
+    "id": "A2b-007",
+    "name": "Maskagato",
+    "localId": "007"
+  },
+  {
+    "id": "A2b-008",
+    "name": "Glumanda",
+    "localId": "008"
+  },
+  {
+    "id": "A2b-009",
+    "name": "Glutexo",
+    "localId": "009"
+  },
+  {
+    "id": "A2b-010",
+    "name": "Glurak-ex",
+    "localId": "010"
+  },
+  {
+    "id": "A2b-011",
+    "name": "Magmar",
+    "localId": "011"
+  },
+  {
+    "id": "A2b-012",
+    "name": "Magbrant",
+    "localId": "012"
+  },
+  {
+    "id": "A2b-013",
+    "name": "Paldea-Tauros",
+    "localId": "013"
+  },
+  {
+    "id": "A2b-014",
+    "name": "Tentacha",
+    "localId": "014"
+  },
+  {
+    "id": "A2b-015",
+    "name": "Tentoxa",
+    "localId": "015"
+  },
+  {
+    "id": "A2b-016",
+    "name": "Bamelin",
+    "localId": "016"
+  },
+  {
+    "id": "A2b-017",
+    "name": "Bojelin",
+    "localId": "017"
+  },
+  {
+    "id": "A2b-018",
+    "name": "Schligda",
+    "localId": "018"
+  },
+  {
+    "id": "A2b-019",
+    "name": "Schligdri-ex",
+    "localId": "019"
+  },
+  {
+    "id": "A2b-020",
+    "name": "Heerashai",
+    "localId": "020"
+  },
+  {
+    "id": "A2b-021",
+    "name": "Nigiragi",
+    "localId": "021"
+  },
+  {
+    "id": "A2b-022",
+    "name": "Pikachu-ex",
+    "localId": "022"
+  },
+  {
+    "id": "A2b-023",
+    "name": "Voltobal",
+    "localId": "023"
+  },
+  {
+    "id": "A2b-024",
+    "name": "Lektrobal",
+    "localId": "024"
+  },
+  {
+    "id": "A2b-025",
+    "name": "Pachirisu",
+    "localId": "025"
+  },
+  {
+    "id": "A2b-026",
+    "name": "Pamo",
+    "localId": "026"
+  },
+  {
+    "id": "A2b-027",
+    "name": "Pamamo",
+    "localId": "027"
+  },
+  {
+    "id": "A2b-028",
+    "name": "Pamomamo",
+    "localId": "028"
+  },
+  {
+    "id": "A2b-029",
+    "name": "Abra",
+    "localId": "029"
+  },
+  {
+    "id": "A2b-030",
+    "name": "Kadabra",
+    "localId": "030"
+  },
+  {
+    "id": "A2b-031",
+    "name": "Simsala",
+    "localId": "031"
+  },
+  {
+    "id": "A2b-032",
+    "name": "Pantimos",
+    "localId": "032"
+  },
+  {
+    "id": "A2b-033",
+    "name": "Driftlon",
+    "localId": "033"
+  },
+  {
+    "id": "A2b-034",
+    "name": "Drifzepeli",
+    "localId": "034"
+  },
+  {
+    "id": "A2b-035",
+    "name": "Giratina-ex",
+    "localId": "035"
+  },
+  {
+    "id": "A2b-036",
+    "name": "Gierspenst",
+    "localId": "036"
+  },
+  {
+    "id": "A2b-037",
+    "name": "Machollo",
+    "localId": "037"
+  },
+  {
+    "id": "A2b-038",
+    "name": "Maschock",
+    "localId": "038"
+  },
+  {
+    "id": "A2b-039",
+    "name": "Machomei",
+    "localId": "039"
+  },
+  {
+    "id": "A2b-040",
+    "name": "Kicklee",
+    "localId": "040"
+  },
+  {
+    "id": "A2b-041",
+    "name": "Nockchan",
+    "localId": "041"
+  },
+  {
+    "id": "A2b-042",
+    "name": "Riolu",
+    "localId": "042"
+  },
+  {
+    "id": "A2b-043",
+    "name": "Lucario-ex",
+    "localId": "043"
+  },
+  {
+    "id": "A2b-044",
+    "name": "Flaminkno",
+    "localId": "044"
+  },
+  {
+    "id": "A2b-045",
+    "name": "Rettan",
+    "localId": "045"
+  },
+  {
+    "id": "A2b-046",
+    "name": "Arbok",
+    "localId": "046"
+  },
+  {
+    "id": "A2b-047",
+    "name": "Paldea-Felino",
+    "localId": "047"
+  },
+  {
+    "id": "A2b-048",
+    "name": "Paldea-Suelord-ex",
+    "localId": "048"
+  },
+  {
+    "id": "A2b-049",
+    "name": "Kryppuk",
+    "localId": "049"
+  },
+  {
+    "id": "A2b-050",
+    "name": "Sproxi",
+    "localId": "050"
+  },
+  {
+    "id": "A2b-051",
+    "name": "Affiti",
+    "localId": "051"
+  },
+  {
+    "id": "A2b-052",
+    "name": "Forgita",
+    "localId": "052"
+  },
+  {
+    "id": "A2b-053",
+    "name": "Tafforgita",
+    "localId": "053"
+  },
+  {
+    "id": "A2b-054",
+    "name": "Granforgita-ex",
+    "localId": "054"
+  },
+  {
+    "id": "A2b-055",
+    "name": "Knattox",
+    "localId": "055"
+  },
+  {
+    "id": "A2b-056",
+    "name": "Knattatox",
+    "localId": "056"
+  },
+  {
+    "id": "A2b-057",
+    "name": "Monetigo",
+    "localId": "057"
+  },
+  {
+    "id": "A2b-058",
+    "name": "Rattfratz",
+    "localId": "058"
+  },
+  {
+    "id": "A2b-059",
+    "name": "Rattikarl",
+    "localId": "059"
+  },
+  {
+    "id": "A2b-060",
+    "name": "Pummeluff",
+    "localId": "060"
+  },
+  {
+    "id": "A2b-061",
+    "name": "Knuddeluff",
+    "localId": "061"
+  },
+  {
+    "id": "A2b-062",
+    "name": "Schlurp",
+    "localId": "062"
+  },
+  {
+    "id": "A2b-063",
+    "name": "Schlurplek",
+    "localId": "063"
+  },
+  {
+    "id": "A2b-064",
+    "name": "Bidiza",
+    "localId": "064"
+  },
+  {
+    "id": "A2b-065",
+    "name": "Bidifas-ex",
+    "localId": "065"
+  },
+  {
+    "id": "A2b-066",
+    "name": "Haspiror",
+    "localId": "066"
+  },
+  {
+    "id": "A2b-067",
+    "name": "Schlapor",
+    "localId": "067"
+  },
+  {
+    "id": "A2b-068",
+    "name": "Mopex",
+    "localId": "068"
+  },
+  {
+    "id": "A2b-069",
+    "name": "Enigmara",
+    "localId": "069"
+  },
+  {
+    "id": "A2b-070",
+    "name": "Pokémon-Center-Dame",
+    "localId": "070"
+  },
+  {
+    "id": "A2b-071",
+    "name": "Rot",
+    "localId": "071"
+  },
+  {
+    "id": "A2b-072",
+    "name": "Rüpel von Team Rocket",
+    "localId": "072"
+  },
+  {
+    "id": "A2b-073",
+    "name": "Maskagato",
+    "localId": "073"
+  },
+  {
+    "id": "A2b-074",
+    "name": "Bamelin",
+    "localId": "074"
+  },
+  {
+    "id": "A2b-075",
+    "name": "Nigiragi",
+    "localId": "075"
+  },
+  {
+    "id": "A2b-076",
+    "name": "Affiti",
+    "localId": "076"
+  },
+  {
+    "id": "A2b-077",
+    "name": "Monetigo",
+    "localId": "077"
+  },
+  {
+    "id": "A2b-078",
+    "name": "Knuddeluff",
+    "localId": "078"
+  },
+  {
+    "id": "A2b-079",
+    "name": "Bibor-ex",
+    "localId": "079"
+  },
+  {
+    "id": "A2b-080",
+    "name": "Glurak-ex",
+    "localId": "080"
+  },
+  {
+    "id": "A2b-081",
+    "name": "Schligdri-ex",
+    "localId": "081"
+  },
+  {
+    "id": "A2b-082",
+    "name": "Pikachu-ex",
+    "localId": "082"
+  },
+  {
+    "id": "A2b-083",
+    "name": "Giratina-ex",
+    "localId": "083"
+  },
+  {
+    "id": "A2b-084",
+    "name": "Lucario-ex",
+    "localId": "084"
+  },
+  {
+    "id": "A2b-085",
+    "name": "Paldea-Suelord-ex",
+    "localId": "085"
+  },
+  {
+    "id": "A2b-086",
+    "name": "Granforgita-ex",
+    "localId": "086"
+  },
+  {
+    "id": "A2b-087",
+    "name": "Bidifas-ex",
+    "localId": "087"
+  },
+  {
+    "id": "A2b-088",
+    "name": "Enigmara",
+    "localId": "088"
+  },
+  {
+    "id": "A2b-089",
+    "name": "Pokémon-Center-Dame",
+    "localId": "089"
+  },
+  {
+    "id": "A2b-090",
+    "name": "Rot",
+    "localId": "090"
+  },
+  {
+    "id": "A2b-091",
+    "name": "Rüpel von Team Rocket",
+    "localId": "091"
+  },
+  {
+    "id": "A2b-092",
+    "name": "Pikachu-ex",
+    "localId": "092"
+  },
+  {
+    "id": "A2b-093",
+    "name": "Paldea-Suelord-ex",
+    "localId": "093"
+  },
+  {
+    "id": "A2b-094",
+    "name": "Granforgita-ex",
+    "localId": "094"
+  },
+  {
+    "id": "A2b-095",
+    "name": "Bidifas-ex",
+    "localId": "095"
+  },
+  {
+    "id": "A2b-096",
+    "name": "Giratina-ex",
+    "localId": "096"
+  },
+  {
+    "id": "A2b-097",
+    "name": "Hornliu",
+    "localId": "097"
+  },
+  {
+    "id": "A2b-098",
+    "name": "Kokuna",
+    "localId": "098"
+  },
+  {
+    "id": "A2b-099",
+    "name": "Glumanda",
+    "localId": "099"
+  },
+  {
+    "id": "A2b-100",
+    "name": "Glutexo",
+    "localId": "100"
+  },
+  {
+    "id": "A2b-101",
+    "name": "Schligda",
+    "localId": "101"
+  },
+  {
+    "id": "A2b-102",
+    "name": "Heerashai",
+    "localId": "102"
+  },
+  {
+    "id": "A2b-103",
+    "name": "Pachirisu",
+    "localId": "103"
+  },
+  {
+    "id": "A2b-104",
+    "name": "Riolu",
+    "localId": "104"
+  },
+  {
+    "id": "A2b-105",
+    "name": "Knattox",
+    "localId": "105"
+  },
+  {
+    "id": "A2b-106",
+    "name": "Knattatox",
+    "localId": "106"
+  },
+  {
+    "id": "A2b-107",
+    "name": "Bibor-ex",
+    "localId": "107"
+  },
+  {
+    "id": "A2b-108",
+    "name": "Glurak-ex",
+    "localId": "108"
+  },
+  {
+    "id": "A2b-109",
+    "name": "Schligdri-ex",
+    "localId": "109"
+  },
+  {
+    "id": "A2b-110",
+    "name": "Lucario-ex",
+    "localId": "110"
+  },
+  {
+    "id": "A2b-111",
+    "name": "Pokéball",
+    "localId": "111"
+  }
+]

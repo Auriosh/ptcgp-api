@@ -1,0 +1,517 @@
+[
+  {
+    "id": "A3a-001",
+    "name": "Petilil",
+    "localId": "001"
+  },
+  {
+    "id": "A3a-002",
+    "name": "Lilligant",
+    "localId": "002"
+  },
+  {
+    "id": "A3a-003",
+    "name": "Rowlet",
+    "localId": "003"
+  },
+  {
+    "id": "A3a-004",
+    "name": "Dartrix",
+    "localId": "004"
+  },
+  {
+    "id": "A3a-005",
+    "name": "Decidueye",
+    "localId": "005"
+  },
+  {
+    "id": "A3a-006",
+    "name": "Buzzwole ex",
+    "localId": "006"
+  },
+  {
+    "id": "A3a-007",
+    "name": "Pheromosa",
+    "localId": "007"
+  },
+  {
+    "id": "A3a-008",
+    "name": "Kartana",
+    "localId": "008"
+  },
+  {
+    "id": "A3a-009",
+    "name": "Blacephalon",
+    "localId": "009"
+  },
+  {
+    "id": "A3a-010",
+    "name": "Mantine",
+    "localId": "010"
+  },
+  {
+    "id": "A3a-011",
+    "name": "Carvanha",
+    "localId": "011"
+  },
+  {
+    "id": "A3a-012",
+    "name": "Sharpedo",
+    "localId": "012"
+  },
+  {
+    "id": "A3a-013",
+    "name": "Shinx",
+    "localId": "013"
+  },
+  {
+    "id": "A3a-014",
+    "name": "Luxio",
+    "localId": "014"
+  },
+  {
+    "id": "A3a-015",
+    "name": "Luxray",
+    "localId": "015"
+  },
+  {
+    "id": "A3a-016",
+    "name": "Blitzle",
+    "localId": "016"
+  },
+  {
+    "id": "A3a-017",
+    "name": "Zebstrika",
+    "localId": "017"
+  },
+  {
+    "id": "A3a-018",
+    "name": "Emolga",
+    "localId": "018"
+  },
+  {
+    "id": "A3a-019",
+    "name": "Tapu Koko ex",
+    "localId": "019"
+  },
+  {
+    "id": "A3a-020",
+    "name": "Xurkitree",
+    "localId": "020"
+  },
+  {
+    "id": "A3a-021",
+    "name": "Zeraora",
+    "localId": "021"
+  },
+  {
+    "id": "A3a-022",
+    "name": "Clefairy",
+    "localId": "022"
+  },
+  {
+    "id": "A3a-023",
+    "name": "Clefable",
+    "localId": "023"
+  },
+  {
+    "id": "A3a-024",
+    "name": "Phantump",
+    "localId": "024"
+  },
+  {
+    "id": "A3a-025",
+    "name": "Trevenant",
+    "localId": "025"
+  },
+  {
+    "id": "A3a-026",
+    "name": "Morelull",
+    "localId": "026"
+  },
+  {
+    "id": "A3a-027",
+    "name": "Shiinotic",
+    "localId": "027"
+  },
+  {
+    "id": "A3a-028",
+    "name": "Meditite",
+    "localId": "028"
+  },
+  {
+    "id": "A3a-029",
+    "name": "Medicham",
+    "localId": "029"
+  },
+  {
+    "id": "A3a-030",
+    "name": "Baltoy",
+    "localId": "030"
+  },
+  {
+    "id": "A3a-031",
+    "name": "Claydol",
+    "localId": "031"
+  },
+  {
+    "id": "A3a-032",
+    "name": "Rockruff",
+    "localId": "032"
+  },
+  {
+    "id": "A3a-033",
+    "name": "Lycanroc ex",
+    "localId": "033"
+  },
+  {
+    "id": "A3a-034",
+    "name": "Passimian",
+    "localId": "034"
+  },
+  {
+    "id": "A3a-035",
+    "name": "Sandygast",
+    "localId": "035"
+  },
+  {
+    "id": "A3a-036",
+    "name": "Palossand",
+    "localId": "036"
+  },
+  {
+    "id": "A3a-037",
+    "name": "Alolan Meowth",
+    "localId": "037"
+  },
+  {
+    "id": "A3a-038",
+    "name": "Alolan Persian",
+    "localId": "038"
+  },
+  {
+    "id": "A3a-039",
+    "name": "Sandile",
+    "localId": "039"
+  },
+  {
+    "id": "A3a-040",
+    "name": "Krokorok",
+    "localId": "040"
+  },
+  {
+    "id": "A3a-041",
+    "name": "Krookodile",
+    "localId": "041"
+  },
+  {
+    "id": "A3a-042",
+    "name": "Nihilego",
+    "localId": "042"
+  },
+  {
+    "id": "A3a-043",
+    "name": "Guzzlord ex",
+    "localId": "043"
+  },
+  {
+    "id": "A3a-044",
+    "name": "Poipole",
+    "localId": "044"
+  },
+  {
+    "id": "A3a-045",
+    "name": "Naganadel",
+    "localId": "045"
+  },
+  {
+    "id": "A3a-046",
+    "name": "Alolan Diglett",
+    "localId": "046"
+  },
+  {
+    "id": "A3a-047",
+    "name": "Alolan Dugtrio ex",
+    "localId": "047"
+  },
+  {
+    "id": "A3a-048",
+    "name": "Aron",
+    "localId": "048"
+  },
+  {
+    "id": "A3a-049",
+    "name": "Lairon",
+    "localId": "049"
+  },
+  {
+    "id": "A3a-050",
+    "name": "Aggron",
+    "localId": "050"
+  },
+  {
+    "id": "A3a-051",
+    "name": "Ferroseed",
+    "localId": "051"
+  },
+  {
+    "id": "A3a-052",
+    "name": "Ferrothorn",
+    "localId": "052"
+  },
+  {
+    "id": "A3a-053",
+    "name": "Stakataka",
+    "localId": "053"
+  },
+  {
+    "id": "A3a-054",
+    "name": "Lillipup",
+    "localId": "054"
+  },
+  {
+    "id": "A3a-055",
+    "name": "Herdier",
+    "localId": "055"
+  },
+  {
+    "id": "A3a-056",
+    "name": "Stoutland",
+    "localId": "056"
+  },
+  {
+    "id": "A3a-057",
+    "name": "Stufful",
+    "localId": "057"
+  },
+  {
+    "id": "A3a-058",
+    "name": "Bewear",
+    "localId": "058"
+  },
+  {
+    "id": "A3a-059",
+    "name": "Oranguru",
+    "localId": "059"
+  },
+  {
+    "id": "A3a-060",
+    "name": "Type: Null",
+    "localId": "060"
+  },
+  {
+    "id": "A3a-061",
+    "name": "Silvally",
+    "localId": "061"
+  },
+  {
+    "id": "A3a-062",
+    "name": "Celesteela",
+    "localId": "062"
+  },
+  {
+    "id": "A3a-063",
+    "name": "Beast Wall",
+    "localId": "063"
+  },
+  {
+    "id": "A3a-064",
+    "name": "Repel",
+    "localId": "064"
+  },
+  {
+    "id": "A3a-065",
+    "name": "Electrical Cord",
+    "localId": "065"
+  },
+  {
+    "id": "A3a-066",
+    "name": "Beastite",
+    "localId": "066"
+  },
+  {
+    "id": "A3a-067",
+    "name": "Gladion",
+    "localId": "067"
+  },
+  {
+    "id": "A3a-068",
+    "name": "Looker",
+    "localId": "068"
+  },
+  {
+    "id": "A3a-069",
+    "name": "Lusamine",
+    "localId": "069"
+  },
+  {
+    "id": "A3a-070",
+    "name": "Rowlet",
+    "localId": "070"
+  },
+  {
+    "id": "A3a-071",
+    "name": "Pheromosa",
+    "localId": "071"
+  },
+  {
+    "id": "A3a-072",
+    "name": "Blacephalon",
+    "localId": "072"
+  },
+  {
+    "id": "A3a-073",
+    "name": "Alolan Meowth",
+    "localId": "073"
+  },
+  {
+    "id": "A3a-074",
+    "name": "Silvally",
+    "localId": "074"
+  },
+  {
+    "id": "A3a-075",
+    "name": "Celesteela",
+    "localId": "075"
+  },
+  {
+    "id": "A3a-076",
+    "name": "Buzzwole ex",
+    "localId": "076"
+  },
+  {
+    "id": "A3a-077",
+    "name": "Tapu Koko ex",
+    "localId": "077"
+  },
+  {
+    "id": "A3a-078",
+    "name": "Lycanroc ex",
+    "localId": "078"
+  },
+  {
+    "id": "A3a-079",
+    "name": "Guzzlord ex",
+    "localId": "079"
+  },
+  {
+    "id": "A3a-080",
+    "name": "Alolan Dugtrio ex",
+    "localId": "080"
+  },
+  {
+    "id": "A3a-081",
+    "name": "Gladion",
+    "localId": "081"
+  },
+  {
+    "id": "A3a-082",
+    "name": "Looker",
+    "localId": "082"
+  },
+  {
+    "id": "A3a-083",
+    "name": "Lusamine",
+    "localId": "083"
+  },
+  {
+    "id": "A3a-084",
+    "name": "Tapu Koko ex",
+    "localId": "084"
+  },
+  {
+    "id": "A3a-085",
+    "name": "Lycanroc ex",
+    "localId": "085"
+  },
+  {
+    "id": "A3a-086",
+    "name": "Guzzlord ex",
+    "localId": "086"
+  },
+  {
+    "id": "A3a-087",
+    "name": "Alolan Dugtrio ex",
+    "localId": "087"
+  },
+  {
+    "id": "A3a-088",
+    "name": "Buzzwole ex",
+    "localId": "088"
+  },
+  {
+    "id": "A3a-089",
+    "name": "Growlithe",
+    "localId": "089"
+  },
+  {
+    "id": "A3a-090",
+    "name": "Arcanine",
+    "localId": "090"
+  },
+  {
+    "id": "A3a-091",
+    "name": "Froakie",
+    "localId": "091"
+  },
+  {
+    "id": "A3a-092",
+    "name": "Frogadier",
+    "localId": "092"
+  },
+  {
+    "id": "A3a-093",
+    "name": "Greninja",
+    "localId": "093"
+  },
+  {
+    "id": "A3a-094",
+    "name": "Jynx",
+    "localId": "094"
+  },
+  {
+    "id": "A3a-095",
+    "name": "Pidgey",
+    "localId": "095"
+  },
+  {
+    "id": "A3a-096",
+    "name": "Pidgeotto",
+    "localId": "096"
+  },
+  {
+    "id": "A3a-097",
+    "name": "Pidgeot",
+    "localId": "097"
+  },
+  {
+    "id": "A3a-098",
+    "name": "Aerodactyl",
+    "localId": "098"
+  },
+  {
+    "id": "A3a-099",
+    "name": "Celebi ex",
+    "localId": "099"
+  },
+  {
+    "id": "A3a-100",
+    "name": "Arcanine ex",
+    "localId": "100"
+  },
+  {
+    "id": "A3a-101",
+    "name": "Aerodactyl ex",
+    "localId": "101"
+  },
+  {
+    "id": "A3a-102",
+    "name": "Pidgeot ex",
+    "localId": "102"
+  },
+  {
+    "id": "A3a-103",
+    "name": "Nihilego",
+    "localId": "103"
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "language": "en_US",
+  "id": "A3a-026",
+  "name": "Morelull",
+  "localId": "026",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3a",
+    "name": "Extradimensional Crisis"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/en_US/A3a/A3a-026_card.png",
+  "artworkImage": "/assets/artworkImage/A3a/A3a-026_artwork.png",
+  "illustrator": "Midori Harada",
+  "hp": 50,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psychic"
+      ],
+      "name": "Hook",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metal",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "It scatters spores that flicker and glow. Anyone\nseeing these lights falls into a deep slumber."
+}

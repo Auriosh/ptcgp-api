@@ -1,0 +1,46 @@
+{
+  "language": "it_IT",
+  "id": "A3-004",
+  "name": "Masquerain",
+  "localId": "004",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiani Astrali"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A3/A3-004_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-004_artwork.png",
+  "illustrator": "Kanako Eo",
+  "hp": 90,
+  "types": [
+    "Erba"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Erba"
+      ],
+      "name": "Ronzio",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fuoco",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [],
+  "description": "Le sue quattro ali gli permettono di\nvolare a piacimento in ogni direzione."
+}

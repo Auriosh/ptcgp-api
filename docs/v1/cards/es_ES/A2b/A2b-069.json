@@ -1,0 +1,27 @@
+{
+  "language": "es_ES",
+  "id": "A2b-069",
+  "name": "e-Nigma",
+  "localId": "069",
+  "category": "Entrenador",
+  "set": {
+    "id": "A2b",
+    "name": "Festival Brillante"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2b/A2b-069_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-069_artwork.png",
+  "illustrator": "saino misaki",
+  "hp": null,
+  "types": [],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [],
+  "weaknesses": [],
+  "rules": [],
+  "retreat": [],
+  "description": ""
+}

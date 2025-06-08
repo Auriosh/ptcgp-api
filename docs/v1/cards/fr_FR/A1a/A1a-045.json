@@ -1,0 +1,53 @@
+{
+  "language": "fr_FR",
+  "id": "A1a-045",
+  "name": "Grolem",
+  "localId": "045",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "L’Île Fabuleuse"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A1a/A1a-045_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-045_artwork.png",
+  "illustrator": "Masakazu Fukuda",
+  "hp": 160,
+  "types": [
+    "Combat"
+  ],
+  "stage": "Niveau 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Combat",
+        "Combat",
+        "Combat",
+        "Incolore"
+      ],
+      "name": "Pression de Garde",
+      "damage": {
+        "value": 120,
+        "modifier": null
+      },
+      "effect": "Pendant le prochain tour de votre adversaire, ce Pokémon subit − 30 dégâts provenant des attaques."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Plante",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Lorsqu'il arrive à un âge avancé, il arrête de muer.\nUn Grolem ayant vécu très longtemps est recouvert\nde mousse verte."
+}

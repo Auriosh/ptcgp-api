@@ -1,0 +1,48 @@
+{
+  "language": "de_DE",
+  "id": "A3-228",
+  "name": "Pummeluff",
+  "localId": "228",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "Un Chromatique",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-228_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-228_artwork.png",
+  "illustrator": "Tomowaka",
+  "hp": 60,
+  "types": [
+    "Farblos"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Farblos"
+      ],
+      "name": "Walzer",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Kampf",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Wenn seine Kulleraugen zu flackern beginnen,\nsingt es ein mysteriöses, wohlklingendes Lied,\ndas Zuhörer in Schlaf versetzt."
+}

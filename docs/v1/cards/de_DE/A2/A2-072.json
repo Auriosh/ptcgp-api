@@ -1,0 +1,57 @@
+{
+  "language": "de_DE",
+  "id": "A2-072",
+  "name": "Zwirrfinst",
+  "localId": "072",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Kollision von Raum und Zeit"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2/A2-072_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-072_artwork.png",
+  "illustrator": "Suwama Chiaki",
+  "hp": 130,
+  "types": [
+    "Psycho"
+  ],
+  "stage": "Rang 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Fähigkeit",
+      "name": "Dunkles Nichts",
+      "effect": "Beliebig oft während deines Zuges kannst du 1 deiner Pokémon wählen, dem bereits Schaden zugefügt wurde, und seinen gesamten Schaden auf dieses Pokémon verschieben."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Psycho",
+        "Farblos",
+        "Farblos"
+      ],
+      "name": "Seelenverschlinger",
+      "damage": {
+        "value": 70,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Unlicht",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Niemand weiß, ob es einen eigenen Willen hat.\nÜber Radiowellen empfängt es Befehle aus dem\nJenseits, Menschen und Pokémon zu entführen."
+}

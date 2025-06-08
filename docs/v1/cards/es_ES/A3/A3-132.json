@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A3-132",
+  "name": "Hawlucha",
+  "localId": "132",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-132_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-132_artwork.png",
+  "illustrator": "miki kudo",
+  "hp": 80,
+  "types": [
+    "Incolora"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolora"
+      ],
+      "name": "Presa Justiciera",
+      "damage": {
+        "value": 20,
+        "modifier": "+"
+      },
+      "effect": "Si el Pokémon Activo de tu rival es un Pokémon {D}, este ataque hace 30 puntos de daño más."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Rayo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Remata a sus rivales con elegancia dando ágiles\nsaltos con la ayuda de las alas. Se trata de una\ntécnica que perfecciona en su bosque natal."
+}

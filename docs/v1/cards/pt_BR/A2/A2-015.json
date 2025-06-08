@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "A2-015",
+  "name": "Burmy",
+  "localId": "015",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Embate do Tempo e Espaço"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A2/A2-015_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-015_artwork.png",
+  "illustrator": "Mugi Hamada",
+  "hp": 60,
+  "types": [
+    "Grass"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Investida",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Para se proteger dos ventos gelados do inverno, cobre-se\ncom um manto feito de galhos e folhas."
+}

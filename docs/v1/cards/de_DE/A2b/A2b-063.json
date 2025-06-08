@@ -1,0 +1,52 @@
+{
+  "language": "de_DE",
+  "id": "A2b-063",
+  "name": "Schlurplek",
+  "localId": "063",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Glänzendes Festival"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2b/A2b-063_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-063_artwork.png",
+  "illustrator": "Suwama Chiaki",
+  "hp": 130,
+  "types": [
+    "Farblos"
+  ],
+  "stage": "Rang 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Farblos",
+        "Farblos",
+        "Farblos"
+      ],
+      "name": "Walzer",
+      "damage": {
+        "value": 70,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Kampf",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Seine sonderbare Zunge kann sich bis auf ein\nVielfaches seiner Körpergröße ausdehnen.\nNiemand weiß, wie das möglich ist."
+}

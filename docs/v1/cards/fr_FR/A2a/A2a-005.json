@@ -1,0 +1,51 @@
+{
+  "language": "fr_FR",
+  "id": "A2a-005",
+  "name": "Apireine",
+  "localId": "005",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Lumière Triomphale"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2a/A2a-005_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-005_artwork.png",
+  "illustrator": "kawayoo",
+  "hp": 100,
+  "types": [
+    "Plante"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Plante",
+        "Plante",
+        "Plante"
+      ],
+      "name": "Attaque Imprudente",
+      "damage": {
+        "value": 120,
+        "modifier": null
+      },
+      "effect": "Ce Pokémon s'inflige aussi 30 dégâts."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feu",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Son abdomen abrite ses petits, qu'il\ncontrôle grâce à des phéromones."
+}

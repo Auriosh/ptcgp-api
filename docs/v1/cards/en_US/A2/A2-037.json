@@ -1,0 +1,51 @@
+{
+  "language": "en_US",
+  "id": "A2-037",
+  "name": "Empoleon",
+  "localId": "037",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Space-Time Smackdown"
+  },
+  "rarity": "Three Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2/A2-037_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-037_artwork.png",
+  "illustrator": "Satoshi Shirai",
+  "hp": 150,
+  "types": [
+    "Water"
+  ],
+  "stage": "Stage2",
+  "evolveFrom": "Prinplup",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Water",
+        "Water",
+        "Colorless"
+      ],
+      "name": "Aqua Jet",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "It swims as fast as a jet boat. The edges of its wings are sharp and can slice apart drifting ice."
+}

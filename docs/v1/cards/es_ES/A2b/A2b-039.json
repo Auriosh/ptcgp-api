@@ -1,0 +1,50 @@
+{
+  "language": "es_ES",
+  "id": "A2b-039",
+  "name": "Machamp",
+  "localId": "039",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Festival Brillante"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2b/A2b-039_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-039_artwork.png",
+  "illustrator": "Kouki Saitou",
+  "hp": 150,
+  "types": [
+    "Lucha"
+  ],
+  "stage": "Fase 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lucha",
+        "Lucha"
+      ],
+      "name": "Constricción Poderosa",
+      "damage": {
+        "value": 70,
+        "modifier": "+"
+      },
+      "effect": "Si este Pokémon tiene por lo menos 2 Energías {F} adicionales unidas a él, este ataque hace 50 puntos de daño más."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psíquico",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Mueve rápidamente sus cuatro brazos\npara asestar incesantes golpes y\npuñetazos desde todos los ángulos."
+}

@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A2-111",
+  "name": "Airmure",
+  "localId": "111",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Choc Spatio-Temporel"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2/A2-111_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-111_artwork.png",
+  "illustrator": "Oswaldo KATO",
+  "hp": 80,
+  "types": [
+    "Métal"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Métal"
+      ],
+      "name": "Bras Métalliques",
+      "damage": {
+        "value": 20,
+        "modifier": "+"
+      },
+      "effect": "Si un Outil Pokémon est attaché à ce Pokémon, cette attaque inflige 30 dégâts supplémentaires."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Électrique",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Ce Pokémon orne souvent les blasons, car les plumes\nqu'il perd sont utilisées pour forger des épées."
+}

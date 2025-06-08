@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "P-A-017",
+  "name": "Férosinge",
+  "localId": "017",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "Sans Rareté",
+  "cardImage": "/assets/cardImage/fr_FR/P-A/P-A-017_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-017_artwork.png",
+  "illustrator": "Souichirou Gunjima",
+  "hp": 50,
+  "types": [
+    "Combat"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Combat"
+      ],
+      "name": "Attaque Imprudente",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": "Ce Pokémon s'inflige aussi 10 dégâts."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psy",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il vit en groupe au sommet des arbres. S'il perd\nses congénères de vue, la solitude le rend furieux."
+}

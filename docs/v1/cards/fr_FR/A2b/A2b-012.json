@@ -1,0 +1,52 @@
+{
+  "language": "fr_FR",
+  "id": "A2b-012",
+  "name": "Maganon",
+  "localId": "012",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Réjouissances Rayonnantes"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2b/A2b-012_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-012_artwork.png",
+  "illustrator": "Miki Tanaka",
+  "hp": 120,
+  "types": [
+    "Feu"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Feu",
+        "Feu",
+        "Incolore"
+      ],
+      "name": "Bombe Fumante",
+      "damage": {
+        "value": 70,
+        "modifier": null
+      },
+      "effect": "Pendant le prochain tour de votre adversaire, si le Pokémon Défenseur essaie d'utiliser une attaque, votre adversaire lance une pièce. Si c'est pile, l'attaque n'est pas lancée."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Eau",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Quand il inspire profondément, les flammes dans son\nventre gagnent en intensité et atteignent les 2 000 °C."
+}

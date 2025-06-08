@@ -1,0 +1,52 @@
+{
+  "language": "pt_BR",
+  "id": "A2-140",
+  "name": "Purugly",
+  "localId": "140",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Embate do Tempo e Espaço"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A2/A2-140_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-140_artwork.png",
+  "illustrator": "Kagemaru Himeno",
+  "hp": 110,
+  "types": [
+    "Colorless"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Interrupção",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": "Seu oponente revela a mão dele. Escolha 1 carta que encontrar lá e embaralhe-a no baralho do seu oponente."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Se encontra um ninho de outro Pokémon que acha\nconfortável o bastante, toma-o para si."
+}

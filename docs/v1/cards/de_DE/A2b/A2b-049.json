@@ -1,0 +1,48 @@
+{
+  "language": "de_DE",
+  "id": "A2b-049",
+  "name": "Kryppuk",
+  "localId": "049",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Glänzendes Festival"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2b/A2b-049_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-049_artwork.png",
+  "illustrator": "Shin Nagasawa",
+  "hp": 80,
+  "types": [
+    "Unlicht"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Unlicht"
+      ],
+      "name": "Konfusstrahl",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": "Wirf 1 Münze. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt verwirrt."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Pflanze",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Aufgrund seiner ständigen Untaten wurde es mit\nmysteriösen Künsten an einen Spiritkern gebunden."
+}

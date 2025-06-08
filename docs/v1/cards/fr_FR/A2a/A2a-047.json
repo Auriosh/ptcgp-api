@@ -1,0 +1,63 @@
+{
+  "language": "fr_FR",
+  "id": "A2a-047",
+  "name": "Carchacrok-ex",
+  "localId": "047",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Lumière Triomphale"
+  },
+  "rarity": "Quatre Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2a/A2a-047_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-047_artwork.png",
+  "illustrator": "PLANETA CG Works",
+  "hp": 170,
+  "types": [
+    "Combat"
+  ],
+  "stage": "Niveau 2",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Combat"
+      ],
+      "name": "Attaque Linéaire",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Cette attaque inflige 50 dégâts à l'un des Pokémon de votre adversaire."
+    },
+    {
+      "cost": [
+        "Combat",
+        "Combat",
+        "Incolore"
+      ],
+      "name": "Draco-Griffe",
+      "damage": {
+        "value": 100,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Plante",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": ""
+}

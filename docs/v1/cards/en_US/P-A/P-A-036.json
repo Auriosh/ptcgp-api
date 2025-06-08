@@ -1,0 +1,51 @@
+{
+  "language": "en_US",
+  "id": "P-A-036",
+  "name": "Electivire",
+  "localId": "036",
+  "category": "Pokemon",
+  "set": {
+    "id": "P-A",
+    "name": "Promos-A"
+  },
+  "rarity": "None",
+  "cardImage": "/assets/cardImage/en_US/P-A/P-A-036_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-036_artwork.png",
+  "illustrator": "Sumiyoshi Kizuki",
+  "hp": 120,
+  "types": [
+    "Lightning"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Electabuzz",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lightning",
+        "Lightning"
+      ],
+      "name": "Exciting Voltage",
+      "damage": {
+        "value": 40,
+        "modifier": "+"
+      },
+      "effect": "If this Pokémon has at least 2 extra {L} Energy attached, this attack does 80 more damage."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "The amount of electrical energy this Pokémon produces is proportional to the rate of its pulse. The voltage jumps while Electivire is battling."
+}

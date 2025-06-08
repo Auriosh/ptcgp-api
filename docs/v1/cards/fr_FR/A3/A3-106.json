@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A3-106",
+  "name": "Rattatad'Alola",
+  "localId": "106",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Gardiens Astraux"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A3/A3-106_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-106_artwork.png",
+  "illustrator": "nagimiso",
+  "hp": 50,
+  "types": [
+    "Obscurité"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Obscurité"
+      ],
+      "name": "Morsure",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Plante",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Ce Pokémon difficile n'aime que les produits\nextra-frais. Faites vos emplettes avec lui,\ncar son flair s'avérera très utile !"
+}

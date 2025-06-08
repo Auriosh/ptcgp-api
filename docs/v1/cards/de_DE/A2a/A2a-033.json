@@ -1,0 +1,49 @@
+{
+  "language": "de_DE",
+  "id": "A2a-033",
+  "name": "Gengar",
+  "localId": "033",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Licht des Triumphs"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2a/A2a-033_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-033_artwork.png",
+  "illustrator": "Midori Harada",
+  "hp": 140,
+  "types": [
+    "Psycho"
+  ],
+  "stage": "Rang 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psycho",
+        "Psycho"
+      ],
+      "name": "Hypnoschuss",
+      "damage": {
+        "value": 70,
+        "modifier": null
+      },
+      "effect": "Das Aktive Pokémon deines Gegners ist jetzt schläft."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Unlicht",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Um Beute zu erlegen, versteckt es sich\nin deren Schatten und wartet still auf\neine günstige Gelegenheit."
+}

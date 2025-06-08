@@ -1,0 +1,49 @@
+{
+  "language": "de_DE",
+  "id": "A1a-029",
+  "name": "Voltula",
+  "localId": "029",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "Mysteriöse Insel"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A1a/A1a-029_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-029_artwork.png",
+  "illustrator": "Mitsuhiro Arita",
+  "hp": 80,
+  "types": [
+    "Elektro"
+  ],
+  "stage": "Rang 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Elektro",
+        "Elektro"
+      ],
+      "name": "Elektronetz",
+      "damage": {
+        "value": 70,
+        "modifier": null
+      },
+      "effect": "Während des nächsten Zuges deines Gegners kann sich das Verteidigende Pokémon nicht zurückziehen."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Kampf",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Es schießt elektrisch geladene Haare von seinem\nAbdomen. Wer getroffen wird, ist drei Tage und\nNächte am ganzen Körper gelähmt."
+}

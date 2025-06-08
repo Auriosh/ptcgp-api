@@ -1,0 +1,48 @@
+{
+  "language": "pt_BR",
+  "id": "A2a-056",
+  "name": "Mawile",
+  "localId": "056",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2a",
+    "name": "Luz Triunfante"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A2a/A2a-056_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-056_artwork.png",
+  "illustrator": "tetsuya koizumi",
+  "hp": 70,
+  "types": [
+    "Metal"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Quebrador de Viga Férrea",
+      "damage": {
+        "value": 20,
+        "modifier": "+"
+      },
+      "effect": "Se o Pokémon Ativo do seu oponente for um Pokémon {M}, este ataque causará 30 pontos de dano a mais."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Usa seu rosto dócil para fazer seus inimigos\ncomplacentes e então os morde com suas\nmandíbulas enormes sem dar trégua."
+}

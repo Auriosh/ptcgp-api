@@ -1,0 +1,46 @@
+{
+  "language": "fr_FR",
+  "id": "A3-079",
+  "name": "Rubombelle",
+  "localId": "079",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Gardiens Astraux"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A3/A3-079_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-079_artwork.png",
+  "illustrator": "Megumi Mizutani",
+  "hp": 80,
+  "types": [
+    "Psy"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore"
+      ],
+      "name": "Vent Féérique",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Métal",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [],
+  "description": "Il mélange du nectar et du pollen pour créer\ndes boules qui ont divers effets, selon\nles quantités et les ingrédients utilisés."
+}

@@ -1,0 +1,51 @@
+{
+  "language": "en_US",
+  "id": "A3-043",
+  "name": "Cloyster",
+  "localId": "043",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Celestial Guardians"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A3/A3-043_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-043_artwork.png",
+  "illustrator": "Masakazu Fukuda",
+  "hp": 110,
+  "types": [
+    "Water"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Shellder",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Water",
+        "Water"
+      ],
+      "name": "Guard Press",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Cloyster that live in seas with harsh tidal currents grow large, sharp spikes on their shells."
+}

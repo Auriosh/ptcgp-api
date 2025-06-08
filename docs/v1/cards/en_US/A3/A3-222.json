@@ -1,0 +1,49 @@
+{
+  "language": "en_US",
+  "id": "A3-222",
+  "name": "Gengar",
+  "localId": "222",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Celestial Guardians"
+  },
+  "rarity": "One Shiny",
+  "cardImage": "/assets/cardImage/en_US/A3/A3-222_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-222_artwork.png",
+  "illustrator": "kurumitsu",
+  "hp": 130,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Stage2",
+  "evolveFrom": "Haunter",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psychic"
+      ],
+      "name": "Bother",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": "Your opponent can't use any Supporter cards from their hand during their next turn."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Darkness",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "To steal the life of its target, it slips into the prey's shadow and silently waits for an opportunity."
+}

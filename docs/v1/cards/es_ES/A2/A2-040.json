@@ -1,0 +1,50 @@
+{
+  "language": "es_ES",
+  "id": "A2-040",
+  "name": "Shellos",
+  "localId": "040",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Pugna Espaciotemporal"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A2/A2-040_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-040_artwork.png",
+  "illustrator": "Teeziro",
+  "hp": 70,
+  "types": [
+    "Agua"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Agua",
+        "Incolora"
+      ],
+      "name": "Bofetón Lodo",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Rayo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Antiguamente cargaba con un caparazón al lomo.\nEs un Pokémon estrechamente emparentado\ncon los Shellder y otras especies similares."
+}

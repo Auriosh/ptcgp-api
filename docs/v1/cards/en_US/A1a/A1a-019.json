@@ -1,0 +1,57 @@
+{
+  "language": "en_US",
+  "id": "A1a-019",
+  "name": "Vaporeon",
+  "localId": "019",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1a",
+    "name": "Mythical Island"
+  },
+  "rarity": "Three Diamond",
+  "cardImage": "/assets/cardImage/en_US/A1a/A1a-019_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-019_artwork.png",
+  "illustrator": "LINNE",
+  "hp": 120,
+  "types": [
+    "Water"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Eevee",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Wash Out",
+      "effect": "As often as you like during your turn, you may move a {W} Energy from 1 of your Benched {W} Pokémon to your Active {W} Pokémon."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Water",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Wave Splash",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "It lives close to water. Its long tail is ridged with a fin, which is often mistaken for a mermaid's."
+}

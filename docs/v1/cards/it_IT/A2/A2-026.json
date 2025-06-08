@@ -1,0 +1,51 @@
+{
+  "language": "it_IT",
+  "id": "A2-026",
+  "name": "Magcargo",
+  "localId": "026",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Scontro Spaziotemporale"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2/A2-026_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-026_artwork.png",
+  "illustrator": "Oswaldo KATO",
+  "hp": 120,
+  "types": [
+    "Fuoco"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fuoco",
+        "Incolore"
+      ],
+      "name": "Fiamme Ustionanti",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": "Il Pokémon attivo del tuo avversario viene bruciato."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Acqua",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "A volte intense fiamme partono dal fragile\nguscio e avvolgono tutto il suo corpo."
+}

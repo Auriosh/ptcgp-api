@@ -1,0 +1,27 @@
+{
+  "language": "pt_BR",
+  "id": "A3-152",
+  "name": "Vitória",
+  "localId": "152",
+  "category": "Trainer",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-152_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-152_artwork.png",
+  "illustrator": "Yuu Nishida",
+  "hp": null,
+  "types": [],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [],
+  "weaknesses": [],
+  "rules": [],
+  "retreat": [],
+  "description": ""
+}

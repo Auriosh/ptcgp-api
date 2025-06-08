@@ -1,0 +1,63 @@
+{
+  "language": "de_DE",
+  "id": "A2a-084",
+  "name": "Knakrack-ex",
+  "localId": "084",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Licht des Triumphs"
+  },
+  "rarity": "deux Étoiles",
+  "cardImage": "/assets/cardImage/de_DE/A2a/A2a-084_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-084_artwork.png",
+  "illustrator": "PLANETA CG Works",
+  "hp": 170,
+  "types": [
+    "Kampf"
+  ],
+  "stage": "Rang 2",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Kampf"
+      ],
+      "name": "Linearer Angriff",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Diese Attacke fügt 1 Pokémon deines Gegners 50 Schadenspunkte zu."
+    },
+    {
+      "cost": [
+        "Kampf",
+        "Kampf",
+        "Farblos"
+      ],
+      "name": "Drachenklaue",
+      "damage": {
+        "value": 100,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Pflanze",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": ""
+}

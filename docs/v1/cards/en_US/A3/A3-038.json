@@ -1,0 +1,48 @@
+{
+  "language": "en_US",
+  "id": "A3-038",
+  "name": "Alolan Sandshrew",
+  "localId": "038",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Celestial Guardians"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/en_US/A3/A3-038_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-038_artwork.png",
+  "illustrator": "ryoma uratsuka",
+  "hp": 60,
+  "types": [
+    "Water"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Water"
+      ],
+      "name": "Scratch",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metal",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Life on mountains covered with deep snow has granted this Pokémon a body of ice that's as hard as steel."
+}

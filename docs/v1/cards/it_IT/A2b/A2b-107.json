@@ -1,0 +1,51 @@
+{
+  "language": "it_IT",
+  "id": "A2b-107",
+  "name": "Beedrill-ex",
+  "localId": "107",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Tripudio Splendente"
+  },
+  "rarity": "Deux Chromatique",
+  "cardImage": "/assets/cardImage/it_IT/A2b/A2b-107_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-107_artwork.png",
+  "illustrator": "PLANETA Igarashi",
+  "hp": 170,
+  "types": [
+    "Erba"
+  ],
+  "stage": "Livello 2",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Erba",
+        "Erba"
+      ],
+      "name": "Lancia Devastante",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": "Rimuovi un'Energia a caso dal Pokémon attivo del tuo avversario."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fuoco",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": ""
+}

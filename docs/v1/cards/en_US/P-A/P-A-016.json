@@ -1,0 +1,48 @@
+{
+  "language": "en_US",
+  "id": "P-A-016",
+  "name": "Clefairy",
+  "localId": "016",
+  "category": "Pokemon",
+  "set": {
+    "id": "P-A",
+    "name": "Promos-A"
+  },
+  "rarity": "None",
+  "cardImage": "/assets/cardImage/en_US/P-A/P-A-016_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-016_artwork.png",
+  "illustrator": "Shibuzoh.",
+  "hp": 60,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Psychic"
+      ],
+      "name": "Slap",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metal",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon."
+}

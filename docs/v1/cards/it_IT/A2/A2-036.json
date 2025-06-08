@@ -1,0 +1,49 @@
+{
+  "language": "it_IT",
+  "id": "A2-036",
+  "name": "Prinplup",
+  "localId": "036",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Scontro Spaziotemporale"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2/A2-036_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-036_artwork.png",
+  "illustrator": "Mizue",
+  "hp": 90,
+  "types": [
+    "Acqua"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Acqua",
+        "Incolore"
+      ],
+      "name": "Surf",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lampo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Vive da solo lontano dagli altri. Apparentemente\nogni esemplare crede di essere il più importante."
+}

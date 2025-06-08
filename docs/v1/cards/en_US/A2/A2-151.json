@@ -1,0 +1,27 @@
+{
+  "language": "en_US",
+  "id": "A2-151",
+  "name": "Team Galactic Grunt",
+  "localId": "151",
+  "category": "Trainer",
+  "set": {
+    "id": "A2",
+    "name": "Space-Time Smackdown"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2/A2-151_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-151_artwork.png",
+  "illustrator": "GOSSAN",
+  "hp": null,
+  "types": [],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [],
+  "weaknesses": [],
+  "rules": [],
+  "retreat": [],
+  "description": ""
+}

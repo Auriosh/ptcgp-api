@@ -1,0 +1,58 @@
+{
+  "language": "de_DE",
+  "id": "A3-122",
+  "name": "Solgaleo-ex",
+  "localId": "122",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "Quatre Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-122_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-122_artwork.png",
+  "illustrator": "PLANETA CG Works",
+  "hp": 180,
+  "types": [
+    "Metall"
+  ],
+  "stage": "Rang 2",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Fähigkeit",
+      "name": "Aufstiegspfad",
+      "effect": "Einmal während deines Zuges, wenn sich dieses Pokémon auf deiner Bank befindet, kannst du es gegen dein Aktives Pokémon austauschen."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Metall",
+        "Metall"
+      ],
+      "name": "Solarbrecher",
+      "damage": {
+        "value": 120,
+        "modifier": null
+      },
+      "effect": "Dieses Pokémon fügt auch sich selbst 10 Schadenspunkte zu."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feuer",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": ""
+}

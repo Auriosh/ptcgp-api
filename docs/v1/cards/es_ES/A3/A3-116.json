@@ -1,0 +1,49 @@
+{
+  "language": "es_ES",
+  "id": "A3-116",
+  "name": "Toxapex",
+  "localId": "116",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-116_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-116_artwork.png",
+  "illustrator": "chibi",
+  "hp": 110,
+  "types": [
+    "Oscura"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Oscura"
+      ],
+      "name": "Clavo Cañón",
+      "damage": {
+        "value": 20,
+        "modifier": "x"
+      },
+      "effect": "Lanza 4 monedas. Este ataque hace 20 puntos de daño por cada cara."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lucha",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Vive dentro de la cúpula que forma con las\nextremidades. Usa sus pinchos para sentir el\nflujo de las mareas y analizar sus alrededores."
+}

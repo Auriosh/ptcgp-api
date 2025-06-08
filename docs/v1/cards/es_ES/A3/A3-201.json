@@ -1,0 +1,52 @@
+{
+  "language": "es_ES",
+  "id": "A3-201",
+  "name": "Crabominable ex",
+  "localId": "201",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "deux Étoiles",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-201_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-201_artwork.png",
+  "illustrator": "Miki Tanaka",
+  "hp": 160,
+  "types": [
+    "Agua"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Agua"
+      ],
+      "name": "Aporreo Insaciable",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": "Durante tu próximo turno, el ataque Aporreo Insaciable de este Pokémon hace Insatiable Striking+40 puntos[/Ctrl:NoBreak] de daño."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metálica",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": ""
+}

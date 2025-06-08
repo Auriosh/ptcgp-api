@@ -1,0 +1,49 @@
+{
+  "language": "fr_FR",
+  "id": "A2-115",
+  "name": "Cheniselle",
+  "localId": "115",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Choc Spatio-Temporel"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2/A2-115_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-115_artwork.png",
+  "illustrator": "Kyoko Umemoto",
+  "hp": 110,
+  "types": [
+    "Métal"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Métal",
+        "Métal"
+      ],
+      "name": "Tête de Fer",
+      "damage": {
+        "value": 50,
+        "modifier": "+"
+      },
+      "effect": "Lancez une pièce jusqu'à ce que vous obteniez pile. Cette attaque inflige 30 dégâts supplémentaires pour chaque côté face."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feu",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Son apparence varie selon le lieu d'évolution.\nSon corps est façonné avec les matériaux à disposition."
+}

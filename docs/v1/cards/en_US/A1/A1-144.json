@@ -1,0 +1,50 @@
+{
+  "language": "en_US",
+  "id": "A1-144",
+  "name": "Machoke",
+  "localId": "144",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1",
+    "name": "Genetic Apex"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A1/A1-144_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-144_artwork.png",
+  "illustrator": "match",
+  "hp": 100,
+  "types": [
+    "Fighting"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Machop",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fighting",
+        "Fighting"
+      ],
+      "name": "Strength",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psychic",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Its muscular body is so powerful, it must wear a power-save belt to be able to regulate its motions."
+}

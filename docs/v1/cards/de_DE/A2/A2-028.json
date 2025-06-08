@@ -1,0 +1,48 @@
+{
+  "language": "de_DE",
+  "id": "A2-028",
+  "name": "Panpyro",
+  "localId": "028",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Kollision von Raum und Zeit"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2/A2-028_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-028_artwork.png",
+  "illustrator": "Masakazu Fukuda",
+  "hp": 80,
+  "types": [
+    "Feuer"
+  ],
+  "stage": "Rang 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Feuer"
+      ],
+      "name": "Flammenschlag",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Wasser",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Es kontrolliert die Stärke des Feuers an seinem Schweif\ngeschickt, um Gegner auf idealer Distanz zu halten."
+}

@@ -1,0 +1,51 @@
+{
+  "language": "es_ES",
+  "id": "A1-153",
+  "name": "Marowak ex",
+  "localId": "153",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Genes Formidables"
+  },
+  "rarity": "Quatre Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A1/A1-153_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-153_artwork.png",
+  "illustrator": "PLANETA Mochizuki",
+  "hp": 140,
+  "types": [
+    "Lucha"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lucha",
+        "Lucha"
+      ],
+      "name": "Huesomerang",
+      "damage": {
+        "value": 80,
+        "modifier": "x"
+      },
+      "effect": "Lanza 2 monedas. Este ataque hace 80 puntos de daño por cada cara."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Planta",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": ""
+}

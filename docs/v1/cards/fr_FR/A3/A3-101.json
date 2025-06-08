@@ -1,0 +1,49 @@
+{
+  "language": "fr_FR",
+  "id": "A3-101",
+  "name": "Lougaroc",
+  "localId": "101",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Gardiens Astraux"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A3/A3-101_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-101_artwork.png",
+  "illustrator": "5ban Graphics",
+  "hp": 100,
+  "types": [
+    "Combat"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Combat",
+        "Combat"
+      ],
+      "name": "Crocs de Sang",
+      "damage": {
+        "value": 50,
+        "modifier": "+"
+      },
+      "effect": "S'il reste plus de PV au Pokémon Actif de votre adversaire qu'à ce Pokémon, cette attaque inflige 50 dégâts supplémentaires."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Plante",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Ce Pokémon tranche de sa crinière\nrocheuse quiconque s'approche un peu trop.\nIl désobéit aux ordres qui lui déplaisent."
+}

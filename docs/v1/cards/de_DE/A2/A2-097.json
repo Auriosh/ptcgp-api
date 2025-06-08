@@ -1,0 +1,50 @@
+{
+  "language": "de_DE",
+  "id": "A2-097",
+  "name": "Kramshef",
+  "localId": "097",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Kollision von Raum und Zeit"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2/A2-097_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-097_artwork.png",
+  "illustrator": "Hideki Ishikawa",
+  "hp": 100,
+  "types": [
+    "Unlicht"
+  ],
+  "stage": "Rang 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Unlicht",
+        "Unlicht"
+      ],
+      "name": "Geübter Sturzflug",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Diese Attacke fügt 1 Pokémon deines Gegners 50 Schadenspunkte zu."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Elektro",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Kramshef kennt kein Erbarmen. Man sagt,\neinem untergebenen Kramurx verzeihe es\nniemals einen Fehler."
+}

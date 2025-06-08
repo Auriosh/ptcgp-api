@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "A2a-056",
+  "name": "Mawile",
+  "localId": "056",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Luce Trionfale"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2a/A2a-056_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-056_artwork.png",
+  "illustrator": "tetsuya koizumi",
+  "hp": 70,
+  "types": [
+    "Metallo"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore"
+      ],
+      "name": "Spaccametallo",
+      "damage": {
+        "value": 20,
+        "modifier": "+"
+      },
+      "effect": "Se il Pokémon attivo del tuo avversario è un Pokémon {M}, questo attacco infligge 30 danni in più."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fuoco",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Distrae i nemici con la sua faccia innocente,\nper poi azzannarli con le sue possenti mascelle.\nNon molla la presa a nessun costo."
+}

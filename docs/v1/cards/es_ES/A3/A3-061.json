@@ -1,0 +1,54 @@
+{
+  "language": "es_ES",
+  "id": "A3-061",
+  "name": "Golemde Alola",
+  "localId": "061",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-061_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-061_artwork.png",
+  "illustrator": "kawayoo",
+  "hp": 160,
+  "types": [
+    "Rayo"
+  ],
+  "stage": "Fase 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Rayo",
+        "Rayo",
+        "Incolora",
+        "Incolora"
+      ],
+      "name": "Superelectrocañón",
+      "damage": {
+        "value": 150,
+        "modifier": null
+      },
+      "effect": "Descarta 2 Energías {L} de este Pokémon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lucha",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Es de carácter cascarrabias y obstinado.\nCuando se harta, descarga electricidad por\ntodo el cuerpo y ruge con voz atronadora."
+}

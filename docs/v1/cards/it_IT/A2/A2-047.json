@@ -1,0 +1,49 @@
+{
+  "language": "it_IT",
+  "id": "A2-047",
+  "name": "Rotom Lavaggio",
+  "localId": "047",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Scontro Spaziotemporale"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2/A2-047_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-047_artwork.png",
+  "illustrator": "Saboteri",
+  "hp": 80,
+  "types": [
+    "Acqua"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Acqua"
+      ],
+      "name": "Schizzi d'Onda",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lampo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Ha assunto questa forma entrando in una lavatrice.\nInonda i dintorni per poi annuire soddisfatto."
+}

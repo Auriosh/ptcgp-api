@@ -1,0 +1,46 @@
+{
+  "language": "pt_BR",
+  "id": "A3-078",
+  "name": "Cutiefly",
+  "localId": "078",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiões Celestiais"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/pt_BR/A3/A3-078_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-078_artwork.png",
+  "illustrator": "Hitoshi Ariga",
+  "hp": 30,
+  "types": [
+    "Psychic"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Asa",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metal",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [],
+  "description": "Néctar e pólen são favoritos em seu cardápio.\nEm campos floridos, briga com Butterfree\npor causa de comida."
+}

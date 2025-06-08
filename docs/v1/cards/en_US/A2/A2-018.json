@@ -1,0 +1,50 @@
+{
+  "language": "en_US",
+  "id": "A2-018",
+  "name": "Vespiquen",
+  "localId": "018",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Space-Time Smackdown"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2/A2-018_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-018_artwork.png",
+  "illustrator": "chibi",
+  "hp": 100,
+  "types": [
+    "Grass"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Combee",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Grass",
+        "Grass"
+      ],
+      "name": "Pierce",
+      "damage": {
+        "value": 70,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "It houses its colony in cells in its body and releases various pheromones to make those grubs do its bidding."
+}

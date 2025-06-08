@@ -1,0 +1,50 @@
+{
+  "language": "it_IT",
+  "id": "A2-123",
+  "name": "Garchomp",
+  "localId": "123",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Scontro Spaziotemporale"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2/A2-123_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-123_artwork.png",
+  "illustrator": "Atsushi Furusawa",
+  "hp": 140,
+  "types": [
+    "Drago"
+  ],
+  "stage": "Livello 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Falciata Selvaggia",
+      "effect": "Devi scartare una carta che hai in mano per usare questa abilità. Una sola volta durante il tuo turno, puoi pescare una carta."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Acqua",
+        "Lotta"
+      ],
+      "name": "Dragartigli",
+      "damage": {
+        "value": 100,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Si dice che, quando va a tutta\nvelocità, le sue ali creino lame d'aria\nin grado di abbattere gli alberi vicini."
+}

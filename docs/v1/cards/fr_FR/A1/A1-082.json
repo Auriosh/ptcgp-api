@@ -1,0 +1,51 @@
+{
+  "language": "fr_FR",
+  "id": "A1-082",
+  "name": "Amonistar",
+  "localId": "082",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Puissance Génétique"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A1/A1-082_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-082_artwork.png",
+  "illustrator": "kirisAki",
+  "hp": 140,
+  "types": [
+    "Eau"
+  ],
+  "stage": "Niveau 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Eau",
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Siphon Antique",
+      "damage": {
+        "value": 70,
+        "modifier": null
+      },
+      "effect": "Pendant le prochain tour de votre adversaire, le Pokémon Défenseur ne peut pas attaquer."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Électrique",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Il se serait éteint à cause de la taille et du poids\nimportants de sa coquille, qui le ralentissait\nquand il chassait ses proies."
+}

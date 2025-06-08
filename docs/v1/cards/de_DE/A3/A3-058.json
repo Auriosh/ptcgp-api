@@ -1,0 +1,52 @@
+{
+  "language": "de_DE",
+  "id": "A3-058",
+  "name": "Alola-Raichu-ex",
+  "localId": "058",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "Quatre Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-058_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-058_artwork.png",
+  "illustrator": "PLANETA CG Works",
+  "hp": 140,
+  "types": [
+    "Elektro"
+  ],
+  "stage": "Rang 1",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Farblos",
+        "Farblos",
+        "Farblos"
+      ],
+      "name": "Psychokinese",
+      "damage": {
+        "value": 60,
+        "modifier": "+"
+      },
+      "effect": "Diese Attacke fügt für jede an das Aktive Pokémon deines Gegners angelegte Energie 30 Schadenspunkte mehr zu."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Kampf",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": ""
+}

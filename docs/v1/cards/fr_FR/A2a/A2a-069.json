@@ -1,0 +1,55 @@
+{
+  "language": "fr_FR",
+  "id": "A2a-069",
+  "name": "Shaymin",
+  "localId": "069",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2a",
+    "name": "Lumière Triomphale"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A2a/A2a-069_card.png",
+  "artworkImage": "/assets/artworkImage/A2a/A2a-069_artwork.png",
+  "illustrator": "Mizue",
+  "hp": 70,
+  "types": [
+    "Incolore"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Talent",
+      "name": "Soutien Céleste",
+      "effect": "Tant que ce Pokémon est sur votre Banc, le Coût de Retraite de votre Pokémon de base Actif est diminué de 1."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Battement",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Électrique",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Il peut dissoudre les toxines dans l'air pour transformer\nun désert en un champ de fleurs luxuriantes."
+}

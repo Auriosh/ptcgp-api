@@ -1,0 +1,27 @@
+{
+  "language": "es_ES",
+  "id": "A3-194",
+  "name": "Capitana Nereida",
+  "localId": "194",
+  "category": "Entrenador",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "deux Étoiles",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-194_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-194_artwork.png",
+  "illustrator": "Yuu Nishida",
+  "hp": null,
+  "types": [],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [],
+  "weaknesses": [],
+  "rules": [],
+  "retreat": [],
+  "description": ""
+}

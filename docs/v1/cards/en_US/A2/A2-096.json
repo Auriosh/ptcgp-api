@@ -1,0 +1,48 @@
+{
+  "language": "en_US",
+  "id": "A2-096",
+  "name": "Murkrow",
+  "localId": "096",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2",
+    "name": "Space-Time Smackdown"
+  },
+  "rarity": "One Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2/A2-096_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-096_artwork.png",
+  "illustrator": "Yukiko Baba",
+  "hp": 60,
+  "types": [
+    "Darkness"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Darkness"
+      ],
+      "name": "Peck",
+      "damage": {
+        "value": 20,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Feared and loathed by many, it is believed to bring misfortune to all those who see it at night."
+}

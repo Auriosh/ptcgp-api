@@ -1,0 +1,49 @@
+{
+  "language": "it_IT",
+  "id": "A2-142",
+  "name": "Rotom Vortice",
+  "localId": "142",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Scontro Spaziotemporale"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2/A2-142_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-142_artwork.png",
+  "illustrator": "Masakazu Fukuda",
+  "hp": 80,
+  "types": [
+    "Incolore"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Vortempesta",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Lancia una moneta. Se esce testa, aggiungi il Pokémon attivo del tuo avversario alle carte che ha in mano."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lampo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Ha assunto questa forma entrando in\nun ventilatore. Fa volare via tutto ciò che ha\nintorno per poi gioire compiaciuto del risultato."
+}

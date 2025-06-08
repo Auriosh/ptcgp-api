@@ -1,0 +1,58 @@
+{
+  "language": "fr_FR",
+  "id": "A2-167",
+  "name": "Giratina",
+  "localId": "167",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Choc Spatio-Temporel"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/fr_FR/A2/A2-167_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-167_artwork.png",
+  "illustrator": "Rond",
+  "hp": 120,
+  "types": [
+    "Psy"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Talent",
+      "name": "Lévitation",
+      "effect": "Si de l'Énergie est attachée à ce Pokémon, il n'a aucun Coût de Retraite."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Psy",
+        "Psy",
+        "Incolore"
+      ],
+      "name": "Tir Effrayant",
+      "damage": {
+        "value": 70,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Obscurité",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Il vit dans le Monde Distorsion,\nun monde à l'opposé du nôtre\nqui échappe au sens commun."
+}

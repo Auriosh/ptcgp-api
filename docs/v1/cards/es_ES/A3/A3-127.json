@@ -1,0 +1,45 @@
+{
+  "language": "es_ES",
+  "id": "A3-127",
+  "name": "Kommo-o",
+  "localId": "127",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardianes Celestiales"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A3/A3-127_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-127_artwork.png",
+  "illustrator": "hatachu",
+  "hp": 150,
+  "types": [
+    "Dragón"
+  ],
+  "stage": "Fase 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Rayo",
+        "Lucha"
+      ],
+      "name": "Fragor Escamas",
+      "damage": {
+        "value": 130,
+        "modifier": null
+      },
+      "effect": "Durante el próximo turno de tu rival, los ataques hacen 30+30 puntos[/Ctrl:NoBreak] de daño a este Pokémon."
+    }
+  ],
+  "weaknesses": [],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Al encontrarse con un enemigo, hace sonar las\nescamas de su cola para intimidarlo. Solamente\nlucha contra aquellos que no se acobardan."
+}

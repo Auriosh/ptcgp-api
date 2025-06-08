@@ -1,0 +1,51 @@
+{
+  "language": "it_IT",
+  "id": "A3-107",
+  "name": "Raticatedi Alola",
+  "localId": "107",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Guardiani Astrali"
+  },
+  "rarity": "deux Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A3/A3-107_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-107_artwork.png",
+  "illustrator": "nagimiso",
+  "hp": 110,
+  "types": [
+    "Oscurità"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Oscurità",
+        "Oscurità"
+      ],
+      "name": "Mangiacarte a Tradimento",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": "Scarta una carta Strumento a caso dalla mano del tuo avversario."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Erba",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Molto ingordo di natura, si fa portare il cibo dai Rattata,\naccumulandone nella tana più di quanto riesca a mangiarne."
+}

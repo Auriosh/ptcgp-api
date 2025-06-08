@@ -1,0 +1,54 @@
+{
+  "language": "en_US",
+  "id": "A3a-050",
+  "name": "Aggron",
+  "localId": "050",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3a",
+    "name": "Extradimensional Crisis"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A3a/A3a-050_card.png",
+  "artworkImage": "/assets/artworkImage/A3a/A3a-050_artwork.png",
+  "illustrator": "Satoshi Shirai",
+  "hp": 160,
+  "types": [
+    "Metal"
+  ],
+  "stage": "Stage2",
+  "evolveFrom": "Lairon",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Metal",
+        "Metal",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Giga Impact",
+      "damage": {
+        "value": 150,
+        "modifier": null
+      },
+      "effect": "During your next turn, this Pokémon can't attack."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Aggron has a horn sharp enough to perforate\nthick iron sheets. It brings down its opponents by\nramming into them horn first."
+}

@@ -1,0 +1,49 @@
+{
+  "language": "en_US",
+  "id": "A3-101",
+  "name": "Lycanroc",
+  "localId": "101",
+  "category": "Pokemon",
+  "set": {
+    "id": "A3",
+    "name": "Celestial Guardians"
+  },
+  "rarity": "Three Diamond",
+  "cardImage": "/assets/cardImage/en_US/A3/A3-101_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-101_artwork.png",
+  "illustrator": "5ban Graphics",
+  "hp": 100,
+  "types": [
+    "Fighting"
+  ],
+  "stage": "Stage1",
+  "evolveFrom": "Rockruff",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fighting",
+        "Fighting"
+      ],
+      "name": "Blood Fang",
+      "damage": {
+        "value": 50,
+        "modifier": "+"
+      },
+      "effect": "If your opponent's Active Pokémon has more remaining HP than this Pokémon, this attack does 50 more damage."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Grass",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "This Pokémon uses its rocky mane to slash any who approach. It will even disobey its Trainer if it dislikes the orders it was given."
+}

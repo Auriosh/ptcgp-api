@@ -1,0 +1,51 @@
+{
+  "language": "en_US",
+  "id": "A2b-013",
+  "name": "Paldean Tauros",
+  "localId": "013",
+  "category": "Pokemon",
+  "set": {
+    "id": "A2b",
+    "name": "Shining Revelry"
+  },
+  "rarity": "Two Diamond",
+  "cardImage": "/assets/cardImage/en_US/A2b/A2b-013_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-013_artwork.png",
+  "illustrator": "Minahamu",
+  "hp": 110,
+  "types": [
+    "Fire"
+  ],
+  "stage": "Basic",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fire",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Blaze Tackle",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": "This Pokémon also does 10 damage to itself."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Water",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "When heated by fire energy, its horns can get hotter than 1,800 degrees Fahrenheit. Those gored by them will suffer both wounds and burns."
+}

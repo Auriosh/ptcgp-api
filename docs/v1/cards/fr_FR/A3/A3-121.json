@@ -1,0 +1,48 @@
+{
+  "language": "fr_FR",
+  "id": "A3-121",
+  "name": "Trousselin",
+  "localId": "121",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Gardiens Astraux"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A3/A3-121_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-121_artwork.png",
+  "illustrator": "Shin Nagasawa",
+  "hp": 70,
+  "types": [
+    "Métal"
+  ],
+  "stage": "De base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Métal"
+      ],
+      "name": "Déverrouillage",
+      "damage": {
+        "value": 10,
+        "modifier": null
+      },
+      "effect": "Piochez une carte."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feu",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Dès qu'il a absorbé les ions métalliques d'une clé,\nil s'en débarrasse. Néanmoins, s'il en trouve une\nqui lui plaît, il la gardera pendant des années."
+}

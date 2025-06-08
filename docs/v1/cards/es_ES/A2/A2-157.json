@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A2-157",
+  "name": "Combee",
+  "localId": "157",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Pugna Espaciotemporal"
+  },
+  "rarity": "Une Étoile",
+  "cardImage": "/assets/cardImage/es_ES/A2/A2-157_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-157_artwork.png",
+  "illustrator": "Shibuzoh.",
+  "hp": 50,
+  "types": [
+    "Planta"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolora"
+      ],
+      "name": "Llamar a la Familia",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Pon 1 Pokémon Básico aleatorio de tu baraja en tu Banca."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Guego",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Cuando llega la noche, se juntan unos cien\nCombee y duermen formando una gran colmena."
+}

@@ -1,0 +1,57 @@
+{
+  "language": "fr_FR",
+  "id": "A1a-019",
+  "name": "Aquali",
+  "localId": "019",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "L’Île Fabuleuse"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A1a/A1a-019_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-019_artwork.png",
+  "illustrator": "LINNE",
+  "hp": 120,
+  "types": [
+    "Eau"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Talent",
+      "name": "Surlavage",
+      "effect": "Autant de fois que vous le voulez pendant votre tour, vous pouvez déplacer une Énergie {W} de l'un de vos Pokémon {W} de Banc vers votre Pokémon {W} Actif."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Eau",
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Grosse Vague",
+      "damage": {
+        "value": 60,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Électrique",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Il vit au bord de l'eau. Sa queue semblable à celle\nd'un poisson lui donne l'apparence d'une sirène."
+}

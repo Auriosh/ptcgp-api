@@ -1,0 +1,50 @@
+{
+  "language": "it_IT",
+  "id": "A1a-058",
+  "name": "Pidgeotto",
+  "localId": "058",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "L'Isola Misteriosa"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A1a/A1a-058_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-058_artwork.png",
+  "illustrator": "Taiga Kayama",
+  "hp": 90,
+  "types": [
+    "Incolore"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Incolore",
+        "Incolore",
+        "Incolore"
+      ],
+      "name": "Attacco d'Ala",
+      "damage": {
+        "value": 50,
+        "modifier": null
+      },
+      "effect": ""
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lampo",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Grazie ai potenti artigli può trasportare una preda\ndelle dimensioni di un Exeggcute per oltre 100 km."
+}

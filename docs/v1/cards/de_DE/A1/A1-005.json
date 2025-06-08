@@ -1,0 +1,48 @@
+{
+  "language": "de_DE",
+  "id": "A1-005",
+  "name": "Raupy",
+  "localId": "005",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1",
+    "name": "Unschlagbare Gene"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A1/A1-005_card.png",
+  "artworkImage": "/assets/artworkImage/A1/A1-005_artwork.png",
+  "illustrator": "Miki Tanaka",
+  "hp": 50,
+  "types": [
+    "Pflanze"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Farblos"
+      ],
+      "name": "Freunde finden",
+      "damage": {
+        "value": null,
+        "modifier": null
+      },
+      "effect": "Nimm 1 zufälliges {G}-Pokémon aus deinem Deck auf deine Hand."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feuer",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Als Schutz vor Feinden sondert es einen übel\nriechenden Gestank mit seinen Antennen ab."
+}

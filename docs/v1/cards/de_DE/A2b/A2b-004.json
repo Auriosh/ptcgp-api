@@ -1,0 +1,51 @@
+{
+  "language": "de_DE",
+  "id": "A2b-004",
+  "name": "Pinsir",
+  "localId": "004",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2b",
+    "name": "Glänzendes Festival"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A2b/A2b-004_card.png",
+  "artworkImage": "/assets/artworkImage/A2b/A2b-004_artwork.png",
+  "illustrator": "Satoshi Shirai",
+  "hp": 90,
+  "types": [
+    "Pflanze"
+  ],
+  "stage": "Basis",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Pflanze",
+        "Farblos",
+        "Farblos"
+      ],
+      "name": "Guillotinenrage",
+      "damage": {
+        "value": 50,
+        "modifier": "+"
+      },
+      "effect": "Wirf so lange 1 Münze, bis sie Zahl zeigt. Diese Attacke fügt 40 Schadenspunkte mehr pro Kopf zu."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Feuer",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Der Status eines Pinsirs hängt von seinen Hörnern\nab. Je dicker und stattlicher diese sind, desto\nbeliebter ist es beim anderen Geschlecht."
+}

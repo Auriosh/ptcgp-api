@@ -1,0 +1,55 @@
+{
+  "language": "it_IT",
+  "id": "P-A-044",
+  "name": "Raichu",
+  "localId": "044",
+  "category": "Pokémon",
+  "set": {
+    "id": "P-A",
+    "name": "Promo-A"
+  },
+  "rarity": "Nessuna",
+  "cardImage": "/assets/cardImage/it_IT/P-A/P-A-044_card.png",
+  "artworkImage": "/assets/artworkImage/P-A/P-A-044_artwork.png",
+  "illustrator": "Kazumasa Yasukuni",
+  "hp": 90,
+  "types": [
+    "Lampo"
+  ],
+  "stage": "Livello 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Tenacia Simbiotica",
+      "effect": "Se hai in gioco Arceus o Arceus-ex, questo Pokémon subisce -30 danni dagli attacchi."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Lampo",
+        "Lampo"
+      ],
+      "name": "Scintilla",
+      "damage": {
+        "value": 40,
+        "modifier": null
+      },
+      "effect": "Questo attacco infligge anche 20 danni a uno dei Pokémon nella panchina del tuo avversario."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lotta",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "La sua coda scarica elettricità a terra,\nproteggendolo dalle scosse elettriche."
+}

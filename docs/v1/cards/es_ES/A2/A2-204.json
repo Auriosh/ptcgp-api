@@ -1,0 +1,65 @@
+{
+  "language": "es_ES",
+  "id": "A2-204",
+  "name": "Palkia ex",
+  "localId": "204",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Pugna Espaciotemporal"
+  },
+  "rarity": "Trois Étoiles",
+  "cardImage": "/assets/cardImage/es_ES/A2/A2-204_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-204_artwork.png",
+  "illustrator": "N-DESIGN Inc.",
+  "hp": 150,
+  "types": [
+    "Agua"
+  ],
+  "stage": "Basico",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Agua"
+      ],
+      "name": "Cuchillada",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": ""
+    },
+    {
+      "cost": [
+        "Agua",
+        "Agua",
+        "Agua",
+        "Incolora"
+      ],
+      "name": "Tormenta Dimensional",
+      "damage": {
+        "value": 150,
+        "modifier": null
+      },
+      "effect": "Descarta 3 Energías {W} de este Pokémon. Este ataque también hace 20 puntos de daño a cada uno de los Pokémon en Banca de tu rival."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Rayo",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": ""
+}

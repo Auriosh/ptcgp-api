@@ -1,0 +1,45 @@
+{
+  "language": "de_DE",
+  "id": "A3-127",
+  "name": "Grandiras",
+  "localId": "127",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Hüter des Firmaments"
+  },
+  "rarity": "Trois Diamant",
+  "cardImage": "/assets/cardImage/de_DE/A3/A3-127_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-127_artwork.png",
+  "illustrator": "hatachu",
+  "hp": 150,
+  "types": [
+    "Drache"
+  ],
+  "stage": "Rang 2",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Elektro",
+        "Kampf"
+      ],
+      "name": "Schuppenrasseln",
+      "damage": {
+        "value": 130,
+        "modifier": null
+      },
+      "effect": "Während des nächsten Zuges deines Gegners werden diesem Pokémon durch Attacken + 30 Schadenspunkte zugefügt."
+    }
+  ],
+  "weaknesses": [],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "Trifft es auf einen Gegner, rasselt es drohend mit\nseinen Schwanzschuppen. Nur wenn dieser davon\nunbeeindruckt bleibt, kämpft es mit ihm."
+}

@@ -1,0 +1,48 @@
+{
+  "language": "es_ES",
+  "id": "A1a-016",
+  "name": "Salazzle",
+  "localId": "016",
+  "category": "Pokémon",
+  "set": {
+    "id": "A1a",
+    "name": "La Isla Singular"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/es_ES/A1a/A1a-016_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-016_artwork.png",
+  "illustrator": "Mitsuhiro Arita",
+  "hp": 80,
+  "types": [
+    "Guego"
+  ],
+  "stage": "Fase 1",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Guego"
+      ],
+      "name": "Garras Venenosas",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": "El Pokémon Activo de tu rival pasa a estar Envenenado."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Agua",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Convierte a sus rivales en devotos súbditos\ntras marearlos con su gas venenoso y seducirlos\ncon los cautivadores movimientos de su cuerpo."
+}

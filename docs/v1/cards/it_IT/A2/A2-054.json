@@ -1,0 +1,48 @@
+{
+  "language": "it_IT",
+  "id": "A2-054",
+  "name": "Voltorb",
+  "localId": "054",
+  "category": "Pokémon",
+  "set": {
+    "id": "A2",
+    "name": "Scontro Spaziotemporale"
+  },
+  "rarity": "Une Diamant",
+  "cardImage": "/assets/cardImage/it_IT/A2/A2-054_card.png",
+  "artworkImage": "/assets/artworkImage/A2/A2-054_artwork.png",
+  "illustrator": "Midori Harada",
+  "hp": 60,
+  "types": [
+    "Lampo"
+  ],
+  "stage": "Base",
+  "evolveFrom": null,
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Lampo"
+      ],
+      "name": "Grande Esplosione",
+      "damage": {
+        "value": 30,
+        "modifier": null
+      },
+      "effect": "Questo Pokémon infligge anche 10 danni a se stesso."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lotta",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless"
+  ],
+  "description": "Rotola per spostarsi. Se il terreno è\nirregolare, può esplodere all'improvviso\na causa dell'urto contro un dosso."
+}

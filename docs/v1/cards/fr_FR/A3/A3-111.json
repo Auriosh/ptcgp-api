@@ -1,0 +1,54 @@
+{
+  "language": "fr_FR",
+  "id": "A3-111",
+  "name": "Grotadmorvd'Alola-ex",
+  "localId": "111",
+  "category": "Pokémon",
+  "set": {
+    "id": "A3",
+    "name": "Gardiens Astraux"
+  },
+  "rarity": "Quatre Diamant",
+  "cardImage": "/assets/cardImage/fr_FR/A3/A3-111_card.png",
+  "artworkImage": "/assets/artworkImage/A3/A3-111_artwork.png",
+  "illustrator": "PLANETA CG Works",
+  "hp": 160,
+  "types": [
+    "Obscurité"
+  ],
+  "stage": "Niveau 1",
+  "evolveFrom": null,
+  "isEx": true,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Obscurité",
+        "Obscurité",
+        "Incolore"
+      ],
+      "name": "Panique Chimique",
+      "damage": {
+        "value": 80,
+        "modifier": null
+      },
+      "effect": "Le Pokémon Actif de votre adversaire est maintenant affecté par un État Spécial choisi au hasard parmi Endormi, Brûlé, Confus, Paralysé et Empoisonné. Tout État Spécial qui affecte déjà ce Pokémon ne sera pas choisi."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Combat",
+      "value": "+20"
+    }
+  ],
+  "rules": [
+    "Quando um Pokémon-ex é Nocauteado, seu oponente pega 2 pontos."
+  ],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": ""
+}

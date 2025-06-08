@@ -1,0 +1,53 @@
+{
+  "language": "en_US",
+  "id": "A1a-045",
+  "name": "Golem",
+  "localId": "045",
+  "category": "Pokemon",
+  "set": {
+    "id": "A1a",
+    "name": "Mythical Island"
+  },
+  "rarity": "Three Diamond",
+  "cardImage": "/assets/cardImage/en_US/A1a/A1a-045_card.png",
+  "artworkImage": "/assets/artworkImage/A1a/A1a-045_artwork.png",
+  "illustrator": "Masakazu Fukuda",
+  "hp": 160,
+  "types": [
+    "Fighting"
+  ],
+  "stage": "Stage2",
+  "evolveFrom": "Graveler",
+  "isEx": false,
+  "isUltraBeast": false,
+  "abilities": [],
+  "attacks": [
+    {
+      "cost": [
+        "Fighting",
+        "Fighting",
+        "Fighting",
+        "Colorless"
+      ],
+      "name": "Guard Press",
+      "damage": {
+        "value": 120,
+        "modifier": null
+      },
+      "effect": "During your opponent's next turn, this Pokémon takes −30 damage from attacks."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Grass",
+      "value": "+20"
+    }
+  ],
+  "rules": [],
+  "retreat": [
+    "Colorless",
+    "Colorless",
+    "Colorless"
+  ],
+  "description": "When Golem grow old, they stop shedding their shells. Those that have lived a long, long time have shells green with moss."
+}
