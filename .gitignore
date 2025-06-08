@@ -1,0 +1,17 @@
+# Ficheiros e pastas de ambiente Python
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+
+# Ficheiros gerados pelo sistema operacional
+.DS_Store
+Thumbs.db
+
+# Pasta de API gerada (IMPORTANTE)
+# A branch 'main' deve conter apenas o código-fonte, não o resultado do build.
+# O GitHub Action publicará o conteúdo de 'docs' numa branch separada ('gh-pages')
+# ou, se preferir, fará o commit de volta na 'main', mas é bom ignorar localmente.
+/docs/
+
