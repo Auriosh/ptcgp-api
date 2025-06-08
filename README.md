@@ -20,7 +20,7 @@ Para uma forma fácil de explorar visualmente todos os dados, coleções e carta
 Todos os endpoints partilham o mesmo URL base, que aponta para os ficheiros gerados e hospedados através do GitHub Pages.
 
 ```
-[https://Auriosh.github.io/ptcgp-api/v1](https://Auriosh.github.io/ptcgp-api/v1)
+**[https://Auriosh.github.io/ptcgp-api/v1](https://Auriosh.github.io/ptcgp-api/v1)**
 ```
 
 ---
