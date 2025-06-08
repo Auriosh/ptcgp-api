@@ -1,0 +1,482 @@
+[
+  {
+    "id": "A2a-001",
+    "name": "Scarhino",
+    "localId": "001"
+  },
+  {
+    "id": "A2a-002",
+    "name": "Cheniti",
+    "localId": "002"
+  },
+  {
+    "id": "A2a-003",
+    "name": "Papilord",
+    "localId": "003"
+  },
+  {
+    "id": "A2a-004",
+    "name": "Apitrini",
+    "localId": "004"
+  },
+  {
+    "id": "A2a-005",
+    "name": "Apireine",
+    "localId": "005"
+  },
+  {
+    "id": "A2a-006",
+    "name": "Ceribou",
+    "localId": "006"
+  },
+  {
+    "id": "A2a-007",
+    "name": "Ceriflor",
+    "localId": "007"
+  },
+  {
+    "id": "A2a-008",
+    "name": "Ceriflor",
+    "localId": "008"
+  },
+  {
+    "id": "A2a-009",
+    "name": "Vortente",
+    "localId": "009"
+  },
+  {
+    "id": "A2a-010",
+    "name": "Phyllali-ex",
+    "localId": "010"
+  },
+  {
+    "id": "A2a-011",
+    "name": "Malosse",
+    "localId": "011"
+  },
+  {
+    "id": "A2a-012",
+    "name": "Démolosse",
+    "localId": "012"
+  },
+  {
+    "id": "A2a-013",
+    "name": "Heatran",
+    "localId": "013"
+  },
+  {
+    "id": "A2a-014",
+    "name": "Marill",
+    "localId": "014"
+  },
+  {
+    "id": "A2a-015",
+    "name": "Azumarill",
+    "localId": "015"
+  },
+  {
+    "id": "A2a-016",
+    "name": "Barloche",
+    "localId": "016"
+  },
+  {
+    "id": "A2a-017",
+    "name": "Barbicha",
+    "localId": "017"
+  },
+  {
+    "id": "A2a-018",
+    "name": "Stalgamin",
+    "localId": "018"
+  },
+  {
+    "id": "A2a-019",
+    "name": "Momartik",
+    "localId": "019"
+  },
+  {
+    "id": "A2a-020",
+    "name": "Blizzi",
+    "localId": "020"
+  },
+  {
+    "id": "A2a-021",
+    "name": "Blizzaroi",
+    "localId": "021"
+  },
+  {
+    "id": "A2a-022",
+    "name": "Givrali-ex",
+    "localId": "022"
+  },
+  {
+    "id": "A2a-023",
+    "name": "PalkiaForme Originelle",
+    "localId": "023"
+  },
+  {
+    "id": "A2a-024",
+    "name": "Phione",
+    "localId": "024"
+  },
+  {
+    "id": "A2a-025",
+    "name": "Pikachu",
+    "localId": "025"
+  },
+  {
+    "id": "A2a-026",
+    "name": "Raichu",
+    "localId": "026"
+  },
+  {
+    "id": "A2a-027",
+    "name": "Dynavolt",
+    "localId": "027"
+  },
+  {
+    "id": "A2a-028",
+    "name": "Élecsprint",
+    "localId": "028"
+  },
+  {
+    "id": "A2a-029",
+    "name": "Mélofée",
+    "localId": "029"
+  },
+  {
+    "id": "A2a-030",
+    "name": "Mélodelfe",
+    "localId": "030"
+  },
+  {
+    "id": "A2a-031",
+    "name": "Fantominus",
+    "localId": "031"
+  },
+  {
+    "id": "A2a-032",
+    "name": "Spectrum",
+    "localId": "032"
+  },
+  {
+    "id": "A2a-033",
+    "name": "Ectoplasma",
+    "localId": "033"
+  },
+  {
+    "id": "A2a-034",
+    "name": "Zarbi",
+    "localId": "034"
+  },
+  {
+    "id": "A2a-035",
+    "name": "Motisma",
+    "localId": "035"
+  },
+  {
+    "id": "A2a-036",
+    "name": "Simularbre",
+    "localId": "036"
+  },
+  {
+    "id": "A2a-037",
+    "name": "Phanpy",
+    "localId": "037"
+  },
+  {
+    "id": "A2a-038",
+    "name": "Donphan",
+    "localId": "038"
+  },
+  {
+    "id": "A2a-039",
+    "name": "Embrylex",
+    "localId": "039"
+  },
+  {
+    "id": "A2a-040",
+    "name": "Ymphect",
+    "localId": "040"
+  },
+  {
+    "id": "A2a-041",
+    "name": "Tyranocif",
+    "localId": "041"
+  },
+  {
+    "id": "A2a-042",
+    "name": "Tarinor",
+    "localId": "042"
+  },
+  {
+    "id": "A2a-043",
+    "name": "Méditikka",
+    "localId": "043"
+  },
+  {
+    "id": "A2a-044",
+    "name": "Charmina",
+    "localId": "044"
+  },
+  {
+    "id": "A2a-045",
+    "name": "Griknot",
+    "localId": "045"
+  },
+  {
+    "id": "A2a-046",
+    "name": "Carmache",
+    "localId": "046"
+  },
+  {
+    "id": "A2a-047",
+    "name": "Carchacrok-ex",
+    "localId": "047"
+  },
+  {
+    "id": "A2a-048",
+    "name": "Nosferapti",
+    "localId": "048"
+  },
+  {
+    "id": "A2a-049",
+    "name": "Nosferalto",
+    "localId": "049"
+  },
+  {
+    "id": "A2a-050",
+    "name": "Nostenfer",
+    "localId": "050"
+  },
+  {
+    "id": "A2a-051",
+    "name": "Cradopaud",
+    "localId": "051"
+  },
+  {
+    "id": "A2a-052",
+    "name": "Coatox",
+    "localId": "052"
+  },
+  {
+    "id": "A2a-053",
+    "name": "Magnéti",
+    "localId": "053"
+  },
+  {
+    "id": "A2a-054",
+    "name": "Magnéton",
+    "localId": "054"
+  },
+  {
+    "id": "A2a-055",
+    "name": "Magnézone",
+    "localId": "055"
+  },
+  {
+    "id": "A2a-056",
+    "name": "Mysdibule",
+    "localId": "056"
+  },
+  {
+    "id": "A2a-057",
+    "name": "Tarinorme-ex",
+    "localId": "057"
+  },
+  {
+    "id": "A2a-058",
+    "name": "Archéomire",
+    "localId": "058"
+  },
+  {
+    "id": "A2a-059",
+    "name": "Archéodong",
+    "localId": "059"
+  },
+  {
+    "id": "A2a-060",
+    "name": "DialgaForme Originelle",
+    "localId": "060"
+  },
+  {
+    "id": "A2a-061",
+    "name": "Giratina",
+    "localId": "061"
+  },
+  {
+    "id": "A2a-062",
+    "name": "Évoli",
+    "localId": "062"
+  },
+  {
+    "id": "A2a-063",
+    "name": "Ronflex",
+    "localId": "063"
+  },
+  {
+    "id": "A2a-064",
+    "name": "Hoothoot",
+    "localId": "064"
+  },
+  {
+    "id": "A2a-065",
+    "name": "Noarfang",
+    "localId": "065"
+  },
+  {
+    "id": "A2a-066",
+    "name": "Étourmi",
+    "localId": "066"
+  },
+  {
+    "id": "A2a-067",
+    "name": "Étourvol",
+    "localId": "067"
+  },
+  {
+    "id": "A2a-068",
+    "name": "Étouraptor",
+    "localId": "068"
+  },
+  {
+    "id": "A2a-069",
+    "name": "Shaymin",
+    "localId": "069"
+  },
+  {
+    "id": "A2a-070",
+    "name": "Arceus",
+    "localId": "070"
+  },
+  {
+    "id": "A2a-071",
+    "name": "Arceus-ex",
+    "localId": "071"
+  },
+  {
+    "id": "A2a-072",
+    "name": "Nacchara",
+    "localId": "072"
+  },
+  {
+    "id": "A2a-073",
+    "name": "Doyenne de Célestia",
+    "localId": "073"
+  },
+  {
+    "id": "A2a-074",
+    "name": "René",
+    "localId": "074"
+  },
+  {
+    "id": "A2a-075",
+    "name": "Adamantin",
+    "localId": "075"
+  },
+  {
+    "id": "A2a-076",
+    "name": "Démolosse",
+    "localId": "076"
+  },
+  {
+    "id": "A2a-077",
+    "name": "Marill",
+    "localId": "077"
+  },
+  {
+    "id": "A2a-078",
+    "name": "Zarbi",
+    "localId": "078"
+  },
+  {
+    "id": "A2a-079",
+    "name": "Simularbre",
+    "localId": "079"
+  },
+  {
+    "id": "A2a-080",
+    "name": "Magnéti",
+    "localId": "080"
+  },
+  {
+    "id": "A2a-081",
+    "name": "Shaymin",
+    "localId": "081"
+  },
+  {
+    "id": "A2a-082",
+    "name": "Phyllali-ex",
+    "localId": "082"
+  },
+  {
+    "id": "A2a-083",
+    "name": "Givrali-ex",
+    "localId": "083"
+  },
+  {
+    "id": "A2a-084",
+    "name": "Carchacrok-ex",
+    "localId": "084"
+  },
+  {
+    "id": "A2a-085",
+    "name": "Tarinorme-ex",
+    "localId": "085"
+  },
+  {
+    "id": "A2a-086",
+    "name": "Arceus-ex",
+    "localId": "086"
+  },
+  {
+    "id": "A2a-087",
+    "name": "Nacchara",
+    "localId": "087"
+  },
+  {
+    "id": "A2a-088",
+    "name": "Doyenne de Célestia",
+    "localId": "088"
+  },
+  {
+    "id": "A2a-089",
+    "name": "René",
+    "localId": "089"
+  },
+  {
+    "id": "A2a-090",
+    "name": "Adamantin",
+    "localId": "090"
+  },
+  {
+    "id": "A2a-091",
+    "name": "Phyllali-ex",
+    "localId": "091"
+  },
+  {
+    "id": "A2a-092",
+    "name": "Givrali-ex",
+    "localId": "092"
+  },
+  {
+    "id": "A2a-093",
+    "name": "Carchacrok-ex",
+    "localId": "093"
+  },
+  {
+    "id": "A2a-094",
+    "name": "Tarinorme-ex",
+    "localId": "094"
+  },
+  {
+    "id": "A2a-095",
+    "name": "Arceus-ex",
+    "localId": "095"
+  },
+  {
+    "id": "A2a-096",
+    "name": "Arceus-ex",
+    "localId": "096"
+  }
+]
