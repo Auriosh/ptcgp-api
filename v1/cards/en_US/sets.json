@@ -1,13 +1,13 @@
 [
   {
-    "id": "P-A",
-    "name": "Promos-A",
-    "logo": "/assets/logoImage/en_US/logo_P-A_en_US.png"
-  },
-  {
     "id": "A1",
     "name": "Genetic Apex",
     "logo": "/assets/logoImage/en_US/logo_A1_en_US.png"
+  },
+  {
+    "id": "P-A",
+    "name": "Promos-A",
+    "logo": "/assets/logoImage/en_US/logo_P-A_en_US.png"
   },
   {
     "id": "A1a",

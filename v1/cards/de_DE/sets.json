@@ -1,13 +1,13 @@
 [
   {
-    "id": "P-A",
-    "name": "PROMO-A",
-    "logo": "/assets/logoImage/de_DE/logo_P-A_de_DE.png"
-  },
-  {
     "id": "A1",
     "name": "Unschlagbare Gene",
     "logo": "/assets/logoImage/de_DE/logo_A1_de_DE.png"
+  },
+  {
+    "id": "P-A",
+    "name": "PROMO-A",
+    "logo": "/assets/logoImage/de_DE/logo_P-A_de_DE.png"
   },
   {
     "id": "A1a",

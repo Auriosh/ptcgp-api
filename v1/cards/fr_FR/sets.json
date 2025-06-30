@@ -1,13 +1,13 @@
 [
   {
-    "id": "P-A",
-    "name": "Promo-A",
-    "logo": "/assets/logoImage/fr_FR/logo_P-A_fr_FR.png"
-  },
-  {
     "id": "A1",
     "name": "Puissance Génétique",
     "logo": "/assets/logoImage/fr_FR/logo_A1_fr_FR.png"
+  },
+  {
+    "id": "P-A",
+    "name": "Promo-A",
+    "logo": "/assets/logoImage/fr_FR/logo_P-A_fr_FR.png"
   },
   {
     "id": "A1a",

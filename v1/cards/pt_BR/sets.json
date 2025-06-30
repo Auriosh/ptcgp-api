@@ -1,13 +1,13 @@
 [
   {
-    "id": "P-A",
-    "name": "Promo-A",
-    "logo": "/assets/logoImage/pt_BR/logo_P-A_pt_BR.png"
-  },
-  {
     "id": "A1",
     "name": "Dominação Genética",
     "logo": "/assets/logoImage/pt_BR/logo_A1_pt_BR.png"
+  },
+  {
+    "id": "P-A",
+    "name": "Promo-A",
+    "logo": "/assets/logoImage/pt_BR/logo_P-A_pt_BR.png"
   },
   {
     "id": "A1a",

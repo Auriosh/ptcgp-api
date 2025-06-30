@@ -1,13 +1,13 @@
 [
   {
-    "id": "P-A",
-    "name": "Promo-A",
-    "logo": "/assets/logoImage/es_ES/logo_P-A_es_ES.png"
-  },
-  {
     "id": "A1",
     "name": "Genes Formidables",
     "logo": "/assets/logoImage/es_ES/logo_A1_es_ES.png"
+  },
+  {
+    "id": "P-A",
+    "name": "Promo-A",
+    "logo": "/assets/logoImage/es_ES/logo_P-A_es_ES.png"
   },
   {
     "id": "A1a",

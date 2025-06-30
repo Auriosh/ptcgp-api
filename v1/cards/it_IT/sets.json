@@ -1,13 +1,13 @@
 [
   {
-    "id": "P-A",
-    "name": "Promo-A",
-    "logo": "/assets/logoImage/it_IT/logo_P-A_it_IT.png"
-  },
-  {
     "id": "A1",
     "name": "Geni Supremi",
     "logo": "/assets/logoImage/it_IT/logo_A1_it_IT.png"
+  },
+  {
+    "id": "P-A",
+    "name": "Promo-A",
+    "logo": "/assets/logoImage/it_IT/logo_P-A_it_IT.png"
   },
   {
     "id": "A1a",
